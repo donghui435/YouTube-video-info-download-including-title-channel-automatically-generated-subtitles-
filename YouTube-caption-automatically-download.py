@@ -5,7 +5,6 @@ import pysrt
 import os.path
 
 ID = pd.read_csv('Sampledata.csv')
-
 ID_list = ID['Video_ID'].tolist()
 
 # You can adjust your files output path 
