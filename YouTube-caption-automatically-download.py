@@ -8,11 +8,13 @@ ID = pd.read_csv('Sampledata.csv')
 
 ID_list = ID['Video_ID'].tolist()
 
-txt_save_path = 'C:/Users/User/Captions_download'
+# You can adjust your files output path 
+txt_save_path = 'C:/Users/User/Captions_download' 
 
 for ID in ID_list:
     try: 
-        caption = YouTubeTranscriptApi.get_transcript(video_id=ID, languages=['en'])
+        # I'm using all english video IDs right here in the data set, if you want to other language videos, you can change the language
+        caption = YouTubeTranscriptApi.get_transcript(video_id=ID, languages=['en']) 
         caption1 = [i['text'] for i in caption]
         caption_new = ''.join(caption1)
         file_name = os.path.join(txt_save_path, ID + '.txt')
