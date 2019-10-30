@@ -1,7 +1,5 @@
 import pandas as pd
-import numpy as np
 from youtube_transcript_api import YouTubeTranscriptApi
-import pysrt
 import os.path
 
 ID = pd.read_csv('Sampledata.csv')
