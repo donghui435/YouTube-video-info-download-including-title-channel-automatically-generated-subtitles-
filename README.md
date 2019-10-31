@@ -1,8 +1,10 @@
-# YouTube video info download(including title/channel/autogmatically generated subtitles)
+# YouTube video info download (including title/channel/autogmatically generated subtitles)
+
+This repo does..... 
 
 ## Install 
 
-the subtitles download is using youtube-transcript-api function from jdepoix, link is below including the install requirement
+The subtitles download is using youtube-transcript-api function from jdepoix, link is below including the install requirement
 
 https://github.com/jdepoix/youtube-transcript-api
 
