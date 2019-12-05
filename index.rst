@@ -12,3 +12,5 @@ The code is using data format of YouTube video ID which is a single column attri
 It will output the sustitle in txt format for each video, and if the video has no subtitle, the output will be null + the video ID
 
 ## Video info part
+
+QQQQ
