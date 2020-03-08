@@ -26,6 +26,7 @@ with open("VideoID.txt", "rb") as fp:   # Unpickling
 txt_save_path = 'E:/UQ/DATA7901/Project/subtitles' ##set your own path
 
 ### some videos doesn't have any subtitles and will be labeled as Null+videoID
+### Output is stored in Data/Caption
 for ID in ID_list:
     try: 
         caption = YouTubeTranscriptApi.get_transcript(video_id=ID, languages=['en'])
