@@ -1,0 +1,114 @@
+The mathematics we learn in school doesn’t
+quite do the field of mathematics justice. We only get a glimpse at one corner of it,
+but the mathematics as a whole is a huge and wonderfully diverse subject. My aim with this video is to show you all
+that amazing stuff. We’ll start back at the very beginning. The origin of mathematics lies in counting. In fact counting is not just a human trait,
+other animals are able to count as well and e vidence for human counting goes back to
+prehistoric times with check marks made in bones. There were several innovations over the years
+with the Egyptians having the first equation, the ancient Greeks made strides in many areas
+like geometry and numerology, and negative numbers were invented in China. And zero as a number was first used in India. Then in the Golden Age of Islam Persian mathematicians
+made further strides and the first book on algebra was written. Then mathematics boomed in the renaissance
+along with the sciences. Now there is a lot more to the history of
+mathematics then what I have just said, but I’m gonna jump to the modern age and mathematics
+as we know it now. Modern mathematics can be broadly be broken
+down into two areas, pure maths: the study of mathematics for its own sake, and applied
+maths: when you develop mathematics to help solve some real world problem. But there is a lot of crossover. In fact, many times in history someone’s
+gone off into the mathematical wilderness motivated purely by curiosity and kind of
+guided by a sense of aesthetics. And then they have created a whole bunch of
+new mathematics which was nice and interesting but doesn’t really do anything useful. But then, say a hundred hears later, someone
+will be working on some problem at the cutting edge of physics or computer science and they’ll
+discover that this old theory in pure maths is exactly what they need to solve their real
+world problems! Which is amazing, I think! And this kind of thing has happened so many
+times over the last few centuries. It is interesting how often something so abstract
+ends up being really useful. But I should also mention, pure mathematics
+on its own is still a very valuable thing to do because it can be fascinating and on
+its own can have a real beauty and elegance that almost becomes like art. Okay enough of this highfalutin, lets get
+into it. Pure maths is made of several sections. The study of numbers starts with the natural
+numbers and what you can do with them with arithmetic operations. And then it looks at other kinds of numbers
+like integers, which contain negative numbers, rational numbers like fractions, real numbers
+which include numbers like pi which go off to infinite decimal points, and then complex
+numbers and a whole bunch of others. Some numbers have interesting properties like
+Prime Numbers, or pi or the exponential. There are also properties of these number
+systems, for example, even though there is an infinite amount of both integers and real
+numbers, there are more real numbers than integers. So some infinities are bigger than others. The study of structures is where you start
+taking numbers and putting them into equations in the form of variables. Algebra contains the rules of how you then
+manipulate these equations. Here you will also find vectors and matrices
+which are multi-dimensional numbers, and the rules of how they relate to each other are
+captured in linear algebra. Number theory studies the features of everything
+in the last section on numbers like the properties of prime numbers. Combinatorics looks at the properties of certain
+structures like trees, graphs, and other things that are made of discreet chunks that you
+can count. Group theory looks at objects that are related
+to each other in, well, groups. A familiar example is a Rubik’s cube which
+is an example of a permutation group. And order theory investigates how to arrange
+objects following certain rules like, how something is a larger quantity than something
+else. The natural numbers are an example of an ordered
+set of objects, but anything with any two way relationship can be ordered. Another part of pure mathematics looks at
+shapes and how they behave in spaces. The origin is in geometry which includes Pythagoras,
+and is close to trigonometry, which we are all familiar with form school. Also there are fun things like fractal geometry
+which are mathematical patterns which are scale invariant, which means you can zoom
+into them forever and the always look kind of the same. Topology looks at different properties of
+spaces where you are allowed to continuously deform them but not tear or glue them. For example a Möbius strip has only one surface
+and one edge whatever you do to it. And coffee cups and donuts are the same thing
+- topologically speaking. Measure theory is a way to assign values to
+spaces or sets tying together numbers and spaces. And finally, differential geometry looks the
+properties of shapes on curved surfaces, for example triangles have got different angles
+on a curved surface, and brings us to the next section, which is changes. The study of changes contains calculus which
+involves integrals and differentials which looks at area spanned out by functions or
+the behaviour of gradients of functions. And vector calculus looks at the same things
+for vectors. Here we also find a bunch of other areas like
+dynamical systems which looks at systems that evolve in time from one state to another,
+like fluid flows or things with feedback loops like ecosystems. And chaos theory which studies dynamical systems
+that are very sensitive to initial conditions. Finally complex analysis looks at the properties
+of functions with complex numbers. This brings us to applied mathematics. At this point it is worth mentioning that
+everything here is a lot more interrelated than I have drawn. In reality this map should look like more
+of a web tying together all the different subjects but you can only do so much on a
+two dimensional plane so I have laid them out as best I can. Okay we’ll start with physics, which uses
+just about everything on the left hand side to some degree. Mathematical and theoretical physics has a
+very close relationship with pure maths. Mathematics is also used in the other natural
+sciences with mathematical chemistry and biomathematics which look at loads of stuff from modelling
+molecules to evolutionary biology. Mathematics is also used extensively in engineering,
+building things has taken a lot of maths since Egyptian and Babylonian times. Very complex electrical systems like aeroplanes
+or the power grid use methods in dynamical systems called control theory. Numerical analysis is a mathematical tool
+commonly used in places where the mathematics becomes too complex to solve completely. So instead you use lots of simple approximations
+and combine them all together to get good approximate answers. For example if you put a circle inside a square,
+throw darts at it, and then compare the number of darts in the circle and square portions,
+you can approximate the value of pi. But in the real world numerical analysis is
+done on huge computers. Game theory looks at what the best choices
+are given a set of rules and rational players and it’s used in economics when the players
+can be intelligent, but not always, and other areas like psychology, and biology. Probability is the study of random events
+like coin tosses or dice or humans, and statistics is the study of large collections of random
+processes or the organisation and analysis of data. This is obviously related to mathematical
+finance, where you want model financial systems and get an edge to win all those fat stacks. Related to this is optimisation, where you
+are trying to calculate the best choice amongst a set of many different options or constraints,
+which you can normally visualise as trying to find the highest or lowest point of a function. Optimisation problems are second nature to
+us humans, we do them all the time: trying to get the best value for money, or trying
+to maximise our happiness in some way. Another area that is very deeply related to
+pure mathematics is computer science, and the rules of computer science were actually
+derived in pure maths and is another example of something that was worked out way before
+programmable computers were built. Machine learning: the creation of intelligent
+computer systems uses many areas in mathematics like linear algebra, optimisation, dynamical
+systems and probability. And finally the theory of cryptography is
+very important to computation and uses a lot of pure maths like combinatorics and number
+theory. So that covers the main sections of pure and
+applied mathematics, but I can’t end without looking at the foundations of mathematics. This area tries to work out at the properties
+of mathematics itself, and asks what the basis of all the rules of mathematics is. Is there a complete set of fundamental rules,
+called axioms, which all of mathematics comes from? And can we prove that it is all consistent
+with itself? Mathematical logic, set theory and category
+theory try to answer this and a famous result in mathematical logic are Gödel’s incompleteness
+theorems which, for most people, means that Mathematics does not have a complete and consistent
+set of axioms, which mean that it is all kinda made up by us humans. Which is weird seeing as mathematics explains
+so much stuff in the Universe so well. Why would a thing made up by humans be able
+to do that? That is a deep mystery right there. Also we have the theory of computation which
+looks at different models of computing and how efficiently they can solve problems and
+contains complexity theory which looks at what is and isn’t computable and how much
+memory and time you would need, which, for most interesting problems, is an insane amount. Ending
+So that is the map of mathematics. Now the thing I have loved most about learning
+maths is that feeling you get where something that seemed so confusing finally clicks in
+your brain and everything makes sense: like an epiphany moment, kind of like seeing through
+the matrix. In fact some of my most satisfying intellectual
+moments have been understanding some part of mathematics and then feeling like I had
+a glimpse at the fundamental nature of the Universe in all of its symmetrical wonder. It’s great, I love it. Ending
+Making a map of mathematics was the most popular request I got, which I was really happy about
+because I love maths and its great to see so much interest in it. So I hope you enjoyed it. Obviously there is only so much I can get
+into this timeframe, but hopefully I have done the subject justice and you found it
+useful. So there will be more videos coming from me
+soon, here’s all the regular things and it was my pleasure se you next time.

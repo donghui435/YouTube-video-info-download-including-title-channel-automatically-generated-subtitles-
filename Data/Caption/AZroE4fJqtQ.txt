@@ -1,0 +1,51 @@
+Deirdre is working with a
+function that contains thefollowing points.These are the x values,
+these are y values.They ask us, is this function
+linear or non-linear?So linear functions, the way to
+tell them is for any givenchange in x, is the change
+in y always goingto be the same value.For example, for any one-step
+change in x, is the change iny always going to be 3?Is it always going to be 5?If it's always going to be the
+same value, you're dealingwith a linear function.If for each change in x--so over
+here x is always changingby 1, so since x is always
+changing by 1, the change iny's have to always
+be the same.If they're not, then
+we're dealing witha non-linear function.We can actually show
+that plotting out.If the changes in x-- we're
+going by different values, ifthis went from 1 to 2 and then
+2 to 4-- what you'd want todo, then, is divide the change
+in y by the change in x, andthat should always
+be a constant.In fact, let me write
+that down.If something is linear, then
+the change in y over thechange in x always constant.Now, in this example,
+the change in x'sare always 1, right?We go from 1 to 2, 2 to
+3, 3 to 4, 4 to 5.So in this example, the change
+in x is always going to be 1.So in order for this function to
+be linear, our change in yneeds to be constant because
+we're just going to take thatand divide it by 1.So let's see if our change
+in y is constant.When we go from 11 to
+14, we go up by 3.When we go from 14 to 19, we go
+up by 5, so I already seethat it is not constant.We didn't go up by 3 this
+time, we went up by 5.And here, we go up by 7.And here, we're going up by 9.So we're actually going up by
+increasing amounts, so we'redefinitely dealing with
+a non-linear function.And we can see that if
+we graph it out.So let me draw-- I'll do
+a rough graph here.So let me make that my vertical
+axis, my y-axis.And we go all the
+way up to 35.So I'll just do 10, 20, 30.Actually, I can it do a little
+bit more granularly than that.I could do 5, 10, 15, 20,
+25, 30, and then 35.And then our values
+go 1 through 5.I'll do it on this
+axis right here.They're not obviously the exact
+same scale, so I'll do1, 2, 3, 4, and 5.So let's plot these points.So the first point is 1, 11,
+when x is 1, y is 11.This is our x-axis.When x is 1, y is 11, that's
+right about there.When x is 2, y is 14, that's
+right about there.When x is 3, y is 19,
+right about there.When x is 4, y is 26,
+right about there.And then finally, when x is 5,
+y is 35, right up there.So you can immediately
+see that this is nottracing out a line.If this was a linear function,
+then all the points would beon a line that looks something
+like that.That's why it's called
+a linear function.In this case, it's not,
+it's non-linear.The rate of increase as
+x changes is going up.

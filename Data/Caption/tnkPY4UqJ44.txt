@@ -1,0 +1,49 @@
+Divide and write the answer
+as a mixed number.And we have 3/5 divided
+by 1/2.Now, whenever you're dividing
+any fractions, you just haveto remember that dividing by a
+fraction is the same thing asmultiplying by its reciprocal.So this thing right here is the
+same thing as 3/5 times--so this is our 3/5 right here,
+and instead of a divisionsign, you want a multiplication
+sign, andinstead of a 1/2, you want to
+take the reciprocal of 1/2,which would be 2/1--
+so times 2/1.So dividing by 1/2 is the
+exact same thing asmultiplying by 2/1.And we just do this as a
+straightforward multiplicationproblem now.3 times 2 is 6, so our
+new numerator is 6.5 times 1 is 5.So 3/5 divided by 1/2 as an
+improper fraction is 6/5.Now, they want us to write
+it as at mixed number.So we divide the 5 into
+the 6, figure out howmany times it goes.That'll be the whole number
+part of the mixed number.And then whatever's left over
+will be the remainingnumerator over 5.So what we'll do is
+take 5 into 6.5 goes into 6 one time.1 times 5 is 5.Subtract.You have a remainder of 1.So 6/5 is equal to one whole,
+or 5/5, and 1/5.This 1 comes from whatever
+is left over.And now we're done!3/5 divided by 1/2
+is 1 and 1/5.Now, the one thing that's not
+obvious is why did this work?Why is dividing by 1/2 the
+same thing as multiplyingessentially by 2.2/1 is the same thing as 2.And to do that, I'll do a little
+side-- fairly simple--example, but hopefully, it
+gets the point across.Let me take four objects.So we have four objects:
+one, two, three, four.So I have four objects, and if
+I were to divide into groupsof two, so I want to divide
+it into groups of two.So that is one group of two and
+then that is another groupof two, how many groups
+do I have?Well, 4 divided by 2, I have two
+groups of two, so that isequal to 2.Now, what if I took those
+same four objects:one, two, three, four.So I'm taking those
+same four objects.Instead of dividing them into
+groups of two, I want todivide them into groups of 1/2,
+which means each groupwill have half of
+an object in it.So let's say that would be
+one group right there.That is a second group.That is a third group.I think you see each group has
+half of a circle in it.That is the fourth.That's the fifth.That's the sixth.That's the seventh, and then
+that's the eighth.You have eight groups of 1/2,
+so this is equal to 8.And notice, now each of the
+objects became two groups.So you could say how many
+groups do you have?Well, you have four objects
+and each ofthem became two groups.I'm looking for a
+different color.Each of them became
+two groups, and soyou also have eight.So dividing by 1/2 is the same
+thing as multiplying by 2.And you could think about it
+with other numbers, buthopefully, that gives you a
+little bit of an intuition.

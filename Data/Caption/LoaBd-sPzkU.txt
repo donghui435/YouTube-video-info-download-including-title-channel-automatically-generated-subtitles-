@@ -1,0 +1,127 @@
+What I want to do in this video
+is a fairly straightforwardprimer on perimeter and area.And I'll do perimeter
+here on the left,and I'll do area
+here on the right.And you're probably pretty
+familiar with these concepts,but we'll revisit it
+just in case you are not.Perimeter is
+essentially the distanceto go around something
+or if you wereto put a fence around
+something or if youwere to measure-- if you were to
+put a tape around a figure, howlong that tape would be.So for example, let's
+say I have a rectangle.And a rectangle is a figure that
+has 4 sides and 4 right angles.So this is a
+rectangle right here.I have 1, 2, 3, 4 right angles.And it has 4 sides,
+and the opposite sidesare equal in length.So that side is going to be
+equal in length to that side,and that side is equal
+in length to that side.And maybe I'll label the
+points A, B, C, and D.And let's say we
+know the following.And we know that
+AB is equal to 7,and we know that
+BC is equal to 5.And we want to know, what
+is the perimeter of ABCD?So let me write it down.The perimeter of
+rectangle ABCD is justgoing to be equal to the sum
+of the lengths of the sides.If I were to build a fence, if
+this was like a plot of land,I would just have
+to measure-- howlong is this side
+right over here?Well, we already know
+that's 7 in this color.So it's that side right
+over there is of length 7.So it'll be 7 plus
+this length over here,which is going to be 5.They tell us that.BC is 5.Plus 5.Plus DC is going to
+be the same lengthis AB, which is
+going to be 7 again.So plus 7.And then finally, DA a or AD,
+however you want to call it,is going to be the same length
+as BC, which is 5 again.So plus 5 again.So you have 7 plus 5 is 12
+plus 7 plus 5 is 12 again.So you're going to
+have a perimeter of 24.And you could go the
+other way around.Let's say that you
+have a square, whichis a special case
+of a rectangle.A square has 4 sides and 4 right
+angles, and all of the sidesare equal.So let me draw a square here.My best attempt.So this is A, B, C, D. And
+we're going to tell ourselvesthat this right
+here is a square.And let's say that this
+square has a perimeter.So square has a perimeter of 36.So given that, what is the
+length of each of the sides?Well, all the sides are going
+to have the same length.Let's call them x.If AB is x, then BC is x,
+then DC is x, and AD is x.All of the sides are congruent.All of these segments
+are congruent.They all have the same
+measure, and we call that x.So if we want to figure
+out the perimeter here,it'll just be x plus x
+plus x plus x, or 4x.Let me write that. x
+plus x plus x plus x,which is equal to 4x, which
+is going to be equal to 36.They gave us that
+in the problem.And to solve this, 4
+times something is 36,you could solve that
+probably in your head.But we could divide
+both sides by 4,and you get x is equal to 9.So this is a 9 by 9 square.This width is 9.This is 9, and then the height
+right over here is also 9.So that is perimeter.Area is kind of a
+measure of how much spacedoes this thing take
+up in two dimensions?And one way to think about area
+is if I have a 1-by-1 square,so this is a 1-by-1 square--
+and when I say 1-by-1,it means you only have
+to specify two dimensionsfor a square or a rectangle
+because the other two aregoing to be the same.So for example, you could
+call this a 5 by 7 rectanglebecause that immediately
+tells you, OK, this side is 5and that side is 5.This side is 7,
+and that side is 7.And for a square, you could
+say it's a 1-by-1 squarebecause that specifies
+all of the sides.You could really say,
+for a square, a squarewhere on one side is 1,
+then really all the sidesare going to be 1.So this is a 1-by-1 square.And so you can view
+the area of any figureas how many 1-by-1 squares
+can you fit on that figure?So for example, if we were going
+back to this rectangle righthere, and I wanted to find out
+the area of this rectangle--and the notation
+we can use for areais put something in brackets.So the area of rectangle
+ABCD is equal to the numberof 1-by-1 squares we can
+fit on this rectangle.So let's try to do
+that just manually.I think you already
+might get a sense of howto do it a little bit quicker.But let's put a bunch of 1-by-1.So let's see.We have 5 1-by-1 squares
+this way and 7 this way.So I'm going to try my
+best to draw it neatly.So that's 1, 3, 3,
+4, 5, 6, and then 7.1, 2, 3, 4, 5, 6, 7.So going along one of the
+sides, if we just go alongone of the sides like
+this, you could put 7 justalong one side just like that.And then over here,
+how many can we see?We see that's 1 row.And that's 2 rows.Then we have 3 rows and
+then 4 rows and then 5 rows.1, 2, 3, 4, 5.And that makes sense because
+this is 1, 1, 1, 1, 1.Should add up to 5.These are 1, 1, 1, 1, 1, 1, 1.Should add up to 7.Yup, there's 7.So this is 5 by 7.And then you could
+actually count these,and this is kind of straight
+forward multiplication.If you want to know the
+total number of cubes here,you could count it, or you can
+say, well, I've got 5 rows,7 columns.I'm going to have 35--
+did I say cube-- squares.I have 5 squares in this
+direction, 7 in this direction.So I'm going to have
+35 total squares.So the area of this figure
+right over here is 35.And so the general
+method, you could justsay, well, I'm just going to
+take one of the dimensionsand multiply it by
+the other dimension.So if I have a
+rectangle, let's saythe rectangle is
+1/2 by 1/2 by 2.Those are its dimensions.Well, you could
+just multiply it.You say 1/2 times 2.The area here is going to be 1.And you might say, well,
+what does 1/2 mean?Well, it means,
+in this dimension,I could only fit 1/2
+of a 1-by-1 square.So if I wanted to do
+the whole 1-by-1 square,it's all distorted here.It would look like that.So I'm only doing half of one.I'm doing another half
+of one just like that.And so when you add this
+guy and this guy together,you are going to
+get a whole one.Now what about area of a square?Well, a square is
+just a special casewhere the length and
+the width are the same.So if I have a square--
+let me draw a square here.And let's call that XYZ-- I
+don't know, let's make this S.And let's say I wanted
+to find the areaand let's say I know
+one side over here is 2.So XS is equal to 2, and I
+want to find the area of XYZS.So once again, I
+use the bracketsto specify the area of this
+figure, of this polygon righthere, this square.And we know it's a square.We know all the sides are equal.Well, it's a special
+case of a rectangle wherewe would multiply the
+length times the width.We know that they're
+the same thing.If this is 2, then
+this is going to be 2.So you just multiply 2 times 2.Or if you want to
+think of it, yousquare it, which is
+where the word comesfrom-- squaring something.So you multiply 2 times 2,
+which is equal to 2 squared.That's where the
+word comes from,finding the area of a
+square, which is equal to 4.And you could see
+that you could easilyfit 4 1-by-1 squares
+on this 2-by-2 square.

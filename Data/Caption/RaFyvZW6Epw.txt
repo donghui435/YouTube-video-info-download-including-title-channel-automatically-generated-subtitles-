@@ -1,0 +1,40 @@
+If you have a picture of the graph of the
+function, you can find discontinuities justby looking for breaks in the graph.These could be point discontinuities like
+this, jump discontinuities like this, infinitediscontinuities like this, or endpoint discontinuities
+like this.When you're tracing the graph from one side
+to the other, if you ever come to any pointwhere you have to pick up your pencil in order
+to keep drawing the next section, then there'sa discontinuity at that point.When you have an endpoint like this, it's
+discontinuous because the general limit doesn'texist.The right hand limit exists because as we
+trace the graph from the right side towardthe left, we approach a value of 2.But there's no left hand limit because there's
+no graph to the left of this point.And since there's only a right hand limit
+and no left hand limit, it means there's nogeneral limit.And since there's no general limit, the function
+is technically discontinuous at the endpoint.When you have an asymptote on the end like
+this, there's no discontinuity at this point.The function is still continuous here.In order for there to be a discontinuity at
+an asymptote, the graph has to exist on bothsides of the asymptote, and since the graph
+does not exist to the right of this asymptote,there's no discontinuity here.So what if you don't have a picture of the
+graph, but you have the equation of the functionitself?Then how do you know where the function has
+discontinuities?Well rational functions, which are fractions
+with polynomials in the numerator and denominator,like all of these, are the most common types
+of functions to have discontinuities.Because fractions are undefined when the denominator
+is zero, any value that makes the denominatorzero is going to make a discontinuity in the
+function.If the zero value can be canceled out of the
+denominator, then it's a point discontinuity.If it can't be canceled out, then it's an
+infinite discontinuity.If we take this rational function as an example,
+we can see that it'll have discontinuitiesat x=2 and at x=6, because both of those values
+make the denominator zero.If we factor the numerator, we can cancel
+out the x-2, but not the x-6.Because we were able to remove the x-2, it
+means that x=2 is a point, or removable, discontinuity.Since we couldn't factor out the x-6, it means
+x=6 is an infinite, or nonremovable, discontinuity.If we sketch the curve, we can see the point
+discontinuity at x=2, and the infinite discontinuity(which is just a vertical asymptote, by the
+way), at x=6.You can also get discontinuities from piecewise
+defined functions.For this piecewise function, y=x defines the
+curve to the left of x=3, and at x=3 itself.And y=4 defines the function to the right
+of x=3.If we sketch these curves, we can see that
+there's a discontinuity at the break pointof x=3.So to summarize, if you're looking for discontinuities
+in the function and you have a picture ofthe graph, just look for any point where you
+have to pick up your pencil, or look for endpoints,and all those points will be your discontinuities.If you don't have the graph but your function
+is a rational function, look for values thatmake the denominator zero.These will be point discontinuities if you
+can factor them out, or infinite discontinuitiesif you can't.If your function is a piecewise function,
+then look at each piece separately for discontinuities,but make sure to look also at the break point
+between the conditions.If the functions don't meet each other at
+the same value, then there's a jump discontinuityat that point.

@@ -1,0 +1,98 @@
+Jamir is training for a
+race and is runninglaps around a field.If the distance around the field
+is 300 yards, how manycomplete laps would he need to
+do to run at least 2 miles?So they tell us how far one lap
+is, it's 300 yards, but weneed to figure out how many
+laps to go 2 miles.So a good starting point would
+be to get everything into thesame units.We have distance here in terms
+of miles, we have it here interms of yards.So let's just get everything
+into yards.So he needs to run 2 miles.How do we convert
+that to yards?Well, I don't have it memorized
+how many yards thereare per mile, but I do have it
+memorized how many feet thereare per mile.And it's a good thing to have
+in the back of your brainsomeplace, that in general you
+have 5,280 feet per mile.It's a good number to know.5,280 feet per mile.So if we want to convert, we can
+first convert the miles tofeet, and then we know that
+there are 3 feet per yard, andthen we'll have 2 miles
+in terms of yards.So 2 miles, if we want it
+converted to feet, we wantmiles in the denominator and we
+want feet in the numerator.And the reason why I say that
+is so that this miles willcancel out with that
+miles, and we'lljust have feet there.And I just wrote down, there's
+5,280 feet per mile, or yousay 5,280 feet for
+every 1 mile.You can write it either
+way, but let's justwrite it like that.And then we can multiply.So this is going to
+give us what?If we just multiply the
+numbers 2 times 5,280.So what is that going to be?Maybe I should get
+a calculator out.Or we could do that
+in our head.Let's think of it this way:
+2 times 80 is 160.2 times 200 is 400.So it's going to be 400 plus
+160 is going to be 560.And then 2 times 5,000
+thousand is 10,000.So it's 10,560.And then the miles cancel
+out, and we arejust left with feet.And let me actually
+multiply it out.I did it in my head that time,
+but that's not always useful.Let me verify for
+you that 5,280times 2 is indeed 10,560.So 2 times 0 is 0.2 times 8 is 16.Carry the 1.2 times 2 is 4, plus 1 is 5.2 times 5 is 10.10,560.So he needs to run
+10,560 feet.Now, we want this in
+terms of yards.So 10,560 feet.Let's convert this to yards.Well, we want it in yards.So we want yards in the
+numerator, and we want feet inthe denominator, so that the
+feet cancel out with that feetright there.And we know that there are
+3 feet for every 1 yard.Or another way to read this is
+that you have 1/3 of a yardfor every foot.And now we can multiply.And it makes sense.If you're going from feet to
+yards, the number should getsmaller because yards
+is a bigger unit.You need fewer yards to go the
+same distance as a certainnumber of feet.So it makes sense that
+we're dividing.Same thing: 2 miles is a ton of
+feet, so it made sense thatwe were multiplying
+by a large number.Here it makes sense that
+we're dividing.So let's do this.So this becomes 10,560
+times 1 divided by 3.So it's 10,560/3.That's that and that part.And then the feet cancel
+out, and we arejust left with yards.So 2 miles is 10,560
+divided by 3.And let's figure out
+what that is.So 3 goes into 10,560.It doesn't go into 1.It goes into 10 three times.3 times 3 is 9.And we subtract.We get 1.Bring down this 5.It becomes a 15.3 goes into 15 five times.5 times 3 is 15.We have no remainder, or 0.You bring down the 6.3 goes into 6 two times.Let me scroll down
+a little bit.2 times 3 is 6.Subtract.No remainder.Bring down this last 0.3 goes into 0 zero times.0 times 3 is 0.And we have no remainder.So 2 miles is the equivalent
+to 3,520 yards.That's the total distance
+he has to travel.That's the equivalent
+of 2 miles.Now we want to figure out
+how many laps there are.We want this in terms of laps,
+not in terms of yards.So we want the yards
+to cancel out.And we want laps in the
+numerator, right?Because when you multiply, the
+yards will cancel out, andwe'll just be left with laps.Now, how many laps are there
+per yard or yards per lap?Well, they say the distance
+around the field is 300 yards.So we have 300 yards
+for every 1 lap.So now, multiply this
+right here.The yards will cancel out,
+and we will get 3,520.Let me do that in a
+different color.We will get 3,520, that right
+there, times 1/300.When you multiply it times
+1, it just becomes3,520 divided by 300.And in terms of the units,
+the yards canceled out.We're just left with the laps.So this is how many laps
+he needs to run.So 3,520 divided by 300.Well, we can eyeball
+this right here.What is 11 times 300?Let's just approximate
+this right here.So if we did 11 times
+300, what is thatgoing to be equal to?Well, 11 times 3 is 33, and then
+we have two zeroes here.So this will be 3,300.So it's a little bit
+smaller than that.If we have 12 times 300, what
+is that going to be?12 times 3 is 36, and then we
+have these two zeroes, so it'sequal to 3,600.So this is going to be
+11 point something.It's larger than 11, right?3,520 is larger than 3,300.So when you divide by 300 you're
+going to get somethinglarger than 11.But this number right here is
+smaller than 3,600 so when youdivide it by 300, you're going
+to get something a little bitsmaller than 12.So the exact number of laps is
+going to be a little bit lowerthan 12 laps.So 2 miles is a little bit
+lower than 12 laps.But let's make sure we're
+answering their question.How many complete laps would
+he need to do torun at least 2 miles?So they're telling us that,
+look, this might be, 11 pointsomething, something,
+something laps.That would be the exact number
+of laps to run 2 miles.But they say how many complete
+laps does he have to run?11 complete laps would
+not be enough.He would have to run 12.So our answer here is
+12 complete laps.That complete tells us
+that they want awhole number of laps.We can't just divide this.If we divide this, we're going
+to get some 11 pointsomething, something.You can do with the calculator
+or do it by hand if you'reinterested.But we have to do at least 12
+because that's the smallestwhole number of laps that will
+get us to at least thisdistance right here, or this
+number of laps, or theequivalent of 2 miles.

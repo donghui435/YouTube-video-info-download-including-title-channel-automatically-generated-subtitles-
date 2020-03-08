@@ -1,0 +1,94 @@
+DR. JAMES GRIME: Yeah, I'm going
+to tell you a story, butwhat I thought I'd start with
+is a little puzzle.And then while people are
+thinking about the puzzle,I'll tell you a little story,
+one of the big legends ofmathematics.And then we'll see what the
+answer to the puzzle was.The puzzle is fairly
+easy to state.I just want you to add up the
+digits from 1 to 1 million.Now I want you to add
+up all the digits--if you imagine you've
+wrote out thenumbers 1 to 1 million.I want you to add up all the
+digits, not the numbers.So if I want to say 123
+plus 124, that's notwhat I want to do.I want to add up all the digits
+of those numbers, 1plus 2 plus 3 plus
+1 plus 2 plus 4.Imagine writing a list of all
+the numbers from 1 to 1million with all those digits,
+and I want you to add up allthe digits.And what answer will you get?While you think about that, I'm
+going to tell you one ofthese famous mathematical
+stories.So this is the story of Gauss.Carl Gauss.Carl Gauss is possibly one of
+the greatest mathematicians ofthe last few hundred years.He really is a really
+large figure.Now the story goes that when
+he was nine, he started toattend, at school, his
+arithmetic class.Now arithmetic class would
+include lots of boys, all theway up to the age of 15.Imagine, right?This is 1780 we're talking
+about, a long time ago.Imagine it's a drab schoolroom,
+and it's veryworn, and the floor
+was uneven.And the teacher was also drab
+and worn and uneven himself.Apparently he was
+quite a bully.He would walk around with
+his cane and hewould thrash the boys.Now one day, to keep
+them quiet--yeah, this'll keep 'em
+quiet for an hour--he gave them a problem--to add up all the numbers
+from 1 to 100.So add up all the numbers
+from 1 to 100.So 1 plus 2 plus
+3 plus 4 plus--all the way up to 100.That was the problem
+he gave the pupils.And they had to write on
+slates in those days.And when you got the solution,
+you would put your slate onthe teacher's table.Now Gauss, when he was given
+this problem, immediatelythrew his slate onto
+the teacher'stable with an answer.Now the other boys continued
+their work, adding up all thenumbers, multiplying and
+adding and subtracting,whatever they had to do.This brute of a teacher strolled
+around the classroom,throwing just pitying looks at
+poor Gauss, this guessing theanswer and throwing
+it onto the table.When the hour was over, he
+took the stack of slates,turned them over so that Gauss's
+answer was on the top,and read out the answer.To his astonishment, he
+got the answer right.The answer is 5,050.Which meant that Gauss was able
+to solve it in seconds.How did he solve it?Well, he had a trick.The trick was, he noticed
+that if you addthe numbers in pairs--I'm going to start with 1 and
+I'm going to add it to 100.What you get is 101.Now if you take the second
+number and add it to thesecond to last number,
+99, you get 101.You take 3 and add it
+to 98, you get 101.In fact, each pair that
+you make in thisway would equal 101.How many pairs do you make?Well, there's 100 there.50 pairs, you make.So he just took 101
+and timesed it by50, and he got 5,050.So this story was first written
+about in an obituaryby one of Carl Gauss's
+friends.Apparently, Carl Gauss would
+tell this story himself.So it seems to be fairly true.Some embellishments over
+the years have been thebrutishness of this
+teacher, with thiscane and his thrashing.That's been added onto
+over the years.The problem I gave you about
+adding the numbers 1 to 100,that's been added onto over
+the years, as well.We don't know what the
+original problem was.So to finish our puzzle
+now, maybeyou've got time to think.We're going to use this method
+that, well, Gauss may haveused to solve his problem.But we were adding the numbers
+1 to 1 million.But we weren't adding
+the numbers.I threw in a twist.We were adding all the digits
+of the numbers.So let's just write out
+the numbers first.I'll start with 1.Then I'll have 2,
+and 3, and 4.I'm going to skip a few.And then we'll go to the end.Let's go to something like
+999,995, 999,996--getting there--999,999.And let's have 1,000,000.There we go.Right.So we were going to add up
+all the digits, though.Well, how about this?Let's just start with the 0.I'm going add on the 0.I didn't say that before,
+but let's add on a 0there at the front.If I use pairs, 0 paired
+up with 999,999--if you add those together, you
+get this number, 999,999.If you try this pair, we get
+the same answer, of course.And 2 plus this one.And do 3 and 999,996.And 4 with 999,995.And all those pairs equal
+the same thing.Now if all those pairs equal the
+same thing, we can now addup these digits.And this gives me-- what
+does this give?9 plus 9 plus 9 plus
+9 plus 9 plus 9?54.And how many pairs
+have I made?Half a million.Times half a million.Which is equal to--it's actually equal
+to 27 million.So all the digits added up to 27
+million, except I have leftout my 1,000,000 there.I didn't add that in
+my pair, did I?So let's add up up those
+digits, too.That is 1.So we add that on.And so the answer is, adding
+all the numbers--all the digits of the numbers--
+from 1 to 1 millionis 27,000,001, using
+Gauss's trick.MALE SPEAKER: Now at this point,
+you can go wild, right?How many-- how many arrows
+do you want?So the next one, let's say we
+did 3 to the power of, to thepower of, to the power--or
+arrow, arrow, arrow, orwhatever you want
+to call this.3--well that, that--

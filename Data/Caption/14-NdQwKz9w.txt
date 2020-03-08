@@ -1,0 +1,148 @@
+So say you're me and
+you're in math classand you're trying to
+ignore the teacherand doodle Fibonacci
+spirals, while simultaneouslytrying to fend off
+the local greenery.Only, you become
+interested in somethingthat the teacher
+says by accident,and so you draw too many
+squares to start with.So you cross some out,
+but cross out too many,and then the teacher
+gets back on track,and the moment is over.So oh well, might
+as well try and justdo the spiral from here.So you make a three
+by three square.And here's a four by four, and
+then seven, and then 11 Thisworks because then you've
+got a spiral of squares.So you write down the
+numbers, 1, 3, 4, 7, 11, 18.It's kind of like the Fibonacci
+series, because 1 plus 3 is 4,3 plus 4 is 7, and so on.Or maybe it starts at 2 plus
+1, or negative 1 plus 2.Either way, it's a
+perfectly good series.And it's got another similarity
+with the Fibonacci series.The ratios of consecutive
+numbers also approach Phi.OK.So, a lot of plants have
+Fibonacci numbers of spirals,but to understand
+how they do it,we can learn from
+the exceptions.This pine cone that has
+seven spirals one way,and eleven the other, might
+be showing Lucas numbers.And since Fibonacci numbers
+and Lucas numbers are related,maybe that explains it.One theory was that plants
+get Fibonacci numbersby always growing new parts
+a Phi-th of a circle around.What angle would
+give Lucas numbers?In this pine cone, each
+new pine cone-y thingis about 100 degrees
+around from the last.We're going to need
+a Lucas angle-a-tron.It's easy to get a 90
+degree angle-a-tron,and if I take a third
+of a third of that,that's a ninth of 90, which
+is another 10 degrees.There.Now you can use it to
+get spiral patternslike what you see on
+the Lucas number plants.It's an easy way to
+grow Lucas spirals,if plants have an
+internal angle-a-tron.Thing is, 100 is
+pretty far from 137.5.If plants were somehow
+measuring angle,you'd think the
+anomalous ones wouldshow angles close to
+a Phi-th of a circle.Not jump all the way to 100.Maybe I'd believe different
+species use different angles,but two pine cones
+from the same tree?Two spirals on the
+same cauliflower?And that's not the
+only exception.A lot of plants don't
+grow spirally at all.Like this thing.With leaves growing
+opposite from each other.And some plants have
+alternating leaves,180 degrees from
+each other, whichis far from both Phi
+and Lucas angles.And you could say that these
+don't count because theyhave a fundamentally
+different growth pattern,and are in a different
+class of plant or something,but wouldn't it be
+even better if therewere one simple reason
+for all of these things?These variations are a good
+clue that maybe these plants getthis angle, and
+Fibonacci numbers,as a consequence of some other
+process and not just because itmathematically optimizes
+sunlight exposure if the sun isright overhead, which
+it pretty much never is,and if the plan are
+perfectly facing straight up,which they aren't.So how do they do it?Well, you could
+try observing them.That would be like science.If you zoom in on the tip of
+a plant, the growing part,there's this part
+called the meristem.That's where new
+plant bits form.The biggest plant bits
+where the first to form offthe meristem, and the little
+ones around the centerare newer.As the plants grow, they get
+pushed away from the meristem,but they all started there.The important part is
+that a science observerwould see the plant
+bits pushing away,not just from the meristem,
+but from each other.A couple physicists
+once tried this thingwhere they dropped drops
+of a magnetized liquidin a dish of oil.The drops repelled each
+other, kind of like plant bitsdo, and were attracted
+to the edge of the dish,just like how plant bits
+move away from the center.The first couple jobs would
+head in opposite directionsfrom each other, but then the
+third was repelled by both,but pushed farther by the
+more recent, and closer, drop.It, and each new
+drop, would set offat a Phi angle relative
+to the drop before,and the drops ended up forming
+Fibonacci numbers spirals.So all a plant would
+need to do to getFibonacci numbers
+spirals is figure outhow to make the plant
+bits repel each other.We don't know all the details,
+but here's what we do know.There's a hormone that
+tells plant bits to grow.A plant bit might use up
+the hormone around it,but there's more
+further away, so it'llgrow in that direction.That makes plant bits
+move out from the meristemafter they form.Meanwhile, the meristem
+keeps forming new plant bits,and they're going
+to grow in placesthat aren't too
+crowded, because that'swhere there's the
+most growth hormone.This leads them to
+move further outinto the space left by the
+other outward moving plant bits.And once everything gets
+locked into a pattern,it's hard to get out of it.Because there's no
+way for this plantbit to wander off
+unless there werean empty space with a
+trail of plant hormoneto lead it out of its spot.But if there were, all
+the nearer plant bitswould use up the hormone
+grow to fill in the space.Mathematicians and programmers
+made their own simulations,and found the same thing.The best way to fit new
+things in with the most space,has them pop up at that angle,
+not because the plant knowsabout the angle,
+but because that'swhere the most
+hormone has built up.Once it gets started, it's
+a self perpetuating cycle.All these flower
+bits are doing isgrowing where there's
+the most room for them.The rest happens
+auto-mathically.It's not weird that all these
+plants show Fibonacci numbers.It would be weird
+if they didn't.It had to be this way.The best thing
+about that theory isthat it explains why Lucas
+pine cones would happen.If something goes
+a bit differentlyin the very beginning,
+the meristemwill settle into a different,
+but stable, patternof where there's the most
+room to add new plant bits.That is 100 degrees away.It even explains
+alternating leaf patterns.If the leaves are
+far enough apart,relative to how much
+growth hormone they like,that these leaves don't
+have any repellingforce with each other, then
+all this leaf cares aboutis being farthest away from
+the two above and belowit, which makes 180
+degrees optimal.And when leaves
+grow in pairs thatare opposite each other,
+the answer of where there'sthe most room for
+both of those leaves,is at 90 degrees from
+the one below it.And if you look hard,
+you can discovereven more unusual patterns.The dots on the neck
+of this whatever-it-is,come in spirals of 14 and
+22, which maybe is likedouble the Lucas numbers.And this pine cone has 6 and
+10, double Fibonacci numbers.So how is a pineapple
+like a pine cone?What do daisies and Brussels
+sprouts have in common?It's not the numbers they
+show, it's how they grow.This pattern is not just
+useful, not just beautiful,it's inevitable.This is why science and
+mathematics are so much fun.You discover things that seem
+impossible to be true, and thenget to figure out why it's
+impossible for them not to be.To get this far in our
+understanding of these things,it took the combined effort
+of mathematicians, physicists,botanists, and biochemists.And we've certainly
+learned a lot.But there's much more
+to be discovered.Maybe if you keep
+doodling in math class,you can help figure it out.

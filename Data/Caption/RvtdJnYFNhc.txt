@@ -1,0 +1,112 @@
+Let's get started and
+learn how to convertpercentages to decimals.And if we have time maybe we'll
+also learn how to convertdecimals into percentages.So let's get started with what
+I think is a problem youprobably already
+know how to do.If I said I have 50%.I don't know if I wanted
+to write that thick,but we'll go with it.Actually, let me change
+it to a thinner one.And I want to turn
+that into a decimal.Well you probably already
+have a sense of whatdecimal represents 50%.If I told you we're having a
+sale and it's 50% off you knowthat's roughly half off, or
+another way, how do yousay half as a decimal?Well that's the same thing as
+0.5 So you might have knownthat in your head, but is there
+a system for being able toconvert this 50% to 0.5?Well, it turns out it's
+pretty straightforward.All you do is you say--
+whatever percentage it is,that's the same thing
+as the number over 100.And 50/100 is the same
+thing as 5/10 or 0.5.Now even a simpler way of
+converting percentage todecimals and, I think, you're
+going to realize converting apercentage to a decimal or the
+other way around, you canpretty much do it in your head.If I say, let's say 50-- and
+I'm just going to add onedecimal of accuracy here just
+to show you a point-- 50.0%.If I want to convert that 50.0%
+into a decimal, all I do is Iget rid of the percent sign.So I'll do it here.50.0%.I get rid of the percent sign
+and I take the decimal pointand I move it over two
+spaces to the left.So I say 1, 2.So this is where the
+new decimal is.So this equals we
+could say 0.500.So 50.0% is equal to 0.500.And of course, these last two
+0's really don't mean anythingfor our purposes, so
+we'll get rid of them.So that's the same thing
+as 0.5 or just 0.5.50% equals 0.5.So you're probably
+saying, well, sure.That looks easy, but what
+if the problem getsa little harder?50% I could have
+done in my head.So let's try some, I would say,
+slightly harder problems.If I were to tell you
+that-- let's say 16.32%.Well, let's just do it the
+way I just showed you.I'll rewrite it down here.16.32%.So if we get rid of the percent
+sign, scratch it out, we justhave to move the decimal over
+two spaces to the left.So 1, 2.This is the new place
+for the decimal.That decimal goes away.So it's 0.1632 is
+equal to 16.32%.I think you might be
+getting the idea now.Let me do another one in green.Let's say I had-- and this
+one actually confusesa lot of people.Let's say I had 0.25%.So the important thing to
+remember is, I'll rewrite here.0.25-- and maybe I'll write
+00.-- And you're probablywondering why I'm doing this,
+but I think you'll see in asecond why I wrote that leading
+0 there even though it doesn'tseem to add much to it.00.25%.Well, what's the system
+I just showed you?You get rid of the percent
+sign and you move thedecimal over 1, 2 spaces.So that equals 0.0025.So 0.25% is equal to 0.0025.And you could put a leading
+0 here if you want.Actually, I should probably
+tell you to always do thatbecause it makes it
+easier to read.So 0.25% is equal to 0.0025.And I want to just
+contrast that with 25%.25%, what do you
+think that equals?Well.you do the same thing
+that we've been doing.You get rid of the percent sign
+and you move the decimal space.In this case-- actually,
+let me leave that there.I'll just rewrite it here.25%.And you're probably saying,
+where is the decimal in this?Well, the decimal is after the
+number because that 25% isthe same thing as 25.0%.So if we get rid of the percent
+sign, we move the decimal overtwo spaces to the left, and
+that equals 0.25 as a decimal,or 0.250, but we can
+ignore that last 0.So 25% equals 0.25 while
+0.25% is equal to 0.0025.And I want you to maybe sit
+and think about how smallof a number 0.25% is.Let's do a couple more and
+maybe we'll convert goingthe other direction.Let's say I have the decimal
+0.01 and I wanted to convertthat into a percent.Well, here we just
+do it the opposite.We could look at it two ways.We could say well, whatever
+number this is, we multiply itby 100 and add a percent sign.So if you say 0.01 times
+100, and then we'lladd a percent sign.So a.0.01 times 100?Well that's just 1.You could do the math.You add the percent sign.Well, that equals 1%.Or an even easier way, when we
+go from a percent to a decimal,we move the decimal place
+over two to the left.So when you go from a
+decimal to a percent,we'll do the opposite.We move the decimal
+two to the right.So if we do that, let
+me just rewrite it.0.01.Just go 1, 2.The new decimal place is here.If I get rid of that decimals
+that's 01 decimal 00 whatever.Obviously, this leading 0
+means nothing, so that'sthe same thing as 1.00.Which is the same thing as 1.And does it make sense that
+moving the decimal space two tothe right-- that's really just
+the same thing as multiplyingit by 100, right?If I multiply something by 10
+it's like moving the decimalspace one to the right.If I divide something by
+10 it's like moving thedecimal space one to left.Let's do a couple more
+while I have time.I think I have three
+more minutes.Let's say I had 1.25 and
+I wanted to convertthat to a percent.Well, the easiest way is just
+to take-- I'll rewrite it here.1.25.Take the decimal point,
+move it two to the right.That's here.And then I'll add a percent.So that equals 125%.And if you think about it,
+the way people talk aboutpercent it makes sense.If I told you that I'm going
+to pay 1.25 times theprice of something.That makes sense that that's
+also I'm going to pay125% of the price.Or if it doesn't make sense
+hopefully if you do theseproblems enough it will
+start to make sense.Let's do a couple of more.And you can go back and pause
+this if you think I'm going toofast, which I might be doing.Let me think.If I were to say 0.003
+and I want to writethis as a percent.Well, once again, we can
+move the decimal spacetwo to the right.So 1, 2.And that's analogous to
+multiplying it by 100.So if we multiply the decimal
+two to the right we get00 decimal point 3.And then we add the percent.At least this first leading 0
+doesn't mean anything, sothat's the same thing as 0.3%.The important thing to realize
+is when you're converting froma percent to a decimal or a
+decimal to a percent, you'rereally just moving where
+that decimal point is.And if you run out of spaces
+you just have to add or getrid of 0's accordingly.And the important thing to
+always have in your mind is,when I convert from a decimal
+to a percent, the number infront of percent signs
+going to get bigger.And when I go from a percent
+sign to a decimal, I'm goingto get a smaller number.If I say 25%, that's the
+same thing as 0.25.So this is a percent,
+and this is a decimal.So I went from a bigger number,
+25, to a smaller number, 0.25.25% is equal to 0.25.Similarly, if I had a
+decimal, let's say 0.1.When I convert it to a
+percentage it's going tobe a larger percentage.So 0.1 is the same
+thing as 10%.And how did I do that again?Well I said 0.1, I added an
+extra 0 because I'm going tohave to move the decimal space
+over to the right twice.So I go 1, 2, and I get a 10.10%.Hopefully that answers all
+your questions for now.Have fun.

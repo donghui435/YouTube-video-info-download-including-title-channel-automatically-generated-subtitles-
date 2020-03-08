@@ -1,0 +1,49 @@
+Hi, this is Presh Talwalkar. In this video
+we're going to talk about extending thefactorial function beyond the whole
+numbers and described the gamma function.For a brief refresher, the factorial
+function is a way to count the number ofarrangement of objects in a line.It's often written with an exclamation
+point (!).So 1 factorial is 1; 2 factorial is 2
+times 1, which is 2; 3 factorial is 3...times 2 times 1, which is 6; 4 factorial
+is 4 times 3 times 2 times 1,which is equal to 24 and in general
+n factorial is equal to the product of all the wholenumbers up to n. So let's play around
+with the calculator and verify some ofthese calculations. We'll start out by
+trying one factorial; we'll press one andthen the factorial to get an answer 1.
+We'll then do 2 factorial; 2 factorial,that's equal to 2. Three factorial is equal
+to 6, and 4 factorial is equal to 24.So everything is as we expected but
+let's say we put in a fraction like .5.We actually get a result!This isn't an error: you actually get a
+number, and that's pretty interesting,and let's try and figure out what this
+number is. Let's say we square the number,and just because I know what the value
+is what i'm going to multiply it by 4,and we end up with 3.14159! This is
+something we recognize; this is equal to pi!So, quite remarkably we found out that
+one-half factorial is equal to thesquare root of pi divided by two! So where does 
+this come from because it has nothing to dowith the definition that we have just
+explained which we were all taught in school.So to explain how one half factorial is
+equal to that value will start out bygraphing the factorial function.So 1 factorial is 1, 2 factorial is 2, 3
+factorial is 6, and 4 factorial is 24.So these are the integer whole values of
+the factorial function and if we want toextend it beyond the whole numbers we
+can imagine connecting the dots.So one way we could extend the factorial
+function we just draw a line between anytwo dots, and that could define values for
+the factorial function for the decimals.We could try at smoothing out the curve;
+there actually infinitely many ways wecan smooth out the curve. So we want to
+figure out a way that we can smooth outthe curve which has desirable properties.
+So we want to come up with the factorialfunction and we want the factorial of 1 --we want this to be equal to 1, so it
+matches with the fact that one factorial is 1.We also want f(x + 1) equal x*f(x).
+This allows us to say thefactorial thing that each new number is
+the product of the ones before it.The final properties we want to graph to be
+smooth and one way we can do that as wecould say that the log of f(x)
+needs to be convex.So that's a function - I won't get into
+the details, but the reason we have thisis if you have these conditions there's actually
+a unique solution there's one function:the gamma function, that satisfies these
+three conditions.So that's how we can extend the factorial
+function and it's a complicated function.The gamma of x is equal to the integral from 0
+to infinity of t to the power of x - 1times e to the power of -t, dt.So this will converge for some values of x;it won't converge for other values;but what we will do then, is we'll define
+that x factorial is equal to gamma of x + 1.So this gamma function satisfies
+all three of the properties to the left,so since x factorial is defined this way
+we can then evaluate the gamma functionto find out that one-half factorial is
+equal to square root of pi over 2.So why do we care about the gamma function?
+Well, this type of integral actually comes upin many applications like quantum
+physics, fluid dynamics, statistics,and even number theory.So there's a really important reason that
+we want to extend the factorial function,and our calculators can
+actually evaluate it.I hope you liked this video. Please
+subscribe to my channel.You can support me on Patreon to get exclusive rewards.Catch me on my blog Mind Your Decisions,
+on Twitter @preshtalwalkar, and youcan get my books, listed on my website.

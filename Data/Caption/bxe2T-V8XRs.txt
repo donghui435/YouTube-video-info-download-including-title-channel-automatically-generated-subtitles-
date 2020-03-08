@@ -1,0 +1,37 @@
+let's say you want to predict some
+output value ygiven some input value x. For examplemaybe you want to predict your score on test
+based on how many hours you sleep andhow many hours you studythe night before. To use a machine
+learning approachwe first need some data. Let's say for the
+last three testsyou recorded your number of hours studying, you number of hours sleeping,and your score on the test. We'll use the
+programming language Pythonto store data in two-dimensional "numpy"
+arrays. Now that we have some datawe're going to use it to train a model to
+predict how well you'll doon your next test,based on how many hours you sleep and
+how many hours you study. This is called asupervised regression problem.It's supervised because our examples
+have inputsand outputs. It's a regression problem
+because we're predicting your testscore, which is acontinuous output. If, we
+were predicting your letter gradethis would be called a classification
+problem and not a regression problem.There are an overwhelming number of
+models within machine learninghere we're going to use a particularly
+interesting onecalled an artificial neural network
+these guys are loosely based on how theneurons in your brain workand had been particularly successful
+recently at solving really bigand really hard problemsbefore we throw our data into the model we need to account for the differences inthe units of our data.Both of our inputs are on hours, but ouroutput is a test score, scaled between 0
+and 100.Neural networks are smart, but not smart
+enough to guess the units of our data.It's kinda like asking our model to
+compare apples to orangeswhen most learning models really only
+want to compare apples to apples.The solution is to scale our data, thus
+our model will only see standardized units.Here we're going to take advantage of
+the fact that all our data is positiveand simply divide by the maximum value
+for each variableeffectively scaling a result between 0 and 1.Now we can build our neural net. We know
+our network must have two inputs,and one output because these are the
+dimensions of our data.We'll call or output layer y hat,
+because it's an estimate of y,but not the same as y. Any layer
+between our input and output layers is called ahidden layerrecently researchers have built networks
+with many many many hidden layersthese are known as deep belief networks
+giving rise to the term deep learninghere going to use one hidden layer with
+three hidden unitsbut if we wanted to build a deep
+neural network we would just stack a bunch of theselayers together.In neural net visuals, circles represent
+neuronsand lines represent synapsesSynapses have a really simple job, they take a value from their input, multiply it by aspecific weightand output the result. Neurons are a
+little more complicatedtheir job is to add together the output
+from other synapsesand apply an activation function. Certain
+activation functions allow neuralnets to model complexnonlinear patterns that simpler models
+may miss. For our neural net we'll usesigmoid activation functions.Next we'll build out our neural net in Python

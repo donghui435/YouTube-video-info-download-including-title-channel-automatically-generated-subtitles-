@@ -1,0 +1,23 @@
+There we go.See, most people forgot about the Rubik's Cube back in the eighties, so it had its'heyday and then disappeared the
+mathematicians remain obsessed with it.They wanted to find out the number of moves it would take to solve the mostdifficult combination.People probably are aware that there is
+some maths involved in a Rubik's Cubeand the group is the number of different
+combinations that there are on theRubik's Cube. It's all the different
+ways that you can scramble up a cubeOther things do have permutations and
+symmetry there's just something nice andtactile and you can gather
+and you can see everythingas it happens.And this number would be called God's
+number. If you have perfect knowledge ofhow to do the Rubik's Cube you would be
+able to solve the most difficultposition in its perfectmost efficient algorithm.And they managed to work out that it was
+less than 30.And over the years, they started to whittle this down closer and closer.No matter how much you scramble up a Rubik's Cube, you can solve it in 20 or fewer twists.It's called God's number because you
+have to be some kind of omniscient beingto work out those 20 moves. It's just so difficult to calculate what those moves are.I couldn't look at a cube and say I
+need to do these 12 moves or whateverbut there are people who can so they do
+Rubik's Cube solving competitions andthey have obviously speed challenges
+and see who can solve it the fastest butone of the other things that they do is
+a kind of efficient solve and thecompetition there is look at a Rubik's
+Cube and then just write down a list ofmoves that will solve itWhich I think is probably more impressive than people who can solve it really quickly.It was called the super flip. Now the
+super flip is essentially completely solvedexcept each edge position was flipped
+over.If you take one of those pieces off and turn it around, you get a whole new universeand you can't get back to the solved Rubik's Cube if you do that.Four point three times ten to the nineteen it's a massive number, that is a massive number of combinationsIt's 43 quintillion 252 quadrillion
+3 trillion 274 billion 489 million 856 thousandIt's just a mind-numbing number of
+possible arrangementsSo this was a big craze in the 1980s. Big craze.In the 1880s, exactly 100 years earlier, there was a similar puzzle that was also a big craze.They had their code that checked the
+reduced number of cases.They ran it on the Google servers and they did. They exhaustively checked and we know now fora fact that God's number is 20.Every Rubik's puzzle can be solved in 20 or fewer moves.You might think, well how do we know how? How do we know that?Did we just check all 43.25 billion billion different ways
+of solving it and we effectively did that.And there are 12 factorial ways to
+arrange the edges.

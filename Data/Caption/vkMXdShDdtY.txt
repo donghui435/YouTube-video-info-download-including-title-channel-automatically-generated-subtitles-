@@ -1,0 +1,135 @@
+ED COPELAND: Hello.BRADY HARAN: I was going to ask
+you to describe this interms that you would describe
+it to, say, your daughter.And then I remembered
+your daughter doeseconomics at Cambridge.ED COPELAND: Yeah.BRADY HARAN: So let's
+not do that.Let's describe this as you
+should describe to me, maybe.TONY PADILLA: OK, so there's
+been a very excitingbreakthrough in the field
+of number theory.It caused an awful lot of
+excitement amongst themathematicians, as excited as
+mathematicians can get.And the crazy thing about it
+is that it's come fromsomebody who's pretty
+much unknown.It's a guy called Yitang
+Zhang, which isa pretty cool name.And he does work at the
+University of New Hampshire.ED COPELAND: It's about prime
+numbers, the things thatcertainly got me into maths.TONY PADILLA: In fact, he really
+struggled to get anacademic job.He worked for a time
+in Subway.ED COPELAND: There are some
+amazing properties of primes.And they've led to lots of
+conjectures that haven't yetbeen proven.TONY PADILLA: There's nothing
+wrong with working in Subway.But normally, these
+breakthroughs are achieved bythose that are working at
+Princeton, Harvard, thesekinds of really elite places.And now we've got somebody who's
+literally come out ofnowhere, that no one expected to
+produce this kind of resultand has done something really
+impressive that many greatminds were unable to do.ED COPELAND: But one in
+particular doesn't involvemultiplication of primes.It involves additions
+of primes.And it's the fact that there
+seem to be an endless seriesof primes which differ by 2.So the obvious ones are the low
+number primes, so 3 and 5,and 5 and 7, 11 and 13.TONY PADILLA: So these two prime
+numbers are called twinprimes and are called twins
+because they differby this number 2.ED COPELAND: And then there's
+a conjecture that goes backhundreds of years, which says,
+actually, there's an infinitenumber of these.So the highest known pair
+is a remarkable, right?3,756,801,695,685 times 2 to the
+power of 666,689 plus 1 isthe higher of the
+pairs of primes.And if I take away 1, it
+gives me the lower ofthe pairs of primes.BRADY HARAN: That's epic.ED COPELAND: It's an epic.Just to remind you, the lower
+ones that we were describingwere 3 and 5, and 5
+and 7, et cetera.So to be able to do that and
+show that that's a pair ofprimes that differ by
+2 is remarkable.TONY PADILLA: So these ones that
+differ by 2 are calledtwin primes.You also get, of course,
+ones that differ by 4.These are called
+cousin primes.And there's even those
+that differ by 6.And these are called sexy
+primes, which I think you'vedone as well.Why can't you have prime number
+that differ by 7?BRADY HARAN: You can't have
+prime numbers that differ by 7because one of them will
+be an even number.TONY PADILLA: Exactly, Brady.Well done.So we know that there definitely
+are an infinitenumber of prime numbers.And I can prove that for
+you if you want.BRADY HARAN: We've done that.TONY PADILLA: You've
+done that.I thought you had.OK, so you know that
+there's an infinitenumber of prime numbers.What people aren't sure about is
+that there are an infinitenumber of prime numbers
+that differ by 2.But it's believed to be true.ED COPELAND: And so the goal
+is to try and show this.And it's never been shown.But what has been shown, for
+the first time, is that youcan bound the difference
+between two primes.And somebody has shown-- in
+fact, Yitang Zhang, from theUniversity of New Hampshire,
+has shown that there is abound between two primes, let's
+say one prime a andanother prime b.And that bound is that it can be
+some number N. And so if Nwould be 2, for the case that
+we're interested in here-- andthat's the ultimate case that
+people are interested in.But what he's managed to show is
+there is some number N forwhich for an infinite number
+of primes, a and b, this isgoing to be less than or
+equal to 70 million.BRADY HARAN: So just to be
+clear, two primes can beseparated by more
+than 70 million?ED COPELAND: Oh yes,
+yes, yes, they can.But what he's shown is that--
+and in fact, the conjecture isthat every single even number,
+there is an infinite number ofprimes that can be separated
+by that amount.So here, the even number
+is 2, right?So the conjecture is there's an
+infinite number of pairs ofprimes which are
+separated by 2.But there's also a conjecture
+that there's an infinitenumber of pairs of primes
+separated by 4, and aninfinite number separated
+by 6, and 8, andin fact, up to infinity.So that all the even numbers,
+the conjectures are there arean infinite number of primes
+separated by that amount.But no one has been able to
+show that's true of anynumber up to now.And what he has demonstrated
+is there are an infinitenumber of primes which will be
+separated by a number N whichhe hasn't yet calculated, but
+he knows that it's less than70 million.TONY PADILLA: There're an
+infinity of these guys.[PHONE RINGING]TONY PADILLA: Oh, god.BRADY HARAN: What?Take two.TONY PADILLA: Hello.Hi, babe.I'm in the middle of
+doing a video.Well, I've got to answer
+it so it stops ringing.All right, call you back
+when we're done.All right, see you in a bit.BRADY HARAN: Was that Ed?TONY PADILLA: No, it was--ED COPELAND: The mathematicians
+who work onprime numbers will now, no
+doubt, be scouring over whathe has done and trying to
+knock this number down.I mean, I was already hearing
+about one of the key peopleinvolved, a guy called Goldston,
+who's talked aboutit might be immediately
+possible to knock thisdown to about 16.And that's a lot closer
+to 2 than 70 million.But of course, he has
+a very nice way ofdescribing this value.Maybe 70 million means the
+primes are not twins, butthey're certainly siblings.TONY PADILLA: But why
+is it amazing, Ithink, is more the point.Why is it really incredible?Well, there's a sort of nice
+way to illustrate this.One thing we know is that
+obviously, there are aninfinite number of
+prime numbers.But the gaps between the prime
+numbers, generically, getbigger and bigger and bigger.In fact, you know that
+for the first N--for prime numbers between 0 and
+N, the average gap is oforder log of N. It's a function,
+but this is a bignumber, is the point.It's not as big as N, but
+it's a big number.OK, so let me illustrate what
+that means in practice.So imagine you had a scenario
+where you've got a world withall the numbers.And there's some rule--and I'm just going to impose
+this rule because I'm king ofthis world--that says that prime numbers
+can only fall in love withother prime numbers.OK, so the idea is that
+you go on dates withyour nearest neighbors.And do you fall in
+love or not?So for the prime numbers at the
+lower end of the numberspectrum, they've got it made.3 gets it down with 5.7's getting it on with 11.They don't have to go
+very far before theyfind their true love.But when you get up to, say,
+googolplex, in principle, onaverage, you expect to go on of
+order a googol dates beforeyou're likely to find
+your true love.Because the prime numbers
+are so far apart at thatlarge end of things.So it's a pretty loveless place
+at that end of things.So you get to bigger and bigger
+numbers, you mightthink there's just no
+way you're going tofind your true love.And you probably won't even
+bother going out of thehouse.You'd just stay
+in and watchJeremy Kyle or something.But what is actually true,
+though, what Zhang has shownus, is that for some lucky prime
+numbers at that veryhigh end of things,
+they actually--and it's always the case-- there
+are some that actuallywill only have to go on about
+70 million dates before theyfind their true love.So there are always some prime
+numbers which are relativelyclose together.BRADY HARAN: 70 million seems
+such an arbitrary number.ED COPELAND: Yeah.BRADY HARAN: And it's like, if
+it's possible to explain, howhas that fallen out
+of this proof?ED COPELAND: 2, 3, 4, 5, 6.TONY PADILLA: OK, so when people
+do number theory, howdo they actually go about
+doing these proofs?They tend to use sieve theory.

@@ -1,0 +1,78 @@
+In a previous video,
+we derived the formulafor the sum of a
+finite geometric serieswhere a is the first term
+and r is our common ratio.What I want to do
+in this video is nowthink about the sum of an
+infinite geometric series.And I've always found this
+mildly mind blowing because,or actually more than mildly
+mind blowing, because you'retaking the sum of an infinite
+things but as we see,you can actually
+get a finite valuedepending on what
+your common ratio is.So there's a couple of
+ways to think about it.One is, you could
+say that the sumof an infinite
+geometric series is justa limit of this as n
+approaches infinity.So we could say,
+what is the limitas n approaches infinity of
+this business, of the sum from kequals zero to n of
+a times r to the k.Which would be the same
+thing as taking the limitas n approaches infinity
+right over here.So that would be the
+same thing as the limitas n approaches infinity
+of all of this business.Let me just copy
+and paste that so Idon't have to keep
+switching colors.So copy and then paste.So what's the limit as n
+approaches infinity here?Let's think about
+that for a second.I encourage you to
+pause the video,and I'll give you one hint.Think about it for r
+is greater than one,for r is equal to
+one, and actuallylet me make it
+clear-- let's thinkabout it for the absolute
+values of r is greater than one,the absolute values
+of r equal to one,and then the absolute
+value of r less than one.Well, I'm assuming
+you've given a go at it.So if the absolute value
+of r is greater than one,as this exponent explodes,
+as it approaches infinity,this number is just going
+to become massively,massively huge.And so the whole thing
+is just going to become,or at least you could
+think of the absolute valueof the whole thing,
+is just goingto become a very, very,
+very large number.If r was equal to one,
+then the denominatoris going to become zero.And we're going to be
+dividing by that denominator,and this formula
+just breaks down.But where this formula
+can be helpful,and where we can get
+this to actually give usa sensical result, is when
+the absolute value of ris between zero and one.We've already talked
+about, we're not evendealing with the
+geometric, we're not eventalking about a geometric
+series if r is equal to zero.So let's think about the case
+where the absolute value of ris greater than zero,
+and it is less than one.What's going to
+happen in that case?Well, the denominator is going
+to make sense, right over here.And then up here,
+what's going to happen?Well, if you take something
+with an absolute valueless than one, and you take it
+to higher and higher and higherexponents, every time you
+multiply it by itself,you're going to get a number
+with a smaller absolute value.So this term right over
+here, this entire term,is going to go to zero
+as n approaches infinity.Imagine if r was 1/2.You're talking about 1/2
+to the hundredth power,1/2 to the thousandth power,
+1/2 to the millionth power,1/2 to the billionth power.That quickly approaches zero.So this goes to zero if
+the absolute value of ris less than one.So this, we could argue, would
+be equal to a over one minus r.So for example, if I had
+the geometric series,if I had the infinite
+geometric series--let's just have a simple one.Let's say that my
+first term is one,and then each successive term
+I'm going to multiply by 1/3.So it's one plus 1/3
+plus 1/3 squared plus 1/3to the third plus, and I were
+to just keep on going forever.This is telling us that that
+sum, this infinite sum--I have an infinite
+number of terms here--this is a pretty
+fascinating concept here--will come out to this.It's going to be my
+first term, one, over oneminus my common ratio.My common ratio in
+this case is 1/3.One minus 1/3, which is the
+same thing as one over 2/3,which is equal to 3/2, or you
+could view it as one and 1/2.That's a mildly amazing thing.

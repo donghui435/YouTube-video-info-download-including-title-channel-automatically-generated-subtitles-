@@ -1,0 +1,81 @@
+TONY PADILLA: We're going to
+do Buffon's needle trick.So this is named after Georges
+Louie Leclerc, and this is amethod that he proposed
+for working out pi.So basically he proposed that
+you would chuck a bunch ofneedles just randomly
+on a floor.You can work out pi
+from that, yeah.BRADY HARAN: Go on, then.TONY PADILLA: Due to
+the random nature.So anyway, we haven't got
+needles, and we're not goingto do it on a floor.We're going to do it on
+one of Brady's lovelybrown pieces of paper.And we're going to use matches
+instead, because we're cheap.So what we want is we want to
+draw some lines on this.So there's one line.And what we want is we want the
+gaps between lines to betwo matches long.This is all very approximate.What we're going to do is we're
+going to chuck a bunchof matches on this board.So I'll just chuck the first
+two completely randomly.We need a lot of matches
+for this.If I counted these right,
+we should have 163.Let's just spread them out.So hopefully, there should
+be 163 matches randomlydistributed around this board.Now, this is what I've gotta do
+now, is I'm going to counthow many matches cross a line.OK, so I reckon that one does.So you count, Brady,
+that was 1, 2, 3.5, 6, 11, 12.13, 14, 51, and I
+think that's it.52.52 matches that cross
+the lines.There's 163 in total.Now, let's see.Let's do the following
+calculation.So 163 divided by 52
+is equal to 3.13.And that's not bad.That's not bad, I'm quite
+happy with that.BRADY HARAN: That's
+very close.TONY PADILLA: Yeah, yeah.So pi is 3.141.So this is not bad.OK, so why isn't it perfect?Because this is not a
+very large sample.Viewers could have a little
+go themselves.Just literally play
+the same game.If you've got more matches,
+that's better.You'll get a better accuracy.There was a mathematician
+called Lazarine.He used over 3,000 needles, and
+he actually managed to getpi accurate to I think it was
+about six decimal places.What we're seeing here is
+something is akin to a MonteCarlo simulation.That's what it's called.You basically take
+a random sample.The reason you get pie out of
+this is it's all to do withthe angle that the match takes
+as playing some role here.And of course if you're working
+in radians, if you gothrough a full 360 degrees,
+well, in radians that's 2 pi.OK, so that's where pi's coming
+into this game, andthat's why you can get pi
+out of this sort ofsetup, because the angle.So we're going to try and
+explain the maths of it now.Let me say, imagine that the
+length of the match is l, andthat means that the distance
+here is 2l.There's a few things that
+play a role here.There's the position of the
+center of the match, whichI'll call there.We'll say that's a distance
+x from here.And then the other thing that
+we're interested in is theangle the match is making.So let's just draw it,
+I guess, like so.We're interested in
+that angle beta.Assuming everything's
+completely random.how do we measure the
+probability of where thecenter of the match is?Well, the probability density
+of the center of the match,which is position x, is just
+given by essentially 1/l.The other thing that we're
+interested in isthe angle it makes.So this is sort of a measure
+of the probability of theangle it's making.And basically, the angles that
+we're interested in aresomewhere between 0 and pi/2
+which is of course 90 degrees.This is where the
+pi's coming in.Now, if we want to work out
+essentially the probabilityfor the match to cross the
+line, what we do iswe take these two.We have to do an integration.OK, now there's an important
+point here.What's the condition for the
+match to cross the line?Well, the condition for the
+match to cross the line isthat x should be less
+than l/2 sine theta.So that means when we do the x
+integration, we go between 0and l/2 sine theta.OK, and of course when we do the
+theta integration, we'regoing between 0 and pi by 2.So we do it, theta equals 0,
+this is pi/2, 2 over l pi.2 over l pi.When we do the x integration, we
+get an l over 2 sine theta.And then we integrate sine theta
+between 0 and pi by 2.That gives me 1, and I've
+got the 1/pi there, sothe answer is 1/pi.This tells me the probability
+that you're going to cross theline, right?So if I've got n matches, and
+I want to work out how manycross, let me call them--
+so this is the n total.And I want to work out
+how many cross.Then I just multiply
+and total that.1/pi.So n total is 163.And n crossing was 52, I think
+we got, didn't we?OK.So what you see from that
+if we've got 163/pi.Let's put an approximate
+sign in there.Approximately 52, or if you
+like, what we actually saw wasthat pi, just rearrange
+this equation, soapproximately 163/52.Yeah, I'm happy with that.Yeah, yeah.That's good.So that's how it works.That's the theory behind it.

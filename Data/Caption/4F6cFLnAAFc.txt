@@ -1,0 +1,119 @@
+We're asked to simplify r to the
+2/3 s to the third, thatwhole thing squared.Times the square root of 20r to
+the fourth s to the fifth.Now this looks kind of daunting,
+but I think if wetake it step by step it
+shouldn't be too bad.So first we can look at this
+first expression right herewhere we're taking this product
+to the second power.We know that instead we can take
+each of the terms in theproduct to the second power
+and then take the product.So this is going to be the same
+thing as r to the 2/3squared times s to the
+third squared.And now let's look at this
+radical over here.We have the square root, but
+that's the exact same thing asraising something to
+the 1/2 power.So this is equal to--
+so times this part.Let me do this in a
+different color.This part right here, that
+is the same thing as 20.And instead of just writing
+20, let me write 20 as theproduct of a perfect square
+and a non-perfect square.So 20 is the same thing
+as 4 times 5.That's the 20 part.Times r to the fourth times
+s to the fifth.Now let me write s to the fifth
+also as a product of aperfect square and a
+non-perfect square.r to the fourth is obviously
+a perfect square.Its square root is r squared.But let's write s to the
+fifth in a similar way.So s to the fifth we can
+rewrite as s to thefourth times s.Right?S to the fourth times s to the
+first, that is s to the fifth.And of course, all of this has
+to be raised to the 1/2 power.Now let's simplify
+this even more.If we're taking something to the
+2/3 power and then to thesecond power, we can just
+multiply the exponents.So this term right here,
+we can simplify this asr to the 4/3 power.And just as a bit of review,
+taking something to the 4/3power, you can view it as either
+taking-- finding itscube root, taking it to the 1/3
+power, and then taking itscube root to the fourth power.Or you can view it as taking
+it to the fourth power andthen finding the cube
+root of that.Those are both legitimate ways
+of something being raised tothe 4/3 power.So you have r to the 4/3 times
+s to the 3 times 2.Times s to the sixth power.And then we could raise each of
+these terms right here tothe 1/2 power.So times-- let me color
+code it a little bit.And we actually wouldn't
+need theparentheses once we do that.Times 4 to the 1/2 times
+5 to the 1/2.That term right there.Times r to the fourth
+to the 1/2 power.Times-- I might run out of
+colors-- s to the fourth tothe 1/2 power.We're raising each of these
+terms to that 1/2 power.Times s to the 1/2 power.There's a lot of ways we can
+go with this, but the onething that might jump out is
+that there are some perfectsquares here and we're raising
+them to the 1/2 power.We're taking their
+square roots, solet's simplify those.So this 4 to the 1/2, that's
+the same thing as 2.We're taking the principal
+root of 4.5 to the 1/2?Well, we can't take the square
+root of that, so let's justwrite that as the square
+root of 5.r to the fourth to the 1/2.There's two ways you
+can think about it.4 times 1/2 is 2.So this is r squared.Or you could say the
+square root of r tothe fourth is r squared.So this is r squared.Similarly, the square root of
+s to the fourth or s to the1/2 is also s squared.And then this s to the 1/2,
+let's just write that as thesquare root of s.Just like that.Let's see what else
+we can do here.Let me write these other terms.
+We have an r to the 4/3times s to the sixth times 2
+times square root of 5 times rsquared times s squared times
+the square root of s.Now, a couple of things
+we can do here.We could combine these s
+terms. Let's do that.Actually, just write the 2 out
+front first. So let's writethe 2 out front first.
+So you have 2 times.Now let's look at these
+two s terms over here.We have s to the sixth
+times s squared.When someone says to simplify
+it, there's multipleinterpretations for it.But we'll just say s to the
+sixth times s squared.That's s to the eighth.6 plus 2.Times s to the eighth power.Times-- now this one's
+interesting and we might wantto break it up depending on what
+we consider to be trulysimplified.We have r to the 4/3
+times r squared.r to the 4/3 is the same thing
+as r to the 1 and 1/3.That's what 4/3 is.So 1 and 1/3 plus
+2 is 3 and 1/3.So we could write this times
+r to the 3 and 1/3.That's a little inconsistent.Over here I'm adding
+a fraction.Over here with the s I kind of
+left out the s to the 1/2 fromthe s's here.But we could play around with
+it and all of those would bevalid expressions.So we've already dealt
+with the 2.We've already dealt with
+these two s's.We've already dealt
+with these r's.And then you have the square
+root of 5 times thesquare root of s.And we could merge them
+if we want, but Iwon't do it just yet.Times the square root of 5 times
+the square root of s.Now there's two ways
+we could do it.We might not like having a
+fractional exponent here.And then we could
+break it out.Or we might want to take this
+guy and merge it with theeighth power.Because you know that
+this is the samething as s to the 1/2.So let's do it both ways.So if we wanted to merge all
+of the exponents, we couldwrite this as 2 times s to the
+eighth times s to the 1/2.So s to the eighth
+and s to the 1/2.That would be 2 times s
+to the 8-- I can evenwrite it as a decimal.8.5.8 plus-- you could imagine this
+is s to the 0.5 power.So that's 8.5 times r
+to the 3 and 1/3.I'm kind of mixing
+notations here.I have just a decimal notation,
+then I have afraction notation, mixed
+number notation.Times the square root of 5.This is one simplification.I kind of have it in the
+fewest terms possible.The other simplification if you
+don't want to have thesefractional exponents out here,
+you could write it as-- I'lldo this in a different color.You could write this-- and
+these are all equivalentstatements.So it's up to debate what
+simplified really means.So you could write this as
+2 times s to the eighth.Instead of writing r to the 3
+and 1/3, we could write r tothe third times the cube root of
+r, which is the same thingas r to the 1/3.We could write r to the third
+times r to the 1/3.r to the 1/3 is the same thing
+as the cube root of r.And then you have the square
+root of these two guys.Both of these guys are being
+raised to the 1/2 power.So you could then say times
+the square root of 5s.I like this one a little bit
+more, the one on the left.To me this is really
+simplified.We've merged all of the bases.We have these two numbers, we've
+merged all the s terms,all the r terms. This is a
+little bit more complicated.You have a cube root.You haven't separated
+the s's and the r's.So I would go with this one if
+someone really wanted me--said hey, Sal, simplify
+it how you like.

@@ -1,0 +1,82 @@
+So I mentioned in passing in another video
+that if you throw a dart at the real numberline your chance of hitting a rational number
+is exactly zero.And there's no tricks here, the dart is guaranteed
+to land on the line, and there are an infinitenumber of rational numbers on the number line,
+just waiting to be hit.Rational numbers flooding into every crevice
+between two other rational numbers, everypossible ratio of one integer to another,
+so many numbers, but yeah, the dart won'thit any of those.0%.Really, actually, 0.Think about them written out with all their
+digits.There¡¯s some nice simple numbers with a
+finite number of non-zero digits before it'sinfinite zeroes.Then there¡¯s rational numbers with repeating
+digits.Every rational number has a section that repeats
+infinitely, sometimes it's just a repeatingzero, sometimes a single digit, and sometimes
+many digits.The repeating sections may get longer and
+farther as you get more and more between,but if it can be represented by a fraction,
+it can be represented with a repeating decimal.And you can make up any set of repeating digits,
+and it will be a rational number: the repeatingsection over an equal amount of 9s. .1repeating
+is 1/9, .11repeating is the same thing, 11/99or 111/999, it's all 1/9th, and of course
+2 times .1repeating is .2repeating or 2/9,.3repeating is 3/9 or 1/3.12345678901234567890 repeating is 1234567890/9999999999..9repeating is 9/9.A number that repeats infinitely has only
+finite information.But when you don¡¯t repeat, there¡¯s just
+so many more possibilities.Any infinite sequence of numbers can make
+a real number, and if it doesn¡¯t repeat,the number's irrational.You could make a random irrational number
+between 3 and 4 by starting with 3 and rollinga 10-sided die an infinite number of times
+for the digits.What are your chances of getting exactly pi?What if you wanted a rational number that
+ended in repeating digits, like 3+1/3?How long could you expect to keep rolling
+3s, on a fair die?Doesn't matter how lucky you are; if you literally
+roll infinite times, the chance of all 3sis zero, exactly zero.You'll eventually roll something else, and
+then even if you go back to threes for a while,you'll eventually roll something else again.Same with any rational: imagine rolling a
+dice and getting the same repeating sequenceover and over every time you roll it.How long would you realistically expect that
+to last?Forever and ever through infinite rolls?No chance.Of course, the chance of getting all 3s is
+the same as the chance of getting any particularnumber, and if the chance of getting any particular
+number is exactly zero then how can you hitany number?It calls into question the very process of
+how to pick a random real number, becauseyou can't actually define a real number through
+a series of random dice rolls, and math hasproblems with randomness in general, and a
+single infinite random numbers would be infiniteinformation which doesn't fit in our universe...But before we get to transcendentals, let's
+talk algebraic.Algebraic numbers can by definition be defined
+with algebra. (which, spoiler alert, othernumbers can't.)So for example every rational number can be
+defined as some finite combination of digits,a division sign, and another finite combination
+of digits, and throw a minus sign into thefirst symbol's mix, but you can also use other
+symbols to get irrational numbers.Some irrational numbers can be defined very
+simply with just a couple algebraic symbols,like sqrt2, or just a few algebraic symbols,
+like Phi the so-called golden ratio whichis exactly (1+sqrt 5)/2.Then, some numbers can only be defined as
+part of an unsolved equation, here there'sno algebraic way to solve for x, you can only
+approximate.But we don't care if we can solve for x as
+long as we can fully define it, no approximations.Which, by the way, it's totally crazy that
+you can make up algebraic equations that algebracan't solve, but also entirely inevitable,
+and a hint that there's much cooler math lurkingbeyond algebra.And you can totally list the number of possible
+combinations of algebraic symbols, startingwith combinations of 1 symbol and then listing
+all valid combinations of 2 symbols and then3 and so on up until an arbitrarily large
+but finite number of symbols.You'll have a lot of combinations that aren't
+valid or that are equal to earlier ones sothey don't need to go on the list.But since you can list all possible algebraic
+numbers, they match up 1 to 1 with the countingnumbers, there's exactly as many, they have
+cardinality aleph null.This also matches up 1 to 1 with trying to
+list all numbers in decimal by putting togetherall combinations of digits, which is something
+a lot of people mentioned in response to Cantor'sDiagonal proof.Does this process get you all the numbers?Well, it gets you all possible finite combinations
+of digits, but nothing with infinite digits,no irrational numbers, and not most of the
+rationals either, since most rational numbersend in an infinitely repeating series.It's not a one-to-one number correspondence
+unless you can make a function that tellsme exactly which unique entry on the list
+corresponds to pi, and which to 1/3, and whichto champernowne's constant... and the answer
+can't be "it gets to the irrationals at infinity"because first that's not a whole number and
+second that's not one to one, so, yeah, probablynot a one to one number correspondence.It's so simple to list all possible combinations
+of algebraic symbols, but this list will neverget to the numbers that would take an infinite
+amount of symbols to define, just as listingall combinations of digits will never get
+to numbers with infinite digits.These non-algebraic numbers are the trancendental
+numbers, they transcend algebra.And even if there is some infinite way to
+define them, this list of all combinationsstill never gets there.Maybe there's a way to approach a given transcendental
+number with a pattern that makes sense, likefor pi and e, but for most numbers we have
+no idea how to define them or whether theycan be defined at all.You hit a random real number with a dart and
+we don't even know how to look at the result,how to differentiate it from all the ones
+around it.Does the dart give results in decimal?Because no finite amount of digits will tell
+you what this number is.Does the dart report back in algebraic symbols?Because there's a 0% chance that you've hit
+a number that can be defined with a finiteamount of algebraic symbols.Somehow, out of the uncountably infinite set
+of transcendental numbers, 100% of real numbers,most people only know Pi and e and maybe,
+like, champernowne's constant, and... whatelse is transcendental?Well, maybe one reason most people don't know
+more transcendental numbers is that nobodyknows very many transcendental numbers, the
+field of mathematics is a little slow on figuringout how to prove whether numbers are transcendental
+or not, there's lots of open questions inTranscendence Theory, like, we don't even
+know whether Euler's constant is irrationalmuch less transcendental-- super embarrassing...
+or maybe it's rational or maybe tomorrow someonewill come up with an algebraic equation for
+it or maybe someone will prove that you can'tprove whether or not you can prove it's transcendental.I mean, that kind of thing happens.Sometimes.Anyway, I think most people's problem with
+Cantor's Diagonal Proof is actually a problemwith Real Numbers, with the idea that there
+are numbers that cannot be defined, that haveany arbitrary combination of infinite digits,
+infinite information, because yeah, that'spretty weird.Whoever decided to call them "real" numbers
+didn't think that one through.Thanks a lot, Descartes.

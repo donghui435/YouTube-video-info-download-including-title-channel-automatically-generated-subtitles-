@@ -1,0 +1,136 @@
+ Now let's start to do some
+more interesting problems.And one of these things that
+you'll find in probabilityis that you can always do
+a more interesting problem.So now I'm going to
+think about-- I'mgoing to take a
+fair coin, and I'mgoing to flip it three times.And I want to find the
+probability of at leastone head out of the three flips.So the easiest way
+to think about thisis how many equally likely
+possibilities there are.In the last video, we saw
+if we flip a coin 3 times,there's 8 possibilities.For the first flip,
+there's 2 possibilities.Second flip, there's
+2 possibilities.And in the third flip,
+there are 2 possibilities.So 2 times 2 times 2-- there are
+8 equally likely possibilitiesif I'm flipping a coin 3 times.Now how many of
+those possibilitieshave at least 1 head?Well, we drew all the
+possibilities over here.So we just have to
+count how many of thesehave at least 1 head.So that's 1, 2, 3, 4, 5, 6, 7.So 7 of these have at
+least 1 head in them.And this last one does not.So 7 of the 8 have
+at least 1 head.Now you're probably
+thinking, OK, Sal.You were able to do
+it by writing outall of the possibilities.But that would be
+really hard if Isaid at least one
+head out of 20 flips.This had worked well
+because I only had 3 flips.Let me make it clear,
+this is in 3 flips. This would have
+been a lot harderto do or more time consuming
+to do if I had 20 flips.Is there some shortcut here?Is there some other
+way to think about it?And you couldn't just do
+it in some simple way.You can't just say,
+oh, the probabilityof heads times the probability
+of heads, because if you gotheads the first
+time, then now youdon't have to get heads anymore.Or you could get heads
+again-- you don't have to.So it becomes a little
+bit more complicated.But there is an easy way
+to think about it whereyou could use this
+methodology right over here.You'll actually see
+this on a lot of examswhere they make it seem
+like a harder problem,but if you just think about in
+the right way, all of a suddenit becomes simpler.One way to think about it is
+the probability of at least1 head in 3 flips
+is the same thing--this is the same thing--
+as the probability of notgetting all tails, right?If we got all tails, then we
+don't have at least 1 head.So these two things
+are equivalent.The probability of getting
+at least 1 head in 3 flipsis the same thing
+as the probabilityof not getting all
+tails in 3 flips. So what's the probability
+of not getting all tails?Well, that's going to be 1
+minus the probability of gettingall tails.The probability of getting
+all tails, since it's 3flips, it's the probability
+of tails, tails, and tails.Because any of the
+other situationsare going to have at
+least 1 head in them.And that's all of the
+other possibilities,and then this is the only
+other leftover possibility.If you add them together,
+you're going to get 1.Let me write it this way.Let me write it a
+new color just so yousee where this is coming from.The probability of not all
+tails plus the probabilityof all tails-- well, this
+is essentially exhaustive.This is all of the
+possible circumstances.So your chances of getting
+either not all tailsor all tails-- and these
+are mutually exclusive,so we can add them.The probability of not all
+tails or, just to be clearwhat we're doing, the
+probability of not all tailsor the probability of all tails
+is going to be equal to one.These are mutually exclusive.You're either going to
+have not all tails, whichmeans a head shows up.Or you're going
+to have all tails.But you can't have both
+of these things happening.And since they're
+mutually exclusiveand you're saying the
+probability of thisor this happening, you could
+add their probabilities.And this is essentially
+all of the possible events.So this is essentially,
+if you combine these,this is the probability of
+any of the events happening.And that's going to
+be a 1 or 100% chance.So another way to think
+about is the probabilityof not all tails
+is going to be 1minus the probability
+of all tails.So that's what we
+did right over here.And the probability of all
+tails is pretty straightforward.That's the probability
+of it's goingto be 1/2, because you have
+a 1/2 chance of gettinga tails on the
+first flip, times--let me write it here, so we
+can have it a little clearer.So this is going to be 1 minus
+the probability of gettingall tails.You will have a 1/2
+chance of getting tailson the first flip,
+and then you'regoing to have to get another
+tails on the second flip,and then you're
+going to have to getanother tails on the third flip.And then 1/2 times
+1/2 times 1/2.This is going to be 1/8.And then 1 minus
+1/8 or 8/8 minus 1/8is going to be equal to 7/8.So we can apply that to
+a problem that is harderto do than writing
+all of the scenarioslike we did in
+the first problem. Let's say we have 10 flips,
+the probability of at least onehead in 10 flips-- well,
+we use the same idea.This is going to be equal
+to the probability of notall tails in 10 flips. So we're just saying
+the probabilityof not getting all of the
+flips going to be tail.All of the flips is tails--
+not all tails in 10 flips.And this is going to be 1 minus
+the probability of flippingtails 10 times.So it's 1 minus
+10 tails in a row. And so this is going to be equal
+to this part right over here.Let me write this.So this is going to be this one.Let me just rewrite it.This is equal to 1 minus-- and
+this part is going to be, well,one tail, another tail.So it's 1/2 times 1/2.And I'm going to
+do this 10 times. Let me write this
+a little neater.1/2-- so that's 5,
+6, 7, 8, 9, and 10.And so we really just have to--
+the numerator is going to be 1.So this is going to be 1.This is going to be equal to 1.Let me do it in that
+same color of green.This is going to be equal
+to 1 minus-- our numerator,you just have 1 times
+itself 10 times.So that's 1.And then on the denominator,
+you have 2 times 2 is 4.4 times 2 is 8, 16, 32, 64, 128,
+256, 512, 1,024-- over 1,024.This is the exact same thing
+as 1 is 1024 over 1024 minus 1over 1024, which is equal
+to 1,023 over 1,024.We have a common
+denominator here.So 1,000-- I'm doing that
+same blue-- over 1,024.So if you flip a coin 10
+times in a row-- a fair coin--you're probability of
+getting at least 1 headsin that 10 flips is pretty high.It's 1,023 over 1,024.And you can get a calculator
+out to figure that outin terms of a percentage.Actually, let me just
+do that just for fun.So if we have 1,023 divided
+by 1,024 that gives us-- youhave a 99.9% chance
+that you're goingto have at least one heads.So this is if we round.This is equal to 99.9% chance.And I rounded a little bit.It's actually slightly, even
+slightly, higher than that.And this is a pretty powerful
+tool or a pretty powerful wayto think about it because
+it would have taken youforever to write all
+of the scenarios down.In fact, there would have been
+1,024 scenarios to write down.So doing this
+exercise for 10 flipswould have taken
+up all of our time.But when you think about in a
+slightly different way, whenyou just say, look the
+probability of getting at least1 heads in 10 flips
+is the same thingas the probably of
+not getting all tails.And that's 1 minus
+the probabilityof getting all tails.And this is actually a pretty
+easy thing to think about. 

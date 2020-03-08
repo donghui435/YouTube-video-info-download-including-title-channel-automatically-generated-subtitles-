@@ -1,0 +1,27 @@
+Well, I'm going to bring you back to the sixteenth century first.The Italians, especially, were interested in cubic polynomialsx cubed plus, oh, five x plus seven, something of that sortNow I'll draw you the graph of any of these cubic polynomialsThat is to say I'll draw it qualitatively. 
+Unless you're particularly perversein your choice of cubic polynomial it's
+gonna look sort of like thatBrady: this kind of distinctive wiggleBarry Mazur: there's a wiggle there. There's a ... it
+looks like it's getting to a maximumand then it changes its mind, then goes to a dip there, and then it thinks 'oh gosh this is a valley' and thenespecially if the coefficient of the X
+cube is positive it'll go thphsssssoff to plus infinityotherwise it will be reversed 
+I'll draw you a few of themnow you might say why did I call this a few of them
+rather than just onethe reason is I haven't told you where
+the x-axis is and I can change mycubic polynomial by adding a constantso raising its graph by adding a constant
+or lowering its graph by subtracting a constantso maybe the x-axis of this one is therethe x-axis of this one is thereand the x-axis of this one is there
+now once I have told you when the x-axis isI can tell you when this polynomial
+is zeroat least graphically because the 0s of this
+cubic polynomial will just bewhere its graph intersects the x-axisso this one has only a single 0 therethis one has only a single 0 hereand this one has 3 of emthese would be the solutions to the
+equation afor example this one, we will have
+to figure out which of these three it isbut doesn't matterwe're looking for solutions to equations
+of this sortso as I say unless you're really
+perverse you either have one or three solutionsand it's the 16th century that people began to get formulas and equationsfor the solutions of cubic polynomialsthat if they for the solutions ... when a
+cubic polynomial,of a problem, when a cubic polynomial is 0now, something very funny happenedyou think, this guy has three solutions so it must be easier to find them because they are 3 of emrather than these two which have only one but it's 
+quite the reversebe equations that lead to you to a solution for either of these two, are, wellthey're a bit of algebra, but a bit of algebra that's perfectly happily in the, sort of, mental theatreof the 16th century people. 
+This one was a weirdy, it was weird.and in order to solve this, these are real numbers so all you have to do is work in real numbersthis one too, you work in real numbers and you get be
+solutionfor this one something very funny happenedI need another sheet of paper
+Brady: you can have as many as you ...Barry Mazur: well this is the toughie and now for this one of course the equation for this is real numbersthe solutions, there are three of them, are realand in order to pass from the cubic equation to the solution you have to do various thingsand what seemed a little perturbing, in fact very perturbing, to the 16th century people was this passageyou'd have to pass through a regionwhich seem to be (how do I wanna
+put it) out of the familiar mental theatreof the mathematicians of the time. Let us say imaginary numbers or complex numbers I'll say imaginary.Mathematicians were perturbed but not that perturbed. And the first recorded instanceof clear perturbation that I know is around 1545, Cardano, who had to use a certain imaginary numberin fact he had to use the numbers five plus the square root of minus 15and five minus the square root of minus 15in order to solve his equation or to deal with this issue that he writes: "dismissing mental tortures"and multiplying (5 plus the square root of minus 15)times (5 minus the square root of -15)you get, and he tells you how to do it, well the 5 times 5 is 25the square root of minus 15 times the five cancels the minus square root of minus 15 times the 5The 4th term in these crossed terms that you have to consider is the square root of minus fifteen timesminus the square root of minus 15which if you work it out is 15 and so you get 25 plus fifteenequals 40 and he writes "multiplying
+five plus the square root of minus 15 by fiveminus the square root of minus 15 we obtain25 minus minus15 and therefore the product is 40 and
+thus far doesarithmetical subtlety go of whichthis the extremeis as I have said, so subtlethat it is useless"he's saying that he hasn't yetgotten into his mathematical repertoirethis strange creature the square root of minus 15or complex numbers in general and yetcertainly has an intense understandingthat we had betterbegin to deal with it despite the fact
+that it may be subtleand uselessit's the first instance where someone
+complains bitterlyand yet uses such a number 
+Brady: does that still happen now do you think orBarry Mazur: do we complain bitterly about things that we're on the verge of understanding but not quite?You know, I'm about to sayyes it doesn't matter what blobthey are as long as they're similarcouncillor says 'yes' 'what do you call that?' says the king'oh I call that the blah Pythagorean theorem'

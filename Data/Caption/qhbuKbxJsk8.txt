@@ -1,0 +1,73 @@
+ok so to start off I've got 4 images for you.Quick question what do all of
+them have in common. Well, I would bevery surprised if you guess this one here. (Giuseppe) They are full of lines. (M) They are full of lines, they are in a circle.But actually they are pictures of times
+tables. I better explainthis. So to get these pictures what
+you do is you start with a circle andthen you pick a random number. And we just choose something nice to start with, a 10.Then we put 10 points on the on
+the perimeter hereequally spaced and then we label them
+with 1,2,3,4,5,6,7. Actually, let's start with 0--0123456789 1010 we also want, so we kind of put it
+right there again. So that's also 10, that's also 1112 13 14 15 and so on. And then
+again, and so on. So this guy here stands for 1, 11, 21 and so on.And now we're going to do the
+two times table and we'llstart with 0. So 2 times 0  is 0, same thing, so we don't do anything.OK, two times 1 is 2. So we connect the 1 to the 2. Then 2 times 2 is 4, connect the 2 to the 4 and we keep on going, prettyobvious.  Now 2 times 5 is 10 and 
+remember 10 is also over there so we connect that guy up.And then 2 times 6 is 12 which is also the 2 and we justkeep on going like thisokay and then at 9 you pretty much
+gone all the way around now you couldgo on so for example could now do  2
+times 10 and 2 times 11 and 2 times 12 and draw in thoseconnections but actually the connections
+are going to be exactly the ones that we've drawnbefore. Just to illustrate, let's just go up to 2times 12 is 24 which corresponds to
+the 4 and that connection is already there.2 times 13  is 26, and we've already got that. Of course we made a choice at the  beginning that 10If you change  that 10 to anything
+elsewell the picture changes but pretty much
+everything I said stays true.So for example if you switch from 10 to
+11 we get this guy here here. And then 1213 14 15 and let's just see what happens.(Giuseppe) Is there a reason why the diagrams have a horizontal symmetry axis. (M) yep yep yep yep yep there's a reason and let us give this as homework.Guys figure it out in the comments, tell us why there is a horizontal symmetry axis.
+Of course, what's muchmore interesting is that curve that
+somehow magically materializes when youup the number that we chose at the beginning and actually just highlight it a bit.This strange curve got a name and pops
+up all over mathematics, it's called the cardioidlike in cardiology and means heart. So it's like a mathematical heart curve. It comes up in all kinds of places. I'll just show youa few. Ok so for example you can
+have it as a rolling curve rule onecircle around another circle and just
+see what happens to one of the points onthe boundary of the rolling circle and what it does is it traces the cardioid.Now where else can you see it?  Well sometimes you can see it in 
+your coffee cup. If you've got a conicalcoffee cup like this and the Sun is in the
+directions of one of those green linesin the coffee cupthen we can also see it.  Where else? Right
+there in the Mandelbrot set so thebiggest bulb in the Mandelbrot set is a cardioid and the second one is a perfect circle.Now this would be a good oneto figure out why why is this guy
+a cardioid. Just chase this downsomewhere. Now just for those people who know something about the stuff, that's the equation that we useto make up the Mandelbrot set
+and there is a 2 in there. That's importantWe  just had the two times table. Let's
+keep going now(Giuseppe) One more thing about the cardioid shape. As a video producer I know that there is a microphone called cardioid microphoesand that is because they pick up the sound in that area, from that direction. (M) Okay maybe we do another video on this.Now instead of doing the  two times table we can do the the three times table. What weget is this pattern here for initial our
+choice 10 and then I just up up thenumbers and what do we get? Another curve, another very famous
+curve. This is called the nephroid  which means kidney.It's also a rolling curve, here the circle that is rolling is half the size of the other one.It's also in a generalized Mandelbrot set. Remember before wehead an exponent of 2. Now we're
+talking about the three times table wechange the exponent to 3 and you actually
+get the main bulb here being the nephroid.We also get it in the coffee cup. This time we need a straightstraight coffee cup and the light 
+rays come in from one side.So they come in straight like this and
+then they of bounce around insidethe cup and and make up this curve.
+Actually this way of making up a curve is called a catacaustic in mathematics.What else have we got. Four times you can see a pattern now. Four times gets you three petals.Before we had three times and so  two petals and all these otherthings that we've highlighted they work too. Here the the exponent has gone up to to 4in the generalized Mandelbrot set. Here we've got the rolling curve happening again.And then just for good measure
+just one more guy here. That's the 5. It gets fourpetals  and we've got the Mandelbrot set here and we've got the rolling curve.All very neat. (Giuseppe) So the number of petals is n-1?Yep and it keeps on going like this. Ok so let's start again with 2 times table. Now oneone really nice thing to try is to actually
+make increments not one ... to 3 to 4 to 5 butactually do smaller incrementsactually do the transition here
+continuously. I'll just show you what it looks like when I dothe multiplication times 2.1. What you get
+would you get 2.1, 2.2, 2.3, 2.4, 2.5, 2.6,2.7, 2.8, 2.9 and 3 and you can see how this cardioid turns into the nephroid.Now I just let it go.The numbers are going up and you can see the petals going more and more and more.You think well that's probably what
+it's going to be. You can also look atthis in the Mandelbrot set and you
+can actually see exactly this sort ofpattern happening in the middle.As we push the exponent to infinity the
+whole thing kind of turns into one bigcircle. Okay and now you think that's
+ the end of it but no, no, no.Let's keep going here. Now the petals are pretty much going away but ifyou just look at what's happening here
+you see there's a lot more structuresomehow being hinted at. I mean I'm
+moving very fast at the moment movingvery fast but if you actually went
+through this frame-by-frame you would seea lot of really really nice structure
+happening and I've highlighted a bit here.Just a few of the frames that you get
+you know some really amazing stuffhappening here so if you stop at 33 you get this one. If you stop at  34and there are a couple of other highlights here. There are a lot more but that is how
+ many I could fit here.Ok maybe let's have a close look at some of them. So here we've got four. Thenumber that all these correspond to is 200.What we're really doing he has a
+special name in mathematicsSo what we're doing here is 
+the times table modulo 200. So it's got aspecial name. It's actually incredibly
+important in all sorts of applicationsto do this sort of modular arithmetic.
+But paper anyway for our purposesyou know you understand how it's built up
+and if you know a little bit more youknow a little bit more. So for the 2 times table we get the cardioid. For the 34 times table modulo 200we get this guy here and then
+some other interesting things happen.So, for example, if you multiply by 51 we get this guy hereand if you multiply by 99 you 
+get that guy here. And obviously if you just lookat the two numbers here below so 51 is pretty close to 1/4 of 200 somust have something to do is that. 99
+is pretty close to one-half of 200, musthave something to do with that. Now I
+really want to explain something Ireally want to explain where this one
+comes from. And well I mean the first time Isaw it I was pretty surprised like
+everybody else who sees it but then I rememberedsomething I had seen the cardioid before in you know many many different guises and inone particular one that I was familiar
+with I could see where the connection is.I just want to tell you about that one
+and it's got to do with these light raysbouncing around. It's a little bit different
+from what we had before. So basically we've got acircle here and then we've got a light
+source right over on that side. And that circlereflects the light right, so we switch on
+the light over there and then well whathappens?Well light rays emanate in all kinds of directions and get reflected off thecircle bounce around and you can see
+this pattern emerging, the cardioid. So Iknew this one I had actually calculated
+this curve from this description at some point inuniversity.  And starting with this you can actually see very easily why the cardioid comes upin the two times table and I just want to show you.Let's just highlight like one of those rayscoming out here. It hits the wall here
+and then it gets reflected at the sameangle as it comes in, so this angle that you see here is the same asit comes in.  So what does that tell us now? Well,if we if we put this line in the middlethat means that this side really flips over
+to that side, which means that thissegment in particular is exactly as long
+as that one here. If I travel  fromthis light bulb to this point and then from
+this point to that point it's exactly thesame distance, that's going to be important. So let's make this 0 let's call thisN. What's 2N then? To get 2N we have to measure thisdistance here and then we have to measure it again and where do we get?
+Right up there !And so it's pretty clear that when you do the 2 times thing you get that reflected ray, youknow, in the picture. Just to finish off I'll show you a little bit of a movie of all the stuffevolving a little bit slower than what
+we had before.

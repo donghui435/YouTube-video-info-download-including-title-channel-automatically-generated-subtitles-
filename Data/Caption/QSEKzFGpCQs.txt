@@ -1,0 +1,111 @@
+DR. TONY PADILLA: The GIMPS
+have been at it again.They've found a new prime
+number, the largest primenumber that's been
+found to date.The GIMPS, of course, are the
+Great Internet Mersenne PrimeSearch team, a network of
+computers and people that workon these computers that look
+for large Mersenne primes.It's a pretty big number, 2 to
+the power-- now, I've got toremember this, now--57,885,161 minus 1.So the 57,885,161 is
+a prime number.But this bad boy, the whole
+thing, is also aprime number, of course.It's a much bigger one.And that is the largest
+prime number everto have been found.It's the 48th Mersenne
+prime ever to havebeen found as well.BRADY HARAN: Can you remind us
+what a Mersenne prime is?DR. TONY PADILLA: Yes.So essentially, the Mersenne
+prime-- you just take 2.You take it to some power, P--and this is a prime
+number-- minus 1.And that's your Mersenne
+prime.It's pretty interesting how
+they've gone about findingthis, as well.There's various things
+about it.For example, the way
+it's done is theyhave this GIMPS network.They're a network of
+shared computers.And they use their combined
+computing power to basicallywork out, try and find
+these prime numbers.So it's quite interesting, this
+sort of collaborationgoing on to find these things.From my point of view, it's
+actually reminiscent ofsomething that they do at the
+LHC to manage the data.They basically use a network of
+computers around the worldto analyze that data.So it's not always academics
+that are finding these things.Anybody can get involved
+in the project.And there's money on the table,
+as well, when it comesto finding these things.Curtis Cooper will win--it looks like $3,000 for
+finding this number.It's a bit of a shame
+for him becausethis number, actually--well, it has this many digits.It's this many digits long.It is 17,425,170 digits
+long, I think.The reason this is a little bit
+annoying for Curtis Cooperis that it's not 100 million
+digits long.Because if it had been 100
+million digits long, then hewould have won $150,000.Because that's the prize on
+offer if he can find onethat's actually that long.It's worth thinking about how
+big this number actually is.And we've talked about big
+numbers in the past, Brady.It is bigger than a googol.It's not as big as
+a googolplex.It's certainly not as big
+as Graham's number.You can easily think of this
+number without your headcollapsing to form
+a black hole.There's no problem there.In fact, actually, it's quite
+easy to think of.You could even memorize
+this number.Here we have the number.So this is the number written
+out in full--quite a big file.There you go.It's got 17 and 1/2
+million digits.This file is about 22 meg.Now, apparently, your brain can
+store about 2.5 milliongig of memory.So technically, you could
+memorize this number withouthaving a problem.And in fact, I'm going to be
+cocky here because I actuallycan write this.I'm going to write
+this number.I've remembered this number.But I've remembered
+it in base 2.OK.So let me write down
+it out in base 2.I was quite impressed that
+I remembered this.So the first number is 1.The second number--
+ah, it's also 1.And the next one's also 1.And the next one is also 1.And I would carry on writing 1's
+until I got all the way tothe last number, which
+is also 1.And there would be
+a grand total of57,885,161 of these 1's.And that is the number
+written in base 2.So I can prove that for
+you if you'd like.BRADY HARAN: Go on.DR. TONY PADILLA: OK.So the reason that that's
+what it is in base 2--OK.So let's look at this number.Let's just call it P for now,
+rather than this 57 million.Because we can prove
+this in generality.I can actually factorize
+this expression.And I can factorize this
+expression as follows.It's 2 minus 1.That's obviously 1--multiplied by 1, plus 2, plus
+2 squared, all the way upto 2 P minus 1.OK.So this is obviously
+1 out front.So what I'm left with is just
+all the, basically, essentialunits of base 2 with
+1's in front.And that's it.So that's the proof.So there's obviously P
+of these in total.So in our case, P
+is 57,885,161.And so this is how you would
+write it out in base 2.BRADY HARAN: In base 10, which
+is what more people arefamiliar with, what's the
+first and last digit?DR. TONY PADILLA: So I'm going
+to have to look this one up.Well, I think I know the
+first, actually.actually.It's 5, isn't it?It's 5.And the last one-- can I look?BRADY HARAN: Yeah.DR. TONY PADILLA: I've got a
+feeling the last one's--well, we know it's going to be
+an odd number, don't we?So we've got 1.There we go.Of course, we have a new perfect
+number from this.And it's very easy to write
+down what it is.And the perfect number
+that we have--2 to the 57,885,160, multiplied
+by 2 to the57,885,161 minus 1.That's our new perfect number.It's about 34 million
+digits long.Yep.That's our new perfect number
+we've got out of this.So whew.It's all good fun, basically.And I think that there is an
+important point to come from--these searches.I mean, they're fun to look at.It's nice.It's interesting.Oh, we found this new,
+big prime number.There's a lot of technology
+that goes into sort ofdeveloping the software to
+do these calculations.Because basically, if you
+actually tried to calculateall the divisors of this guy,
+you've used all the numbersthat were smaller than it and
+tried to see if they werefactors of that number, if you
+did that, just like that, sortof blindly, you'd find that you
+needed more than the ageof the universe to actually
+do that calculation.So there's sophisticated
+techniques at work here.And all this game, and all this
+developing this computingpower in particular ways to
+multiply large numbers, reallyhave had sort of impact
+elsewhere, for example.It's the spinoff technologies
+that are coming from this sortof really mathematicians
+playing games.But you should never knock
+mathematicians playing games.Because the crumbs that fall
+off the table can be ofbenefit to everybody else.BRADY HARAN: If you'd like to
+see even more from thisinterview, including a rather
+strange discussion about myfamily tree, I've got an
+unlisted video with all theoff cuts and extra footage.I basically didn't put it as a
+listed video because I didn'twant to clog up everyone's
+subscription boxes.And if you want to find out
+more about some of thesetopics and you haven't watched
+our back catalogue of videos,I've also put links to our films
+about Mersenne primes,perfect numbers, googols and
+googolplexes, Graham's number,all that kind of stuff.Check out the links under the
+video or here on the screen.

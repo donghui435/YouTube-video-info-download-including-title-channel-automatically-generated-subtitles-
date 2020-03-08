@@ -1,0 +1,53 @@
+What is the type of
+this quadrilateral?Be as specific as possible
+with the given data.So it clearly is
+a quadrilateral.We have four sides here.And we see that we have two
+pairs of parallel sides.Or we could also say there are
+two pairs of congruent sideshere as well.This side is parallel and
+congruent to this side.This side is parallel and
+congruent to that side.So we're dealing
+with a parallelogram.Let's do more of these.So here it looks like
+a same type of scenariowe just saw in the last one.We have two pairs of
+parallel and congruent sides,but all the sides aren't
+equal to each other.If they're all
+equal to each other,we'd be dealing with a rhombus.But here, they're not
+all equal to each other.This side is congruent
+to the side opposite.This side is congruent
+to the side opposite.That's another parallelogram.Now this is interesting.We have two pairs of sides that
+are parallel to each other,but now all the sides
+have an equal length.So this would be
+a parallelogram.And it is a
+parallelogram, but they'resaying to be as specific as
+possible with the given data.So saying it's a
+rhombus would bemore specific than saying
+it's a parallelogram.This does satisfy
+the constraintsfor being a parallelogram,
+but saying it's a rhombustells us even more.Not every parallelogram
+is a rhombus,but every rhombus
+is a parallelogram.Here, they have the sides are
+parallel to the side oppositeand all of the sides are equal.Let's do a few more of these.What is the type of
+this quadrilateral?Be as specific as possible
+with the given data .So we have two pairs of
+sides that are parallel,or I should say one pair.We have a pair of sides
+that are parallel.And then we have another
+pair of sides that are not.So this is a trapezoid.But then they have
+two choices here.They have trapezoid and
+isosceles trapezoid.Now an isosceles
+trapezoid is a trapezoidwhere the two non-parallel
+sides have the same length, justlike an isosceles
+triangle, you havetwo sides have the same length.Well we could see these two
+non-parallel sides do nothave the same length.So this is not an
+isosceles trapezoid.If they did have the
+same length, thenwe would pick that
+because that wouldbe more specific
+than just trapezoid.But this case right over here,
+this is just a trapezoid.Let's do one more of these.What is the type of
+this quadrilateral?Well we could say
+it's a parallelogrambecause all of the
+sides are parallel.But if we wanted to
+be more specific,you could also see that
+all the sides are the same.So you could say it's
+a rhombus, but youcould get even more
+specific than that.You notice that
+all the sides areintersecting at right angles.So this is-- if we wanted to be
+as specific as possible-- thisis a square.Let me check the answer.Got it right.

@@ -1,0 +1,54 @@
+- [Voiceover] We know that we can findthe area of a rectangle by multiplyingthe base times the height.The area of a rectangle is
+equal to base times height.In another video, we saw that,if we're looking at the
+area of a parallelogram,and we also know the length of a base,and we know its height, then the areais still going to be base times height.Now, it's not as obvious when you lookat the parallelogram, but in that video,we did a little manipulation of the area.We said, "Hey, let's take this"little section right over here."So we took that little
+section right over there,and then we move it over
+to the right-hand side,and just like that, you see that,as long as the base and
+the height is the same,as this rectangle here,
+I'm able to constructthe same rectangle by
+moving that area over,and that's why the area
+of this parallelogramis base times height.I didn't add or take away
+area, I just shifted areafrom the left-hand side
+to the right-hand sideto show you that the area
+of that parallelogramwas the same as this
+area of the rectangle.It's still going to be base times height.So hopefully that convinces youthat the area of a parallelogram
+is base times height,because we're now going to use thatto get the intuition for
+the area of a triangle.So let's look at some triangles here.So that is a triangle,and we're given the base and the height,and we're gonna try to think aboutwhat's the area of this
+triangle going to be,and you can imagine it's going to bedependent on base and height.Well, to think about that,let me copy and paste this triangle.So let me copy, and then let me paste it,and what I'm gonna do is,so now I have two of the triangles,so this is now going to be twice the area,and I'm gonna rotate it around,I'm gonna rotate it around like that,and then add it to the
+original area, and you seesomething very interesting is happening.I have now constructed a parallelogram.I have now constructed a parallelogramthat has twice the area
+of our original triangle,'cause I have two of
+our original trianglesright over here, you saw me do it,I copied and pasted it,
+and then I flipped it overand I constructed the parallelogram.Now why is this interesting?Well, the area of the
+entire parallelogram,the area of the entire parallelogramis going to be the length of
+this base times this height.You also have height writtenwith the "h" upside down over here.It's going to be base times height.That's going to be for the
+parallelogram, for the entire--let me draw a parallelogram
+right over here.That's going to be the area
+of the entire parallelogram.So what would be the area
+of our original triangle?What would be the area
+of our original triangle?Well, we already saw that this
+area of the parallelogram,it's twice the area of
+our original triangle.So our original triangle is justgoing to have half the area.So this area right over
+here is going to beone half the area of the parallelogram.One half base-- let me
+do those same colors.One half base times height.One half base times height.And you might say, "OK, maybe
+it worked for this triangle,"but I wanna see it work
+for more triangles."And so, to help you there,I've added another
+triangle right over here,you could do this as an obtuse triangle,this angle right over here
+is greater than 90 degrees,but I'm gonna do the same trick.We have the base, and
+then we have the height.Here, you can think of,if you start at this
+point right over here,and if you drop a ball,the length that the ball goes,
+if you had a string here,to kind of get to the ground level,you could view this as the ground levelright over there, that that's
+going to be the height,it's not sitting in the
+triangle like we saw last time,but it's still the height of the triangle.If this was a building of some kind,you'd say, "Well, this is the height."How far off the ground is it?Well, what's the area of this going to be?Well, you can imagine,it's going to be one
+half base times height.How do we feel good about that?Well, let's do the same magic here.So let me copy and paste this,so I'm gonna copy and then paste it.Whoops, that didn't work.Let me copy, and then paste it.And so, I have two of these triangles now,but I'm gonna flip this one over,so that I can construct a parallelogram.So I'm gonna flip it over,
+and move it over here,I'm gonna have to rotate
+it a little bit more.So, I think you get the general idea.So now I have constructed a parallelogramthat has twice the area
+of our original triangle.It has twice the area of
+our original triangle.And so, if I talked aboutthe area of the entire parallelogram,it would be base times the
+height of the parallelogram.Base times the height
+of the parallelogram.But if we're only talking
+about the area of --If we're only talking about this arearight over here, which
+is our original triangle,it's going to be half the
+area of the parallelogram,so it's gonna be one half of that.So our area of our original triangleis one half base times height.So hopefully that makes
+you feel pretty goodabout this formula that
+you will see in geometry,that area of a triangle is
+one half base times height,while the area of a
+rectangle or a paralleogramis going to be base times height.

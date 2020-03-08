@@ -1,0 +1,76 @@
+We are asked to approximate
+the principal root,or the positive square root of
+45, to the hundredths place.And I'm assuming they don't
+want us to use a calculator.Because that would be too easy.So, let's see if we can
+approximate this justwith our pen and
+paper right over here.So the square root of 45,
+or the principal root of 45.45 is not a perfect square.It's definitely not
+a perfect square.Let's see, what are the
+perfect squares around it?We know that it is
+going to be lessthan-- the next
+perfect square above 45is going to be 49 because
+that is 7 times 7--so it's less than
+the square root of 49and it's greater than
+the square root of 36.And so, the square root of
+36, the principal root of 36I should say, is 6.And the principal
+root of 49 is 7.So, this value right over here
+is going to be between 6 and 7.And if we look at it, it's
+only four away from 49.And it's nine away from 36.So, the different
+between 36 and 49 is 13.So, it's a total 13 gap between
+the 6 squared and 7 squared.And this is nine of
+the way through it.So, just as a kind of
+approximation maybe-- and it'snot going to work out perfectly
+because we're squaring it,this isn't a linear
+relationship--but it's going to be closer to
+7 than it's going to be to 6.At least the 45 is
+9/13 of the way.Let's see.It looks like that's
+about 2/3 of the way.So, let's try 6.7 as a guess
+just based on 0.7 is about 2/3.It looks like about the same.Actually, we could calculate
+this right here if we want.Actually, let's do
+that just for fun.So 9/13 as a decimal
+is going to be what?It's going to be 13 into 9.We're going to put some
+decimal places right over here.13 doesn't go into 9
+but 13 does go into 90.And it goes into 90-- let's
+see, does it go into itseven times-- it goes
+into it six times.So, 6 times 3 is 18.6 times 1 is 6, plus 1 is 7.And then you
+subtract, you get 12.So, went into it almost
+exactly seven times.So, this value right
+here is almost a 0.7.And so if you say, how many
+times does 13 go into 120?It looks like it's
+like nine times?Yeah, it would go
+into it nine times.9 times 3.Get rid of this.9 times 3 is 27.9 times 1 is 9, plus 2 is 11.You have a remainder of 3.It's about 0.69.So 6.7 would be a
+pretty good guess.This is 0.69 of the
+way between 36 and 49.So, let's go roughly 0.69
+of the way between 6 and 7.So this is once again
+just to approximate.It's not necessarily going
+to give us the exact answer.We have to use that to
+make a good initial guess.And then see how it works.Let's try 6.7.And the really way to
+try it is to square 6.7.So 6.7 times-- maybe I'll
+write the multiplication symbolthere-- 6.7 times 6.7.So, we have 7 times 7 is 49.7 times 6 is 42, plus 4 is 46.Put a 0 now because we've
+moved a space to the left.So, now we have 6 times 7 is 42.Carry the 4.6 times 6 is 36, plus 4 is 40.And so, 9 plus 0 is 9.6 plus 2 is 8.4 plus 0 is 4.And then we have a
+4 right over here.And we have two total numbers
+behind the decimal point.One, two.So this gives us 44.89.So, 6.7 gets us pretty close.But we're still not probably
+right to the hundredth.Well, we're definitely not
+to the hundredths place.This since we've only
+gone to the tenths placeright over here.So, if we want to get to 45, 6.7
+squared is still less than 45,or 6.7 is still less than
+the square root of 45.So let's try 6.71.Let me do this in a new color.I'll do 6.71 in pink.So, let's try 6.71.Increase it a little bit.See if we go from 44.89 to 45.Because this is
+really close already.Let's just try it out.6.71.So once again, we have to
+do some arithmetic by hand.We are assuming
+that they don't wantus to use a calculator here.So, we have 1 times 1 is 1.1 times 7 is 7.1 times 6 is 6.Put a 0 here.7 times 1 is 7.7 times 7 is 49.7 times 6 is 42, plus 4 is 46.And then we have two 0s here.6 times 1 is 6.6 times 7 is 42.Just have this new 4 here.6 times 6 is 36, plus 4 is 40.Plus 40.It's interesting to think
+what we got incrementallyby adding that one
+hundredth over there.Well, we'll see actually
+when we add all of this up.You get a 1.7 plus 7 is 14.1 plus 6 plus 9 is
+16, plus 6 is 22.2 plus 6 plus 2 is 10.And then 1 plus 4 is 5.And then we bring down the 4.And we have one,
+two, three, fournumbers behind
+the decimal point.One, two, three, four.So, when you we squared 6.71.6.71 squared is
+equal to 45.0241.So 6.71 is a little bit greater.So, let me make it clear now.We know that 6.7 is less
+than the square root of 45.And we know that
+is less than 6.71.Because when we square this,
+we get something a little bitover the square root of 45.But the key here is when we
+square this, so 6.7 squaredgot us 44.89 which
+is 0.11 away from 45.And then, if we look
+at 6.71 squared,we're only 2.4
+hundredths above 45.So, this right here is closer
+to the square root of 45.So if we approximate to
+the hundredths place,definitely want to go with 6.71.

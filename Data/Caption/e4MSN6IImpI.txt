@@ -1,0 +1,86 @@
+OK, let's say you're me,
+and you're in math class.You're supposed to be learning
+about exponential functions,but you're having trouble caring
+about exponential functionsbecause, unfortunately, your
+math class is probably notterribly engaging.You're supposed to be drawing
+and labeling some axesso that you can graph this
+y equals 2 to the x thing.And your teacher seems to think
+that drawing and labeling axesis the very essence
+of mathematics.But you're bored and can't
+help but wonder, why?So you do what any
+conscientious studentwould do in this situation
+and start doodling.And because you're me, you like
+to play games with yourselfwhen you doodle.Here's one game.You're drawing a line.But when it crosses
+one of the blue linesone your little piece of paper,
+it splits into two lines.Maybe this line is like the
+neck of a mythical hydra, whereevery time one of its heads
+gets chopped off by a blue line,it grows two more in its place.You want to see if you
+can get all the wayto the bottom of the
+page following this rulebecause, if you do, then you
+can draw all of the little hydraheads at the end.But you don't get very
+far on your first try.You decide to try again,
+this time spacing things outa little more at the beginning.Unfortunately,
+things are fillingup fast, though you got
+farther than last time.Maybe if you have
+more room, or maybeif you sharpen your
+pencil more, youcan get to the
+bottom of the page.Oh, and don't forget to
+draw and label your axes.If each broad swing of
+Hercules's sword chopsoff all the heads, that's
+doubling your number.Well, you can see
+where I'm going.I'm not going to try
+and teach you math,just how to wield it
+for doodling purposes.In this case, that's going
+to be a lot of heads.Good luck Hercules.But maybe drawing binary
+trees all straight like thatis not an interesting
+enough gameto hold your attention for long.So you start drawing
+them in arbitrary shapes.Or less arbitrary shapes.Maybe you start drawing a binary
+tree that looks like a tree.And maybe you can't see this
+tree in very high qualitybecause your camera, much
+like your math class,is fuzzy, unfocused, and
+altogether not very good.Maybe you change
+the rules slightlyand make a ternary bush, where
+each branch sprouts three morebranches.Unfortunately, your math
+class is 45 minutes long,and soon you need a more
+interesting doodle game.So you go back to the game
+where your line splitsat every level, only
+this time, insteadof trying to squish
+all the lines in,you let them hit each other.And when they crash,
+there's a fiery explosion,and the crashing lines end.There.Maybe you turn your
+notebook sidewaysso that you can make sure you're
+getting the horizontal spacingright.Maybe, to go back to
+mythology, Herculeshas a method where,
+instead of cauterizingthe necks of the Hydra to
+keep them from growing back,he's found that the necks stick
+together if they get too close.And instead of
+growing new heads,they just fill up with blood.It might seem a little
+morbid for math class,but maybe if the curriculum
+wasn't so appalling,and the teaching methods
+weren't so atrocious,you wouldn't have to
+entertain yourselfwith these stories and games.Speaking of this doodle game,
+something very interestingis happening.Looks like your simple rules
+about splitting and crashingare creating
+Sierpinski's triangle,which is a pretty
+awesome fractal.But the point is not to
+learn about fractals,or cellular automata,
+or Sierpinski,but to show that
+simple doodle games canlead to mathematical results
+so cool and beautifulthat they're famous.At least, famous
+to people like me.And if you're good at
+inventing doodle games,you might even end up
+doing some real mathematicsduring your math class.Anyway, maybe you don't
+care about accuracy.Maybe you try the
+game again, onlyyou don't keep track of spacing,
+and when you make a mistakeand accidentally grow heads
+where you shouldn't, you justroll with it.Now you've introduced an
+element of random error,and you want to know how this
+will affect the final picture.It still looks like a
+pretty awesome doodleand has many of
+the same elements,though it lacks the structure.Speaking of the structure, maybe
+because you're really, superbored, and your class is
+seemingly never going to end,you start looking at the
+number of necks at each leveland trying to figure
+out the pattern.Maybe you haven't forgotten
+about powers of two.Anyway, I hope I've
+provided you with somethingentertaining to do
+next time you're bored.Good luck with your math class.

@@ -1,0 +1,52 @@
+Determine whether the following
+numbers are prime, composite,or neither.So just as a bit of
+review, a prime numberis a natural number-- so one of
+the counting numbers, 1, 2, 3,4, 5, 6, so on and so forth--
+that has exactly two factors.So its factors are 1 and itself.So an example of a
+prime factor is 3.There's only two
+natural numbers thatare divisible into 3-- 1 and 3.Or another way to think about
+it is, the only way to get 3as a product of other
+natural numbers is 1 times 3.So it only has 1 and itself.A composite number
+is a natural numberthat has more than just
+1 and itself as factors.And we'll see examples of
+that and neither-- we'llsee an interesting case
+of that in this problem.So first let's think about 24.So let's think
+about all of the-- Iguess you could think of
+it as the natural numbersor the whole numbers,
+although 0 is alsoincluded in whole numbers.Let's think of all of the
+natural counting numbersthat we can actually
+divide into 24without having any remainder.We'd consider those the factors.Well, clearly it is
+divisible by 1 and 24.In fact, 1 times
+24 is equal to 24.But it's also divisible by 2.2 times 12 is 24.So it's also divisible by 12.And it is also divisible by 3.3 times 8 is also equal to 24.And even at this point,
+we don't actuallyhave to find all of the factors
+to realize that it's not prime.It clearly has more factors
+than just 1 and itself.So then it is clearly
+going to be composite.This is going to be composite.Now, let's just finish factoring
+it just since we started it.It's also divisible by 4.And 4 times 6-- had just
+enough space to do that.4 times 6 is also 24.So these are all of the
+factors of 24, clearlymore than just one and 24.Now let's think about 2.Well, the non-zero whole numbers
+that are divisible into 2,well, 1 times 2
+definitely works, 1 and 2.But there really
+aren't any othersthat are divisible into 2.And so it only has two
+factors, 1 and itself,and that's the definition
+of a prime number.So 2 is prime.And 2 is interesting because it
+is the only even prime number.And that might be
+common sense you.Because by definition, an
+even number is divisible by 2.So 2 is clearly divisible by 2.That's what makes it even.But it's only
+divisible by 2 and 1.So that's what makes it prime.But anything else
+that's even is goingto be divisible by
+1, itself, and 2.Any other number
+that is even is goingto be divisible by
+1, itself, and 2.So by definition,
+it's going to have 1and itself and something else.So it's going to be composite.So 2 is prime.Every other even number
+other than 2 is composite.Now, here is an
+interesting case.1-- 1 is only divisible by 1.So it is not prime,
+technically, because it onlyhas 1 as a factor.It does not have two factors.1 is itself.But in order to
+be prime, you haveto have exactly two factors.1 has only one factor.In order to be
+composite, you haveto have more than two factors.You have to have 1, yourself,
+and some other things.So it's not composite.So 1 is neither
+prime nor composite.And then finally we get to 17.17 Is divisible by 1 and 17.It's not divisible by 2,
+not divisible by 3, 4, 5, 6.7, 8, 9 10, 11, 12,
+13, 14, 15, or 16.So it has exactly two
+factors-- 1 and itself.So 17 is once
+again-- 17 is prime.

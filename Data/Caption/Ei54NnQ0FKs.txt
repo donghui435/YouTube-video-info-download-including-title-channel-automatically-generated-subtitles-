@@ -1,0 +1,25 @@
+Voiceover:Let's say you're studyingsome type of a little hillor rock formation right over here.And you're able to figure
+out the dimensions.You know that from this
+point to this pointalong the base, straight
+along level ground,is 60 meters.You know the steeper side,steeper I guess surface or edgeof this cliff or whatever youwanna call it, is 20 meters.And then the longer side here,I guess the less steep
+side, is 50 meters long.So you're able to measure that.But now what you wanna do is use yourknowledge of trigonometry,given this information,to figure out how steep is this side.What is the actual inclinationrelative to level ground?Or another way of thinking about it,what is this angle theta right over there?And I encourage you to pause the videoand think about it on your own.Well it might be ringing a bell.Well you know three sides of a triangleand then we want to figure out an angle.And so the thing that
+jumps out in my head,well maybe the law of
+cosines could be useful.Let me just write out the law of cosines,before we try to apply it to thistriangle right over here.So the law of cosines tells usthat C-squared is equal to A-squared,plus B-squared, minus two A B,times the cosine of theta.And just to remind ourselveswhat the A, B's, and C's are,C is the side that's
+opposite the angle theta.So if I were to draw an arbitrarytriangle right over here.And if this is our angle theta,then this determines that C is that side,and then A and B could be eitherof these two sides.So A could be that one
+and B could be that one.Or the other way around.As you can see, A and Bessentially have the same role in thisformula right over here.This could be B or this could be A.So what we wanna do issomehow relate this angle...We wanna figure out what thetais in our little hill
+example right over here.So if this is going to be theta,what is C going to be?Well C is going to be this 20 meter side.And then we could set eitherone of these to be A or B.We could say that this A is 50 metersand B is 60 meters.And now we could just
+apply the law of cosines.So the law of cosines tells usthat 20-squared is equal to A-squared,so that's 50 squared,plus B-squared, plus 60 squared,minus two times A B.So minus two times 50, times 60, times 60,times the cosine of theta.This works out well for usbecause they've given us everything.There's really only one unknown.There's theta here.So let's see if we can solve for theta.So 20 squared, that is 400.50 squared is 2,500.60 squared is 3,600.And then 50 times...Let's see, two times 50 is 100,times 60, this is all equal to 6,000.So let's see, if we simplifythis a little bit we're going to get400 is equal to 2,500 plus 3,600.Let's see, that'd be 6,100.That's equal to 6,000...Let me do this in a new color.So when I add these two, I get 6,100.Did I do that right?Yeah.So it's 2,000 plus 3,000, plus 5,000.500 plus 600 is 1,100.So I get 6,100 minus 6,000,times the cosine of theta.And let's see, now we can subtract6,100 from both sides.So I'm just gonna subtract
+6,100 from both sidesso that I get closer
+to isolating the theta.So let's do that.So this is going to be negative 5,700.Is that right?5,700 plus...Yes, that is right.Right, because if this
+was the other way around,if this was 6,100 minus 400it would be positive 5,700.Alright.And then these two of course cancel out.And this is going to be equal tonegative 6,000 times the cosine of theta.Now we can divide both
+sides by negative 6,000.And we get...I'm just gonna swap the sides.We get cosine of theta is equal to...Let's see we could divide the numeratorand the denominator by
+essentially negative 100.So these are both going
+to become positive.So cosine of theta is equal to 57 over 60.And actually that can
+be simplified even more.Three goes into 57, is that 19 times?Yep, so this is actually...This could be simplified.This is equal to 19 over 20.We actually didn't have to
+do that simplification stepbecause we're about to
+use our calculators,but that makes the math
+a little more tractable.Right, 3 goes into 57, yeah, 19 times.And so now we can take theinverse cosine of both sides.So we could get theta is equal to theinverse cosine, or the
+arc cosine, of 19 over 20.So let's get our calculator outand see if we get
+something that makes sense.So we wanna do the inverse
+cosine of 19 over 20.And we deserve a drum roll.We get 18.19 degrees.And I already verified that mycalculator is in degree mode.So it gets 18.19 degrees.So if we wanted to round,this is approximately
+equal to 18.2 degrees,if we wanna round to the nearest tenth.So that essentially gives us a senseof how steep this slope actually is.

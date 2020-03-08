@@ -1,0 +1,137 @@
+We're asked to graph, y is
+equal to log base 5 of x.And just to remind us
+what this is saying,this is saying that y
+is equal to the powerthat I have to raise
+5 to to get to x.Or if I were to write
+this logarithmic equationas an exponential
+equation, 5 is my base,y is the exponent that I
+have to raise my base to,and then x is what I get when
+I raise 5 to the yth power.So another way of writing
+this equation would be 5to the y'th power is
+going to be equal to x.These are the same thing.Here, we have y as
+a function of x.Here, we have x as
+a function of y.But they're really saying
+the exact same thing,raise 5 to the y'th
+power to get x.When you put it as a
+logarithm, you're saying, well,what power do I have
+to raise 5 to to get x?We'll have to raise it to y.Here, what do I get when I
+raise five to the y power?I get x.That out of the way, let's
+make ourselves a little tablethat we can use to
+plot some points,and then we can
+connect the dots to seewhat this curve looks like.So let me pick some
+x's and some y's.And we, in general, want to
+pick some numbers that give ussome nice round answers, some
+nice fairly simple numbersfor us to deal with,
+so that we don'thave to get the calculator.And so in general,
+you want to pickx values where the power
+that you have to raise 5to to get that x value is a
+pretty straightforward power.Or another way to
+think about it,you could just think about
+the different y valuesthat you want to raise
+5 to the power of,and then you could
+get your x values.So we could actually
+think about this oneto come up with our
+actual x values.But we want to be clear that
+when we express it like this,the independent variable is x,
+and the dependent variable isy.We might just look at
+this one to pick some niceeven or nice x's that give
+us nice clean answers for y.So here, I'm actually going
+to fill in the y first,just so we get nice clean x's.So let's say we're
+going to raise fiveto the-- let's say we're going
+to raise it-- I'm going to picksome new colors-- negative
+2, negative 2 power--and let me do some other
+colors-- negative 1, 0, 1.I'll do one more, and then 2.So once again, this is
+a little nontraditional,where I'm filling in the
+dependent variable first.But the way that
+we've written it overhere, it's actually given
+the dependent variable,it's easy to figure out what
+the independent variable needsto be for this
+logarithmic function.So, what x gives me
+a y of negative 2?What x gives me--
+what does x haveto be for y to be
+equal to negative 2?Well, 5 to the negative 2 power
+is going to be equal to x.So 5 to the negative
+2 is 1 over 25.So we get 1 over 25.If we go back to
+this earlier one,if we say log base
+5 of 1 over 25,what power do I have to
+raise 5 to to get 1 over 25?We'll have to raise it
+to the negative 2 power.Or you could say 5
+to the negative 2is equal to 1 over 25.These are saying the
+exact same thing.Now let's do another one.What happens when I raise
+5 to the negative 1 power?I get one fifth.So if we go to this
+original one over there,we're just saying that
+log base 5 of one fifth.Want to be careful.This is saying, what power
+do I have to raise 5 toin order to get one fifth.We'll have to raise it
+to the negative 1 power.What happens when I take
+5 to the 0'th power?I get one.And so this relationship--
+This is the same thingas saying log base 5 of 1.What power do I have
+to raise 5 to to get 1?I just have to raise
+it to the 0th power.Let's do the next two.What happens when I raise
+5 to the first power?Well, I get 5 So if you go look
+over here, that's just saying,log, what power do I have
+to raise 5 to to get 5?We'll have to just raise
+it to the first power.And then finally, if I
+take 5 squared, I get 25.So when you look at it from
+the logarithmic point of view,you say, well, what power
+do I have to raise 5 toto get to 25?We'll have to raise it
+to the second power.So I took the inverse of
+the logarithmic function.I wrote it as an
+exponential function.I switched the dependent
+and independent variables,so I can derive nice clean x's
+that will give me nice cleany's.Now with that out of the way,
+but I do want to remind you,I could have just picked
+random numbers over here,but then I would have probably
+gotten less clean numbersover here.I would have had to
+use a calculator.The only reason why
+I did it this way,is so I get nice clean results
+that I can plot by hand.So let's actually graph it.Let's actually graph
+this thing over here.So the y's go between
+negative 2 and 2.The x's go from 1/25th
+all the way to 25.So let's graph it.So that is my y-axis,
+and this is my x-axis.Draw it like that.That is my x-axis.And then the y's start at 0.Then, you get to
+positive 1, positive 2.And then you have negative 1.And you have negative 2.And then on the x-axis,
+it's all positive.And I'll let you think about
+whether the domain hereis-- well, when you
+think about it--is a logarithmic
+function definedfor an x that is not positive?So is there any power that I can
+raise five to that I can get 0?No.You could raise five to an
+infinitely negative powerto get a very, very, very, very
+small number that approacheszero, but you can
+never get-- there'sno power that you can
+raise 5 to to get 0.So x cannot be 0.And there's no power
+then you could raise 5to get another negative number.So x can also not be
+a negative number.So the domain of this function
+right over here-- and thisis relevant, because we want
+to think about what we'regraphing-- the domain here is
+x has to be greater than zero.Let me write that down.The domain here is that x
+has to be greater than 0.So we're only going
+to be able to graphthis function in
+the positive x-axis.So with that out of the
+way, x gets as large as 25.So let me graph-- we
+put those points here.So that is 5, 10,
+15, 20, and 25.And then let's plot these.So the first one is in blue.When x is 1/25 and
+y is negative 2--When x is 1/25 so
+1 is there-- 1/25is going to be really close to
+there-- Then y is negative 2.So it's going to be
+like right over there,not quite at the y-axis.We're at 1/25 to the
+right of the y-axis.But pretty close.So that's right over there.That is 1 over 25, comma
+negative 2 right over there.Then, when x is one
+fifth, which is slightlyfurther to the right, one
+fifth y is negative 1.So right over there.So this is one
+fifth, negative 1.Then when x is 1, y is 0.So 1 might be right there.So this is the point 1,0.And then when x is 5, y is 1.When x is 5, I covered it
+over here, when this is five,y is 1.So that's the point 5,1.And then finally,
+when x is 25, y is 2.So this is 25,2.And then I can
+graph the function.And I'll do it-- let me do it
+in a color-- I'll use this pink.So as x gets super, super,
+super, super small, y goesto negative infinity.It gets really small-- to
+get x's or as x becomes--if you say what power do
+you have to raise 5 toto get 0.0001?It has to be very, very,
+very negative power.So y is going to be very
+negative as we approach 0.And then it kind of
+moves up like that.And then starts to kind of
+curve to the right like that.And this thing
+right over here, isgoing to keep going down at
+a steeper and steeper rate.And it's never going
+to quite touch.the y-axis.It's going to get closer
+and closer to the y-axis.But it's never going
+to be quite touch it.

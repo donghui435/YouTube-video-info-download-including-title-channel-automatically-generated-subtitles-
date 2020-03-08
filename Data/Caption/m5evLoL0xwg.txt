@@ -1,0 +1,75 @@
+So what are we talking about today?About my favourite problem in geometry when I was a fifth graderand it is etched in my memory to the point of being able to recall it at any timeso we have three squares of the
+same sizes next to each otherthe size does not matterso what we will do you is pick one of thetop corners let's say the top left
+corner and connect itto the bottom right corners ofeach of those three squares.Next, we
+will take this angle here at the bottom let's call
+italpha the next one at the bottomlet's call it wellbeta and and that's incorrectyeah this is upside downand finally gamma alrightso the question is asking whatis the sum of these three angle so it's a 
+simple enough problemthe interesting part about it is that it
+was given to me as a fifth graderso I had to a attack it as
+fifth-graderin fifth grade we learn how to use a protractor soI measure the first angle it's about 45
+degreesand in fact then you can stop and think
+about it but of course it has to be 45 since the triangle we're looking at is
+rightand iscoclese this guy hereso it should not be a surprise to
+get a 45 degree angle thereand we go about measuring the others
+there perhaps werun a little bit out of luck because the second anglelooks like it's pointing to 25and a little bit maybe 26and the third angle Wow where is it goingperhaps 1520 so about 18 so when weadd this up 89could that be it what do you thinkit seems a bit arbitrary i don't knowYeah and also there were all of these mistakes in our measurementand why would they be asking a fifth
+grader how much this isand ending up with such a random angle?well if you try to make another
+measurement perhaps you will come upwith 91.3and so you would say oh it's a little
+bit obtusebut maybe it's a little bit acute so
+what would beconjecture that people will leap toif they believe this is a beautiful
+problem I would guess thatthe correct answer they would think the correct answer is ninetyexactly ninety but how would we know reallyis it ninety? Or some ugly angle nearby?we cheat a little bit we say okay that
+problem was given to a fifth graderit has got to be a nice answer we will
+believe for a moment it's ninety andthis is what mathematicians call a
+conjectureand then put all of our effort into
+proving that it is ninetyand we are kind of a third of the wayto proving it because we know that one
+of the anglesfor sure is forty fiveso what  should be left for the other two angles
+in order to make ninety?well obviously forty five. so somehow we
+need to add up the other two angles betaand gammaand prove that they add up to up to forty five another experiment which afifth grader might try and you can
+also do at homeis cut up the whole thing with scissorsand eliminatesome of the error that is comingfrom the protractor when you are
+roundingthe degreesokay so let's try to put everything togetherif we canit does look like this is a ninety degree let's checkwell yep it does look like 90 degreesokay so now we truly believe the
+statement and we want to prove itwell the question is at what level of your mathematical careeror mathematical life you are because
+this problem has not only onenot only two but at least54 solutions. 
+54 solutions?No kidding.
+Are we gonna do all of them?No. we will do the most brilliant one the
+most simple one thata fifth grader may be able to grasp so the idea of our solutionat least the attempt when we cut with
+scissors can be carried forwardmathematically so we may want to moveall three angles into the same
+geometric location in our pictureso we need to find the best geometric
+location where to move those threeangleswell there is no best geometric location
+until you know what the solution isso we might as well just try to move
+them all the wayin this corner next to gamma because we
+already havea right angle here this guy we have gamma hereand so the other two angles alpha and
+beta must somehow fitand here comes the brilliant idea for
+the solutionas I a said there is something missing in
+this picturewhat's missing is half of the picture
+we will replicatethese 3 squares up and then we'll start
+seeingthe truth and now i think I'm going to
+start labeling things so people canrefer to themlater on I'm just labelling all of theimportant points I will choose pointH and connect it to two other pointsD and Eand I will say that no more
+constructionswill be done in this solution we somehow
+have to make sense ofwhat this picture is telling us well for
+starterswe see 3 angles exactly where
+we wanted them to bewhere this ninety degree angle was we
+have our original gammaand then 2 more could those two angles be indeedalpha and beta well you can kinda guess that thisangle is biggerthan the next oneby the way it looks so perhaps that will
+bethe 45 alpha  because alpha was bigger
+than betacould this be forty fiveand let's try as detectives figure out
+where it could come from this pictureit is involved in thislarge triangledid we see a similar situation earlier in
+the problemcertainly right here where we sawour original alpha and where we decided
+thatalpha is 45 degrees because this wasABEwas a right isosceles triangledo we have a right isosceles triangle herwe might could EHbe equal to HD these are the two extra
+segments that we draw on topthe answer is yes becausethese two segments are hypotenusesHypoteni or hypotenuses?so EH and HD the two segments
+which we dreware the hypotenuses of two right trianglestwo that we also draw on top so I'm going
+to mark themin blueso these two sides are hypotenuses of  two right trianglesE F H and H I Dthe ones which I drew in blue now
+they are right because they have a rightangle herecoming from top but they are also exactly the
+samesize and shape this right triangle has
+one legtwo and the other leg 1 and this one also has a leg of two and leg of 1which means that their third size, the twohypotenuses must be the same so
+indeedEH is equal to HDand we are on our way to show that
+this big green triangle in the middleis right isosceles it's already
+isoseles but the question is why is thisguy rightokay but what else is around this anglethere is this guy herethis angle in this other onewhat do they add up to and  the answer is also very simpleone of thise angles we already know I claimthis angle is our angle betabecause there is a third triangle which
+is precisely the same shapeand size as those because it is right hereagain a right trianglewith legs 1 and two and so therefore this
+angle betamust be equal to this single beta and guess whatit must be equal to this angle beta they
+all share exactlythe same angle so accidentalywe have shown that we have moved angle beta to where we wanted itgamma is there and if that is really 45 we will be doneand again backtracking we wanted to show
+that this big triangle was rightisosceleswe already know that this angle here is
+beta what is this guywell this guy this second angleparticipates in a right triangle where the otheracute angle is beta what could this
+guy bewe know that the angles in a triangle
+add up to 180this guy is  ninety therefore these 2 must add up to 90simple arithmetic showsthis angle here must be ninety minus
+betaninety minus beta something and betamust overall give you 180what is the remaining angle herethis curly one if you start adding up
+let's do itbeta plus ninety minus betaplus something must be 180so beta goes away and that's
+somethingturns out to the our 90 degreesyou've done it! that's right so our angle
+alpha is indeed moved here along with betaand we can conclude the the three anglesadd up to 90 degreesand this is an amazing construction whichuses only squaresisosceles triangles in congruentright triangle with legs 1 and 2and that is indeed a brilliant approachwhich mathematicians take to solve
+problemsthey complete it to what's missing thereand then the problem becomes easier

@@ -1,0 +1,125 @@
+In this presentation we're
+going to learn how to graphtrig functions without
+having to kind ofgraph point by point.And hopefully after this
+presentation you can also lookat a trig function and be able
+to figure out the actualanalytic definition of
+the function as well.So let's start.Let's say f of x.Let me make sure I'm using
+all the right tools.So let's say that f of x is
+equal to 2 sine of 1/2 x.So when we look at this, a
+couple interesting things here.How is this different than just
+the regular sine function?Well, here we're multiplying
+the whole function by 2,and also the coefficient
+on the x-term is 1/2.And if you've seen some of the
+videos I've made, you'll knowthat this term affects the
+amplitude and this term affectsthe period, or the inverse of
+the period, whichis the frequency.Either way.It depends whether you're
+talking about one or theinverse of the other one.So let's start with
+the amplitude.This 2 tells us that the
+amplitude of this functionis going to be 2.Because if it was just a 1
+there the amplitude would be 1.So it's going to
+be 2 times that.So let's draw a little dotted
+line up here at y equals 2.And then another dotted line
+at y equals negative 2.So we know this is
+the amplitude.We know that the function is
+going to somehow oscillatebetween these two points, but
+we have to figure out how fastis it going to oscillate
+between the two points,or what's its period.And I'll give you a
+little formula here.The function is equal to the
+amplitude times, let's say,sine, but it would also
+work with cosine.The amplitude of the function
+times sine of 2pi dividedby the period of the
+function, times x.This right here is a "p."So it might not be completely
+obvious where this comes from.But what I want you to do is
+maybe after this video ormaybe in future videos we'll
+experiment when we see whathappens when we change this
+coefficient on the x-term.And I think it'll start
+to make sense to you whythis equation holds.But let's just take this as
+kind of an act of faith rightnow, that 2pi divided by the
+period is the coefficient on x.So if we say that 2pi divided
+by the period is equal to thecoefficient, which is 1/2.I know this is extremely messy.And this is separate from this.So 2pi divided by the
+period is equal to 1/2.Or we could say 1/2 the
+period is equal to 2pi.Or, the period is equal to 4pi.So we know the amplitude
+is equal to 2 and theperiod is equal to 4pi.And once again, how did
+we figure out that theperiod is equal to 4pi?We used this formula: 2pi
+divided by the period is thecoefficient on the x-term.So we set 2pi divided by the
+period equal to 1/2, and thenwe solved that the
+period is 4pi.So where do we start?Well, what is f of 0?Well, when x is equal to
+0 this whole term is 0.So what's sine of 0?Sine of 0 is 0,
+if you remember.I guess you could use a
+calculator, but that'ssomething you should remember.Or you could re-look at the
+unit circle to remind yourself.Sine of 0 is 0.And then 0 times 2 is 0.So f of 0 is 0.Right?We'll draw it right there.And we know that it
+has a period of 4pi.That means that the function
+is going to repeat after 4pi.So if we go out it should
+repeat back out here, at 4pi.And now we can just kind
+of draw the function.And this will take a little bit
+of practice, but-- actually I'mgoing to draw it, and then we
+can explore it a littlebit more as well.So the function's going
+to look like this.Oh, boy.This is more difficult
+than I thought.And it'll keep going in
+this direction as well.And notice, the period here you
+could do it from here to here.This distance is 4pi.That's how long it takes for
+the function to repeat, orto go through one cycle.Or you could also, if you
+want, you could measure thisdistance to this distance.This would also be 4pi.And that's the period
+of the function.And then, of course, the
+amplitude of the function,which is this right here, is 2.Here's the amplitude.And then the period of 4pi we
+figured out from this equation.Another way we could have
+thought about it, let's saythat-- let me erase some of the
+stuff-- let's say I didn'thave this stuff right here.Let's say I didn't know
+what the function was.Let me get rid of
+all of this stuff.And all I saw was this
+graph, and I asked youto go the other way.Using this graph, try to figure
+out what the function is.Then we would just see,
+how long does it take forthe function to repeat?Well, it takes 4pi radians for
+the function to repeat, soyou'd be able to just visually
+realize that the periodof this function is 4pi.And then you would say,
+well what's the amplitude?The amplitude is easy.You would just see how
+high it goes up or down.And it goes up 2, right?When you're doing the amplitude
+you don't do the whole swing,you just do how much it
+swings in the positiveor negative direction.So the amplitude is 2.I'm using the wrong color.The period is 4pi.And then your question
+would be, well this isan oscillating, this is
+a periodic function.Is it a sine or is it
+a cosine function?Well, cosine function, assuming
+we're not doing any shifting--and in a future module I will
+shift along the x-axis-- butassuming we're not doing any
+shifting, cosine of 0 is 1.Right?And sine of 0 is 0.And what's this function at 0?Well, it's 0.Right?So this is going to
+be a sine function.So we would use
+this formula here.f of x is equal to the
+amplitude times the sine of 2pidivided by the period times x.So we would know that the
+function is f of x is equal tothe amplitude times sine of 2pi
+over the period-- 4pi-- x.And, of course,
+these cancel out.And then this cancels out and
+becomes 2 sine of 1/2 x.I know this is a little
+difficult to read.My apologies.And I'll ask a question.What would this
+function look like?f of x equals 2
+cosine of 1/2 x.Well, it's going to look the
+same but we're going tostart at a different point.What's cosine of 0?When x is equal to 0 this
+whole term is equal to 0.Cosine of 0, we
+learned before, is 1.So f of 0 is equal to 2.Let me write that. f
+of 0 is equal to 2.Let me do this in a
+different color.Let me draw the cosine function
+in a different color.We would start here.f of 0 is equal to 2, but
+everything else is the same.The amplitude is the same
+and the period is the same.So now it's going
+to look like this.I hope I don't mess this up.This is difficult.So now the function is
+going to look like this.And you're going to go down
+here, and you're goingto rise up again here.And on this side you're
+going to do the same thing.And keep going.So notice, the cosine
+and the sine functionslook awfully similar.And the way to differentiate
+them is what they do-- well,what they do in general.But the easiest way is, what
+happens when you inputa 0 into the function?What happens at the y-axis, or
+when x is equal to 0, or whenthe angle that you input
+into it is equal 0?Unless we're doing shifting--
+and don't worry about shiftingfor now, I'll do that in future
+modules-- sine of 0 is 0while cosine of 0 would be 1.And since we're multiplying it
+times this factor right here,times this number right
+here, the 1 becomes a 2.And so this is the
+graph of cosine of x.This is this graph
+of sine of x.And this is a little bit of
+a preview for shifting.Notice that the pink graph,
+or cosine of x, is verysimilar to the green graph.And it's just shifted this
+way by-- well, in thiscase it's shifted by pi.Right?And this actually has something
+to do with the periodof the coefficient.In general, cosine of x is
+actually sine of x shiftedto the left by pi/2.But I don't want to
+confuse you too much.That's all the time I
+have for this video.I will now do another video
+with a couple of moreexamples like this.

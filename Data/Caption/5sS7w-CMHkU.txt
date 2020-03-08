@@ -1,0 +1,96 @@
+Hello. I¡¯m Professor Von Schmohawk
+and welcome to Why U.In the previous lectures, we explored some
+examples of the earliest number systemswhich were used primarily for counting objects.These counting numbers are called
+¡°natural numbers¡±.The natural numbers start at one
+and can count to arbitrarily large quantities.As we have seen, Roman numerals are one of
+many possible ways to represent natural numbers.The Roman system was eventually replaced with
+the modern decimal number systemwhich uses ¡°positional notation¡±
+and only ten numeric symbols.The decimal number system was found to be
+superior to the ancient Roman systembecause of the simple rules it uses
+to create numbers.In the decimal system there are ten numeric
+symbols, 0 through 9, called ¡°digits¡±.Depending on the column they occupythese digits represent the quantity of onestenshundredsthousandsand so onwhich make up the number.In positional notation,
+the column occupied by a digitdetermines the ¡°multiplier¡± for that digit.For example, in the decimal systemthe value of the right-most digit
+is multiplied by 1.The digit in the next column to the left
+is multiplied by 10.The next digit is multiplied by 100
+and so on.The value of a number is the sum of
+all its digits times their multipliers.For example, the value of
+the decimal number 1879is 1 times 1000plus 8 times 100plus 7 times 10plus 9 times 1.In any positional notation, each column¡¯s
+multiplier differs from the adjacent columnby a constant multiple called
+the ¡°base¡± of the number system.In the decimal system, each column multiplier
+is ten times the previous column.Therefore the decimal system is called a
+¡°base-10¡± number system.There are an infinite number of columns in
+the decimal number systemwith each column multiplier being ten times
+bigger than the column to the right.However, when writing a number,
+the zeros in front are normally not written.We can count up to 9using only the ones column.Once we reach 9the ones column starts over at 0and the tens column increments.As we continue countingthe tens column counts the number of timesthat the ones column
+has passed from 9 to 0.In other words, the tens column registers
+the number of tens which we have counted.This continues until we reach 99.At that point
+the ones and tens columns start over at 0and the hundreds column increments.The positional notation system is simple.Every time a column passes from 9 to 0the next column to the left increments.How is it that we ended up with a number system
+based on multiples of ten?There is not any good reason
+for choosing ten over some other numberother than the fact that people have ten fingersand probably originally communicated quantities
+using their fingers.But what if we were cartoon characters
+with four digits on each hand?Is it possible that in cartoon landeveryone uses a number system
+based on multiples of eight instead of ten?How would a base-8 or ¡°octal¡±
+number system work?In octal there are only eight numeric symbols
+instead of ten as in decimal.Instead of 0 through 9
+the symbols 0 through 7 are used.The symbols 8 and 9 are not needed.Counting in octal is very similar
+to counting in decimal.Since there are no symbols for 8 or 9the highest quantity which can be represented
+in the ones column is 7.Counting an eighth item
+causes the ones column to start over at 0and the next column to increment.So the second column
+counts the number of eights.Therefore in octal
+the number following 7 is 10which looks just like the decimal number ten.After octal "10" comes octal  "11",  "12",  and so onuntil we get to octal "17".At that point, we go to octal "20".The second column has now counted
+two ¡°eights¡± or sixteen.We continue like this until we get to the
+highest number we can represent with two digitsoctal "77".At that point, the ones and eights columns
+start over at 0 and the third column increments.The 1 in the third column represents
+eight ¡°eights¡± or sixty-four.Each column multiplier is
+eight times the previous one.Every number which can be written in decimal
+can also be written in octalalthough after counting to 7the way the quantities are represented
+is completely different.It is easy to convert an octal number to decimalwhen you consider how positional notation works.Let¡¯s take for example, the octal number "1750".As in decimal, the value of the octal number
+is the sum of all its digits times their multipliers.So the number "1750" represents1 times 512plus 7 times 64plus 5 times 8plus 0 oneswhich adds up to the quantity
+which in decimal is called one-thousand.You may sometimes see a small subscript 8 or 10
+after an octal or decimal numberin case there may be some confusion
+about which base is being used.Digital computers use electronic circuits
+called ¡°flip-flops¡± to represent numbers.Each flip-flop can store a single bit
+which can represent either a 0 or a 1.Multiple bits can be combined to represent
+a base-2 or ¡°binary¡± number.In the binary number system
+0 and 1 are the only two numeric symbols.Since binary is base-2each column multiplier is two times
+the multiplier of the previous digit.And just like decimal or octal numbersthe value of a binary number is sum of
+all its digits times their multipliers.Since the digits are either 1 or 0
+the calculation is simple.We just add the multipliers
+of all the columns which contain ones.For example, the binary number 11010represents 1 sixteenplus 1 eightplus 1 twowhich is equal to twenty-six.Even though digital computers
+store numbers in binaryit can be quite tedious to write down
+or remember large binary numbers.For instance, the number one-million
+in binary isone one one onezero one zero oneone zero zero oneone zero one onezero zero zero zero.Early in the history of digital computersengineers found that it was easier
+to use octal notationthan to deal with long strings
+of ones and zeros.Three binary digits can be represented
+by a single octal symbol.It is easy to memorize the eight possible
+combinations of three binary bits.To convert a multiple-digit octal number
+to binaryeach octal digit in the number
+is converted to a 3-bit binary equivalentand the binary digits are all combined
+into a single binary number.Any leading zeros can be removed.To convert a binary number to octal
+we do the same thing in reverse.To convert this binary number back to octalwe split it into 3-bit groups
+starting from the rightand each 3-bit group is then converted
+to its equivalent octal symbol.So the octal equivalent to this binary number
+is "3654660"a lot easier to remember
+than all those ones and zeros.Today, computer storage is normally organized
+into 8-bit groups called "bytes".Because of this, many computer engineers
+prefer to use base-16otherwise known as ¡°hexadecimal¡± or ¡°hex¡±
+instead of octal.With hexadecimal, every group of four bits
+converts to a single hex symbol.Two hex symbols represent exactly one byte.Even fewer digits than octal are required
+to represent a given numberand it's just as easy to convert
+back and forth to binary.Hexadecimal numbers
+use sixteen numeric symbols.The symbols 0 through 9
+are used just as in decimalbut six more symbols are needed.Instead of making up new symbols,
+the letters A through F are usedto represent what we call
+ten through fifteen in decimal.Counting in hexadecimal
+works the same way as in decimal or octalexcept that hex uses sixteen symbols per digit.Because each column multiplier is
+sixteen times larger than the previous columnhexadecimal can represent large numberswith fewer digits than octal or decimal.When counting in hexadecimalafter getting to F which is decimal 15we go to "10" which is decimal 16then  "11",  "12",  and so on.Once we reach 1Fwe go to "20" which is decimal 32.When we get to the largest number which we
+can represent with two hex digits, FFwe go to "100" which is decimal 256and so on.As we mentionedusing hex notation, four binary bits
+can be represented by a single hex symbol.Each of the sixteen possible combinations
+of four bitsis equivalent to a single hex digit.Let's convert the same binary number as before
+to hex.Starting from the right,
+we group the digits into groups of four.Each group of binary digits is then converted
+to its equivalent hex symbol.So we have seen how the same natural numbercan be represented in base-2
+using two numeric symbolsbase-8 using eight symbolsbase-10 using ten symbolsand base-16 using sixteen symbols.But no matter how we choose to write
+this natural numberit still represents the same quantity.As you have seenwe use the same basic rules for counting in binaryoctaldecimaland hexadecimal.The only difference is that each base has
+a different number of numeric symbols.So using positional notationwe can create a number system
+using any natural base we like.Try creating one of your own.Who knows, it might catch on!

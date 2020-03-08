@@ -1,0 +1,127 @@
+What I hope to do in
+this video is derivea formula for the sum of
+a finite geometric series.And right here is a
+finite geometric series.I start with some first term a.Notice, I wrote it as
+a times r to the 0.But r to the 0-- for any r.We're assuming r is non-zero.This is going to be
+1 right over here.So our first term
+is going to be a.And then each successive
+term is a previous termtimes our common ratio, times r.So a times r is a
+times r to the first.That times r is ar squared.On and on, all the way until
+we go a times r to the n.This is a finite
+series right over here.So let's just
+define this series.I'll use the letter
+S sub n as beingequal to all of this
+business right over here.Now, let me multiply S sub
+n times our common ratio.So let me write this
+right over here.So let's say we
+have r-- I'm goingto do the same color as our
+previous r-- r times S sub n.And what is that
+going to be equal to?Well, we're just going to
+multiply each term here by r.And we could even multiply this
+thing by r if we want as well.This would now be the sum from
+k equals 0 to n of a times r.But now, instead of
+r to the k, we'renow multiplying each of
+these terms times r again.So it's going to be
+the k plus 1 power.Or-- and it's a little easier to
+conceptualize right over here--let's just multiply each
+of these terms times r.So a times r to the
+0 times r is goingto be ar to the first power.So that's going to be a
+times r to the first power.Let me write that down. a
+times r to the first power.Or just a times r because,
+obviously, r to the firstis just r.And then, plus-- let's
+multiply this term times r.So plus a times r squared.And we'll just keep on going.We're going to get all the way
+to a times r to the n plus 1.So let me write it like this.So we're going to go to
+plus-- and typically, you'donly write three dots.I went overboard with my dots.So let me do it-- dot, dot, dot.So plus a times r to the n
+plus a times r to the n plus 1.So notice, I just took
+each of these termsand multiplied them by r.You see that right over here.Multiply by r, get that term.Multiply by r, get that term.And then, I don't show the
+other ones multiplied by r,but all the way to
+multiply this one by r.And you get this
+term right over here.Now, what I want to do
+is something really neat.And this is one of my
+favorite derivationsin all of mathematics
+because you'reable to do something
+pretty neat at this stage.What happens if I were to
+subtract r times S sub nfrom S sub n?So let's think about that.Well, over here, we would just
+get S sub n minus r times S subn.So notice, all I'm doing
+is I'm starting with thisand I'm subtracting
+the same thingfrom both sides of the equation.On the left-hand side, I'm
+subtracting r times S sub n.And on the right-hand
+side, from thisI'm going to
+subtract all of this.So what do we get on
+the right-hand side?So this is going
+to be equal to--and I'm going to
+ignore this for nowbecause what we really care
+about is this business.So a times r.What I'm going to do is I'm
+just going to cancel outall of the terms that
+have the same degree.So for example, a
+times r to the 0.There's no other r
+to the 0 term here.So we're just going to have
+that a times r to the 0.Or I could just write that
+as a, obviously. r to the 0is going to be 1.So I'll just write that as a.That's that right over there.And then, we have a times
+r to the first powerminus r to the first power.Well, that's just
+going to cancel out.These are going to cancel out.They're going to
+keep canceling out.They're going to keep
+canceling out all the wayuntil all we have
+left over is this.And there's nothing
+to subtract this from.We have no a times r to
+the n plus 1 power up here.So we're just going
+to subtract it.So minus a times r to
+the n plus 1 power.And now we can just
+solve for our sum.Remember, that's the
+whole point of this videoto begin with-- to try to
+derive a formula for this sum.So let's factor
+out S sub n here.So this is S sub
+n times 1 minus ris equal to this
+right over here.It's equal to the first term
+minus the first term times rto the n plus 1.So one more power
+times the numberof terms in our original sum.So let's do that-- times
+r to the n plus 1 power.And so to solve for
+S sub n, we justhave to divide both
+sides by 1 minus r.And so we are left with-- if
+we assume r is not equal to 1in this case-- we are left with
+S sub n is equal to a minusa times r-- I'm just rewriting
+what I have up here-- rto the n plus 1 over 1 minus r.And you say, hey, Sal.Well, why is this
+at all interesting?Why is this useful?Well, let's actually
+apply this formulathat we just finished deriving.Let's say that we have
+a geometric series.So let's say our first
+term is-- oh, I don't know.Let's say our first term is 3.I'll do the same colors
+as I was doing before.It is 3 times 1/2
+to the k-th power.And we're going to start at
+k equals 0 all the way to-- Idon't know-- k equals 100.And just to visualize
+what this looks like,the first term is just
+going to be 3 timesone half to the 0 power.It's just 3.So our first term is
+3, as was intended.So our first term is 3.Plus 3 times 1/2 to
+the first power now.This is 3 times 1/2
+to the 0-th power.Now, 3 times 1/2
+to the first power.3 times 1/2.I could write a first
+power there if I'd like.And then, plus 3 times
+1/2 half squared.And we'll just keep on going
+all the way-- I'll do itright over here--
+plus, we're goingto keep on going all the way
+until we get to 3 times 1/2to the 100th power.Now, you could imagine
+you could probablycalculate this
+with a calculator,but it would get
+very, very hard.And it would be very,
+very time-consumingto add up these 101
+terms right over here.Instead, we can
+apply this formula.So this sum right
+over here is goingto be equal to-- if
+we were to add it up--it's going to be equal to
+our first term, which is 3.It's going to be equal to
+3 minus 3 times 1/2-- 1/2is our common ratio here--
+times 1/2 to the n plus 1.Well, n is 100.So it's to the 101 power.All of that over 1 minus 1/2.And now this is much easier.It would be hard to
+do it in your head,but this is much easier
+to type into a calculatorand actually get a
+reasonable answer.So let's actually do that.It'll feel satisfying.So let's clear this.So it's going to be 3 minus
+3 times-- I could write 1/2as 0.5-- 0.5 to the 101 power.Did I get that
+[INAUDIBLE] right?3 minus 3 times 0.5 to the
+101 power divided by-- well,1 minus 1/2 is just
+1/2-- so it's justgoing to be divided by
+1/2 or divided by 0.5.And we get 6.We get 6.And it's not going
+to be exactly 6.And we're going
+to see that, whenwe take the infinite sum,
+that's going to be exactly 6.But it's going to be
+pretty darn close.We're actually, we're hitting
+up against the precisionof the calculator.So based on the precision
+of the calculator,we get, it's going to
+be pretty close to 6.

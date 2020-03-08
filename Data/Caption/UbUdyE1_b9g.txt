@@ -1,0 +1,34 @@
+We're asked to subtract and
+simplify the answer, and wehave 8/18 minus 5/18.So subtracting fractions
+is verysimilar to adding fractions.If we have the same denominator,
+the denominatorin the difference is going
+to be the same as thedenominators in the two
+numbers that we'resubtracting, so it's
+going to be 18.And our numerator is going to be
+the difference between thenumerators.So in this case, it is 8 minus
+5, and this will be equal to 3over 18, which is the answer,
+but it's not completelysimplified, because both 3 and
+18 are divisible by 3.So let's divide them
+both by 3.So you divide 3 by 3, you divide
+18 by 3, and you get 3divided by 3 is 1.18 divided by 3 is 6,
+so you get 1/6.And just to see this visually,
+let me draw 18 parts.Let me draw 18 parts here.So it might be a little bit
+of a messy drawing.I'll try the best I can.So let me draw six in
+this direction.So that is three right there.We have another three,
+so that's six parts.And then let me split this
+into three columns.So there we go.We have 18 parts.Now 8/18 is equal to one,
+two, three, four,five, six, seven, eight.That's 8/18.And now we want to subtract five
+of the eighteenths, so wesubtract one, two, three,
+four, five.Now, what do we have
+left over?Well, we have three of the
+eighteenths left over, so youhave that right there.You have three of the
+eighteenths left over.Now, if you turn three of the
+eighteenths into one piece,how many of those bigger
+pieces do you have?This is one of those
+big pieces.Now, where are the other ones?Well, this is another big
+piece right here.This is another big piece
+right here, another one,another one, and another one.If you had 18 pieces and you
+merged three of the piecesinto one, then you actually end
+up with only six pieces.You end up with six pieces.Hopefully, you see that each row
+is one of the pieces now,and the blue is exactly one
+of the six, so 3/18is the same as 1/6.

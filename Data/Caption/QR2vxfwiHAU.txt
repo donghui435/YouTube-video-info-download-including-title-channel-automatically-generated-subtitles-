@@ -1,0 +1,189 @@
+ Let's say we have an ellipse
+formula, x squared over asquared plus y squared over
+b squared is equal to 1.And for the sake of our
+discussion, we'll assumethat a is greater than b.And all that does for us is, it
+lets us so this is going tobe kind of a short
+and fat ellipse.Or that the semi-major axis,
+or, the major axis, is goingto be along the horizontal.And the minor axis is
+along the vertical.And let's draw that.Draw this ellipse.I want to draw a
+thicker ellipse.Let's say, that's my ellipse,
+and then let me draw my axes.OK, this is the
+horizontal right there.And there we have the vertical.And we've studied an ellipse
+in pretty good detail so far.We know how to figure out
+semi-minor radius, which inthis case we know is b.That's the same b right there.And that's only the
+semi-minor radius.Because b is smaller than a.If b was greater, it would
+be the major radius.And then, of course,
+the major radius is a.And that distance is
+this right here.Now, another super-interesting,
+and perhaps the mostinteresting property of an
+ellipse, is that if you takeany point on the an ellipse,
+and measure the distance fromthat point to two special
+points which we, for the sakeof this discussion, and not
+just for the sake of thisdiscussion, for pretty much
+forever, we will call thefocuses, or the foci,
+of this ellipse.And these two points,
+they always sit alongthe major axis.So, in this case, it's
+the horizontal axis.And they're symmetric around
+the center of the ellipse.So let's just call
+these points, let mecall this one f1.And this is f2.And it's for focus.Focuses.f2.So the super-interesting,
+fascinating propertyof an ellipse.And it's often used as the
+definition of an ellipse is, ifyou take any point on this
+ellipse, and measure itsdistance to each of
+these two points.So, let's say that I have
+this distance right here.Let's call this distance d1.And then I have this distance
+over here, so I'm taking anypoint on that ellipse, or this
+particular point, and I'mmeasuring the distance to
+each of these two foci.And this is d2.We'll do it in a
+different color. So this is d2.This whole line right here.That's d2. So when you find these two
+distances, you sum of them up.So this d2 plus d1, this
+is going to be a constantthat it actually turns
+out is equal to 2a.But it turns out that it's true
+anywhere you go on the ellipse.Let me make that point clear.And I'm actually going to prove
+to you that this constantdistance is actually 2a, where
+this a is the same isthat a right there.So, just to make sure you
+understand what I'm saying.So let me take another
+arbitrary pointon this ellipse.Let's take it right there.And if I were to measure the
+distance from this point tothis focus, let's call that
+point d3, and then measure thedistance from this point to
+that focus -- let'scall that point d4. d4.If I were to sum up these two
+points, it's still goingto be equal to 2a.Let me write that down.d3 plus d4 is still going
+to be equal to 2a.That's just neat.And, actually, this is often
+used as the definition for anellipse, where they say that
+the ellipse is the set of allpoints, or sometimes they'll
+use the word locus, which iskind of the graphical
+representation of the set ofall points, that where the sum
+of the distances to eachof these focuses is
+equal to a constant.And we'll play with that a
+little bit, and we'll figureout, how do you figure out
+the focuses of an ellipse.But the first thing to do is
+just to feel satisfied that thedistance, if this is true,
+that it is equal to 2a.And the easiest way to figure
+that out is to pick these, Iguess you could call them, the
+extreme points along thex-axis here and here.We're already making the claim
+that the distance from here tohere, let me draw that
+in another color.That this distance plus this
+distance over here, is goingto be equal to some
+constant number.And using this extreme point,
+I'm going to show you that thatconstant number is equal to 2a,
+So let's figure outhow to do that.So one thing to realize is that
+these two focus points aresymmetric around the origin.So, whatever distance this is,
+right here, it's going to bethe same as this distance.Right there.Because these two points are
+symmetric around the origin.So this, right here, is the
+same distance as that.And, of course, we have -- what
+we want to do is figure out thesum of this distance and this
+longer distance right there.Well, what's the sum of this
+plus this green distance?Well, this right here
+is the same as that.So this plus the green --
+let me write that down.So let me write down these, let
+me call this distance g, justto say, let's call that g,
+and let's call this h.Now, if this is g and this is
+h, we also know that this is gbecause everything's symmetric.So what's g plus h?Well, that's the same
+thing as g plus h.Which is the entire major
+diameter of this ellipse.Which is what?Well, we know the minor
+radius is a, so this lengthright here is also a.So the distance, or the sum of
+the distance from this point onthe ellipse to this focus, plus
+this point on the ellipse tothat focus, is equal to g plus
+h, or this big green part,which is the same thing as the
+major diameter of this ellipse,which is the same thing as 2a.Fair enough.Hopefully that that is
+good enough for you.Now, the next thing, now that
+we've realized that, is how dowe figure out where
+these foci stand.Or, if we have this equation,
+how can we figure out whatthese two points are?Let's figure that out.So, the first thing we realize,
+all of a sudden is that nomatter where we go, it was easy
+to do it with these points.But even if we take this point
+right here and we say, OK,what's this distance, and then
+sum it to that distance, thatshould also be equal to 2a.And we could use that
+information to actually figureout where the foci lie.So, let's say I have --
+let me draw another one. So that's my ellipse.And then we want
+to draw the axes.For clarity.Let me write down
+the equation again.Just so we don't lose it.
+x squared over a squaredplus y squared over b
+squared is equal to 1.Let's take this
+point right here.These extreme points are always
+useful when you're tryingto prove something.Or they can be, I don't
+want to say always.Now, we said that we have these
+two foci that are symmetricaround the center
+of the ellipse.This is f1, this is f2.And we've already said that an
+ellipse is the locus of allpoints, or the set of all
+points, that if you take eachof these points' distance from
+each of the focuses, and addthem up, you get a
+constant number.And we've figured out that
+that constant number is 2a.So we've figured out that if
+you take this distance righthere and add it to this
+distance right here,it'll be equal to 2a.So we could say that if we
+call this d, d1, this is d2.We know that d1 plus
+d2 is equal to 2a.And an interesting thing
+here is that this isall symmetric, right?This length is going to be the
+same, d1 is is going to be thesame, as d2, because everything
+we're doing is symmetric.These two focal lengths
+are symmetric.This distance is the
+same distance as thisdistance right there.So, d1 and d2 have
+to be the same.There's no way that you
+could -- this is the exactcenter point the ellipse.The ellipse is symmetric
+around the y-axis.So if d1 is equal to d2, and
+that equals 2a, then we knowthat this has to be equal to a.And this has to be equal to a.I think we're making progress.And the other thing to think
+about, and we already did thatin the previous drawing of
+the ellipse is, whatis this distance?This distance is the
+semi-minor radius.Which we already learned is b.And this of course is the
+focal length that we'retrying to figure out.This should already pop into
+your brain as a Pythagoreantheorem problem.So we have the focal length.And we could do it on this
+triangle or this triangle.I'll do it on this
+right one here.This focal length is f.Let's call that f.f squared plus b squared is
+going to be equal to thehypotenuse squared, which
+in this case is d2 or a.Which is equal to a squared.And now we have a nice
+equation in terms of b and a.We know what b and a are,
+from the equation we weregiven for this ellipse.So let's solve for
+the focal length.The focal length, f squared,
+is equal to a squaredminus b squared.So, f, the focal length, is
+going to be equal to thesquare root of a squared
+minus b squared.Pretty neat and clean, and
+a pretty intuitive way tothink about something.So you just literally take
+the difference of these twonumbers, whichever is larger,
+or whichever is smaller yousubtract from the other one.You take the square root, and
+that's the focal distance.Now, let's see if we can use
+that to apply it to some somereal problems where they might
+ask you, hey, findthe focal length.Or find the coordinates
+of the focuses.So let's add the equation x
+minus 1 squared over 9 plusy plus 2 squared over
+4 is equal to 1.So let's just graph
+this first of all.This could be interesting.So I'll draw the axes.That's the x-axis.This is the y-axis.And we immediately see,
+what's the center of this?The center is going to be at
+the point 1, negative 2.And if that's confusing, you
+might want to review someof the previous videos.Center's at 1, x is equal to 1.y is equal to minus 2.That's the center.And then, the major axis is the
+x-axis, because this is larger.And so, b squared is -- or
+a squared, is equal to 9.And the semi-minor radius
+is going to be equal to 3.So, if you go 1, 2, 3. Go there.Than you have 1, 2, 3.No.1, 2, 3.1, 2, 3.I think this -- let's see.1, 2, 3.You go there, roughly.And then in the y direction,
+the semi-minor radius isgoing to be 2, right?The square root of that.So b is equal to 2.So you go up 2, then
+you go down 2.And this ellipse is going
+to look something like-- pick a good color.It's going to look
+something like this.And what we want to do is,
+we want to find out thecoordinates of the
+focal points.So, the focal points
+are going to sit alongthe semi-major axis.And we need to figure out
+these focal distances.And then we can essentially
+just add and subtractthem from the center.And then we'll have
+the coordinates.What we just showed you, or
+hopefully I showed you, thatthe the focal length or this
+distance, f, the focal lengthis just equal to the square
+root of the difference betweenthese two numbers, right?It's just the square
+root of 9 minus 4.So the focal length is equal
+to the square root of 5.So, if this point right here is
+the point, and we alreadyshowed that, this is the point
+-- the center of the ellipseis the point 1, minus 2.The coordinate of this focus
+right there is going to be 1plus the square root
+of 5, minus 2.And the coordinate of this
+focus right there is goingto be 1 minus the square
+root of 5, minus 2.And all I did is, I took the
+focal length and I subtracted-- since we're along the major
+axes, or the x axis, I just addand subtract this from the x
+coordinate to get these twocoordinates right there.So, anyway, this is the really
+neat thing about conicsections, is they have these
+interesting properties inrelation to these foci or in
+relation to these focus points.And in future videos I'll show
+you the foci of a hyperbola orthe the foci of a -- well, it
+only has one focusof a parabola.But this is really starting
+to get into what makesconic sections neat.Everything we've done up to
+this point has been much moreabout the mechanics of graphing
+and plotting and figuring outthe centers of conic sections.But now we're getting into
+a little bit of the themathematical interesting
+parts of conic sections.Anyway.See you in the next video.

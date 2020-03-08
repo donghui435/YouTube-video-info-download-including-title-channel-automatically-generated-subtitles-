@@ -1,0 +1,86 @@
+We're told that for the past
+few months, Old Maple Farmshas grown about 1,000 more
+apples than their chief rivalin the region, River Orchards.Due to cold weather this year,
+the harvests at both farmswere down by about a third.However, both farms made up for
+some of the shortfall bypurchasing equal quantities
+of apples from farms inneighboring states.What can you say about
+the number of applesavailable at each farm?Does one farm have more than the
+other, or do they have thesame amount?How do I know?So let's define some
+variables here.Let's let M be equal to number
+of apples at Maple Farms. Andthen who's the other guy?River Orchards.So let's let R be equal
+to the number ofapples at River Orchards.So this first sentence, they
+say-- let me do this in adifferent color-- they say for
+the past few years, Old MapleFarms has grown about 1,000 more
+apples than their chiefrival in the region,
+River Orchards.So we could say, hey, Maple is
+approximately Old River, or Mis approximately River
+plus 1,000.Or since we don't know the exact
+amount-- it says it'sabout 1,000 more, so we don't
+know it's exactly 1,000 more--we can just say that in a normal
+year, Old Maple Farms,which we denote by M, has a
+larger amount of apples thanRiver Orchard.So in a normal year, M is
+greater than R, right?It has about 1,000 more apples
+than Old Maple Farms.Now, they say due to cold
+weather this year-- so let'stalk about this year now-- the
+harvests at both farms weredown about a third.So this isn't a normal year.Let's talk about what's going
+to happen this year.In this year, each of these
+characters are going to bedown by 1/3.Now if I go down by 1/3, that's
+the same thing as being2/3 of what I was before.Let me do an example.If I'm at x, and I take away
+1/3x, I'm left with 2/3x.So going down by 1/3 is the same
+thing as multiplying thequantity by 2/3.So if we multiply each of these
+quantities by 2/3, wecan still hold this inequality,
+because we'redoing the same thing to both
+sides of this inequality, andwe're multiplying by
+a positive number.If we were multiplying by a
+negative number, we would haveto swap the inequality.So we can multiply both
+sides of this by 2/3.So 2/3 of M is still going to
+be greater than 2/3 of R.And you could even draw that in
+a number line if you like.Let's do this in
+a number line.This all might be a little
+intuitive for you, and if itis, I apologize, but if it's
+not, it never hurts.So that's 0 on our
+number line.So in a normal year, M is
+has 1,000 more than R.So in a normal year, M might
+be over here andmaybe R is over here.I don't know, let's say
+R is over there.Now, if we take 2/3 of M, that's
+going to stick us someplace around, oh, I
+don't know, 2/3is right about there.So this is M-- let me write
+this-- this is 2/3 M.And what's 2/3 of
+R going to be?Well, if you take 2/3 of this,
+you get to right about there,that is 2/3R.So you can see, 2/3R is still
+less than 2/3M, or 2/3M isgreater than 2/3R.Now, they say both farms made
+up for some of the shortfallby purchasing equal quantities
+of apples from farms inneighboring states.So let's let a be equal
+to the quantityof apples both purchased.So they're telling
+us that they bothpurchased the same amount.So we could add a to both sides
+of this equation and itwill not change the
+inequality.As long as you add or subtract
+the same value to both sides,it will not change
+the inequality.So if you add a to both sides,
+you have a plus 2/3M is agreater than 2/3R plus a.This is the amount that Old
+Maple Farms has afterpurchasing the apples, and this
+is the amount that RiverOrchards has.So after everything is said
+and done, Old Maple Farmsstill has more apples, and
+you can see that here.Maple Farms, a normal year, this
+year they only had 2/3 ofthe production, but then they
+purchased a apples.So let's say a is about, let's
+say that a is that manyapples, so they got back
+to their normal amount.So let's say they got back
+to their normal amount.So that's how many apples
+they purchased, sohe got back to M.Now, if R, if River Orchards
+also purchased a apples, thatsame distance, a, if you go
+along here gets you to rightabout over there.So once again, this is-- let
+me do it a little bitdifferent, because I don't like
+it overlapping, so let medo it like this.So let's say this guy, M-- I
+keep forgetting their names--Old Maple Farms purchases a
+apples, gets them that far.So that's a apples.But River Orchards also
+purchases a apples, so let'sadd that same amount.I'm just going to copy and paste
+it so it's the exactsame amount.So River Orchards also purchases
+a, so it alsopurchases that same amount.So when all is said and done,
+River Orchards is going tohave this many apples in the
+year that they had lessproduction but they went
+and purchased it.So this, right here, is--
+this value right hereis 2/3R plus a.That's what River
+Orchards has.And then Old Maple Farms has
+this value right here, whichis 2/3M plus a.Everything said and done,
+Old Maple Farmsstill has more apples.

@@ -1,0 +1,58 @@
+Find the slope of the line
+pictured on the graph.So the slope of a line is
+defined to be rise over run.Or you could also view it as
+change in y over change in x.And let me show you
+what that means.So let's start at some
+arbitrary point on this line,and they highlight
+some of these points.So let's start at one of
+these points right over here.So if we wanted to start one
+of these points-- and let'ssay we want to change our x
+in the positive direction.So we want to go to the right.So let's say we want
+to go from this pointto this point over here.How much do we
+have to move in x?So if we want to move in x,
+we have to go from this pointto this point.We're going from
+negative 3 to 0.So our change in x-- and
+this triangle, that's delta.That means "change in."Our change in x is equal to 3.So what was our change in y when
+our change in x is equal to 3?Well, when we moved from
+this point to this point,our x-value changed by 3, but
+what happened to our y-value?Well, our y-value went down.It went from positive
+3 to positive 2.Our y-value went down by 1.So our change in y is
+equal to negative 1.So we rose negative 1.We actually went down.So our rise is
+negative 1 when ourrun-- when our
+change in x-- is 3.So change in y over change
+in x is negative 1 over 3,or we could say that our
+slope is negative 1/3.Let me scroll over a little bit.It is negative 1/3.And I want to show you that we
+can do this with any two pointson the line.We could even go further
+than 3 in the x-direction.So let's go the other way.Let's start at this
+point right overhere and then move backwards
+to this point over here,just to show you that we'll
+still get the same result.So to go from this point to that
+point, what is our change in x?So our change in x is
+this right over here.Our change in x is that
+distance right over there.We started at 3, and
+we went to negative 3.We went back 6.Over here, our change in
+x is equal to negative 6.We're starting at
+this point now.So over here our change
+in x is negative 6.And then when our change
+in x is negative 6, whenwe start at this
+point and we move 6back, what is our change
+of y to get to that point?Well, our y-value went from 1.That was our y-value
+at this point.And then when we go back to
+this point, our y-value is 3.So what did we do?We moved up by 2.Our change in y is equal to 2.Slope is change in y over
+change in x, or rise over run.Change in y is just rise.Change in x is
+just run, how muchyou're moving in the
+horizontal direction.So rise over run in this
+example right over hereis going to be 2
+over negative 6,which is the same
+thing as negative 1/3.And you could verify
+it for yourself.Take any of these
+two points, startat one of these two
+points, and figure outwhat is the run to
+get to the next point,and then what is the rise
+to get the next point.And for any line, the
+slope won't change.Let me do it again.Over here, we had to move in the
+positive 3 direction, so thatis our run.So this right here
+is positive 3.That's our run.But what's our rise?Well, we actually went down,
+so we have a negative rise.Our rise is negative 1.So we have negative
+1 as our rise.We went down.And our run was positive 3.So our slope here
+is negative 1/3.

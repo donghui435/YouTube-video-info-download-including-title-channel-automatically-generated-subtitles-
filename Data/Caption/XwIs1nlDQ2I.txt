@@ -1,0 +1,85 @@
+OK, I know some people aren't
+into green bean casseroles,but I like them.Plus, they remind
+me of vector fields.Each green bean is
+like a little arrow,and I just have the
+urge to line themall up so they flow
+in the same direction.Maybe a little wavy,
+representing the vectorsof flow in a river or something.Maybe complete little eddies.Or maybe the beans could
+represent wind vectors.Long beans would be
+high-magnitude vectors sayingthere's a strong wind
+in that direction,and short, low-magnitude beans
+would mean low wind speed.You could have a hurricane
+in your casserole dishwith the long beans of high wind
+speed flowing counterclockwisenear the center, mellowing
+out towards the outer edgesof the storm.The center would have the
+shortest beans of all,showing the calm
+eye of the storm.Oh, and if you're wondering why
+I'm not curving the beans likethis is because while vector
+fields might have a shapeor flow to them, the
+vectors themselves don't.They're usually shown as
+straight lines, or numbers,or both.But that's not because
+they are straight lines.Vectors just represent what's
+happening at a single point.It's like this tiny point
+and this bit of windcan only travel in one
+direction at a time,so the bean points
+in that direction.And that tiny bit of
+wind has a certain speed,which is represented by
+the length of the bean.But the bean itself
+is just notation.Vectors themselves don't have
+a shape, just a directionand a magnitude, which means
+a bean with a directionand magnitude is just as
+legitimate a vector as an arrowplotted on a graph, or
+as a set of two numbers,or as one complex number,
+or as an orange slicecut with a certain
+angle and thickness,or as shouting a
+compass directionat a precise decibel level.North.East.I'll admit I'm not a huge fan
+of individual vectors sittingby themselves without
+meaning or context.One string bean does not make
+a casserole or matherole,as the case may be.But fields of
+vectors are awesome.They do have curves
+and patterns, context,and real-world meaning.There are vectorizable fields
+permeating this casserole dishright now-- the gravitational
+field, for instance.Gravitational
+forces are affectingall of my string beans, pulling
+them down towards the earth.And so you could
+use the string beansto create a vector-field
+casserole that actuallyrepresents the gravitational
+field they are currently in.Of course, this means
+just lining up the beansso all point down.And since they're all affected
+by basically the same amountof gravity, they should
+all be the same length.If you are cooking
+at a high altitude,be sure to cut your
+string beans shorterby an negligible amount.Another favorite
+vectorizable field of mineis also currently permeating
+these string beans--the electromagnetic field.And if I had a giant bar magnet
+as a coaster-trivet thing,maybe I'd want my casserole to
+show the magnetic field thatis actually there.The points near the
+poles of the magnetwould have larger vectors,
+and they'd curve aroundjust like iron filings
+do when you put themin a magnetic field.And the beans would show
+how the force weakensas it gets further
+from the magnetand goes from north to south.Or if you want to be true to
+life and don't have a magnet,you could put
+equal-sized string beansall pointing the
+same way, and thenmake sure your casserole is
+always pointing north, whichmight make it difficult
+to pass around the table,but I think dish-passing
+simplicity can be sacrificedfor the sake of science, or
+mathematics, whatever this is.Speaking of which, you can also
+invent your own vector fieldby making up a rule for what the
+vector will be at each point.Like if you just
+said for any pointyou choose, you'll take
+the coordinates x comma y,and give that point a
+vector that's y comma x, sothat this point, 0, 5,
+has the vector 5, 0.And at negative 3, negative
+1, you have negative 1,negative 3.And negative 4, 4
+gets 4 and negative 4.It's so simple.But you get this
+awesome vector fieldwhere the vectors kind of whoosh
+in from the corners and crashand whoosh out.Anyway, there's lots of
+other stuff you can do,but I'm going to go ahead and
+pour some goopy stuff into hereand get this thing
+casserole-ing.It may not look very inspiring
+yet, but it's far from done.The most essential
+part of a matheroleis an awesome oniony topping,
+and I've got just the trick.I will even show it to
+you in the next video.

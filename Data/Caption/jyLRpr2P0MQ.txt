@@ -1,0 +1,165 @@
+ The circle is arguably the most
+fundamental shape in ouruniverse, whether you look at
+the shapes of orbits ofplanets, whether you look at
+wheels, whether you look atthings on kind of a
+molecular level.The circle just keeps
+showing up over andover and over again.So it's probably worthwhile for
+us to understand some of theproperties of the circle.So the first thing when people
+kind of discovered the circle,and you just have a look at the
+moon to see a circle, but thefirst time they said well, what
+are the propertiesof any circle?So the first one they might
+want to say is well, a circleis all of the points that are
+equal distant from thecenter of the circle.All of these points along the
+edge are equal distant fromthat center right there.So one of the first things
+someone might want to ask iswhat is that distance, that
+equal distance that everythingis from the center?Right there.We call that the
+radius of the circle.It's just the distance from
+the center out to the edge.If that radius is 3
+centimeters, then this radiusis going to be 3 centimeters.And this radius is going
+to be 3 centimeters.It's never going to change.By definition, a circle is all
+of the points that are equaldistant from the center point.And that distance
+is the radius.Now the next most interesting
+thing about that, people mightsay well, how fat
+is the circle?How wide is it along
+its widest point?Or if you just want to cut it
+along its widest point, whatis that distance right there?And it doesn't have to be just
+right there, I could have justas easily cut it along its
+widest point right there.I just wouldn't be cutting it
+like some place like thatbecause that wouldn't be
+along its widest point.There's multiple places
+where I could cut italong its widest point.Well, we just saw the radius
+and we see that widest pointgoes through the center
+and just keeps going.So it's essentially two radii.You got one radius there
+and then you have anotherradius over there.We call this distance along
+the widest point of thecircle, the diameter.So that is the diameter
+of the circle.It has a very easy
+relationship with the radius.The diameter is equal to
+two times the radius. Now, the next most interesting
+thing that you might bewondering about a circle is how
+far is it around the circle?So if you were to get your tape
+measure out and you were tomeasure around the circle like
+that, what's that distance?We call that word the
+circumference of the circle.Now, we know how the diameter
+and the radius relates, but howdoes the circumference relate
+to, say, the diameter.And if you're not really used
+to the diameter, it's veryeasy to figure out how it
+relates to the radius.Well, many thousands of years
+ago, people took their tapemeasures out and they keep
+measuring circumferencesand radiuses.And let's say when their tape
+measures weren't so good,let's say they measured the
+circumference of the circleand they would get well, it
+looks like it's about 3.And then they measure the
+radius of the circle right hereor the diameter of that circle,
+and they'd say oh, the diameterlooks like it's about 1.So they would say -- let
+me write this down.So we're worried about
+the ratio -- let mewrite it like this.The ratio of the circumference
+to the diameter. So let's say that somebody had
+some circle over here -- let'ssay they had this circle, and
+the first time with not thatgood of a tape measure, they
+measured around the circleand they said hey, it's
+roughly equal to 3 meterswhen I go around it.And when I measure the
+diameter of the circle,it's roughly equal to 1.OK, that's interesting.Maybe the ratio of
+the circumference ofthe diameter's 3.So maybe the circumference
+is always threetimes the diameter.Well that was just for this
+circle, but let's say theymeasured some other
+circle here.It's like this -- I
+drew it smaller.Let's say that on this circle
+they measured around it andthey found out that the
+circumference is 6 centimeters,roughly -- we have a bad
+tape measure right then.Then they find out
+that the diameter isroughly 2 centimeters.And once again, the ratio of
+the circumference of thediameter was roughly 3.OK, this is a neat
+property of circles.Maybe the ratio of the
+circumference to the diametersalways fixed for any circle.So they said let me
+study this further.So they got better
+tape measures.When they got better tape
+measures, they measured hey,my diameter's definitely 1.They say my diameter's
+definitely 1, but when Imeasure my circumference
+a little bit, I realizeit's closer to 3.1. And the same thing
+with this over here.They notice that this
+ratio is closer to 3.1.Then they kept measuring it
+better and better and better,and then they realized that
+they were getting this number,they just kept measuring it
+better and better and they weregetting this number 3.14159.And they just kept adding
+digits and it wouldnever repeat.It was a strange fascinating
+metaphysical numberthat kept showing up.So since this number was so
+fundamental to our universe,because the circle is so
+fundamental to our universe,and it just showed up
+for every circle.The ratio of the circumference
+of the diameter was thiskind of magical number,
+they gave it a name.They called it pi, or you could
+just give it the Latin or theGreek letter pi --
+just like that.That represents this number
+which is arguably the mostfascinating number
+in our universe.It first shows up as the ratio
+of the circumference to thediameter, but you're going to
+learn as you go through yourmathematical journey, that
+it shows up everywhere.It's one of these fundamental
+things about the universe thatjust makes you think that
+there's some order to it.But anyway, how can we
+use this in I guessour basic mathematics?So we know, or I'm telling you,
+that the ratio of thecircumference to the diameter
+-- when I say the ratio,literally I'm just saying if
+you divide the circumference bythe diameter, you're
+going to get pi.Pi is just this number.I could write 3.14159 and just
+keep going on and on and on,but that would be a waste of
+space and it would just be hardto deal with, so people just
+write this Greekletter pi there.So, how can we relate this?We can multiply both sides of
+this by the diameter and wecould say that the
+circumference is equal to pitimes the diameter.Or since the diameter is equal
+to 2 times the radius, we couldsay that the circumference is
+equal to pi times 2times the radius.Or the form that you're
+most likely to see it,it's equal to 2 pi r.So let's see if we can apply
+that to some problems.So let's say I have a circle
+just like that, and I were totell you it has a radius --
+it's radius right there is 3.So, 3 -- let me write this down
+-- so the radius is equal to 3.Maybe it's 3 meters --
+put some units in there.What is the circumference
+of the circle?The circumference is equal to
+2 times pi times the radius.So it's going to be equal to 2
+times pi times the radius,times 3 meters, which is
+equal to 6 meters timespi or 6 pi meters.6 pi meters.Now I could multiply this out.Remember pi is just a number.Pi is 3.14159 going
+on and on and on.So if I multiply 6 times that,
+maybe I'll get 18 pointsomething something something.If you have your calculator you
+might want to do it, but forsimplicity people just tend to
+leave our numbersin terms of pi.Now I don't know what this is
+if you multiply 6 times3.14159, I don't know if you
+get something close to 19 or18, maybe it's approximately
+18 point somethingsomething something.I don't have my calculator
+in front of me.But instead of writing
+that number, you justwrite 6 pi there.Actually, I think it
+wouldn't quite cross thethreshold to 19 yet.Now, let's ask
+another question.What is the diameter
+of the circle? Well if this radius is 3, the
+diameter is just twice that.So it's just going to be 3
+times 2 or 3 plus 3, whichis equal to 6 meters.So the circumference is 6 pi
+meters, the diameter is 6meters, the radius is 3 meters.Now let's go the other way.Let's say I have
+another circle.Let's say I have
+another circle here.And I were to tell you that
+its circumference is equalto 10 meters -- that's the
+circumference of the circle.If you were to put a tape
+measure to go around it andsomeone were to ask you what is
+the diameter of the circle?Well, we know that the diameter
+times pi, we know that pi timesthe diameter is equal to
+the circumference; isequal to 10 meters.So to solve for this we would
+just divide both sidesof this equation by pi.The diameter would equal
+10 meters over pi or10 over pi meters.And that is just a number.If you have your calculator,
+you could actually divide 10divided by 3.14159, you're
+going to get 3 point somethingsomething something meters.I can't do it in my head.But this is just a number.But for simplicity we often
+just leave it that way.Now what is the radius?Well, the radius is equal
+to 1/2 the diameter.So this whole distance right
+here is 10 over pi meters.If we just 1/2 of that, if
+we just want the radius, wejust multiply it times 1/2.So you have 1/2 times 10 over
+pi, which is equal to 1/2 times10, or you just divide the
+numerator and thedenominator by 2.You get 5 there, so
+you get 5 over pi.So the radius over
+here is 5 over pi.Nothing super fancy about this.I think the thing that confuses
+people the most is to justrealize that pi is a number.Pi is just 3.14159 and it just
+keeps going on and on and on.There's actually thousands of
+books written about pi, soit's not like -- I don't know
+if there's thousands, I'mexaggerating, but you could
+write books about this number.But it's just a number.It's a very special number, and
+if you wanted to write it in away that you're used to writing
+numbers, you could literallyjust multiply this out.But most the time people just
+realize they like leavingthings in terms of pi.Anyway, I'll leave you there.In the next video we'll figure
+out the area of a circle.

@@ -1,0 +1,66 @@
+So let's think a little
+bit about powers of 0.So what do you think 0 to the
+first power is going to be?And I encourage you
+to pause this video.Well, let's just think about it.One definition of exponentiation
+is that you start with a 1,and then, you multiply this
+number times a 1 one time.So this is literally
+going to be 1 times--let me do it in the right
+color-- it's 1 times 0.You're multiplying
+the 1 by 0 one time.1 times 0, well, that's
+just going to be equal to 0.Now, what do you think 0
+squared or 0 to the second poweris going to be equal to?Well, once again, one way
+of thinking about thisis that you start
+with a 1, and we'regoing to multiply
+it by 0 two times.So times 0 times 0.Well, what's that going to be?Well, you multiply
+anything times 0,once again, you
+are going to get 0.And I think you
+see a pattern here.If I take 0 to any
+non-zero number--so to the power of
+any non-zero, so thisis some non-zero number, then
+this is going to be equal to 0.Now, this raises a very
+interesting question.What happens at 0
+to the 0-th power?So here, 0 to the millionth
+power is going to be 0.0 to the trillionth
+power is going to be 0.Even negative or
+fractional exponents,which we haven't
+talked about yet,as long as they're
+non-zero, this is justgoing to be equal to
+0, kind of makes sense.But now, let's think about
+what 0 to the 0-th poweris, because this is actually
+a fairly deep question.And I'll give you a hint.Well, actually, why
+don't you pause the videoand think a little bit about
+what 0 to the 0-th powershould be.Well, there's two
+trains of thought here.You could say, look, 0 to
+some non-zero number is 0.So why don't we just
+extend this to all numbersand say 0 to any
+number should be 0.And so maybe you should say
+that 0 to the 0-th power is 0.But then, there was
+another train of logicthat we've already learned,
+that any non-zero number,if you take any non-zero
+number, and you raise itto the 0-th power.We've already established
+that you start with a 1,and you multiply it times
+that non-zero number 0 times.So this is always
+going to be equal to 1for non-zero numbers.So maybe say, hey, maybe
+we should extend thisto all numbers, including 0.So maybe 0 to the 0-th
+power should be 1.So we could make the argument
+that 0 to the 0-th powershould be equal to 1.So you see a conundrum
+here, and there's actuallyreally good cases, and you
+can get actually fairlysophisticated with
+your mathematics.And there's really good
+cases for both of these,for 0 to 0-th being 0, and
+0 to the 0-th power being 1.And so when mathematicians
+get into this situation, wherethey say, well, there's
+good cases for either.There's not a
+completely natural one.Either of these
+definitions wouldlead to difficulties
+in mathematics.And so what mathematicians
+have decided to do is,for the most part-- and you'll
+find people who will disputethis; people will say, no, I
+like one more than the other--but for the most part,
+this is left undefined.0 to the 0-th is not defined
+by at least just kindof more conventional
+mathematics.In some use cases,
+it might be definedto be one of these two things.So 0 to any non-zero number,
+you're going to get 0.Any non-zero number to the 0-th
+power, you're going to get 1.But 0 to the 0, that's a
+little bit of a question mark.

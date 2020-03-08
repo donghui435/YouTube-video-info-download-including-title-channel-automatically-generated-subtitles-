@@ -1,0 +1,251 @@
+ How can a
+deterministic computerproduce genuinely
+random numbers?And does it even need to?[MUSIC PLAYING]Computers need to have
+access to random numbers.They're used to
+encrypt information,deal cards in your game
+of virtual Solitaire,simulate unknown variables
+like in weather predictionand airplane scheduling,
+and so much more.But how are those random
+numbers generated?Computers are
+deterministic, meaningtheir actions are determined
+by a prescribed setof instructions.How can it possibly
+produce a random number?Well, as Donald Knuth put
+it in the art of computerprogramming, "In a sense,
+there is no such thingas a random number.For example, is 2
+a random number.Rather, we speak of a sequence
+of independent random numberswith a specified distribution."To simulate the role
+of a die, you'llwant to create a sequence
+of random numbersX 0, X 1, X 2, X 3, and
+so on, each of whichhas a 1/6 chance of being
+each number between 1 and 6.That's the specified
+distribution.But how can a deterministic
+computer do that?Now, computers can
+generate sequencesof truly random
+numbers, but theyrely on some type
+of external inputfrom a process which
+we assume to be random.They inherit the
+randomness of the world.Random number
+generators typicallymeasure some random
+physical phenomenonusing an extra
+piece of hardware,like a Geiger counter, which
+tabulates background radiationover a short period of time.The sequence will be random
+because radiation is.But these types of
+number generatorshave major disadvantages.For one, they require
+extra hardware.Also, they're not very fast.It takes a while to gather
+all that external data.And the random number
+generation is not reproducible.If you're testing
+a program, you'lllikely want to repeatedly use
+the same set of random inputsto distinguish the
+features of the randomnessfrom the features of your
+program, which isn't easywhen the randomness derives
+from physical phenomenon.Fortunately, most
+of the time, wedon't need to produce
+actually random numbers.They just need to seem random.This is where pseudo-random
+numbers enter the picture.Sequences of
+pseudo-random numberslook like sequences of
+genuinely random numbersand have many of the statistical
+properties associatedwith random numbers,
+but they are actuallyproduced using a deterministic
+process, that is theyfollow a set rule, a pattern.For example, here's
+John von Neumann'smiddle-square algorithm.You start with a
+number called the seed.Let's say it's a four
+digit number like 4,321.As the algorithm's
+name suggests,you square it and extract
+the middle four digits.That's the next term
+in the sequence.Then you just
+repeat that process.For all n define x sub
+n plus 1 as the middlefor digits of x sub n squared.If the square has less
+than eight digits,pad it with leading zeros
+until it's eight digits longand extract the middle four.Starting with a four digit seed,
+the middle square algorithmgenerates a sequence of
+random-looking numbersbetween 0 and 9,999.This is definitely
+not the only wayto create a random-looking
+sequence of numbers.The current gold standard
+for pseudo-random numbergenerators, the
+Mersenne Twister,is based on the much simpler
+linear congruential generator.So we'll start there.The linear congruential
+generator has four inputs--the modulus m, the multiplier a,
+the increment c, and the seed,the sequence's starting value.We'll run with the
+example m equals 7,829,a equals 378, c equals 2,310,
+and the seed is 4,321 again.Multiply the seed
+by a, add c to that,and then take the
+whole thing mod m.In other words, you
+look at the remainderwhen it's divided by m.In our example,
+that gives 7,216.Repeat this over and over to
+get the rest of the sequence.X sub n plus 1 is equal to a
+times x sub n plus c mod m.The numbers in the
+resulting sequencewill be between 0 and
+7,828, which is m minus 1.With all these options for
+creating random-ish sequences,how do you decide whether to
+use a genuine random numbergenerator or one of the
+two pseudo-random numbergenerators-- the
+middle-square methodor the linear
+congruential algorithm?Remember, that one of the
+downfalls of generating trulyrandom numbers by measuring
+some physical phenomenon,for example using
+a Geiger counter,is that you cannot
+reproduce the sequence,which can make it difficult
+to test a program.But both of the pseudo-random
+number generatorsstart with a seed, a
+single number whichdetermines the entire sequence.If you want to test a program
+using the identical sequenceof random numbers,
+you don't needto store the entire sequence.You just need to know the seed.That's a huge benefit that
+pseudo-random number generatorshave over random
+number generators.The sequence is
+easily replicable.They also don't require
+any special devices,and they're
+computationally efficient.The obvious disadvantage is that
+pseudo-random numbers are notactually random, but they can
+appear more or less random.Here's our sequence from the
+middle square algorithm wherethe numbers range
+between 0 and 9,999.And here is our sequence
+from the linear congruentialgenerator where the numbers
+range between 0 and 7,828.Which one looks
+more random to you?But first, what does it mean
+for a sequence to be random?Well, there's no
+one way to determineif a sequence is random.Instead, there are many
+different statistical testsfor randomness.For example, you could compute
+the running average, or mean,of the numbers.Or you could plot a
+histogram of them.For example,
+something that wouldmake a sequence
+seem less random isif the same pattern of
+numbers kept showing up.Well, all sequences of
+pseudo-random numberseventually repeat.In other words, the
+sequence cycles.The number of terms in the
+sequence before it repeatsis called the period.If, for example, you're
+generating numbersbetween 0 and 9,999,
+it's impossible to gothrough more than 10,000
+terms in your sequencewithout repeating a number.And as soon as it
+repeats a number,it has to start cycling.That's because pseudo-random
+number generatorsfollow a rule,
+essentially a formula,by which each number
+in the sequenceis determined from
+the previous number.The sequence can
+repeat very quickly.For example, if a
+sequence producedusing von Neumann's
+middle-square algorithmhas the term 2,916,
+then the next numberis 5,030, then 3,009, then
+540, and back to 2,916,where it just keeps repeating.This cycle has period four.Or if the term 0 ever
+shows up in the sequence,then it becomes 0,
+0, 0, 0, and so on.It cycles with period 1.The pseudo-random sequence of
+numbers between 0 and 9,999generated by the
+middle-square algorithmwill always cycle with a
+period smaller than 4,096.And as we've seen, the
+period can be much smaller.A sequence generated by the
+linear congruential generatorwill also repeat.But if we select
+good values for mthe modulus, a the multiplier,
+and c the increment,then the period will be n.So we want to pick a
+big value for m, like 2to the 32nd kind of big.In general, the linear
+congruential generatorwill run for much
+longer before repeatingthan the middle-square
+algorithm, whichis one feature that
+makes it a more preferredpseudo-random number generator.And finally, I want to
+mention the distributionof these sequences.So far, we've looked at methods
+which produce random integersor simulate it with
+pseudo-random integersbetween 0 and some
+fixed value, like 9,999.In other words,
+the distribution isuniform on the integers
+between 0 and 9,999.But it's much more useful to
+have a sequence of numberswith the uniform distribution
+on the interval 0 to 1,which means that for any
+given term in the sequence,all the numbers between 0
+and 1 are equally likely.Actually, since computers
+only have a certain amountof decimal precision, let's
+say for a simplified example,that only the first four
+decimal digits matter.The uniform distribution
+on 0, 1 justmeans the uniform
+distribution on fractionsof the form x over 10,000 where
+x is between 0 and 10,000.But that's easy to obtain.Just divide the sequence
+of integers by 10,000.This is useful because
+with a sequence of numberswith the uniform
+distribution on 0, 1,we can generate sequences
+of random numbersaccording to other distributions
+using something knownas inverse transform sampling.Let's say we want to generate
+a sequence of random numberswith the normal
+distribution with mean162 centimeters and standard
+deviation 5 centimetersto represent the height
+of an American woman.You may have seen this picture.It's the probability
+density function.Roughly, it tells you
+how likely a randomlyselected American woman
+is to be that height.The function is
+highest around 162,since that's the most likely
+height and really tiny at 181,since it's unlikely for
+someone to be that tall.Just for comparison, this is
+the probability density functionof the uniform
+distribution on 0, 1.It's flat, since all
+points are equally likely.But now, let's talk about
+the cumulative distributionfunction.It tells you how likely you are
+to randomly select somethingbelow that value.For the uniform distribution,
+it's pretty easy.For a randomly
+selected point, there'sa 0% chance it's smaller
+than 0, 50% chance it'ssmaller than 1/2, and in 100%
+chance, it's smaller than 1.This is the cumulative
+distribution functionfor the heights
+of American women.The value of the
+function at a point xtells you the probability
+that a randomly selectedwoman will be shorter than x.Now, let's say I want
+a sequence of numberswhich represents the height
+of a bunch of American women.In other words, we want
+to generate numbersaccording to this distribution.Fortunately, thanks to
+inverse transform sampling,we can do this using our
+uniform 0, 1 sequence.Here's how.The first number in
+our sequence is 0.0671.So we locate that point on
+the cumulative distributionfor heights whose
+y-value is 0.0671.In other words, we
+find the height suchthat 6.71% of American
+women are shorter than that.The next number in
+our sequence is 0.9.So we use the
+cumulative distributionto locate the height such
+that 90% of American womenare shorter than that, and so
+on, creating a new sequence.Let's check that this
+makes sense intuitively.Most American women
+are around this height.That's why the cumulative
+distribution functiongrows so quickly there.The steep slope corresponds
+to a high probabilityand shallow slope to
+a low probability.We uniformly randomly
+select a point on the y-axisand then determine the
+point on the x-axis thatgives that function value.And more of those
+points correspondto places of steep slope
+of high probability.Less of them correspond
+to places of shallow slopeof low probability.Somewhat amazingly
+this method allowsus to transform the
+sequence of uniform 0, 1random or pseudo-random
+numbers into a sequencewith a different distribution.Even with a deterministic
+computer, the truly randomand pseudo-random techniques
+we explored give usnumbers with the uniform
+0, 1 distribution,which in turn,
+gives us sequenceswith other distributions, like
+the heights of American womenor wind speeds or dice rolls.See you next time
+on Infinite Series.Hello.You all had lots of great
+responses to our second videoon cops and robbers
+Humberto Vanegas asked,in the case of the
+infinitely branching tree,would there be one branch
+with infinitely many nodes?And in this case,
+would the robber bechased infinitely
+long on this branch?That's a great question.So in the case of
+the tree that wewere talking about in that
+episode, none of the branchesare infinitely long.They have length 1, length
+2, length 3, and so on.So none of them are
+infinitely long,but they've become
+arbitrarily long.It's kind of a
+weird distinction.There are infinitely
+many branches though.So the tree we
+were talking aboutis a cop wind tree because
+on any finite branch,the robber will
+eventually get caught.But if there were an
+infinitely long branch,then the tree would
+become robber windbecause the robber could
+just keep going alongthat infinitely long branch.So that's a great question.And we asked you
+guys two questionsat the end, the
+challenge questions.So we asked for the
+cop number and lazy copnumber of two graphs.And there were a lot
+of great responses,a lot of great proofs.A lot of them were really
+different too, which was cool.But our winner is
+Leonard Romano.And the answer is that the
+graph that looks like a star,it's called the
+Petersen graph, ithas cop number and
+lazy cop number three.They're the same in that case.But the graph that
+looks like a threeby three grid, that has a
+cop number two, but lazy copnumber three.And so in your
+proofs, many of youpointed out that the cop
+number has to be less thanor equal to the lazy cop number.That was a great insight.All right.See you next time.

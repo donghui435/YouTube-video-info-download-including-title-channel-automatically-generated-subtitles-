@@ -1,0 +1,59 @@
+I'm now going to introduce an
+ancient method for generatinga list of primes
+up to some limitN called the Sieve
+of Eratosthenes.Now, Eratosthenes
+was born in 276 BC,so this method is
+over 2,200 years old,but it's very
+simple and elegant,and you could teach
+it to any child.Now let's say, for
+example, we wantto calculate all the
+primes up to 100.But this would work
+in the same wayif we wanted to calculate
+up to 10,000 or a billion.It proceeds as follows.Assume all numbers are unmarked.Gray is unmarked.We start at the
+beginning, and if wefind a number that is
+unmarked, we know it's prime.So we hit 2, and we say 2 is
+prime because it's unmarked.And then the second
+phase is now wecan eliminate all
+multiples of 2,because we know
+they're composite.So bam, we jump along and we
+eliminate all multiples of 2.Red means composite.And now we repeat.We step along from 2 to 3.3 is unmarked, so
+we mark 3 as prime.And now we can eliminate
+all multiples of 3.And a really simple
+optimization isnotice 6 is already crossed off.We actually cross
+off the multiplesstarting at the
+square of that number.So 3 times 3 is 9.We start at 9 and mark all
+multiples of 3 as composite.And again, we go back.We jump along to 4.Well, 4 is marked, we
+know it's composite,and we jump along to 5.We found an unmarked number.5 is prime.Now, 5 times 5 is 25.We go to 25, we mark off 25,
+30, 35, 40, 45, and so on.Those are composites.We proceed forward
+until we hit 7.We know 7 is prime
+because it's unmarked.7 times 7 is 49.We mark 49 and all multiples
+of 7 above it as composite.And now we move along
+until we hit 11.11 is prime.And notice now, 11 times
+11 is greater than 100,so we can actually
+stop at this point.We could have
+stopped at 10 even,because now all remaining
+unmarked numbers,if you'll notice, are prime.And we could in one swoop
+mark them all as prime.And that's the whole algorithm.It's so simple.And just to generalize how we
+do this, so we could write upa program to perform
+this sieve, isif we want to find all
+primes up to some number N,we first create a main loop.So we have 4, all numbers a
+from 2 to the square root of n.So notice here we stopped.When we hit 10, or
+I showed it as 11,we actually stop because
+we have found all primes.So from 2 to the square root
+of N, we proceed as follows.If a is unmarked, then
+we know a is prime,and when we find
+a prime number, wemark all multiples of
+a off as composite.And that's it.So you find a number prime,
+mark off the multiples,go back to the beginning,
+increment a by one.So we're on 2, then we go to 3,
+then we go to 4, 5, and so on.And when we're done,
+we have all primes.Notice here that
+this is also a loop.So we have a main loop 4,
+and when we find a prime,this marking off of
+multiples is also a loop.So it's important to notice
+here that we have a nested loop.We have a loop inside a loop.Here is an example of
+this algorithm in action--I wrote in JavaScript
+below-- if I put in 100, hereare all the primes under 100.And if I put in 200, here
+are all the primes under 200.And if I put in 850, here
+are all the primes under 850.And below, I have this program
+with a recording explaininghow I set it up.

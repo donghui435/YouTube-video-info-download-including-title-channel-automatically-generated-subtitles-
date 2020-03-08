@@ -1,0 +1,14 @@
+¦Ðr^2 gives you the area of a circlebut where does ¦Ðr^2 come from ?first, we'lldraw circle and fill in it's areanext we will divide it into large equal parts and arrange them in a rectangularformationas you can see it barely resembles a
+rectangleso next we will divide the circle into
+small equal pieces and we will arrange them in the same
+manneryou can see that it appears more like a
+rectangleso if we divide the circle into
+even more smaller piecesyou can see that every time the shape
+becomes more like a rectangleso how small must we divide a circlebefore we can get a perfect
+rectangle?well, we can keep on dividing the circle
+into small, smaller,or the smallest pieces you can makebut the answer is to divide the circle
+infinitely many times until we cannotdistinguish the linesand eventually the circlecan now become a perfect rectangleso the area of the circle is equal to
+the area of the rectangle which is equalto base times heightthe height of the rectangleas you can see is the same as the radiusso height is equal to radiusto find the basewe need to look at the circumference of
+the circleand when we compared the base and the
+circumference we can see that the base isequal toone-half the circumferenceremember that the circumference is equal
+to 2¦Ðrwhen we combine it with one-halfthe two's cancel outand base is equal to ¦Ðrso now base times height becomes ¦Ðr times rcombine the r's together and we have¦Ðr^2which is equal to the area of the rectanglewhich is equal to the area of the circleso ¦Ðr^2 can be used to calculate the area of any size circle that exists

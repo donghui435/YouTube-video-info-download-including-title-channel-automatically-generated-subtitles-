@@ -1,0 +1,65 @@
+POLAR COORDINATESUp to this point, from Limits & Continuity
+through Derivatives and Integrals, for allfoundational calculus concepts, we've been
+working in cartesian coordinates.You don't always hear them called cartesian
+coordinates, but we're talking about the pointsin two-dimensional space that we graph on
+the xy-coordinate system.We've got the x-axis and the y-axis, and the
+points we plot on these axes are defined usingthe convention (x,y).For example, if we have the point (4,3), it
+means that we move four units along the x-axisin the positive direction, and three units
+along the y-axis in the positive direction.The point we arrive at is (4,3).So (x,y) is just a convention we use for expressing
+the location of a point in space.But this isn't the only way we can express
+the location of this point.Alternately, we could express its location
+as a distance away from the origin and anangle between the point and the x-axis.So, if I were giving you directions to the
+point (4,3), I could do it with cartesiancoordinates, telling you to walk in straight
+lines, left and right parallel to the x-axis,and then up and down parallel to the the y-axis,
+or I could do it with polar coordinates, pointingyou in a certain direction, and then telling
+you how far to walk.Where cartesian coordinates are expressed
+as (x,y), polar coordinates are expressedas (r,theta), where r is the distance you
+walk from the origin, or the radius, and thetais the direction angle in which I point you.CONVERTING POLAR POINTSIf you think about it, you can easily convert
+cartesian coordinates to polar coordinateswith some simple trigonometry.We already have a right triangle and we can
+call the lengths of the three sides x, y andr, which means we can use the pythagorean
+theorem to express r in terms of x and y.We'd just say that x^2+y^2=r^2.Then, given any cartesian coordinate point,
+like our point (4,3), we can use this conversionformula to solve for the r-value in the corresponding
+polar coordinate point.Keep in mind that we're talking about distances
+here, so we can discount the negative valueof r.Now that we have the r-value, we just need
+the corresponding value of theta, and thenwe'll know how to express the cartesian point
+(4,3) as a polar point.So let's talk about our angle theta.Given our point in cartesian coordinates,
+we already know the length of the oppositeand adjacent sides of the triangle.To generalize, we'll call them x and y.Now remember SOH CAH TOA from trigonometry?Since tangent of our angle is equal to the
+length of the opposite side divided by thelength of the adjacent side, we can take the
+inverse tangent of both sides to solve fortheta.Now we can say that the cartesian point (4,3)
+is equal to the polar point (5,tan^{-1}(3/4)),and we know how to use formulas to convert
+any cartesian coordinate to a polar coordinate.CONVERTING POLAR EQUATIONSNow let's talk about how to convert more than
+just points from cartesian to polar.We can also use our right triangle to write
+expressions for x and y.Since cosine of the angle is the length of
+the adjacent side divided by the length ofthe hypotenuse, we can describe the relationship
+between r, theta and x, and solve this equationfor x.We can do the same thing for y, knowing that
+sine of the angle theta is the length of theopposite side divided by the length of the
+hypotenuse.At this point you have everything you need
+not just to convert single points from cartesianto polar, but to convert entire functions
+from cartesian to polar.Given a function in terms of x and y, you
+can use these substitution formulas to removex and y, replacing them with r and theta,
+and before you know it you have an equationdefined in polar coordinates.POLAR COORDINATES AND THE UNIT CIRCLEBefore we move on, we need to briefly discuss
+the unit circle and make a note about ourlast example.First, it's important for us to recognize
+the close relationship between the unit circleand the polar coordinate system.Remember that the unit circle gives us values
+for the angle theta as we move away from thex-axis in a counterclockwise direction.Conveniently, these angles match the angles
+that define the polar coordinate system, whichmeans that, given the polar point (2,pi/2),
+the angle pi/2 takes us up to 90 degrees,and out a radius of 2 from the origin.You'll be using the unit circle constantly
+to find values of theta in polar coordinates.POSITIVE AND NEGATIVE VALUES IN POLAR COORDINATESNow for the note about our last example.We said that we could ignore the negative
+value of r, such that we could say that ris just 5 instead of +/-5.We did this because, even though r and theta
+can both assume negative values in polar coordinates,if we want to we can deal entirely in positive
+values.That's because there are always four ways
+to arrive at the same polar point.For example, if we want to plot the polar
+point (5,pi/3), we already know that we findour pi/3 angle and then move out a distance
+of 5 units from the origin.To plot the same point we could instead find
+the angle 4pi/3 and move out in the oppositedirection a distance from the origin of -5.Or we can move clockwise instead of counterclockwise
+to find theta, our angle will be -5pi/3 andwe'll move out from the origin a distance
+of 5.Or, moving in the clockwise, negative theta
+direction again, we can take an angle of -2pi/3and move out a distance of -5 from the origin.Which means that the four polar points we've
+listed here are all the same point in space,and given the point (-5,-2pi/3), we could
+decide we'd rather not deal with negativesigns and instead call this point (5,pi/3).WHY USE POLAR?Now you might be wondering: Why would you
+want to use polar coordinates when cartesiancoordinates were working so well for you?Well, there are lots of functions that are
+much easier to express in polar coordinatesthan in cartesian coordinates.For example, think about the equation of a
+circle as you know it today.The equation of a circle with radius 2, described
+in terms of x and y, looks like this (x^2+y^2=4).But described in terms of polar coordinates,
+the equation of the exact same circle lookslike this (r=2).And that's muuuuchhhh better!Think about circles, spheres, and cylinders.These are all much easier to describe in polar
+coordinates than they are in cartesian coordinates,so it's very convenient to understand polar
+coordinates and be able to work with themwhen you need to.

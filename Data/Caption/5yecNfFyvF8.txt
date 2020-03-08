@@ -1,0 +1,64 @@
+Here we are given a parabola with the
+vertex at negative 1 and 4. Vertex. Thequestion explicitly tells us the
+information for the vertex, that means weshould use the vertex form to model this
+parabola, right. Makes sense? Yeah. Solet's use the vertex form to model this
+parabola. Okay? Let's go. So vertex formgoes something like this, right, with y on
+the left side of the equation, x on theright side of the equation with the square
+right here meaning we are dealing with aquadratic function, right, cool. And the a
+here is the leading coefficient for theparabola, okay? Cool. Now, vertex. So this
+vertex information should be able to tellus the information about something here,
+and something here, right? So let's go.For this vertex the x coordinate is
+negative 1. So if you want to make thestatement look something like this, with a
+bracket and the x inside, we are lookingfor a value here, right? Would you say
+that means we have to move the number tothe same side as x, and we can put a
+bracket around the statement, right? Solet's do this. Now, negative 1 is moved to
+the other side of the equation, it becomespositive 1, right? And now the rest of the
+equation we just have zero, and now we canput a bracket around this whole thing. And
+that is gonna be the information we aregonna put down here, right, yeah.
+So inside the bracket what do we see? Xplus 1. So inside the bracket, we just put
+down x plus 1. And that's done, okay? Sothe x portion is done. Now let's take care
+of the y portion. So for the vertex, the ycoordinate is 4. Let's do the same thing,
+move the number to the same side as y. Sopositive 4 moved to the other side becomes
+negative 4, and this side of the equationwe just have zero. And now, we can put a
+bracket around this, right. And now we canput this whole thing right here. So inside
+the bracket we have y minus 4. Inside thebracket we have y minus 4. And now this
+portion of the equation is done. So nowhow do you determine the value for the
+leading coefficient? Well there's stillone information we haven't used, so
+chances are this will help us find aleading coefficient: the information about
+this point. So let's go.What does this point tell us? What
+information can we get out of this point?Well, this point is basically telling us
+that for this quadratic function, when xequals negative 3, the corresponding y
+value is 12. And guess what? These othervalues will plug into the equation to find
+the leading coefficient. Okay? So here, xvalue, we're going to plug in negative 3.
+Here, the y value, we're gonna plug in 12.Okay guys? And let's try to solve for a.
+So left side of the equation we have 12minus 4, we get-- let me use another
+color. So, left side of the equation wehave 12 minus 4 we get 8 .equals, a is the
+value we are trying to find. Now, thisside we have negative 3 plus 1, we have
+negative 2. And don't forget outside wegotta have a square, right. Cool. Now, a
+equals negative 2 squared. Guys, negative2 squared we get positive, right. Positive
+of what, 2 squared is 4. So we have 4a.Okay guys. Now, to solve the value for a,
+to solve the value for a, we simply divideboth sides of the equation by 4. That way
+4, 4 cancels out. So at the end, a equals8 divided by 4 is 2. That's it, that's the
+value for a right here. Okay, guys? So atthe end, for this parabola, the quadratic
+function is right here, okay? Left side ofthe equation we have y minus 4 equals. . .
+Guys, what's the value for a right here? Ais 2, right? So a is 2. So we put it in
+right here. Now bracket, inside thebracket we have x plus 1. And don't for
+get about the square to show that this isa quadratic function, right. Now, to fully
+write this as a vertex form, we simplyhave to move the constant to the other
+side of the equation, right?So the vertex form is y equals 2 bracket
+square, inside the bracket x plus 1. Andnow move negative 4 to the other side of
+the equation we have positive 4. Andthere, we have a beautiful equation in
+vertex form. Okay? That's it. So now, nowthat you know how to work with this,
+right, next time, you can actually do thisquestion a lot faster. You can just go
+like this. What color should I use? Let'suse blue. Okay.
+Check this out. Next time, you canapproach this conclusion a lot faster if
+you do this. Check this out. For thevertex, the x value is negative 1. Now, if
+you want to put this value inside thebracket, for x, negative 1, remember you
+have to go opposite, negative when you putit inside the bracket you go positive,
+okay? So the value is 1. Negative 1, goopposite, inside the bracket, positive 1.
+Now, the same thing works for y. Checkthis out. For y here, for the vertex, the
+y value is 4. Postive 4. Now go oppositeremember you have to go opposite when you
+put a value inside the bracket. Sopositive4, if you put a value inside the
+bracket, you got to go negative. Sopositive 4, if you put it inside the
+bracket, you've got to put negative 4..It's a lot faster, right? Saved you a
+couple of seconds right there. Okay? Yeah.Cool.

@@ -1,0 +1,209 @@
+SIMON PAMPENA: It's
+mind blowing.I learned this when I was
+at uni, the existence oftranscendental numbers.And the name was a
+selling point.Because I was like,
+transcendental.You know, it's a time when
+you're really interested in,like, out of body experiences
+and whatnot.But the idea that mathematicians
+gave this nameto numbers, numbers, these
+are numbers thatyou're familiar with.Like pi, you can write down
+as a decimal expansion.You'll never get it right, but
+it's just a number that you'refamiliar with.Has this property that we
+just didn't know about.OK, we're going to play a game,
+and we're going to tryand understand transcendental
+numbers with this game.The game is reducing
+down numbers to 0.That's what you want to do.So the rules are you can only
+use whole numbers to do it,and you can add, take, multiply,
+and put the wholething to any power you like,
+but it has to be a wholenumber power.OK, so let's play the game.OK, so do you have a
+favorite number?BRADY HARAN: Well, I
+like the number 10.SIMON PAMPENA: 10?BRADY HARAN: Yeah, but that
+seems like quite an easy one.SIMON PAMPENA: Sure.That's fine.You mean 10 in base 10?BRADY HARAN: 10 in base 10.SIMON PAMPENA: Yeah, OK.So 10 in base 10.OK, here we go.Let's start the game.So we want to get this down to
+0, so the first thing we coulddo is multiply it by 0.But that you can do with any
+number, because any numbertimes 0 is--BRADY HARAN: 0.SIMON PAMPENA: Bingo.You can do that, but that's
+not very interesting.But what is interesting is that
+if we try and use theserules, we can go, OK, what
+happens if I takeaway 10 from this?We're done.So there you go.So that sounds kind of trivial,
+but it's a reallygood start.So we used a whole number,
+and we used the take.What about something else?How about 3/4?First of all, let's
+multiply it by 4.OK, so these things
+will cancel.You get 3.Now we can take away
+3, we'll get 0.Excellent.But what about something
+crazier?What about like a really
+crazy number?What about like, the
+square root of 2?I think you guys know about
+the square of 2.BRADY HARAN: Yes, we do.That's irrational, isn't it?SIMON PAMPENA: It's an
+irrational number, andirrational means it can't be
+expressed as a fraction.So the square root of 2 is kind
+of a very strange number,and so this little thing here,
+I often say this little thinghere is like a little
+sentence.It says, what number multiplied
+by itself gives youthis number?That's the way I think of
+the square root sign.So I don't know what number
+multiplied by itself gives me2, but that doesn't matter.Now, what we'll do is
+to try and get thisone down to 0, OK?First of all, we'll have to--BRADY HARAN: OK, that, I
+reckon I can do that.SIMON PAMPENA: Well, tell me.BRADY HARAN: I reckon if we
+raise that to a power--SIMON PAMPENA: Yep.What power?BRADY HARAN: Let's raise
+it to the power of 2?SIMON PAMPENA: Correct,
+so that'smultiplying it by itself.And then what do you
+get in the middle?BRADY HARAN: You're going
+to get 2, I'd bet.SIMON PAMPENA: That's right.So now you've got 2 in there,
+so what are you going to do?BRADY HARAN: Subtract 2.SIMON PAMPENA: Yes!So look at that.So you've just taken an
+irrational number, and withthis game you've brought
+it down to 0.How about the square
+root of negative 1?We've gone from numbers that
+you know and love tofractions, OK, to irrational.This is irrational numbers.Now we've gone into what they
+call complex, or some peoplecall imaginary, which is
+a terrible name for it.OK, so what can you do to
+this one here to try andget it down to 0?BRADY HARAN: Well, I'm just
+going to square it and add 1.SIMON PAMPENA: There you go.No flies on you, mate.So there you go.So we've been able to play this
+game with three or fourvery different types of numbers,
+quite special.But what about something else?What about the square root of
+2 plus the square root of 3?What can you do with that?So, let's see.The square root of 2 plus
+the square root of 3.Now we're gonna square it.OK, so this is a little bit
+of high school maths.2 plus 2 times this by this,
+which is 2 the square root of2 times square root of
+3 plus this squared.So that's 3.So this reduces down to 5 plus
+2 by the square root of 2 bythe square root of 3.OK, so this is what
+we've done.We've done that there, but
+look what's popped out.A number that we can use,
+a whole number.So what we'll do is on this
+side, we'll go 5 plus 2 by thesquare root of 2 by the square
+root of 3, and nowwe'll take away 5.So we'll end up getting 2 by
+the square root of 2 by thesquare root of 3.And this is good, because
+there's noplus sign in the middle.What can we do next?Well, we're going to
+square all of that.So 2 squared is 4, and the
+square root of 2 squared is 2.And the square root
+of 3 squared is 3.OK, so that dot is another
+way of saying times.And so that one is 2/8,
+two 4's are eight,eight 3's 24, done.So if we go 24, take 24,
+boom, we get down to 0.What I wanted to show you, the
+reason why I wanted to showyou this is because all these
+different numbers look verycomplicated, unrelated,
+but let me show you.Now, let's replace all the
+numbers we put in with x.x take 10 is 0, 4x take 3 is
+0, x squared take 2 is 0, xsquared plus 1 is 0, and this
+one is x squared take 5, allsquared, take 24 equals
+0, which if weexpand out, so look.These all look like
+algebra problems.So what we did was in our game,
+we picked numbers, andwe tried to get them to 0.But the opposite could have been
+here, let's solve for x.Now, this is the stuff that
+you get taught in school.This is algebra, and it so
+happens that the family thatall these numbers belong to,
+even the square root ofnegative 1, is algebraic
+numbers.So we've actually found a home
+for some of the biggest starsof maths, the numbers that have
+caused huge problems andschisms, what is the square
+root of negative 1?Square root of 2 from
+the ancient times,the Pythagorean times.People died because
+of this number.But somehow we've found a family
+for these numbers,algebraic numbers.OK.So next, we're going to need
+another sheet of paper.We've chosen some numbers.What about a special number?What about e?Now this number here--if you're not familiar with
+it-- this number is afantastic number for maths.And what it is is that if it's a
+function, a function of e tothe x, e to any number that
+you raise it to, OK?On the graph, when you graph
+it like so, the y value isalso at the slope of the
+tangent at that point.So it's really, really important
+to natural growth.It's like a really
+fantastic number.It means a lot to life, really,
+but it's actually asuper crazy number.Super, super crazy.One of the expressions I can
+show you for it is actually aninfinite sum.So I'm going to blow you away.It's 1 plus 1 on 1 plus 1 on 2
+plus 1 on 6 plus 1 on 20--anyway, it keeps going
+forever and ever.But can we play the game
+with this number?Can we bring this number
+down to 0 using therules of our game?BRADY HARAN: Can we do
+it with algebra?SIMON PAMPENA: Can we
+do it with algebra?That's right.BRADY HARAN: All right.Can we?SIMON PAMPENA: Well, for ages
+and ages and ages, e's beenaround for about 400 years.Nobody really knew.I mean, this number
+is really, reallyimportant, and no one knew.It so happens, we can't.BRADY HARAN: It can't be done.SIMON PAMPENA: It can't be done,
+and I'll show you why.Well, I'll kind of try and show
+you why, because it'sactually really tricky.But it was a guy called Charles
+Hermite, and hebasically showed--right, so I'm going to use these
+symbols here, because Idon't know what the
+formula will be.He basically showed if you try
+and play the game, right,bringing e to any power that
+you want, whole power andtimesing it by any
+whole number.So if you claim that there does
+exist some bit of algebrathat you can bring it down to 0,
+he showed that you'll leadto a contradiction.Basically, he showed that there
+was a number, a wholenumber that existed
+between 0 and 1.Obviously, there's not.Obviously, there's not.But this is what you do in
+maths, is that if you want toshow you something is
+impossible, you kind of assumethat it's true, and then you
+show that it creates acontradiction.So this is amazing.So this is what Hermite
+discovered, and this isreally, really a fantastic--I mean, everyone should be
+excited by this, because e isnot algebraic.So what number is it?Well, it somehow transcends what
+we're capable of doing.The thing with algebra is that's
+how we build numbers.Like, that's our world is
+built with algebra.Like, any number that you kind
+of deal with in your everydaylife has a lot to
+do with algebra.You're just adding, taking,
+dividing, things to the power,but e is not.So it somehow transcends
+maths.So that's what they called
+it. e is transcendental.It's actually [INAUDIBLE]show you other than e.You know why, is because--well, this is the interesting
+thing.e wasn't the first
+transcendental number.They discovered a transcendental
+number,Liouville, I think his
+name is, discovered atranscendental number quite a
+long way before this, 30 yearsbefore this.But it was like, through
+construction.So he was actually trying to
+find a number based on therules of the game
+that didn't fit.What's special is that e was
+already, it's already asuperstar of maths, e.Like, people knew about it.So this was an extra piece
+of information.But then people asked
+this question.What about pi?BRADY HARAN: Superstar.SIMON PAMPENA: The superstar.This is the superstar of math.2,000 years old.What is pi?Is pi algebraic or
+transcendental?So you've got to imagine
+as a mathematician,OK, you love pi.Like, it comes with
+the territory.You cannot not like pi.So this is the thing, is that
+you could actually add to theknowledge of pi.You could add something new,
+which is incredible.I mean, I would die a happy
+man if I could do that.So this question came
+up, what is pi?Is it algebraic or
+transcendental?And so it was about, probably
+1880s that a guy calledLindemann actually came
+up with the answer.He showed, and again, this is
+a very tricky thing that heshowed, he showed e raised to
+any algebraic number istranscendental.So for example, e to the 1, e.That's a good thing, because
+e should be transcendental,because it's already
+been proven.Because 1 is algebraic.Your favorite number,
+Brady, e to the 10.That's transcendental, right?e to the square root
+of 2, e to the i.Right?What about pi?So how could you use this fact
+here, e to the a, so a is anyalgebraic number, is
+transcendental?How can you use that fact
+to show that pi istranscendental?OK, so this is the thing.Again, it's a proof
+by contradiction.So, this is what he did.He said, let's assume
+pi is algebraic.So pi is algebraic.That means there's
+a formula for it.OK, what's that formula?Who knows?Because it doesn't exist.But as an example, if you're
+an engineer, you'd say, oh,yeah, pi, 22 on 7.All right?OK, cool.So that means pi times
+7 take 22 equals 0.Right?As an example.That's not true, by the way.There's no way I'm claiming
+that to be true.Don't you dare cut it and say
+Simon thinks that's true.It's not true.Pi, 22 on 7.Pi, 22 on 7.I know pi to quite a few decimal
+places, and that'sobviously not true.And an actual fact, just so I
+can tell you, another reallynice approximation of pi
+is the cube root of 31.It's actually pretty close.So that could be another
+formula.So that means if we cube
+that and take away31, that equals 0.OK, so we've got like these
+phony equations.This is the big kicker.This is the big kicker.We're going to use another
+superstar equation, OK?e to the i pi equals
+negative 1.So this is Euler's identity.It's a famous one, isn't it?But look at it.Look what it says. e raised
+to the i pi is negative 1.Now, i pi, OK, if we assume pi
+is algebraic, that means i pimust be algebraic.So e to an algebraic number
+has to be transcendental.But is negative 1
+transcendental?It's not, because we can
+play the game, and wecan get it to 0.So by using another increase
+piece of maths in yourformula, imagine this is like
+you're making a film, likeyou're doing a maths film, and
+you've just got the biggestHollywood star in the world
+to start in it.In your proof.Starring in your proof.So this here, e to the
+i pi is negative 1.If indeed this was algebraic,
+this would have to betranscendental, so that means
+i pi cannot be algebraic.And who's the culprit?Well, it's not the square
+root of negative 1.It's pi.So pi cannot be algebraic,
+which means pi must betranscendental.So there's something really
+tricky going on, and that'swhy I like it.Because the tricky stuff
+is where all theawesome maths is.In maths, perfection
+is important.But then, anyone who
+uses maths--for physics or chemistry, or
+whatever you want to do--then they can kind of
+use approximations.I'm not interested in
+approximations.

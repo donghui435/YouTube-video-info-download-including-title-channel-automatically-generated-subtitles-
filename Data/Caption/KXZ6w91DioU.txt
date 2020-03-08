@@ -1,0 +1,195 @@
+Let's start off with segment AB.So that's point A. This is
+point B right over here.And let's set up a perpendicular
+bisector of this segment.So it will be both perpendicular
+and it will split the segmentin two.So thus we could
+call that line l.That's going to be a
+perpendicular bisector,so it's going to intersect
+at a 90-degree angle,and it bisects it.This length and this
+length are equal,and let's call this
+point right over hereM, maybe M for midpoint.What I want to prove
+first in this videois that if we pick an arbitrary
+point on this line thatis a perpendicular bisector of
+AB, then that arbitrary pointwill be an equal distant
+from A, or that distancefrom that point to
+A will be the sameas that distance
+from that point to B.So let me pick an arbitrary
+point on this perpendicularbisector.So let's call that
+arbitrary point C.And so you can imagine we
+like to draw a triangle,so let's draw a triangle where
+we draw a line from C to Aand then another
+one from C to B.And essentially, if we can
+prove that CA is equal to CB,then we've proven
+what we want to prove,that C is an equal distance
+from A as it is from B. Well,there's a couple of
+interesting things we see here.We know that AM is
+equal to MB, and we alsoknow that CM is equal to itself.Obviously, any segment is
+going to be equal to itself.And we know if this
+is a right angle,this is also a right angle.This line is a perpendicular
+bisector of AB.And so we have two
+right triangles.And actually, we don't
+even have to worry aboutthat they're right triangles.If you look at triangle
+AMC, you have this sideis congruent to the
+corresponding side on triangleBMC.Then you have an angle in
+between that correspondsto this angle over here, angle
+AMC corresponds to angle BMC,and they're both 90 degrees,
+so they're congruent.And then you have the side
+MC that's on both triangles,and those are congruent.So we can just use SAS,
+side-angle-side congruency.So we can write
+that triangle AMCis congruent to triangle BMC
+by side-angle-side congruency.And so if they are
+congruent, thenall of their corresponding
+sides are congruentand AC corresponds to BC.So these two things
+must be congruent.This length must be the same as
+this length right over there,and so we've proven
+what we want to prove.This arbitrary point C that
+sits on the perpendicularbisector of AB is equidistant
+from both A and B.And I could have known that if
+I drew my C over here or here,I would have made the exact
+same argument, so any C thatsits on this line.So that's fair enough.So let me just write it.So this means that
+AC is equal to BC.Now, let's go the
+other way around.Let's say that we
+find some point thatis equidistant
+from A and B. Let'sprove that it has to sit on
+the perpendicular bisector.So let's do this again.So I'll draw it like this.So this is my A. This is my B,
+and let's throw out some point.We'll call it C again.So let's say that
+C right over here,and maybe I'll draw
+a C right down here.So this is C, and we're going
+to start with the assumptionthat C is equidistant
+from A and B.So CA is going to
+be equal to CB.This is what we're
+going to start off with.This is going to
+be our assumption,and what we want
+to prove is that Csits on the perpendicular
+bisector of AB.So we've drawn a triangle here,
+and we've done this before.We can always drop an
+altitude from this sideof the triangle right over here.So we can set up a
+line right over here.Let me draw it like this.So let's just drop an
+altitude right over here.Although we're really
+not dropping it.We're kind of lifting an
+altitude in this case.But if you rotated
+this around sothat the triangle looked like
+this, so this was B, this is A,and that C was up
+here, you would reallybe dropping this altitude.And so you can
+construct this lineso it is at a right
+angle with AB,and let me call this the point
+at which it intersects M. Soto prove that C lies on
+the perpendicular bisector,we really have to
+show that CM isa segment on the
+perpendicular bisector,and the way we've
+constructed it,it is already perpendicular.We really just have to
+show that it bisects AB.So what we have right over
+here, we have two right angles.If this is a right angle
+here, this one clearlyhas to be the way
+we constructed it.It's at a right angle.And then we know that the CM
+is going to be equal to itself.And so this is a right angle.We have a leg, and
+we have a hypotenuse.We know by the RSH postulate,
+we have a right angle.We have one
+corresponding leg that'scongruent to the other
+corresponding legon the other triangle.We have a hypotenuse
+that's congruentto the other hypotenuse,
+so that meansthat our two triangles
+are congruent.So triangle ACM is congruent
+to triangle BCM by the RSHpostulate.Well, if they're congruent,
+then their corresponding sidesare going to be congruent.So that tells us that AM must
+be equal to BM because they'retheir corresponding sides.So this side right
+over here is goingto be congruent to that side.So this really is bisecting AB.So this line MC really is on
+the perpendicular bisector.And the whole reason why
+we're doing this is now wecan do some interesting things
+with perpendicular bisectorsand points that are
+equidistant from pointsand do them with triangles.So just to review, we
+found, hey if any pointsits on a perpendicular
+bisector of a segment,it's equidistant from the
+endpoints of a segment,and we went the other way.If any point is equidistant
+from the endpoints of a segment,it sits on the perpendicular
+bisector of that segment.So let's apply those
+ideas to a triangle now.So let me draw myself
+an arbitrary triangle.I'll try to draw
+it fairly large.So let's say that's a
+triangle of some kind.Let me give ourselves some
+labels to this triangle.That's point A,
+point B, and point C.You could call
+this triangle ABC.Now, let me just construct
+the perpendicular bisectorof segment AB.So it's going to bisect it.So this distance is going to
+be equal to this distance,and it's going to
+be perpendicular.So it looks something like that.And it will be perpendicular.Actually, let me draw
+this a little differentbecause of the way I've
+drawn this triangle,it's making us get close
+to a special case, whichwe will actually talk
+about in the next video.Let me draw this triangle
+a little bit differently.OK.This one might be a
+little bit better.And we'll see what special
+case I was referring to.So this is going
+to be A. This isgoing to be B. This
+is going to be C.Now, let me take
+this point rightover here, which is
+the midpoint of A and Band draw the
+perpendicular bisector.So the perpendicular bisector
+might look something like that.And I don't want it to make
+it necessarily intersect in Cbecause that's not necessarily
+going to be the case.But this is going to
+be a 90-degree angle,and this length is
+equal to that length.And let me do the same thing
+for segment AC right over here.Let me take its midpoint, which
+if I just roughly draw it,it looks like it's
+right over there.And then let me draw its
+perpendicular bisector,so it would look
+something like this.So this length right over
+here is equal to that length,and we see that they
+intersect at some point.Just for fun, let's
+call that point O.And now there's some interesting
+properties of point O.We know that since O sits on
+AB's perpendicular bisector,we know that the
+distance from O to Bis going to be the same
+as the distance from Oto A. That's what we proved
+in this first little proofover here.So we know that OA is
+going to be equal to OB.Well, that's kind of neat.But we also know that
+because of the intersectionof this green
+perpendicular bisectorand this yellow
+perpendicular bisector,we also know because it
+sits on the perpendicularbisector of AC that
+it's equidistant from Aas it is to C. So we know
+that OA is equal to OC.Now, this is interesting.OA is equal to OB.OA is also equal
+to OC, so OC and OBhave to be the
+same thing as well.So we also know that
+OC must be equal to OB.OC must be equal to OB.Well, if a point is equidistant
+from two other points thatsit on either end of a
+segment, then that pointmust sit on the perpendicular
+bisector of that segment.That's that second proof
+that we did right over here.So it must sit on the
+perpendicular bisector of BC.So if I draw the perpendicular
+bisector right over there,then this definitely lies on
+BC's perpendicular bisector.And what's neat about
+this simple little proofthat we've set up
+in this video iswe've shown that there's a
+unique point in this trianglethat is equidistant from all
+of the vertices of the triangleand it sits on the perpendicular
+bisectors of the three sides.Or another way to
+think of it, we'veshown that the perpendicular
+bisectors, or the three sides,intersect at a
+unique point that isequidistant from the vertices.And this unique point on a
+triangle has a special name.We call O a circumcenter.And because O is
+equidistant to the vertices,so this distance-- let
+me do this in a colorI haven't used before.This distance right over here
+is equal to that distance rightover there is equal to
+that distance over there.If we construct a circle
+that has a center at Oand whose radius is
+this orange distance,whose radius is any of
+these distances over here,we'll have a circle
+that goes through allof the vertices of our
+triangle centered at O.So our circle would
+look somethinglike this, my best
+attempt to draw it.And so what we've constructed
+right here is one,we've shown that we can
+construct something like this,but we call this
+thing a circumcircle,and this distance right here,
+we call it the circumradius.And once again, we know
+we can construct itbecause there's a point here,
+and it is centered at O.Now this circle, because
+it goes through allof the vertices of
+our triangle, wesay that it is circumscribed
+about the triangle.So we can say right over
+here that the circumcircle O,so circle O right over
+here is circumscribedabout triangle ABC, which
+just means that all threevertices lie on this circle
+and that every point isthe circumradius away
+from this circumcenter.

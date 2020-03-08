@@ -1,0 +1,17 @@
+Next we're going to talk about axis, and the
+way we can show that is we have a horizontalaxis that we call X, and also we have a vertical
+axis we call Y. And these are two axes, alright?Where they cross is called an origin, which
+has the value zero, zero. Now we can thinkabout this axis as a number line with positive
+values in the X axis, positive values to theright,
+and negative values to the left of the origin.Similarly on the Y axis, we have something
+that looks ninety degrees. We have one, two,three, four, five, and going the negative
+direction below the origin, we have negativeone, negative two, negative three, negative
+four, negative five. Now this can go on forever.And this plane, this rectangular coordinate
+plane is sometimes referred as the CartesianCoordinate, and we can divide this plane into
+four quadrants. The first quadrant has thevalues of X, all positive, and the values
+of Y, all positive. The second quadrant hasnegative values of X and positive values of
+Y. The third quadrant, we're going counter-clockwisehere, the third quadrant, X values are negative,
+Y values are also negative. And then the lastquadrant, which is the fourth quadrant, X
+values are positive, Y values are negative.So the Cartesian Coordinates are divided into
+four quadrants: quadrant one, positive positive;quadrant two, negative positive; quadrant
+three, negative negative; quadrant four, positivenegative.

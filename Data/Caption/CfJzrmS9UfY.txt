@@ -1,0 +1,110 @@
+Let's say you're me, and
+you're in math class,and you're supposed to be
+learning about factoring.Trouble is, your
+teacher is too busytrying to convince
+you that factoringis a useful skill for the
+average person to know,with real-world applications
+ranging from passing your stateexams all the way to
+getting a higher SAT score.And unfortunately,
+does not have the timeto show you why factoring
+is actually interesting.It's perfectly
+reasonable for youto get bored in this situation.So like any reasonable
+person, you start doodling.Maybe it's because your
+teacher's soporific voicereminds you of a lullaby,
+but you're drawing stars.And because you're
+me, you quicklyget bored of the usual
+five-pointed starand get to wondering, why five?So you start exploring.It seems obvious that
+a five-pointed staris the simplest
+one, the one thattakes the least number
+of strokes to draw.Sure, you can make a
+start with four points,but that's not really a star
+the way you're defining stars.Then there's a
+six-pointed star, whichis also pretty
+familiar, but totallydifferent from the
+five-pointed starbecause it takes two
+separate lines to make.And then you're
+thinking about how,much like you can put
+two triangles togetherto make a six-pointed star, you
+can put two squares togetherto make an eight-pointed star.And any even-numbered star with
+p points can be made out of twop/2-gons.It is at this point
+that you realizethat if you wanted to avoid
+thinking about factoring,maybe drawing stars was
+not the greatest idea.But wait, four would be
+an even number of points,but that would mean you could
+make it out of two 2-gons.Maybe you were taught
+polygons with only two sidescan't exist.But for the purposes
+of drawing stars,it works out rather well.Sure, the four-pointed star
+doesn't look too star-like.But then you realize you can
+make the six-pointed star outof three of these
+things, and you'vegot an asterisk, which is
+definitely a legitimate star.In fact, for any star
+where the number of pointsis divisible by 2, you can
+draw it asterisk style.But that's not quite
+what you're looking for.What you want is a doodle
+game, and here it is.Draw p points in a
+circle, evenly spaced.Pick a number Q.Starting at one point,
+go around the circleand connect to the
+point two places over.Repeat.If you get to the starting
+place before you'vecovered all the points, jump to
+a lonely point, and keep going.That's how you draw stars.And it's a successful game,
+in that previously youwere considering running
+screaming from the room.Or the window was open,
+so that's an option, too.But now, you're not only
+entertained but beginningto become curious about
+the nature of this game.The interesting thing is that
+the more points you have,the more different ways
+there is to draw the star.I happen to like seven-pointed
+stars because there'stwo really good ways to draw
+them, but they're still simple.I would like to note here
+that I've never actually lefta math class by the
+window, not that Ican say the same
+for other subjects.Eight is interesting,
+too, because not only arethere a couple nice
+ways to draw it,but one's a composite
+of two polygons,while another can be drawn
+without picking up the pencil.Then there's nine,
+which, in additionto a couple of
+other nice versions,you can make out
+of three triangles.And because you're
+me, and you're a nerd,and you like to
+amuse yourself, youdecide to call this kind
+of star a square starbecause that's kind
+of a funny name.So you start drawing
+other square stars.Four 4-gons, two 2-gons, even
+the completely degenerate caseof one 1-gon.Unfortunately, five pentagons
+is already difficult to discern.And beyond that, it's very
+hard to see and appreciatethe structure of square stars.So you get bored and
+move on to 10 dotsin a circle, which
+is interestingbecause this is the
+first number whereyou can make a star as
+a composite of smallerstars-- that is, two boring
+old five-pointed stars.Unless you count asterisk
+stars, in which case 8 was two4s's or four 2's
+or two 2's and a 4.But 10 is interesting
+because you can make itas a composite in
+more than one waybecause it's
+divisible by 5, whichitself can be made in two ways.Then there's 11, which can't
+be made out of separate partsat all because 11 is prime.Though here you
+start to wonder howto predict how many
+times around the circlewe'll go before
+getting back to start.But instead of exploring
+the exciting worldof modular arithmetic,
+you move on to 12,which is a really
+cool number because ithas a whole bunch of factors.And then something
+starts to bother you.Is a 25-pointed
+star composite madeof five five-pointed
+stars a square star?You had been thinking
+only of pentagonsbecause the lower numbers
+didn't have this question.How could you have missed that?Maybe your teacher
+said somethinginteresting about prime
+numbers, and you accidentallylost focus for a moment.I don't know.It gets even worse.6 squared would be a 36-pointed
+star made of six hexagons.But if you allow use
+of six-pointed stars,then it's the same as a
+composite of 12 triangles.And that doesn't seem in
+keeping with the spiritof square stars.You'll have to define
+square stars more strictly.But you do like the
+idea that there'sthree ways to make the
+seventh square star.Anyway, the whole theory
+of what kind of starscan be made with what
+numbers is quite interesting.And I encourage you to explore
+this during your math class.

@@ -1,0 +1,82 @@
+This is actually super interesting to me,because it's one of the most famous proofs of all time.It's the proof for Fermat's last theorem, which Andrew Wiles famously solved.Now I don't wanna explain that,what I want to explain is what's at the heart of that proof.It's actually not what Wiles spent seven years on, it'sit's actually something else.It's the Taniyama-Shimura-Weil conjecture which is now called modularity.So we're gonna say is Fermat's last theorem is trueand has to be just as obvious as the
+fact that one doesn't equal two.In this case, Fermat's theorem reduces down to something called modularity,it's the modularity theorem.So it's not 1 doesn't equal 2 here, it's something else.So it's all about two things,about elliptic curves and this is specifically forwhole numbers and fractions are actually modular forms in disguise,so what does that mean?And that's how I feel even as a mathematician it's like, what?So what I want to do, just trying to get you to appreciate what this means;just an appreciationnot the full thing, just an appreciation of what's going on.And what I'm gonna do is I'm just going to use much simpler equations,right, what do you want to start with?So starting with modular forms, a modular form, now the way you need to think aboutthis is it's something to do with symmetry, but there's different forms of symmetry.And the one I want to show you today is called translational symmetry,and what it is, is this. Imagine you have an infinite planethis is being nicely provided by brown paper.And imagine we actually have here so I'm just gonnajust going to kind of just put arrows to represent that I've chopped this up.Imagine now cutting this up into strips, infinite strips
+but the important thing is is that thestrips all the same width, and so now
+something has the symmetry has atranslational symmetry 'cos this goes on forever,like left and right as you can imagine
+this kind of situation.What has the symmetry which you can basically take a strip of this, and cut and paste butwhat's important is we want to know what functions you can cut and paste, cut and paste.yeah, a graph, but what it is we're looking for an equation, we want something to generate it,because say if you had like a picture
+or funny picture in here,it might have a really complicated equation. Maybe it doesn't even have an equation at all.I can think about a pattern I mean this
+doesn't even have regular pattern, my shirtI usually like pretty regular patterned shirtsBut the point is I want to show you something which actually has a very regular pattern and it'ssomething I'm hoping you've seen before it's one of
+these things like basically this isa sine wave so it goes up and down up and down up
+and down now this actually has a longcomplicated equation but the important thing
+is it's like even though it is thisequation that you crank out potentially you could
+cut and paste, cut and paste, cut and pasteso that's the idea, a modular form has that 
+except hyperbolic geometry andit's really complicated but if you get the ...
+just appreciate the fact that it's acut & paste thing, you take one section
+of it you cut & paste, cut & paste, that's the idea not allfunctions are like that. How about a function
+like this is my attempt to circleBrady: (laughing)
+Simon: thanks manso a circle has an equation. I'm actually going to write the equation down just because it's funbasically the circle is another equation
+except it doesn't have translational symmetrythink about it just exists in
+one section so what this relationship issaying ellipitic curves (so whole numbers and fractions)
+are modular forms in disguiseit's actually saying is that you can fit a
+modular form into elliptic curves, you can fit atranslational symmetry equation into the
+equation of the circle. That's what it's saying.this is magical stuff. So how does this
+work? how can we make this workwell the way you have to think about it is that 
+imagine now we had a point on the circlealright? now we start following it around yeah? So let's just have fun, maybe we could do it really quicklymaybe go slowly maybe go fast-slow-fast-slow but if
+we chose to do it at a constant rategoing round and round and round imagine
+what that'd look like if this was actuallymoving through space so if you think
+about it if I'm doing the circle imaginenow if I go like this, so now I'm gonna start
+moving at the same rate as I'm going upand so what's actually going on is I'm
+actually making a coilBrady: It's like a slinky
+Simon: It's like a slinkythat's right so now just imagine right, what
+we're doing is we're actually creating acoil now again if it was a slinky, slinkies you
+can make them bunched up and ... but imaginewe've got a slinky that's just perfectly
+evenly spaced so now that has anequation; it has a helix equation, it's got an equation in
+3D but what happens if you lookdown the barrel of that helix? What
+would you see if you looked straightdown and there was no perspective
+problems like if you look straight downthe barrel what would you see?
+Brady: A circleSimon: that's right, so what's actually going on there is that the helix can fit inside the equation of the circleand the only reason this works is because 3D
+space and 2D space are both flat when youdealing with curvy spaces this is really
+not an option and these are curvyspaces the actual elliptic curves belong
+to projective space, modular forms belongto hyperbolic space, the complex numbers, I
+mean they are really super curvy, but in thisexample it's really nice because what
+we're doing is we're actually fittingthree-dimensional numbers into
+two-dimensional numbers. Not reallythree-dimensional, they exist in three dimensions
+you gotta think they have a differentrelationship going on. So what the coil
+has, the coil has translational symmetrySo this is the link between modular forms and elliptic curves. It saysthat this really strange function over
+here can fit inside this really dullfunction over here and when this happened
+no one believed it no one believed youcould stick, you know, you can stick this
+coil into the circle. The reason why no onebelieved it was because no one could
+visualize it so nicely like we can, they're justcompletely different spaces. That's the
+connection that needed to happen toactually make Fermat's last theorem work.
+It's ... this is again, this is not the realthing because if you think about it if
+you have a whole number or a fraction asits cycling around ok as long as it's a
+fraction there'll b a point where it will comeback on top of itself. Like there is a point
+where fractions because there's a numberyou can multiply fractions by, you'll get a
+whole number. So what that means is, in turningaround a circle if you start with some
+sort of fraction you'll end up back atthe same spot if you have an irrational
+number which by definition is somethingthat can't be a fraction you started at
+some point and went around by root twowe never get back to the .. to the actual original
+position so again this is the feeling hereof the proof the fact these these
+numbers matter the type of numbermatters. This is not how the proof is
+worked! I again am trying to give you afeeling for what's going on the fact
+that the reason why Fermat's lasttheorem involves numbers is because
+these numbers the way the numbers areactually they work togetherimpact whether you can put a curve into
+one of these and so then, how they linked it inhere is the fact that they said: Fermat's last theorem involves whole numbers therefore the circleequation I'm making should permit one of
+these things except they proved allthese wonderful people that you've seen
+on numberphile who you should be seeingif you haven't seen yet all the
+wonderful people that actually proved thisthey showed that that created a
+contradiction so basically even thoughyou're playing by the rules and using
+whole numbers it doesn't permit one ofthese things so again it's the one, not equaling two.Our thanks audible.com for supporting
+this numberphile video. They've got somethinglike a hundred and eighty thousand
+spoken word titles in their collectionand I often enjoy listening to well a
+few of them on my daily dog walks herewith the girls now if the beauty of
+mathematics is something you likewhy don't you try Love and Math the Hidden
+Heart of Reality it's by Edward Frenkelsomeone you've probably seen in quite a
+few numberphile videos already. It's got allsorts of great stuff in it including quite
+a lot about Fermat's last theoremsomething that's not a million miles
+from Professor Frankel's own research andlike so many books available in audio
+form at Audible so go to audible.com /numberphile if you'd like to give it a
+try when you signed on for their freeone month trial you might choose a
+different book from their extensivecollection there are plenty of math ones
+I can assure you of that that addressagainaudible.com / numberphile so they know you came
+from here and has a very happy audible usermyself I'd like to thank them for
+supporting this video

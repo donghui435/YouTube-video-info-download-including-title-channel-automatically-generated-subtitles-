@@ -1,0 +1,114 @@
+So say you're Arthur
+Stone, and you'reshowing your hexaflexagon
+to your friend, Tuckerman,and you've already blown
+his mind by showing himit has three sides-- orange,
+yellow, pink, orange, yellow,pink-- but now you're
+about to extra super blowhis mind by showing him that
+there's even more colors.And he's like, whoa, where
+did the blue side come from?But you're having
+trouble finding all six.Like, you know there's a
+green side somewhere in here,but where is it?You're all like, OK, Tuckerman,
+I think I found the green side.It's right in here.Anyway, Tuckerman
+immediately decideshe needs to discover
+the fastest wayto get to all the colors,
+which he calls the Tuckermantraverse.So you and Tuckerman
+are working on that,and there's hexaflexagons
+all over the lunch table,and another student is curious
+about what you're doingand wants to join
+your committee.His name is Richard Feynman.So stop being Arthur Stone, and
+start being Brian Tuckerman.So you're Tuckerman,
+and you teach Feynmanhow to make the
+hexa-hexaflexagonby first folding a strip of
+18 triangles with the 19thfor gluing.You and Stone have just
+figured out how to numberthe faces before you
+fold them by dissectinga perfect specimen.You number them 1-2-3, 1-2-3,
+1-2-3, 1-2-3, 1-2-3, 1-2-3.Glue on one side.Flip it, and glue 4, 4, 5, 5,
+6, 6, 4, 4, 5, 5, 6, 6, 4, 4, 5,5, 6, 6 on the other.You coil it around so
+that you get ones and twosand threes on the outside like
+1, 2, 2, 3, 3, 1, 1 2, 2, 3, 3,and then fold that
+around into a hexagon,so that all the twos
+are on the front.And then flip it, and glue
+the two blue parts together,so that all threes
+are on the back.Feynman has some
+trouble flexing it,but you show him how to pinch
+two triangles together and thenpush in the opposite side.He somehow still does it wrong
+and ends up doing it backwards,flexing in reverse.Now he's all intrigued by all
+the flexing possibilities,and you're like, let me show
+you the Tuckerman traverse.But Feynman, being Feynman, is
+like, we must create a diagram.And Tuckerman's like,
+really, it's not that hard.No, diagram.So you're Feynman,
+and you've alreadyseen you can cycle from one to
+two to three, one, two, three.So you write that down
+with arrows and stuff.Or you can go backwards, but
+from one, two, and three, youcan also flex the other way,
+in which case one goes to six,or two to five,
+or three to four.And if you did one to
+six, once you're at six,you can only flex one way,
+because the other doesn't work.You have to go to three
+or backwards back to one.But then you notice
+that if you go to three,you can only flex one way, and
+the other is un-open-up-able.But before when
+you were on three,you could go either
+to one or four,but now you can only go to one.And you can go backwards
+to six, but notbackwards to two, which
+means that this three isn'tthe same three as
+the first three.Somehow it's the same color,
+but in a different state.You show this to your
+friend John Tukey,and he's like, oh
+yeah, that makes sense.And he draws a star in
+the middle of your threeand sits back as if that
+explained everything.So you're like, whatever,
+and flip it back aroundto get to the other
+three and check it.The star turns into a not star.And from this alternate
+three, there'sthis 1-6-3 loop that connects
+to the main loop at one, whichis the same one as
+one has always been.But there's a different
+one off of the main twoin the 2-5-1 loop.And of course, everything looks
+different if you flip it over.And these threes
+are also different,because they have different
+numbers on the other side.And you complete a
+diagram of possibilities,which allows you to find the
+optimal Tuckerman traverse.You also diagram the
+original trihexaflexagon,which is pretty simple.The flexagon committee
+approves your diagramsand decides to call
+them Feynman diagrams.Everything is going
+great until 1941,because suddenly there's
+important war stuff to do,and flexagons are
+largely forgotten.OK.Now fast forward 15 years,
+and be Martin Gardner.You're an amateur
+magician, and you'rehanging out at
+your friend's placetalking about magician stuff.Anyway your friend
+shows you somethingyou've never seen before--
+a big flexagon he'smade out of cloth.And you're thinking,
+hey, this is awesome.Maybe other people would like to
+know about this flexagon thing.So you write an article
+for Scientific American,and soon you've landed yourself
+a gig writing a regular columnabout recreational mathematics
+called "Mathematical Games,"and it's a huge success and
+gets hundreds of comments.I mean, letters, and there's
+nothing else like your column.And all the cool people
+are inspired by you,and you're pretty
+much the reasonwhy people know about
+things like tangrams,and Conway's Game of Life,
+and the work of MC Escher,and other things like that.Now fast forward 50
+years, and say you'reme in the generation of people
+inspired by Martin Gardnerare now the people
+inspiring you.So he's your math
+inspiration grandfather.And now you yourself are in
+the business of mathematicallyinspiring people,
+and you want themto be aware of their math
+inspiration heritage.OK, now say you are you.If you think
+hexaflexagons are coolthat was just column number one.And I invite you to join in
+with the hundreds of peopleto celebrate Martin Gardner's
+birthday every October 21.This year, there
+will be hexaflexagonparties in homes and
+schools all over the world.And if you want to
+attend or host one,check the description.I'm celebrating by
+making these videos,and also I just like the image
+of flexagons everywhere--floating around lunch tables,
+spilling out of your pockets,lost in your couch cushions.I like to keep some
+ready to deploy outof my wallet or
+tiny yellow purse,in case of a flexagon emergency.And then there's more
+recent innovationsin flexagon technology, and
+all the cool ways to colorthem, and other stuff.But that will have to
+wait until next time.

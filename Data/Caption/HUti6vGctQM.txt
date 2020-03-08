@@ -1,0 +1,52 @@
+A common misconception in statistics is to
+think that correlation implies causation – like, if more tall people have cats, you might think
+that means being tall makes people more likely to get a cat. However, simply knowing a correlation between
+height and cat ownership can’t tell us which way the causality goes – it may instead
+be that having a cat causes people to grow taller – or perhaps the real cause is something
+else altogether, like that the people and cats live on two separate islands, one a lush
+paradise with enough food for growing tall and feeding pet cats, and the other a wasteland
+that limits both height and cat ownership. The point of examples like this is that noticing
+a correlation between two things doesn’t imply that one of those things causes the
+other. Hence the common refrain: correlation doesn’t
+imply causation. And it’s true – it doesn’t! But this oft-repeated mantra leads to another
+common misconception – the idea that you can’t infer any causality from statistics. You can! I mean, it’s quite reasonable to think that,
+if two things are correlated, there’s likely some reason, , even if a single correlation
+can’t tell you. Sometimes you can infer the causality from
+additional information – like knowing that one thing happened before the other – but
+you can also infer causality directly from correlations – you just need more than
+one, together with something called causal networks. Like, in our cat-height-island example, we
+know that cat ownership and height are correlated, but we don’t know what the cause of that
+correlation is. If we don’t know anything else, then there
+are 19 – yes 19! – different causal relationships that could explain the situation. 20 if you think the correlation is just an
+accident. However, perhaps we know two other things:
+first, suppose people born on a particular island stay there, so their height doesn’t
+influence what island they live on, and we can rule out the relationships where height
+influences island. Second, suppose that on either island, taken
+by itself, there isn’t any correlation between height and cat ownership; then we can rule
+out all the options where height and cats influence each other directly . This leaves
+us with just two options: either the islands are the causal explanation for both height
+and cat ownership (maybe, as before, one island is a lush, healthy paradise for both people
+and cats), or else cat ownership is the causal explanation for the islands which are the
+causal explanation for height, (like, maybe an abundance of cats turned the island into
+a paradise, thereby influencing the height of future cat owners). So, starting with 19 possible causal relationships,
+we used correlations to narrow things down to just 2 options – not bad! Of course, this is just a simple example,
+but for any group of things, you can use the various correlations between them (or lack
+of correlations) to eliminate some of the possible cause-and-effect relationships. And that’s how correlations CAN imply causation. There is one problem, though… some experiments
+in quantum mechanics have correlations that rule out ALL possible cause and effect relationships. We’ll have to save the details for a later
+video, but until then, may I suggest a new version of the famous refrain? “Correlation doesn’t necessarily imply
+causation, but it can if you use it to evaluate causal models. …Except in quantum mechanics.” I’ve got a little more about statistics
+and causality after this, but first I’m excited to introduce the very relevant sponsor
+for this video: Brilliant.org. Brilliant is a problem solving website designed
+to help you practice and learn math and science via guided problems, puzzles and quizzes:
+I know that sounds kind of nerdy, but the truth is that the only way to truly learn
+and understand much of math and physics is to actively work through the material yourself
+– videos only get you so far. And Brilliant does a brilliant job of making
+that easy, sneakily enticing you into doing math and physics problems by means of intriguing
+questions structured for all ability and knowledge levels. I say this from experience, because if you
+haven’t done a problem for a few days, Brilliant will send you an attention-grabbing puzzle
+, and I’ve been sucked in by quite a few of them. If you want to try out Brilliant (which I
+recommend), heading to brilliant.org/minutephysics will let them know you came from here, and
+you can check out their courses on Probability, the Physics of the Everyday, Classical Mechanics,
+Gravitational Physics and so on. Hey, glad you’re still here – in case
+you’re interested, there’s a footnotes video covering a few things that got cut out
+of this one, like feedback loops and correlations that arise just by chance. The link’s on screen and in the video description.

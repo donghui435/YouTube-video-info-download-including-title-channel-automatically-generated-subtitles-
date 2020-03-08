@@ -1,0 +1,53 @@
+A line has a slope of negative
+3/4 and goes through the point0 comma 8.What is the equation of this
+line in slope-intercept form?So any line can be represented
+in slope-intercept form, isy is equal to mx plus b,
+where this m right over here,that is of the
+slope of the line.And this b over here, this is
+the y-intercept of the line.Let me draw a quick
+line here just sothat we can visualize
+that a little bit.So that is my y-axis.And then that is my x-axis.And let me draw a line.And since our line here
+has a negative slope,I'll draw a downward
+sloping line.So let's say our line
+looks something like that.So hopefully, we're a little
+familiar with the slopealready.The slope essentially
+tells us, look,start at some point
+on the line, and goto some other point
+of the line, measurehow much you had to move in the
+x direction, that is your run,and then measure
+how much you hadto move in the y direction,
+that is your rise.And our slope is equal
+to rise over run.And you can see over here,
+we'd be downward sloping.Because if you move in
+the positive x direction,we have to go down.If our run is positive,
+our rise here is negative.So this would be a
+negative over a positive,it would give you
+a negative number.That makes sense, because
+we're downward sloping.The more we go down
+in this situation,for every step we
+move to the right,the more downward
+sloping will be,the more of a negative
+slope we'll have.So that's slope right over here.The y-intercept just tells us
+where we intercept the y-axis.So the y-intercept, this
+point right over here,this is where the line
+intersects with the y-axis.This will be the
+point 0 comma b.And this actually just falls
+straight out of this equation.When x is equal to
+0-- so let's evaluatethis equation, when
+x is equal to 0.y will be equal to
+m times 0 plus b.Well, anything times 0 is 0.So y is equal to 0
+plus b, or y willbe equal to b, when
+x is equal to 0.So this is the point 0 comma b.Now, they tell us what
+the slope of this line is.They tell us a line has
+a slope of negative 3/4.So we know that our
+slope is negative 3/4,and they tell us that the
+line goes through the point0 comma 8.They tell us we go through the--
+Let me just, in a new color.I've already used orange,
+let me use this green color.They tell us what we go
+through the point 0 comma 8.Notice, x is 0.So we're on the y-axis.When x is 0, we're
+on the y-axis.So this is our y-intercept.So b, we could say-- we could
+do a couple-- our y-intercept isthe point 0 comma 8, or we
+could say that b-- Remember,it's also 0 comma b.We could say b is equal to 8.So we know m is equal to
+negative 3/4, b is equal to 8,so we can write the
+equation of this linein slope-intercept form.It's y is equal to negative
+3/4 times x plus b, plus 8.And we are done.

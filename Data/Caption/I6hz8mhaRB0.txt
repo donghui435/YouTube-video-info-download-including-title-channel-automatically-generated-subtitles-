@@ -1,0 +1,56 @@
+Identify the hypothesis and
+conclusion of the followingstatement, and determine whether
+the statement isalways, sometimes,
+or never true.And the statement here is, the
+absolute value of x is greaterthan 0 for all real numbers x.Now if I want to decide what the
+hypothesis and conclusionis here, it's usually a lot
+easier to figure them out ifyou rewrite this statement, this
+exact statement, as anif/then statement.So what this statement is saying
+is, if x is a realnumber, then the absolute value
+of x is greater than 0.So let me rewrite that.If x is a real number, then
+the absolute value of x isgreater than 0.These are equivalent
+statements.Now when you write it like
+this, it's much easier toidentify the hypothesis
+and the conclusion.The hypothesis you can view as
+it's the if part of thisproposition.So this right here is
+the hypothesis.x is a real number.That is the hypothesis.And the conclusion
+is the then part.Sometimes it's called
+the consequent.It's this part right here.It's this part, x.Absolute value of x
+is greater than 0.This is the conclusion
+or the consequent.And over here, if you wanted
+to circle them, this is theconclusion.That is the conclusion.And the hypothesis is for
+all real numbers.It's a little bit easier to
+identify when you see itwritten like this.This is the hypothesis.Now I don't want you to get
+confused with the idea of ascientific hypothesis,
+which is related buta little bit different.A scientific hypothesis is an
+explanation for some phenomenathat can be tested.So a scientific hypothesis
+might be something likesaying, blueberries-- which
+I'm writing in blueintentionally.Blueberries help reduce
+the risk of cancer.This right here is a scientific
+hypothesis.You could then go feed a bunch
+of people blueberries for along period of time and see if
+they have a less likelihood ofdeveloping cancer than people
+who never got blueberries andeverything else is equal.And so it would be testable.You could see if it's true.And the conclusion would be
+whether this is true or not.But this is in the scientific
+hypothesis world, not to beconfused with the notion
+of hypothesis thatwe're using right now.And I don't want to confuse
+you too much, so I'm justgoing to leave this
+on the side here.But when you're in Algebra I
+and especially-- these areaccording to the California
+standards.The hypothesis in this context
+is the antecedent of thisproposition.Or it's the if part of
+this proposition.Now, the more interesting
+question iswhether it is true.I mean, we can sit and label
+statements all day, but that'snot interesting.The more fundamental thing is,
+is this a true statement?Is it true that if x is a real
+number, then the absolutevalue of x is greater than 0?Well the one number that pops
+out of my mind that disprovesthis is if x is 0.0 is a real number.That's true.But-- and I'll write
+but in caps.BUT the absolute value
+of 0 is equal to 0.It's not greater than 0.So this disproves
+this statement.It's definitely not
+always true.Now, if you pretty much have
+any other real number, thiswill be true.Because any other real number is
+some distance away from 0.That's what the absolute
+value measures.So if you took a 1 or a negative
+1 or whatever, theabsolute value of those
+are greater than 0.So this is sometimes true.

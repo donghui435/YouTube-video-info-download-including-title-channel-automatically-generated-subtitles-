@@ -1,0 +1,63 @@
+Hi there, everyone.I'm Brady, and I make the
+Numberphile videos.And this is a bit of a
+supplementary video for ourone about Benford's Law.Now hopefully you've already
+watched that, and you knowwhat Benford's Law is.But just a reminder, everything
+we're talking abouthere pertains to the
+first digit ofall these big numbers.So let's get into it.What we've done is an analysis
+of the statistics ofNumberphile videos to find out
+whether or not they'refollowing Benford's Law.Now I'd love to say I did
+this myself, but it's abit beyond my skills.I was helped by a very clever
+man named Daniel, sothank you to him.So what I've done is I've given
+Daniel the duration ofevery Numberphile video in
+seconds, the number of timesit's been viewed, and the number
+of comments that havebeen made on each video.So what he's done is he's looked
+at the first digit ofall those numbers and plotted
+them on a graph, finding outwhat digit is most commonly at
+the start of the number.And here's the graph.Now let's look at these
+one by one.First of all, there's
+the durations.And for those of you who
+remember what a good Benfordcurve looks like, well,
+it looks like this.So we haven't got a
+very good match.Let's look at the view counts.Now, number one is definitely
+the most common digit at thestart of the view counts,
+followed by number two.That's as it should be.But it goes a bit wrong there
+at the end, doesn't it?Let's try the number
+of comments oneach Numberphile video.Again, number four seems to come
+up more than you wouldhave expected.Number one is still the
+top, but I don't know.It's not quite Benford-esque,
+is it?So the Numberphile statistics
+don't seem to quite befollowing the way we hoped.Maybe that's because it's not
+a big enough sample size.We've only done just over
+100 Numberphile videos.But for those of you who are
+familiar with my otherchannels, yes, I do have quite a
+few other channels, so thoseof you who are familiar with
+those other channels might beaware that I've made, well,
+well over 1,000 videos onYouTube now.That's a bigger sample size.So I sent the statistics for
+all those videos to Daniel,and he did the same thing.Let's find out what
+happened there.So these are the steps
+for all my channels.And let's go through
+them one by one.First of all, the durations.There we go.Not Benford-esque, is it?In fact, number one's
+not even top.Number three is the most
+common first digit.Now, we've had a bit of a talk
+about this, and we've got afew theories as to why the
+durations aren't working.But rather than putting them
+here in the video, I thoughtit might be more fun for you
+to think about it, proposewhat you think's going
+on, and put them incomments under the video.There's also a blog where we've
+gone into it, and again,there will be links under the
+video in the full description,so have a look at that.But enough about durations.Let's look at the view counts,
+and the number of comments.Plotting the view counts on all
+my videos, the most commonfirst digit is 1, followed
+by 2, followed by 3,4, 5, 6, 7, 8, 9.And the curve?Well, quite Benford-esque.Not bad, eh?And looking at the number of
+comments, again, remember thisis the first digit
+in these numbers.Have a look at that.1, 2, 3, 4, 5, 6, 7, 8, 9.Again, a lovely Benford
+curve there.So it looks like even the
+YouTube viewing statistics andthe number of comments are
+following a Benford curve.Now as I said, more
+information,links under the video.Thank you to Daniel for
+helping me out.Thank you for all the other
+people who volunteered to helpme out when I put out
+the plea for help.And we'll have more
+videos soon.And leave a comment
+under this one.Let's see if we can get this
+one outside the curve.

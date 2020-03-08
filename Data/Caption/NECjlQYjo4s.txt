@@ -1,0 +1,1 @@
+constructing a regular hexagon inside agiven circle is one of the easiest rulerencompass constructions there is theradius of the circle is the edge lengthof the hexagon so the places where thesearcs cut circle are exactly the cornersof the regular hexagon

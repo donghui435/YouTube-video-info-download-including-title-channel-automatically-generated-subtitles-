@@ -1,0 +1,35 @@
+We're asked which of these
+lines are parallel.So they give us three equations
+of three differentlines and if they're parallel,
+then they have to have thesame slope.So all we have to do over here
+is figure out the slopes ofeach of these lines, and
+if any of them areequal, they're parallel.So let's do line A.Line A, it's 2y is equal
+to 12x plus 10.We're almost in slope-intercept
+form, we canjust divide both sides of
+this equation by 2.We get y is equal to 6x--
+right, 12 divided by2 -- 6x plus 5.So our slope in this case, we
+have it in slope-interceptform, our slope in this
+case is equal to 6.Let's try line B.Line B is y is equal to six.You might say this hey, this is
+a bizarre character, how doI get this into slope-interceptform, where's the x?And my answer to you is
+that it already is inslope-intercept form.I could just rewrite it as
+y is equal to 0x plus 6.The x term is being multiplied
+by 0 because theslope here is 0.y is going to be equal
+to six no matter howmuch you change x.Change in y is always
+going to be 0, it'salways going to be 6.So here, our slope is 0, so
+these two lines are definitelynot parallel, they have
+different slopes.So let's try line C.Line C-- I'll do it down here.Line C, so it's y minus 2 is
+equal to 6 times x plus 2.And this is actually in
+point-slope form, where thepoint x is equal to negative
+2, y is equal to 2.So the point negative 2, 2, is
+being represented here becauseyou're subtracting the points.And the slope is 6, so we
+already know that the slope isequal to 6.And sometimes people are
+more comfortable withslope-intercept form, so let's
+put it in slope-intercept formjust to confirm that if we put
+it in this form, the slopewill still be equal to 6.So if we distribute the 6, we
+get y minus 2 is equal to 6times x, 6x, plus
+6 times 2 is 12.And if you add this 2 -- if you
+add 2 to both sides of theequation, you get y-- because
+these guys cancel out-- isequal to 6x plus 14.So you see, once again,
+the slope is 6.So line A and line C have the
+same the slope, so line A andline C are parallel.And they're different lines.If they had the same
+y-intercept, then they wouldjust be the same line.

@@ -1,0 +1,83 @@
+In my video on the circle division problem,
+I referenced Euler¡¯s Characteristic Formula,and here I would like to share a particularly
+nice proof of this fact.It¡¯s very different from the inductive proof
+typically given, but I¡¯m not trying to arguethat this is somehow better or easier to understand
+than other proofs.Instead, I chose this topic to illustrate
+one example of the incredible notion of duality,and how it can produce wonderfully elegant
+math.First, let¡¯s go over what the theorem states.If you draw some dots with some lines between
+them, that is, a graph, and if none of thelines intersect, which is to say you have
+a planar graph, and if your drawing is connected,then Euler¡¯s Formula states that the number
+of dots, minus the number of lines, plus thenumber of regions these lines cut the plane
+into, including that outer region, will alwaysbe 2.Because Euler was originally talking about
+3d polyhedra when he found this formula, whichwas only later reframed in terms of planar
+graphs, instead of saying ¡°dots¡±, we say¡°vertices¡±, instead of saying ¡°lines¡±
+we say ¡°edges¡±, and instead of saying¡°regions¡± we say ¡°faces¡±, hence we
+write Euler¡¯s discovery as V-E+F=2.Before describing the proof, I need to go
+through three pieces of graph theory terminology:Cycles, spanning trees, and dual graphs.If you are already familiar with some of these
+topics and don¡¯t care to see how I describethem, feel free to click the appropriate annotation
+to skip ahead.Imagine a tiny creature is sitting on one
+of the vertices.Let¡¯s name him ¡°Randolph¡±.If we think of edges as something Randolph
+might travel along, from one vertex to thenext, we can sensibly talk about a ¡°path¡±
+as being a sequence of edges that Randolphcould travel along, where we don¡¯t allow
+him to back-track on the same edge.A ¡°cycle¡± is simply a path that ends on
+the same vertex where it begins.You might be able to guess how cycles will
+be important for our purposes, since eachthey always enclose a set of faces.Now imagine Randolph wants access to all other
+vertices, but that edges are expensive, sohe¡¯ll only buy access to an edge if it gives
+him a path to an untouched vertex.This frugality will leave him with a set of
+edges without any cycles, since the edge finishingoff a cycle would always be unnecessary.In general a connected graph without cycles
+is called a tree, so named because we canmove things around to make it look like a
+system of branches, and any tree inside agraph which touches all vertices is called
+a ¡°spanning tree¡±.Before defining the ¡°dual graph¡±, which
+runs the risk of being confusing, it¡¯s importantto remember why people actually care about
+graphs in the first place.I was actually lying earlier when I said a
+graph is a set of dots and lines, really it¡¯sa set of anything with any notion of connection,
+but we typically represent those things withdots and those connections with lines.For instance, Facebook stores an enormous
+graph, where vertices are accounts and edgesare friendships.Although we can use drawings to represent
+this graph, the graph itself is the abstractset of accounts and friendships, distinct
+from the drawing.All sorts of things are undrawn graphs: The
+set of english words, considered connectedwhen they differ by one letter; mathematicians,
+considered connected if they¡¯ve writtena paper together; neurons connected by synapses.Or maybe, for those of us reasoning about
+the actual drawing of a graph on the plane,we can take the set of faces this graph cuts
+the plane into, and consider two of them connectedif they share an edge.In other words, if you can draw a graph in
+the plane without intersecting the edges,you automatically get a second, as of yet
+undrawn graph, whose vertices are faces, andwhose edges are...well...edges of the original
+graph.We call this the ¡°dual¡± of the original
+graph.If you want to represent the dual graph with
+dots and lines, first put a dot inside eachof the faces.I personally like to visualize the dot for
+the outer region as being a point at infinity,where you can travel in any direction to get
+there.Next, connect these new dots with new lines
+that pass through the centers of each oldline, where lines connected to the point at
+infinity can go off the screen in any direction,as long as it is understood that they all
+meet at the same one point.But keep in mind that this is just a drawing
+of the dual graph, just as a representationof facebook accounts and friendships with
+dots and lines is just drawing of the socialgraph, the dual graph itself is the collection
+of faces and edges.The reason I stress this point is to emphasize
+that edges of the original graph and edgesof the dual graph are not just related, they
+are the same thing!(Or at least, I would argue they should be
+thought of that way).You see, what make the dual graph all kinds
+of awesome is the many ways it relates tothe original graph.For example, cycles in the original graph
+correspond to connected components of thedual graph, and likewise cycles in the dual
+graph correspond with connected componentsof the original graph.Now for the cool part.Suppose our friend Randolph has an alter-ego,
+Mortimer, living in the dual graph, travelingfrom face to face instead of from vertex to
+vertex, passing over edges to do so.Let¡¯s say Randolph has bought all the edges
+of a spanning tree, and that Mortimer is forbiddenfrom crossing those edges.It turns out the edges Mortimer has available
+to him are guaranteed to form a spanning treeof the dual graph!To see why, we only need to check the two
+defining properties of spanning trees: Theymust give Mortimer access to all faces, and
+there can be no cycles.The reason he still has access to all faces
+is that it would take a cycle in Randolph¡¯sspanning tree to insulate him from a face,
+but trees cannot have cycles.The reason Mortimer cannot traverse a cycle
+in the dual graph feel completely symmetric:If he could, he would separate one set of
+Randolph¡¯s vertices from the rest, so thespanning tree from which he is banned could
+not have spanned the whole graph.So not only does the planar graph have a dual
+graph, any spanning tree within that graphalways has a dual spanning tree in the dual
+graph.So here¡¯s the kicker: the number of vertices
+in a tree is always one more than the numberedges.To see this, note that after you start with
+the root vertex, each new edge gives exactly1 new vertex.Alternatively, within our narrative, you could
+think of Randolph as starting with one vertex,and gaining exactly one more for each edge
+that he buys in what will become a spanningtree.Since this tree covers all vertices of our
+graph, the number of vertices is one morethan the number of edges owned by Randolph.Moreover, since the remaining edges make up
+a spanning tree for Mortimer¡¯s dual graph,the number of edges he gets is one more than
+the number of vertices of the dual graph,which are the faces cut out by the original
+graph.Putting this together, it means the total
+number of edges is 2 more than the numberof vertices plus the number of faces, which
+is exactly what Euler¡¯s formula states!

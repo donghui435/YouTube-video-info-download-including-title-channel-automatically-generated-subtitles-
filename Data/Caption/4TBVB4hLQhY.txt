@@ -1,0 +1,27 @@
+Add and simplify the answer and
+write as a mixed number.So we have two mixed
+numbers here.We have a whole number part
+and a fraction part.We need to add them.Now, there's two ways
+to do this.You could convert both of these
+into improper fractions,then add them, and then
+convert that backinto a mixed number.Or you could just look at this
+and say, well, you know what?17 and 2/9 is the exact same
+thing as 17 plus 2/9, and then5 and 1/9 is the exact same
+thing as 5 plus 1/9, so 17 2/9plus 5 and 1/9 is the same
+thing as 17 plus2/9 plus 5 plus 1/9.These two statements are
+completely equivalent.And we know that when you're
+just adding a bunch ofnumbers, it doesn't matter what
+order you do it in, soyou can swap the order.So you could say that this is
+the same thing as 17 plus 5plus 2/9 plus 1/9.And we could do this
+in any order.And we know what 17 plus 5 is.We've done that before.17 plus 5 is 22, so that
+part right there is 22.So we have 22 plus-- now
+what is 2/9 plus 1/9?Well, they have the same
+denominator, so it's going tobe over 9, and then you
+add the numerators.2 plus 1 is 3.So it's 22 plus 3/9, but
+this can be simplified.Both the numerator and
+the denominator aredivisible by 3.Divide the numerator
+by 3, you get 1.Divide the denominator
+by 3, you get 3.So this is 22 plus 1/3, which is
+the exact same thing as 22and-- let me write it in that
+other blue color-- which isthe exact same thing
+as 22 and 1/3.

@@ -1,0 +1,35 @@
+We're asked to multiply 32.12,
+or 32 and 12 hundredths, times0.5, or just 5 tenths.Now when you multiply decimals,
+you multiply themthe exact same way you would
+multiply whole numbers, andthen you count the number of
+spaces behind the decimal youhave in your two numbers you're
+multiplying, and you'regoing to have that many spaces
+in your product.Let me show you what
+I'm talking about.So let's just multiply
+these two characters.So we have 32.12 times 0.5.And when you write them out, you
+can just push both of themall the way to the right.You could almost ignore
+the decimal.Right now, you should write the
+decimal where they belong,but you can almost pretend that
+this is 3,212 times 5,and then we'll worry about
+the decimals in a second.So let's get started.So if we were just multiplying
+5 times 3,212, we would say,well, 5 times 2 is 10.Regroup the 1.5 times 1 is 5, plus 1 is 6.5 times 2 is 10.Regroup the 1.And then finally, you have 5
+times 3 is 15, plus 1 is 16.And then we don't have
+any other places.If we were just doing this as
+05, we wouldn't multiply 0times this whole thing.We would just get 0 anyway.So just 5 times 3,212 gives
+us this number.But now we want to care
+about the decimals.We just have to count the total
+number of spaces orplaces we have behind the
+decimal point in the twonumbers we're multiplying.So we have one, two, three
+spaces, or three numbers, tothe right of the decimals in
+the two numbers that we'remultiplying.So we need that many numbers to
+the right of the decimal inour answer.So we go one, two, three, put
+the decimal right over there.So 32.12 times 0.5 is 16.060.And this trailing zero right
+here we can ignore, becauseit's really not adding any
+information there.So we could just write
+this as 16.06.The last thing you want to do
+is just make sure that thismakes sense.You have a number that's
+almost 32, and we'remultiplying it by 0.5.Remember, 0.5 is the same thing
+as 5 over 10, which isthe same thing as 1/2.So we're really multiplying
+32.12 times 1/2.We're trying to figure out what
+one half of 32.12 is.And half of 32 is 16, and half
+of 0.12 0.06, so this makescomplete sense.

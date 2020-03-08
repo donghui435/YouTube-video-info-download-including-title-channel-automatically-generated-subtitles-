@@ -1,0 +1,53 @@
+We are asked which of these
+lines are parallel.So parallel lines are lines that
+have the same slope, andthey're different lines, so they
+never, ever intersect.So we need to look for different
+lines that have theexact same slope.And lucky for us, all of these
+lines are in y equals mx plusb or slope-intercept form, so
+you can really just look atthese lines and figure
+out their slope.The slope for line A,
+m is equal to 2.We see it right over there.For line B, our slope is equal
+to 3, so these two guys arenot parallel.I'll graph it in a second
+and you'll see that.And then finally, for line C--
+I'll do it in purple-- theslope is 2.So m is equal to 2.I don't know if that purple
+is too dark for you.So line C and line A have the
+same slope, but they'redifferent lines, they have
+different y-intercepts, sothey're going to be parallel.And to see that, let's actually
+graph all of thesecharacters.So line A, our y-intercept
+is negative 6.So the point 0, 1,
+2, 3, 4, 5, 6.And our slope is 2.So if we move 1 in the positive
+x direction, we go up2 in the positive y direction.One in x, up 2 in y, if we
+go to in x, we're goingto go up 4 in y.And I can just do up 2, then
+we're going to go 2, 4, andyou're going to see it's all on
+the same line, so line A isgoing to look something like--
+do my best to draw it asstraight as possible.Line A-- I can do a better
+version than that-- line A isgoing to look like-- well,
+that's about just as good aswhat I just drew--
+that is line A.Now let's do line B.Line B, the y-intercept
+is negative 6.0, negative 6.So it has the same y-intercept,
+but its slope is3, so if x goes up by 1,
+y will go up by 3.So x goes up by 1,
+y goes up by 3.If x goes up by 2, y is
+going to go up by 6.2, 4, 6.So this line is going to look
+something like this.Trying my best to connect
+the dots.It has a steeper slope, and you
+see that when x increases,this blue line increases by
+more in the y direction.So that is line B-- and notice,
+they do intersect,there's definitely not
+two parallel lines.And then finally, let's
+look at line C.The y-intercept is 5.So 0, 1, 2, 3, 4, 5.The point 0, 5, its
+y-intercept.And its slope is 2.So you increase by 1 in the x
+direction, you're going to goup by 2 in the y direction.If you decrease by 1,
+you're going to godown 2 in the y direction.If you increase by, well, you're
+going to go to thatpoint, you're going to have
+a bunch of these points.And then if I were to graph the
+line-- let me do it onemore time-- if I were to
+decrease by two, I'm going tohave to go down by 4, right?Negative 4 over negative
+2 still a slope of2, so 1, 2, 3, 4.And I can do that one more time,
+get right over there.And then you'll see the line.The line will look like that,
+it will look just like that.And notice that line C and
+line A never intersect.They have the exact
+same slope.Different y-intercepts, same
+slope, so they're increasingat the exact same rate, but
+they're never going tointersect each other.So line A and line
+C are parallel.

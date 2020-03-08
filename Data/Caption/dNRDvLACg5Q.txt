@@ -1,0 +1,46 @@
+Back at the start of the 20th centurymathematicians were fascinated by the question'just how much maths can we do, not by
+using ourgut feelings or intuitions but just by
+following rules very very carefullyby following an algorithm'? In order to
+make that notion precisewe would have to set out: "just what do we
+mean by a programor algorithm" - and this is where Alan Turing came in,with his notion of a Turing machine.Turing was working on a problem in
+Formal Logicand as part of his proof he had to come up
+with the notionof any possible algorithmor any possible machine. He had to come
+up with a very general way of capturinghow algorithms or programs or machines
+would workThis is where his notion of a Turing
+machine comes in. The way Turingdescribed these machines goes like this:
+you have a way ofwriting down information in a coded form.His way was to think of a tape which is
+as long as it needs to be.It's divided up into squares and each of the squares there is either oneor a zero or we can have some spaces. Now
+what our machine doesis it looks at the tapeone square at a time. So you could
+imagine itas a little box running above the tape,maybe on little wheels, lookingone square at a time and that
+informationcodes up a question or a problem that we
+want solved.What a Turing machine does is really
+simpleat any moment in time it's in a
+particular stateand it's looking at one square on the
+tape, and it hasa logbook, a program book. And that tells it,if for instance you're in state number
+23and you're looking at a zero, then rub out the zero, change itto one, move one square to the right,and move into state number 359,for instance. Or if you're in state
+number 359 and you're looking at a oneleave that one as it is, move one square to
+the leftand move into state number twenty. Really
+simple instructions!what the machine does, is it starts off
+with a certainpattern of ones and zeros. Itfollows these rules one square at a time,transforming that string of ones and zerosinto a different string of ones and zeros.And eventually - hopefully -the machine moves into a halting state,
+it is finished, it is done.And what's left on the tape is the answer to
+our problem,coded up as ones and zeros. That is such
+a simpleprocess but it turns out it's theessence of computation. Whateverany computer can do, it could in theorybe done by that system looking at ones
+and zeroson a tape. So that's why we saythat Turing in coming up with his
+idea of Turing machines,in effect, came up with a blueprint for
+modern digital computers.Those computers manipulate strings of
+ones and zerosto solve problems. This really simpleidea that we find in Turing machines is
+actually sopowerful that all modern computersbasically do what Turing machines do. And
+we use this ideato evaluate the strength of modern
+computer programs.When a computer program can dowhat a Turing machine can do, we call it Turing completeand that is the top of the hierarchy of
+program strength. So the strongestprogram that we can get does exactly
+whata Turing machine can do. We've never come up with
+a way of computing thingsthat could do more than a Turing machine. Sorecently, there's been a challenge to the
+ideathat anything a computer can do, a Turing machine can do.And the challenge comes from quantum
+computers whichalmost seem like they can do things
+magically.My take on this is that a quantum
+computercan't do more than a Turing machine but
+it can do things moreefficiently. For instance, if you askeda classical computer to find you a phone
+numberin the phone directory, you have to look
+for every singleentry and it takes a long time.But a quantum computer can do thatmore efficiently, don't ask me how.oklook whathappens, if I've read a zero, which I have, there.What do I then do? The answer is Ioverride it with a one. Call that machine
+H,for the halting problem, if you give me
+that machine, I could transform it into adifferent machine,like this.

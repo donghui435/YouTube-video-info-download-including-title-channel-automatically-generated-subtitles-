@@ -1,0 +1,59 @@
+Use deductive reasoning and the
+distributive property tojustify x plus y squared is
+equal to x squared plus 2xyplus y squared.Provide the reasoning
+for each step.Now when they say use deductive
+reasoning and allthis stuff, it might seem like
+something daunting and new,but this is no different than
+what we've done in the past.In fact, we've done this
+very exact problem.So let's just do it step by
+step, show our logic, andthat's essentially deductive
+reasoning.We're starting with a statement
+and we're going todeduce that this is going to
+be equal to something else.So let's start with
+x plus y squared.We know an exponent means to
+multiply something by itselfthat many times.So we know that this is the same
+thing, or we can deducethat it is the same thing, as
+x plus y times-- and I'll dothis next x plus y in
+a different color--times x plus y.That's what x plus
+y squared is.Now they say to use the
+distributive property.And this is a bit
+of review here.And we've seen it many, many,
+many times before.The distributive property just
+tells us that if we have atimes b plus c-- I want to do
+as many colors as possible--that this is equal to a times
+each of these terms. a times bplus a times c.It's called distributive
+property cause you'redistributing the a in all of
+the terms in the expressionthat your multiplying a by.Now we can do the exact
+same thing here.Instead of an a, you could
+imagine this is an x plus y.And we can take this entire x
+plus y and we can distributeit on to both of the terms on
+this expression that it ismultiplying.If this was an a, it'd
+be ax plus ay.Now that it's an x plus y, we
+multiply the x plus y timeseach of those terms. And
+that's just by thedistributive property.So by the distributive property
+that's going to beequal to-- we'll distribute this
+on to each of them-- xplus y times x.And actually I don't even have
+to write the x after it.I could just write it there.It doesn't matter whether you
+multiply x times x plus y, orx plus y times x.Order doesn't matter.So that's that times that.And then it's going to be
+plus y times x plus y.And now we can apply the
+distributive property again.We have x being multiplied by
+x plus y, then we have a ybeing multiplied by x plus y.So let's just do that again.So then we get this is equal to
+x times x plus x times y.I'm going through great pains to
+keep the colors consistent.Plus y times x.Plus y times this x over here.Plus y times that
+y over there.I'm doing this a lot
+slower, and I'm notskipping any steps here.Now what do each of these
+things equal? x times x.That is the same thing
+as x squared.So this is equal to x squared.This right here, xy,
+we have one xy.But then we have yx is also
+the same thing as xy.It doesn't matter what order
+you multiply it in.So xy plus xy is 2xy.Plus 2xy.And then this last term right
+here, y times y, that's thesame thing as y squared.So we're done.We've used deductive
+reasoning.We've just used logical steps to
+start with a statement, tostart with an expression
+really.And we essentially just
+logically manipulated it.We started with.I guess you could call this a
+statement-- I guess that's thebest thing to call it-- and we
+logically manipulated to comeup with another statement,
+another fact.We know that this is equal to
+this using logical propertiesand distributive property
+and things like that andproperties of exponents.

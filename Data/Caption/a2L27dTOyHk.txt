@@ -1,0 +1,66 @@
+- [Voiceover] What I'd
+like to do in this videois make an informal argumentfor why the formula for
+the area of a circleis Pi r squared.And we're gonna startjust with the most traditional
+definition of the number Piand that's that and I'll just do it herein a corner some placethat Pi is equal to the ratioof the circumference and
+the diameter of the circleor the ratio of the circumferenceto the diameter of a circleor, of course, we could write thisas ratio of the circumferenceto, instead of the diameter,I could write two times the radiusor I can multiply both sides
+times two times the radiusand we get our traditional
+formula for the circumference,for the circumference of a circle,but once again, this literally
+just comes straight outof the definition for the number Pi.The number Pi is defined as the ratiobetween the circumference
+and the diameter,so you just multiply both sides out of ittimes the diameter, you
+get the circumferenceis equal to Pi times the diameter.Now, we have the circumference
+formula right here,once again, this comes out
+of the definition of Pi,but from this, I'd like to at
+least get an intuitive feelfor why the area formula
+is given by Pi r squaredand to think about that,
+we're going to approximatethe area of polygons,
+the areas of polygons,that are inscribed in a circle.So over here, I have this, what's this?There's a five-sided
+polygon right over hereand its area is going to be equal to,so the area of this polygon,it's going to be five times the areaof each of those trianglesand the area of each of those triangles,the height is a, the base is b,so it's going to be base times heightor height times base times 1/2.So this, once again,
+five times ab over two,it's not that good of an approximation.This would be the area of
+just the inscribed polygon,so we're definitely underestimatingthe area of the entire circleor leaving out all of these little,these little chunks
+outside of the polygon,but still inside of the circle.But as we add more size to the polygon,we see that we're leaving out less.We see, when we have now,this is a one, two, three, four,five, six, seven-sided polygon,we're leaving a little bit less.We're underestimating still,but we're underestimating by less.This area that we're giving upisn't as large as this
+area right over here.So in this approximation,
+we have, what did I say?Seven triangles? One, two, three, four,five, six, seven triangles.And the area of each of those trianglesis once again ab over two.Now, a and b here are different
+than a and b over here,and notice what's happening.As we increase,as we increase the number of triangles,not only is it approximating
+the area of the circle better,but a is getting longer.And you can see, you could imagine,as we increase many,
+many, many more triangles,a is going to approach r.Now another thing to think
+about is what is seven,what is seven times b approaching?So we're saying that a is approaching ras we add more of these
+sides of the polygon,as we add more triangles,now what is the number of trianglestimes the base of the triangle,
+what is that approaching?Well this is going to
+approach the perimeter of the,or this is going to be the
+perimeter of the polygon,so seven times b is that plus,let me actually, let me draw this,it's that plus thatplus that,I think you get the point,plus that,plus that,plus that,plus that.So once again, seven, let
+me write this at seven,times b, that is the
+perimeter of the polygon,perimeter,perimeter of the polygon.So think about what's happening.As we have more and more
+sides of the polygon,our a, our height of
+each of our triangles,is going to approach our radius,is going to approach the radius.It's going to get the height
+of each of the triangles.It's gonna get longer and longer,it's gonna approach the radius as we have,as we approach an infinite
+number of triangles,and then the number of polygons we have,not the number of polygons,the number of sides we
+have times the bases,that's going to be the
+perimeter of the polygonand as we add more and more sides,as we add more and more sides,the perimeter of the polygon
+is going to approach,is going to approach,is going to approach the
+circumference of the circle.I'll write it out, circumference,circumference,and you'll see that even
+more clearly right over here.So, once again, how many
+sides do I have here?I have one, two, three, four, five, six,seven, eight, nine, 10 sides,so this, I can write the
+perimeter of the polygonas 10 times band then if I multiply
+that times a over two,if I multiply that times,we'll use another color.a over,let me just write it like this,times a over two,I'm once again approximating
+the area of the circle'cause a times b over two,that's the area of each of these trianglesand then I have 10 of these triangles,but now let's think about
+this more generally.Let's think about it if I were to have n,if I were to have an n-sided polygon,so I have n-sided polygon,then I'd be approximating the areaas n times b,n times b,we see this right over here.When n is equal to 10,
+you have 10 times b.So it's n times btimes a over two.Times a over two.I just wrote,this isn't something mysterious.The base times the height divided by two,this right over here,that's the area of each triangleand then I'm gonna have
+n of these triangles,so this is our approximation for the area,so let me write this,the area is going to be
+approximately that right over there.It's going to be n, the
+number of triangles I have,times the area of each triangle.Now what's going to happen,as n approaches infinity,as I approach having an
+infinite sided polygon,as I have an infinite number of triangles,so let's just think this
+through a little bit.'cause this is where it gets interesting.Now this is the informal argument.To do this better, I'd have to dig outa little bit of calculus, but
+this gives you the essence.So let's just think about what happensas n approaches infinity.So, as n approaches infinity,we've already said, as we
+have more and more sidesand we have more and more triangles,a approaches r,so let's write that down.So, a is going to approach r,the height of the triangles is
+going to approach the radiusand what else is going to happen?Well, n times b, the
+perimeter of the polygon,the perimeter of the polygonis going to approach the circumference.So, a is going to approach rand n times b is going to
+approach the circumference,is going to approach the circumference,or another way of thinking about it,if it's approaching the circumference,we could say that n times bis going to approach
+two Pi times the radius'cause that's what the circumferenceis going to be equal to.So, if a is approaching the radiusand nb is approaching two Pi r,well then, what is the entire,what is the area of,what is the area of our polygonor what is the area of
+our polygon going to,or, the area of our circle going to be?Well, it is going to approach,it is going, or I should
+say, the area of our polygonis going to approach,nb is going to approach two Pi r,nb is going to approach two Pi r.Instead of nb, I'm writing two Pi r there.a is going to approach r.a is going to approach r,and then I'm dividing it,and then I am dividing it by two.So as n approaches infinity,as we have infinite number
+of sides of our polygon,an infinite number of triangles,the area of our polygon
+will approach this,which is equal to what?Well you have two divided twoand then Pi r times ris equal to Pi r squared.So as we approach having
+infinite number of trianglesand infinite, I wanna keep that there,infinite number of sides,we see that we approach
+the area of the circleand as we approach the area of the circle,we are approaching Pi r squared.So hopefully this gives
+you an intuitive sensewhy this right over hereis the formula for the area of a circle.You could think about it as the areaof an infinite sided polygonthat is inscribed in the circle,which will be equal to
+the area of the circle.

@@ -1,0 +1,43 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.In our last lecture we saw that addition and
+multiplication are both commutative operations.The order of numbers which are added or multiplied
+can be rearranged without affecting the result.As we saw, addition also has
+an ¡°associative¡± property.According to the
+Associative Property of Additionthree or more numbers which are added
+can be grouped in any waywithout affecting the result.Does this also apply to multiplication?Let¡¯s start with our stack of 24 boxesand group them in different ways before multiplying.For instanceif we group the two and the threewe get four groups of sixwhich is still equal to 24.Or we can group the four and the twoto get three groups of eightwhich is still 24.Either way we group the numbers
+we still get the same result.If we use the letters A, B, and C
+instead of numbersthen we can write this property in a
+more general way.So the associative property applies to both
+addition and multiplication.But what if we have a group of numbers which
+are added and multiplied?Does the associative property still apply?Let¡¯s take an example where we group
+two plus three times fourin two different ways.When we group numbers in parenthesesthe operation inside the parentheses
+is performed first.So when two plus three is written in parentheses
+we do the addition firstand then we multiply the result times four.In the second case, the parentheses are around
+the three times fourso the multiplication is performed firstand then two is added to the result.The result in the first case is 20
+while the result in the second case is 14.So the order of addition and multiplication
+does matter.The associative property does not apply to
+combinations of addition and multiplication.So how could this expression be written without
+parentheses without changing the result?We can see from the diagram that both the
+two and the three must be multiplied by four.So if we remove the parentheses we must multiply
+each number in the parentheses by four.In other words, the multiplier must be ¡°distributed¡±
+to each number in the parentheses.This is called "The Distributive Property
+of Multiplication over Addition¡±or for short,
+The Distributive Property.Once againif we use the letters A, B, and C
+instead of numberswe can write this property in a
+more general way.The distributive property says that
+when a sum of numbers in parenthesesare multiplied by a number
+outside of the parenthesesif we remove the parentheses, then each number
+inside must be multiplied individuallyby the number outside.We can also use the distributive property
+in reverse.If we have two numbers, A and Bwhich are both multiplied by C
+and then addedthen we can group these two products
+in parenthesesand move the common multiplier C
+outside of the parentheses.Of course, because of the commutative propertythe multiplier could be placed either before
+or after the parentheses.The distributive property can be applied to
+any quantity of numberswhich all have a common multiplier.For example, let's say that four numbers
+which we will call A, B, C, and Dare all multiplied by five, and then added.Then we can group these numbers as a sum
+in the parenthesesand multiply the parentheses by
+the common multiplier five.As you can see, the commutative, associative
+and distributive propertiesare powerful tools which we will add to our
+tool chest of mathematical tricks.With them, we can manipulate groups of numbers
+and mathematical operationsand change their form into equivalent forms
+which may be simpler or more useful.

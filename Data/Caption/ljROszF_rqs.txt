@@ -1,0 +1,81 @@
+Jill just received $40.The number of dollars she
+has left, y, after x days,is approximated by the formula
+y is equal to 40 minus 2.5x.Graph the equation
+and use the graphto estimate how much money
+Jill will have 8 days later.So let's just make a
+table of x and y values.Then we can use that table
+to actually plot the graph.And then ask us to do
+everything else they want us.How much money she'll
+have after 8 days.And we should actually just
+put that right in the equation,we might as well do that.So we're doing numbers of days.We're not going to
+go back in time.She starts with $40, so
+we can start with 0 days.So 0 days.So she just received
+the $40, you don't evenhave to look at
+the equation here.What's 0 days after that,
+how much money will she have?Well she hasn't had a
+chance to spend it yet.So you could just
+think about it.She'll have $40.Or you could look
+at the equationand see that the
+equation verifies this.When x is 0, so the y value
+is going to be 40 minus 2.5times 0, which is just 40.Because that part
+right over there is 0.So at time, at 0 number of
+days, she will have $40.Now we could do one day
+later, but then we'regoing to have these
+decimal points in here.So that this part
+of the equationalways ends up
+with clean numbers,let's multiply it
+by multiples of 2.So then at 2 days, how
+much money will she have?Well, it's going to be
+40 minus 2 times-- I'lldo the same order--
+minus 2.5 times 2.2.5 times 2 is 5.So 40 minus 5 is $35.After 4 days, it's
+going to be 40--let me do this in
+a different color,so when I plot
+the points, you'llsee where I got my
+information from.After 4 days she's going to
+have 40 minus 2.5 times 4.2.5 times 4 is 10.So 40 minus 10 is 30.You see, every 2 days that
+goes by, she is spending $5.$5 every 2 days,
+or $2.50 every day.And you actually see
+that right over here.She is spending.That's a negative sign.$2.50 dollars every day.Every time you increment
+x by 1, $2.50 goes away.So let's keep going.So then after-- I'll look for
+another color here-- 6 days,it's going to be 40
+minus 2.5 times 6.2.5 times 6 is 15.40 minus 15 is equal to 25.Then finally we could
+do after 8 days.After 8 days, she'll have
+40 minus 2.5 times 8.2.5 times 8 is 20.So 40 minus 20 is $20.So we actually
+answered our question.Our estimate for how much
+money Jill will have 8 dayslater is actually $20.But let's do this first part.Let's actually graph the
+equation, see it visually.So let me draw some axes here.This will be a
+hand-drawn graph, but Ithink it'll get the job done.So let's make that our
+y-axis, or in this caseit's the number of
+dollars she has.And let's make this my x-axis.This is our x-axis.And we only need to focus
+on the first quadrant.Because at least
+in this context,we're assuming she won't have
+a negative number of dollars.So the y values
+will be positive.And we assume that the days
+are only going to be positive.We're not to deal
+with negative time.So the x values are always
+going to be positive.So we're only going
+to be operatingin the first quadrant.So that's all I have to draw.And so she starts off at $40.Let me mark off the y-axis
+in increments of 10 first.So this would be $10, this
+would be $20, this would be $30,this would be $40.And then I could do the $35, the
+$25, the $15, and then the $5.And then let me
+mark off the days.So this is-- let me do it, I'll
+do that same yellow color--so this is after 2 days, this
+is 4 days, this is 6 days,this is 8 days.We could keep going if we like.So after 0 days, so this
+right over here, after 0 days,she has $40.So that's this point
+right over here.That's that right over there.Then after 2 days, she has $35.2 in the x direction,
+then we go up 35.So that's that point
+right over there.Then after 4 days, she has $30.So you go x 4, remember the days
+are in x, or x are the days,actually you should
+mark it, these are days.And the y-axis is
+the dollar axis.So after 4 days, she has $30.Then after 6 days-- I'm
+going to do the same color--after 6 days she has $25.So x-coordinate is 6,
+y-coordinate is 25.And then finally, after
+8 days, she has $20.And so we've plotted
+those points,and we could connect them.We could actually just,
+if we had a nice ruler,we could just
+connect two of those,and we would have the line.But our line looks
+something-- letme do this in a new color--
+our line would look somethinglike that.That shows how much she
+has after every day.And we're done.We've graphed the
+equation, and weknow she'll have $20
+left after 8 days.

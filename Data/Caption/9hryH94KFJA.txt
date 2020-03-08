@@ -1,0 +1,126 @@
+In this video we're going to do
+a couple of examples thatdeal with parallel and
+perpendicular lines.So you have parallel, you have
+perpendicular, and, of course,you have lines that are
+neither parallel norperpendicular.And just as a bit of review,
+if you've never seen thisbefore, parallel lines,
+they never intersect.So let me draw some axes.So if those are my coordinate
+axes right there, that's myx-axis, that is my y-axis.If this is a line that I'm
+drawing in magenta, a parallelline might look something
+like this.It's not the exact same
+line, but they havethe exact same slope.If this moves a certain amount,
+if this change in yover change in x is a certain
+amount, this change in y overchange in x is the
+same amount.And that's why they
+never intersect.So they have the same slope.Parallel lines have
+the same slope.Perpendicular lines, depending
+on how you want to view it,they're kind of the opposite.Let's say that this
+is some line.A line that is perpendicular
+to that will not onlyintersect the line, it will
+intersect it at a right angle,at a 90 degree angle.And I'm not going to prove
+it for you here.I actually prove it in the
+linear algebra playlist. But aperpendicular line's slope--
+so let's say that this oneright here, let's say that
+yellow line has a slope of m.Then this orange line, that's
+perpendicular to the yellowline, is going to have a slope
+of negative 1 over m.Their slopes are going
+to be the negativeinverse of each other.Now, given this information,
+let's look at a bunch of linesand figure out if they're
+parallel, if they'reperpendicular, or if
+they are neither.And to do that, we just have to
+keep looking at the slopes.So let's see, they say one
+line passes through thepoints, 4, negative 3,
+and negative 8, 0.Another line passes through
+the points, negative 1,negative 1, and negative 2, 6.So let's figure out the slopes
+of each of these lines.So I'll first do this
+one in pink.So this slope right here,
+so line 1, so I'llcall it slope 1.Slope 1 is, let's just say it
+is-- well, I'll take this asthe finishing point.So negative 3 minus 0--
+remember change in y--negative 3 minus 0, over
+4 minus negative 8.So this is equal to negative 3
+over-- this is the same thingas 4 plus 8-- negative
+3 over 12, which isequal to negative 1/4.Divide the numerator and
+the denominator by 3.That's this line.That's the first line.Now, what about the
+second line?The slope for that second line
+is, well, let's take, here,negative 1 minus 6, over
+negative 1 minus negative 2 isequal to-- negative 1 minus 6 is
+negative 7, over negative 1minus negative 2.That's the same thing as
+negative 1 plus 2.Well, that's just 1.So the slope here
+is negative 7.So here, their slopes are
+neither equal-- so they're notparallel-- nor are
+they the negativeinverse of each other.So this is neither.This is neither parallel
+nor perpendicular.So these two lines, they
+intersect, but they're notgoing to intersect at
+a 90 degree angle.Let's do a couple
+more of these.So I have here, once again, one
+line passing through thesepoints, and then another line
+passing through these points.So let's just look
+at their slopes.So this one in the green,
+what's the slope?The slope of the green one, I'll
+call that the first line.We could say, let's
+see, change in y.So we could do negative 2
+minus 14, over-- I didnegative 2 first, so I'll
+do 1 first-- over 1minus negative 3.So negative 2 minus
+14 is negative 16.1 minus negative 3 is the
+same things as 1 plus 3.That's over 4.So this is negative 4.Now, what's the slope of that
+second line right there?So we have the slope of
+that second line.Let's say 5 minus negative 3,
+that's our change in y, overnegative 2 minus 0.So this is equal to 5
+minus negative 3.That's the same thing
+as 5 plus 3.That's 8.And then negative 2 minus
+0 is negative 2.So this is also equal
+to negative 4.So these two lines
+are parallel.They have the exact
+same slope.And I encourage you to find the
+equations of both of theselines and graph both of these
+lines, and verify for yourselfthat they are indeed parallel.Let's do this one.Once again, this is just an
+exercise in finding slope.So this first line
+has those points.Let's figure out its slope.The slope of this first
+line, one line passesthrough these points.So let's see, 3 minus negative
+3, that's our change in y,over 3 minus negative 6.So this is the same thing as 3
+plus 3, which is 6, over 3plus 6, which is 9.So this first line has
+a slope of 2/3.What is the second
+line's slope?This was the second line there,
+that's the other linepassing through these points.So the other line's slope,
+let's see, we could saynegative 8 minus 4, over
+2 minus negative 6.So what is this equal to?Negative 8 minus 4
+is negative 12.2 minus negative 6, that's the
+same thing as 2 plus 6.The negatives cancel out.So it's negative 12 over 8,
+which is the same thing if wedivide the numerator and the
+denominator by 4, that'snegative 3/2.Notice, these guys
+are the negativeinverse of each other.If I take negative 1 over 2/3,
+that is equal to negative 1times 3/2, which is equal
+to negative 3/2.These guys are the negative
+inverses of each other.You swap the numerator and the
+denominator, make themnegative, and they become
+equal to each other.So these two lines are
+perpendicular.And I encourage you to find the
+equations-- I already gotthe slopes for you-- but find
+the equations of both of theselines, plot them, and verify
+for yourself that they areperpendicular.Let's do one more.Find the equation of a line
+perpendicular to this linethat passes through the
+point 2 comma 8.So this first piece of
+information, that it'sperpendicular to that line right
+over there, what doesthat tell us?Well, if it's perpendicular to
+this line, its slope has to bethe negative inverse of 2/5.So its slope, the negative
+inverse of 2/5, the inverse of2/5 is-- let me do it in a
+better color, a nicer green.If this line's slope is negative
+2/5, the equation ofthe line we have to figure out
+that's perpendicular, itsslope is going to
+be the inverse.So instead of 2/5, it's
+going to be 5/2.Instead of being a negative,
+it's going to be a positive.So this is a negative inverse
+of negative 2/5.Right?You take the negative sign
+and it becomes positive.You swap the 5 and the
+2, you get 5/2.So that is going to have
+to be our slope.And we can actually use the
+point-slope form right here.It goes through this
+point right there.So let's use point-slope form.y minus this y-value, which
+has to be on the line, isequal to our slope, 5/2 times
+x minus this x-value, thex-value when y is equal to 8.And this is the equation of the
+line in point-slope form.If you want to put it in
+slope-intercept form, you canjust do a little bit of
+algebra, algebraicmanipulation. y minus 8 is equal
+to-- let's distributethe 5/2-- so 5/2 x minus--
+5/2 times 2 is just-- 5.And then add 8 to both sides.You get y is equal to 5/2x.Add 8 to negative
+5, so plus 3.And we are done.

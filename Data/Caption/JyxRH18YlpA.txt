@@ -1,0 +1,50 @@
+some of the earlier ideas at digital
+money simply took the form of a public ledger.You  know you start off with money you have a list of who owns how many coinsand then people call in and say I hereby transfer so many coins to such-and-suchand you then update the ledger. Now of course in real lifeproper money actually works like that
+it's just that the banks don't keep aninfinite publicly visible history of all
+the transactions but Bitcoin keepseverything publicly visible forever.The basic idea behind Bitcoin is that you have got thousands of people called Bitcoin minerswho compete to find the next hash in something called a blockchain. and a new hash is found about every ten minutes.so what happens is that hundreds of people who want to do a transaction- say I want to pay you a
+tenth of a Bitcoin (which is about 25 pounds or so)pay for lunch or a taxi ride or whatever. Then what I do is I sign a transactionsaying that I pay you 25 pounds and that
+gets collected together with hundreds ofother transactions that people want to
+do around the world and Bitcoin miners work on it.How they work on it is they
+look for a random number whichtogether with the last hash of the blockchainand the batch of pending transactions, will have a certain propertyand this property is found only about one time every sixty million, million, million attemptsso you get thousands in fact millions of computersaround the world working to try and find
+the next hash with this special propertyby trying the existing blockchain plus
+all the transactions in the queue thatare waiting to be processed and
+eventually every 10 minutes or so,some lucky person puts up his hand and says "Found it!" and when that happens he gets 25 Bitcoinsso that's the reward for that person for
+finding that particular hash.The blockchain is a list of all the transactions
+that have been done with Bitcoin backsince the first transaction in 2008 or
+2009and it's punctuated with hashes and each
+hash binds together the transactionsthat happened up to that point in time
+and so anybody can look back over theblockchain and can trace the origin of
+any particular Bitcoin. When it was minedright, when it was awarded as a prize
+to a miner who found an appropriate hashand everybody who spent it or subdivided it or did something else with it since then.So it's an open ledger and the history of every single coin is visible to all.What you basically do is you add to the block chain basically one hash at a time.So you start off
+with the last hash plus all thetransactions that you've swept together
+into a pool to add to the chain and thenthere's the hash that you find at the end.It's also worth saying that miners tend to work in pools and at present there are three large pools whichdistribute the work to tens of thousands of people who then 'beaver away' happily trying tofind the next hash and when the reward
+comes through right;and each of these mining pools will win a reward about once every half hour or so; they thenshare that out to the miners who work for
+them so what you've ended up with is asystem whereby people can buy Bitcoin mining equipment, they can plug it inthey can sign up to a mining pool, and
+they get a return on their investmentjust as if they'd put money in the bank
+although the return is at present slightly better.If you're actually paying for your
+electricity, half of all the return thatyou get on your investment is going to
+have to go to pay the electricity bill.There's a significant problem coming down the line because next year. About a year from now (slightly under a year from now )The reward for finding a Bitcoin SR>> is due to fall from 25 bitcoinsper successful hash to twelve and a half. Now when this was set up the inventordecided that in order to prevent
+inflation the number of bitcoins thatyou would get would fall over time. So the amount of work that you had to do per Bitcoinwould increase until finally the amount of Bitcoin in circulation would be stable.Now this means, that from about October next year > if you're doing Bitcoing miningon a fully commercial basis then every dollar that you spendon electricity will return only one
+dollar in expectation and Bitcoinsrather than $2 at the present time so
+there's no way for you to recoup thecapital cost of your equipment unless of
+course you can place your equipment inplaces where electricity is very cheap
+or in college dorm rooms where it's freeand eventually college deans are gonna
+start putting in electricity meters and what then happens to Bitcoin?[SR] So is this part of the way that Bitcoin works is that these rules have been set up alreadythat over a certain amount of time these things happen?Well at present the Bitcoin rules were set up by the anonymous guy who set the system up in 2008......and they are maintained by the people whomaintain the Bitcoin software and so long
+as they agree on what the softwareshould do you have consensus, but if they
+were to disagree and fork the system intotwo separate universes then that would
+have huge consequences just like -for example if Greece had left the Euro.
+There would have been all sorts of trouble to mop up.Nobody knows for sure who wrote Bitcoin. The person whoclaimed authorship Satoshi Nakamoto
+appears to be a pseudonym and variouspeople have been found who might have
+been him what we do know is that thefirst Bitcoin transaction was made with
+Hal Finney who was a cipher-punka cryptographer and a coder who could definitely have invented this and comeup with it and he unfortunately died of
+Motor Neurone Disease (MND/ALS) a while ago so wecan't now ask him whether it was his
+handiwork - he did deny it at the time butin any case, somebody unknown who may
+have been Hal, gave us this amazing andfascinating system and as for where it
+goes in the long term the answer is I don't know.The blockchain is a truly wonderful technical innovation. It doesn't quite dowhat people like cipher-punks originally
+thought it would do namely create astable anonymous currency that was
+beyond the reach of governmentsMy feeling is that it hasn't quite found a
+killer application yet.If you think of the internet for example back in the mid-nineteen nineties people thoughtthat bringing the Internet to the home
+would be absolutely great for basicallydelivering video to the home so something like you get from your favorite videorental service or from your PVR was reckoned to be what people would use the internet forand of course that turned out to be not
+its real application. The real applicationof the internet as everybody knows is
+disseminating photographs of cats.So what will be 'cats' for Bitcoin? We don't
+know, and whoever figures that out might standto make quite a few shillings ($$!)in the back of them,they put little mobile phones. So that, whenever  you used this terminal it'll it would text your card and PIN details....You start getting the voltage that represents a six drifting a little bit, and it looks like a seven....

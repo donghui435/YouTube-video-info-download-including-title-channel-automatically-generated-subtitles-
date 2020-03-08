@@ -1,0 +1,46 @@
+Narrator: In a previous videowhen we were looking at a very simple caseof compounding interest,
+we got the expression(1+1/n)^n and the way we got this,we saw an example where
+a loan shark is charging100% interest and that's where this 1 is,and then if they only
+compound once in the year,so it's 100% over the year, then n is 1.So, you get 1+100%/1^1,you're going to have to pay backtwice the amount of the
+original amount of money.If n is 2, (1+1/2)^2, gets you 2.25If you compound half the interest,so 100%/2, but you compound it twice.Then we kept going and going and going,we saw interesting things happen.I want to review that right over hereusing this calculator.I want to see what
+happens as we get largerand larger and larger n's.In that last video we
+went as high as n=365and it seemed to be
+approaching a magical number,but now let's go even further.So, let's type in ... let's throw
+some really large numbers here.1+1/1,000,000 so that's a
+million to the millionth power.(1+1/1,000,000)^1,000,000Did I get the right number of zero's?Yeah, that looks right.Before I even press
+enter, which is exciting,let's just think about
+what's going on here.This part that we have here is thatn gets larger and larger,
+it's getting closerand closer to 1, but
+never quite exactly 1.This is 1 and 1 millionth.So, it's very close to
+1, but not exactly 1.We're going to raise that
+thing to the millionth powerand normally when you raise somethingto the millionth power,
+that's just going tobe unbounded, just
+become some huge number,but there's a clue that 1 to the
+millionth power will just be 1.If we're getting really close to 1,well maybe this won't just
+be some unbounded number.When we calculate it, we
+see that that's the case.It's 2.71828 and just keeps going.Now, let's go even higher.Let's take it ... let's
+do 1+1/ and actuallyI can now use scientific notation.Let's just say (1+1/1'10^7)^1'10^7,so what do we get here?So, now we went 2.718281692.Let's go even larger.Let's get our last entry here.Let's go, instead of the 7th power,let's go to the eighth power,so now we're (1+1/100,000,000^100,000,000)I don't even know if this
+calculator can handle thisand we get 2.71828181487and you see that we are
+quickly approaching,or maybe not so quickly,
+we have to raise thisto a very large power, to the number e.The number e in our calculator.You see we've already gotten
+1, 2, 3, 4, 5, 6, 7 digitsto the right of the decimal pointby taking it to the 100 millionth power.So, we are approaching this number.We are approaching, so
+one way to talk about itis we could say the limit,
+as n approaches infinity.As n becomes larger and larger,
+it's not becoming unbounded.It's not going to infinity.It seems to be approaching this numberand we will call this number,we will call this magical
+and mystical number e.We'll call this number e and we seefrom our calculator that this numberand these are kind of, these are almostas famous digits as the digits for Pi,we are getting 2.7182818 and it justkeeps going and going and going.Never, never repeating,
+so it's an infinitestring of digits, never, never repeating.Just like Pi. Pi, you
+remember, is the ratioof the circumference to
+the diameter of the circle.e is another one of these crazy numbersthat shows up in the universe.And in other videos on Khan Academywe go into depth, why this
+is so magical and mystical.Already this is kind of cool.That I can take an infinite ...If I just add 1 over a number to 1and take it to that number
+and I make that numberlarger and larger and
+larger, it's approachingthis number, but what's
+even crazier about itis we'll see that this number,which you can view, one way of it,it is coming out of
+this compound interest.That number, Pi, the imaginary unitwhich is defined as that
+imaginary unit squaredis a negative 1,that they all fit together in this magicaland mystical wayand we'll see that again in future videos.But just for the sake of e,what you could imagine
+what's happening hereis going to our previous exampleof borrowing $1 and trying
+to charge 100% over a year,when our n was 1, that means you're justcharging over 1 period.When n is 2, you're
+charging over 2 periodsand then compounding, or you're
+compounding over 2 periods.When n is 3, you're
+compounding over 3 periods.When n approaches infinity,you could view it as you're
+continuously compoundingevery zillionth of a second.Every moment you're compoundingin a super small amount of interest,but you're doing it,
+essentially you're approachingan infinite number of timesand you get to this number.

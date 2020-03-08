@@ -1,0 +1,70 @@
+- [Voiceover] So we have a
+bunch of numbers listed up here,and my goal, in this video,
+is to see if we can classifythem into different types
+of number categories,and let me draw the categories.So this circle, over here,this represents all of the numbersthat can be represented as the fractionof two integers, and, of
+course, the denominatorcan't be equal to zero,
+because we don't knowwhat it means to put a
+zero in the denominator.So, let's call these, or the standard wayof calling these things.These things can be
+represented as a fractionof two integers, we call
+these rational numbers.Rational numbers.And if something cannot be
+represented as a fractionof two integers, we
+call irrational numbers.Irrational numbers.Irrational numbers.And the size of these circles don't showhow large these sets are.There's actually an
+infinite number of rationaland an infinite number
+of irrational numbers.So, these are the irrational numbers.Irrational.So, these cannot be
+represented as a fractionof two integers.And then, within rational numbers,you have integers themselves.So, I'll do that in, let me
+do that in this blue color.Integers.So, integers are numbers that don't haveto be represented as a
+fraction or a decimal.So, these are integers, right over here.Integers.And then a subset of
+integers are whole numbers.So, if you essentially say
+the non-negative integers,you're then talking about whole numbers.So let me do that subset, right over here.So, these are going to
+be the whole numbers.So, whole numbers.Whole numbers, right over here.And, actually, let me just label it all.These are rational...Let me do that in the same color.Rational numbers.And, of course, irrational numbers.Irrational numbers.Irrational numbers.An integer.Well, if I could say,
+"Look, that is an integer."Let's think about the integers."But I wouldn't say, "Let's
+just think about the rational."I'd say, "Let's think about
+the rational numbers."All right, now that we have
+these categories in place,let's categorize them.Like always, pause the video.See if you can figure out what categorythese numbers fall into.Where would you put them on this diagram?So, let's start off with three.This is positive three.It can be definitely
+represented as a fraction.You can represent it as three over one.But, it doesn't have to be
+represented as a fraction.It, literally, could be just
+a three, right over there,but it's also non-negative.So three is a whole number.So three, and maybe I'll do it
+in the color of the category.So, three is a whole number.So, it's a member of that set.But if you're a whole number,
+you're also an integer,and you're also a rational number.So, three is a whole
+number, it's an integer,and it's a rational number.Now, let's think about negative five.Now, negative five, once
+again, it can be representedas a fraction, but it doesn't have to be,but it is negative.So, it's not gonna be a whole number.So, negative five is going
+to sit right over here.It's an integer, and if you're an integer,you're definitely going
+to be a rational number,but it's not a whole number
+because it is negative.Now we have 0.25.Well, this, for sure, can be
+represented as a fraction.This is 25-hundredths, right over here.So, we can represent that as a fractionof two integers, I should say.It's 25-hundredths.But there's no way to represent thisexcept using a fraction of two integers.So, 0.25 is a rational number,but it's not an integer
+and not a whole number.Now what about 22 over seven.Well, here it's clearly
+represented, already,as a fraction of two integers,but I don't think I can
+represent this any other,except as a fraction of two integers.I can't somehow make thiswithout using a fraction
+or some type of decimalthat might repeat.So, this, right over here, this wouldalso be a rational number,but it's not an integer,
+not a whole number.Now this over here.0.2713.Now the 13 repeats.This is the same thing as 0.27131313,that's what line up there represents.Now, you might not realize it yet,but any number that repeats eventually,this one does repeat eventually,you have the .1313,or you have the 0.27131313,any number like this can be
+represented as a fraction.For example, and I'm
+not going to do it here,just for the sake of time,but, for example, 0.3, repeating,that's the same thing as one-third.And later on, we're gonna see techniquesof how do you convert this to
+a fraction of two integers.But, for our sake, we just knowthat this can be represented
+as a fraction of two integersjust the way that 0.3, repeating, can be.And so, we would put this
+under rational numbers.0.2713, repeating.But you have to represent
+it either as a decimalor a fraction of integers.If you didn't have to, then
+it could have been an integer,but we'll throw it up
+there in rational numbers.Now the square root of ten.Square root of ten.This is interesting.So, any square root of
+a non-perfect squareis going to be irrational.So, this is gonna be irrational.I'm not proving it to you here,but you cannot represent this as the ratioof two integers, or a
+fraction with two integers,with an integer in the numeratorand an integer in the denominator.This will be, if you were to represent itas a decimal, it will not repeat.It'll just keep being new and new digits.It will not repeat over time.So, this, right over here,
+is an irrational number.It's not rational.It cannot be represented as
+the ratio of two integers.All right, 14 over seven.This is the ratio of two integers.So, this, for sure, is rational.But if you think about it, 14 over seven,that's another way of saying,14 over seven is the same thing as two.These two things are equivalent.So, 14 over seven is
+the same thing as two.So, this is actually a whole number.It doesn't look like a whole number,but, remember, a whole numberis a non-negative number that doesn't needto be represented as the
+ratio of two integers.And this one, even though
+we did represent itas the ratio of two
+integers, it doesn't needto be represented as the
+ratio of two integers.You could have represent this as just two.So, that's going to be a whole number.14 over seven, which is
+the same thing as two,that is a whole number.Now, two-pi.Now pi is an irrational...Pi is an irrational number.So if we just take a multiple of pi,if we just take a integer multiple of pi,like that, this is also going
+to be an irrational number.If you looked at its
+decimal representation,it will never repeat.So that's two-pi, right over there.Now what about...Let me do that same, since
+I've been consistent,relatively consistent, with the colors.So, this is two-pi right over there.Now, what about the
+negative square root of 25.Well, 25's a perfect square.Square root of that's just gonna be five.So, this thing is going to be,this thing is going to be
+equivalent to negative five.So, this is just another representationof this, right over here.So, it is an integer.It's not a whole number
+because it's negative,but it's an integer.Negative square root of 25.These two things are actually...These two things are
+actually the same number,just different ways of representing them.And then you have, let's
+see, you have the square rootof nine over...The square root of nine over seven.Well, what's the principal root of nine?This thing is gonna be the same thing,this thing is the same...Let me do this in a different color.This is the same thing as,square root of nine is three,it's the principal root of
+nine, so it's three-sevenths.So, this is a ratio of two integers.This is a rational number.Square root of nine over sevenis the same thing as three-sevenths.Now, let me just give you
+one more just for the road.What about pi over pi?What is that going to be?Well, pi divided by pi is
+going to be equal to one.So, this is actually a whole number.So I could write pi over
+pi, right over there.That's just a very
+fancy way of saying one.

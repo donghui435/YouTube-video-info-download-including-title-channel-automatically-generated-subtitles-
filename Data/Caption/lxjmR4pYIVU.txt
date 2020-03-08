@@ -1,0 +1,69 @@
+We're asked to rewrite
+the following twofractions as fractions with
+a least common denominator.So a least common
+denominator for two fractionsis really just going to be the
+least common multiple of bothof these denominators over here.And the value of
+doing that is thenif you can make these
+a common denominator,then you can add
+the two fractions.And we'll see that
+in other videos.But first of all, let's just
+find the least common multiple.Let me write it out
+because sometimes LCDcould meet other things.So least common denominator
+of these two thingsis going to be the same thing
+as the least common multipleof the two
+denominators over here.The least common
+multiple of 8 and 6.And a couple of ways to think
+about least common multiple--you literally could just
+take the multiples of 8 and 6and see what they're
+smallest common multiple is.So let's do it that way first.So multiples of six
+are 6, 12, 18, 24 30.And I could keep going if we
+don't find any common multiplesout of this group here with
+any of the multiples in eight.And the multiples of
+eight are 8, 16, 24,and it looks like we're done.And we could keep
+going obviously-- 32,so on and so forth.But I found a common
+multiple and thisis their smallest
+common multiple.They have other common
+multiples-- 48 and 72,and we could keep adding
+more and more multiple.But this is their
+smallest common multiple,their least common multiple.So it is 24.Another way that you could have
+found at least common multipleis you could have taken the
+prime factorization of sixand you say, hey,
+that's 2, and 3.So the least common multiple has
+to have at least 1, 2, and 1, 3in its prime factorization
+in order for itto be divisible by 6.And you could have said, what's
+the prime factorization of 8?It is 2 times 4
+and 4 is 2 times 2.So in order to be
+divisible by 8,you have to have at least three
+2's in the prime factorization.So to be divisible by 6, you
+have to have a 2 times a 3.And then to be divisible by 8,
+you have to have at least three2's.You have to have two
+times itself three timesI should say.Well, we have one 2 and
+let's throw in a couple more.So then you have another
+2 and then another 2.So this part right over here
+makes it divisible by 8.And this part right over
+here makes it divisible by 6.If I take 2 times 2 times 2
+times 3, that does give me 24.So our least common
+multiple of 8 and 6,which is also the least common
+denominator of these twofractions is going to be 24.So what we want to do is
+rewrite each of these fractionswith 24 as the denominator.So I'll start with 2 over 8.And I want to write that
+as something over 24.Well, to get the
+denominator be 24,we have to multiply it by 3.8 times 3 is 24.And so if we don't
+want to changethe value of the
+fraction, we haveto multiply the numerator and
+denominator by the same thing.So let's multiply the
+numerator by 3 as well.2 times 3 is 6.So 2/8 is the exact
+same thing as 6/24.To see that a
+little bit clearer,you say, look, if I have 2/8,
+and if I multiply this times 3over 3, that gives me 6/24.And this are the same
+fraction because 3 over 3is really just 1.It's one whole.So 2/8 is 6/24 let's do
+the same thing with 5/6.So 5 over 6 is equal
+to something over 24.Let me do that in
+a different color.I'll do it in blue.Something over 24.To get the denominator
+from 6 to 24,we have to multiply it by 4.So if we don't want to
+change the value of 5/6,we have to multiply the
+numerator and denominatorby the same thing.So let's multiply the
+numerator times 4.5 times 4 is 20.5/6 is the same thing as 20/24.So we're done.We've written 2/8 as 6/24 and
+we've written 5/6 as 20/24.If we wanted to add them
+now, we could literally justadd 6/24 to 20/24.And I'll leave you
+there because theydidn't ask us to
+actually do that.

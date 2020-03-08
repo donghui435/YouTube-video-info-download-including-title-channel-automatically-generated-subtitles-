@@ -1,0 +1,71 @@
+ROGER BOWLEY: I'm going to be
+talking about logarithms,logarithms to the base 10.So for example, if I have a
+number, which is 100, I canthink of that as 10 squared,
+or 10 to the power 2.So 2 is the logarithm of this
+number, 100, to the base 10.1,000 is 10 to the 3.This is the logarithm, the 3,
+and it corresponds to thenumber of 0's there.It is logarithm of
+1,000 equals 3.I can do 10 to another number.So for example, 10 to the 1.6232
+turns out to be 42.That means that if I were to
+take 10, that means that thelog to the base 10 of
+42 is 1.6232 tofour significant figures.The reason it's useful
+is multiplication.If I have two numbers and
+I want to multiply themtogether, it's easy to make
+mistakes, because there are alot of little operations that
+have to be added up.If you go through logarithms and
+you get a logarithm of anumber, such as 42, and you
+multiply it with anothernumber, such as 37, or 59, or
+200, you get the logarithm ofthat number, and you add
+these numbers together.Let me show you an example.37 times 59.Now, I can write 37 as 10 to the
+1.5682, and multiply thatby this number, which is
+10 to the power 1.7709.And when I multiply these
+numbers together, all I haveto do is add this number to that
+number to make this into10 to the 3.3391.BRADY HARAN: That's
+like a shortcut.ROGER BOWLEY: Yes.Instead of multiplying numbers,
+you're adding this tothat to get this exponent,
+and that number, itturns out, is 2183.Instead of having to write this
+out longhand as 37 times59 and work it all out in gory
+detail, which will require 9times 7 and 3 times 9, and then
+5 times 7, and working itout, and not making a mistake,
+all you have to do isaddition, which is
+much easier.And if I were to do division, I
+would do subtraction, whichis much easier.Addition and subtraction
+are much easier thanmultiplication and division.So this is a great
+simplification.It makes your life
+much easier.The catch is that you have
+to know these numbers.37 is 10 to the power of this.So where did I get that from?Where did I get 59
+is this number?Well, the big secret, the thing
+that makes it possibleis that I have a table of these
+logarithms, and I lookup 37, this is actually 3.7, so
+in order to make it 37, Ihave to add a 1 to it,
+and it's 1.5682.So that's this number.And then I look up 59.And there's 59.59.0, I go across , its 0.7709,
+but this is 5.9, so Ihave to add a 1.So these, I cheated, it's
+all in a table.I can look it up.When I was a lad at school, this
+is how we learned to domultiplication.I mean, we learned how to do
+long multiplication, but weadded these numbers together
+to get the answer quickly.And it was the way of doing
+it, because there weren'tpocket calculators in my youth,
+because I'm so old.This is all we had down mine.So when I've got this number,
+I have to go to a differenttable, which is called the
+table of antilogs.Now, the 3 in the front of this
+means 1,000, so I justhave to look up 0.3391.So I go down the table,
+there's 0.33.And then you look across
+the top, andthere's a 9, 3391, 2183.And then I look at the
+1, which is thisthing, and add that.And you see I get 2183.And if there was a number there,
+I'd have to add thatlast one, but it's actually 0.So this is 2183, which
+turns out to be theright answer exactly.So you could get four
+significant figures by doingthis, which is reasonably
+accurate.It's the speed, the
+reliability.If these tables are accurate,
+you can get the numbers out.BRADY HARAN: Is this just
+something that schoolboys andschoolgirls would use, or were
+log tables important forprofessionals?ROGER BOWLEY: Oh, yes.Log tables would be used by
+professionals who wanted toget accuracy.And they might not be just four
+significant figures, theymight be more, depending
+on the accuracy of thecalculations that you
+need to make.And they made calculations very
+reliable, provided thetables were reliable.But the tables, to start with,
+weren't very reliable.And that's really a complete
+story in itself, which I'dlike to tell you.Well, now you're going to ask
+the question, where do thesenumbers come from?How did I make up tables of
+antilogarithms and logarithms?And this was done by a man
+called John Napier.

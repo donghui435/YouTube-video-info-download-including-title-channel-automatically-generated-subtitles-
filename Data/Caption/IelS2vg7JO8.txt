@@ -1,0 +1,42 @@
+Find the volume of a sphere with
+a diameter of 14 centimeters.So if I have a sphere-- so
+this isn't just a circle,this is a sphere.You could view it as
+a globe of some kind.So I'm going to shade
+it a little bit so youcan tell that it's
+three-dimensional.They're giving us the diameter.So if we go from one
+side of the spherestraight through
+the center of it.So we're imagining that we
+can see through the sphere.And we go straight
+through the centimeter,that distance right over
+there is 14 centimeters.Now, to find the volume of a
+sphere-- and we've proved this,or you will see a proof for this
+later when you learn calculus.But the formula for
+the volume of a sphereis volume is equal
+to 4/3 pi r cubed,where r is the
+radius of the sphere.So they've given
+us the diameter.And just like for circles,
+the radius of the sphereis half of the diameter.So in this example, our radius
+is going to be 7 centimeters.And in fact, the sphere
+itself is the setof all points in three
+dimensions that is exactlythe radius away from the center.But with that out of
+the way, let's justapply this radius being 7
+centimeters to this formularight over here.So we're going to
+have a volume isequal to 4/3 pi times 7
+centimeters to the third power.So I'll do that in
+that pink color.So times 7 centimeters
+to the third power.And since it
+already involves pi,and you could
+approximate pi with 3.14.Some people even
+approximate it with 22/7.But we'll actually just
+get the calculator outto get the exact
+value for this volume.So this is going to
+be-- so my volume isgoing to be 4 divided by 3.And then I don't want
+to just put a pi there,because that might interpret
+it as 4 divided by 3 pi.So 4 divided by 3 times pi,
+times 7 to the third power.In order of operations,
+it'll do the exponentbefore it does the
+multiplication,so this should work out.And the units are going to be
+in centimeters cubed or cubiccentimeters.So we get 1,436.They don't tell us
+what to round it to.So I'll just round it to
+the nearest 10th-- 1,436.8.So this is equal to
+1,436.8 centimeters cubed.And we're done.

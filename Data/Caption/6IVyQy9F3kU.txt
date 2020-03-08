@@ -1,0 +1,23 @@
+So let's summarize this into three different
+conditions.In order for two triangles to be similar,
+they can be different sizes, but everythingelse about them has to be the same.That's a really informal definition, but it's
+an easy way for us to remember what we'relooking for when we're trying to identify
+similar triangles.So if we apply that definition, then we can
+say that these are similar triangles, andthese are similar triangles, and these are
+similar triangles, and these are similar triangles.And even if I turn them, they're still similar.Now let's talk about the formal definition
+so that you know how to actually prove that two trianglesare similar.Two triangles are similar if their matching
+angles are congruent, and if the ratiosof their matching sides are the same.So we just said we needed angles and sides
+to be the same.Let's talk about angles first.Remember that the angle measures of a triangle
+don't change when the size of the trianglechanges.The three interior angles of the triangle
+are always going to add up to 180 degrees.So the angle measures of these similar triangles
+are both 45, 80, 55, in that order.Now let's talk about sides.In order for the triangles to be similar,
+the triangles don't have to be exactly thesame size, but they do have to be proportional.So if we know that these side lengths are
+3, 4 and 5, and this triangle is double thesize, then its side lengths have to be 6,
+8 and 10.In other words, if we take the 3 side lengths
+of one triangle, and match them up with theassociated 3 side lengths from the other triangle,
+then we should be able to reduce each fractionto the same ratio.So let's summarize this into three different
+conditions.First, if two triangles have the same angle
+measures, and the same side lengths, thenthey are exactly the same, which means that
+they're congruent.Second, if only the angles are the same and
+the side lengths are proportional, then thetriangles are similar.And finally, if either the angles are different
+and or the side lengths are not proportional,then the triangles aren't congruent or similar.

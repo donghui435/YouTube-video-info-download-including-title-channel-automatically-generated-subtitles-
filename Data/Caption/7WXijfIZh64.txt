@@ -1,0 +1,48 @@
+We're told that as part of an
+experiment about train speed,4 different train conductors
+measured the distance thatthey covered over a certain
+amount of timeduring a recent journey.So these are the 4 trains.This is how long it took them
+to go this many miles.However, they all use different
+time intervals.Yeah, you see this guy, he
+did it over half an hour.This guy did it over 2 hours.And they're having a difficult
+time comparing their data.According to the data provided,
+were all 4 trainsmoving at the same speed
+during the experiment?So we just have to figure out
+what was the speed of all ofthese 4 trains based on
+how far they went inthis amount of time.And just to remind us, you might
+already know this, butyou know that distance is equal
+to rate times time.Or if you were to divide both
+sides of this equation bytime, I could do that.If you divide both sides by
+time, the times cancel out andyou get rate is equal to
+distance divided by time.Rate is the same thing as speed,
+and it makes sense thatit's distance divided by time.You've heard miles per hour
+or meter per second orkilometers per hour.Rate speed is distance
+divided by time.So we can just use this.We can just divide the distance
+by the time for eachof these trains and figure
+out what their speed was.So let's do that.So let's write their speeds.I'll make another column for
+their speed right here.So what's this first guy?He went 27.5 miles
+in 0.5 hours.So once again, let's divide the
+distance for this train 1.He went 27.5 miles in 0.5.So if you divide something by
+0.5, this is the same thing as27.5 times 2.Let me do it this
+way, times 2.What's 27.5 times 2?It is 55, and it is
+miles per hour.So his speed is 55
+miles per hour.Now, this guy, this is pretty
+straightforward.He went 55 miles in
+exactly 1 hour.The distance divided
+by time is 55.So this guy's pretty
+straightforward.He's also 55.And you can put it
+in the formula.55 is the distance.The time is 1 hour.55 over 1.55 miles per hour.Now this guy went 82-1/2
+miles in 1-1/2 hours.Let's see what that is.So he went 82-1/2 miles
+in 1.5 hours.So let's figure out
+what this is.And I'll have to do a little bit
+of decimal long divisionto do this.So we have 1.5 goes into 82.5.Let's multiply both of these
+numbers by 10, essentiallyshift their decimals one
+over, so shift thatdecimal over here.So it becomes 15 goes into
+825 how many times?So 15 doesn't go
+into 8 at all.It goes into 82 five times.5 times 5 is 25, carry the 2.5 times 1 is 5, plus 2 is 70.Subtract 75.82 minus 75 is just
+a 7, right?And then you bring
+down this 5.15 goes into 75 five
+times exactly.5 times 15 is 75.Subtract, no remainder.So 82.5 miles in an hour
+and a half is also55 miles per hour.And then finally, if you do 110
+miles 2 hours, 110 dividedby 2 is 55.So they did indeed all go, or
+they all did move at the samespeed during the experiment.

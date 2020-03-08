@@ -1,0 +1,68 @@
+So they tell us that Hiram
+solved the equation, 5 plusthe square root of x plus 14
+is equal to x plus 7, usingthe following steps.Let's see what he did.He subtracted 5 from
+both sides.Yeah, that's reasonable
+enough.That got that 5 out
+of the way.And then 7 minus 5 is 2.And then he squared
+both sides.The square root of x plus 14
+squared is just x plus 14.That makes sense.And x plus 2 squared is
+x plus 2 squared.And then he uses the pattern for
+square binomials to expandthe right-hand side.OK, so he just multiplied out
+x plus 2, times x plus 2, toget x squared plus 4x, plus 4.Then he subtracted x plus 14
+from both sides, so he gets a0 on the left-hand side.So when you take x from
+4x, you get 3x.When you take 14 from 4
+you get negative 10.So that all makes sense.Then he factored the
+right-hand side.Let's see, 5 times negative
+2 is negative 10.5 plus negative 2 is 3.That makes sense.Then he uses a 0 product
+propertyto solve the equation.That's just this property--
+look, if you have two thingsand you take their product and
+it equals 0, one or both ofthem must be equal to 0.So that means x plus 5 is equal
+to 0, or x minus 2 isequal to 0.And so if x plus 5 is equal
+to 0, that's x is equal tonegative 5.x is equal to 2 of 0, that's
+x is equal to 2.Let me just write
+that down here.So all he did in this step
+is he says, x plus5 is equal to 0.Or x minus 2 is equal to 0.From this you get this right
+over here, because yousubtract 5 from both sides.And then from this you get
+that right over there.Then he checked both answers.He substituted negative 5 into
+the original equation.So he substituted negative
+5 in there.It shows up twice.5 plus the square root of
+negative 5, plus 14 is equalto negative 5 plus 7.Let's see what else he did.Then this becomes square
+root of 9.This becomes 2.Then you get 5 plus 3 is equal
+to 2, which is false.This is not true.And he wrote that down.And then he tried out 2.His other solution.When you substitute 2 you get
+2 plus 14, which is 16.2 plus 7 is 9.Square root of 16 is 4.And this is the principal root
+of 16 we're talking about, sowe're taking the positive
+square root.And then 5 plus 4
+is equal to 9.So this works out.And then he says that
+the answer is xequals 2, which is right.Now this whole exercise, all
+they want us to know is, isthis an example of deductive
+reasoning?Explain.And it is an example of
+deductive reasoning.He started off with a known
+statement, with a known-- wecould call that a known
+fact-- if we assumethat that's a fact.He started off with that.And just doing logical
+operations, he was able todeduce, step by step,
+he was able tomanipulate other truths.He started with a fact and using
+logical operations hewas able to come up
+with other facts.And go all the way down here
+and then check his answers,and eventually come up with
+the notion that if this istrue, then this must
+also be true.So that is deductive
+reasoning.You start with facts, use
+logical steps or operations,or logical reasoning to come
+up with other facts.He's not estimating.He's not generalizing.He's not assuming some
+trend will continue.He started with something he
+knows is true and gets tosomething else he
+knows is true.And this is a bit of a review.You're probably wondering
+why thenegative 5 wasn't a solution.And as a little bit of a hint
+here-- and I'll let you thinkabout why it didn't end up as a
+solution-- when we took thesquare root of 9 here, we took
+the positive square root.And when anyone just says a
+square root like that, thatmeans the positive
+square root, theprincipal square root.But if we were to take the
+negative square root here,this equation would
+have held up.Because 5 plus negative
+3 is equal to 2.So I'll let you think about at
+what step of this equationwould a negative number
+have worked?And it has something
+to do with whenwe square both sides.But that has nothing to do with
+the actual question athand, so I'll leave you there.We explained it before,
+in the past. So thiswas deductive reasoning.

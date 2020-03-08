@@ -1,0 +1,186 @@
+What I want to do
+in this video isreview all of the neat
+and bizarre thingsthat we've learned
+about triangles.So first, we learned--
+so let me just drawa bunch of triangles
+for ourselves.So let's have a triangle
+right over there.The first thing
+that we talked aboutis the perpendicular bisectors
+of the sides of the triangles.So if we take, so let's bisect
+this side right over here.And let's draw a
+perpendicular line to it.So this line right over here
+would be the perpendicularbisector of this
+side right over here.So it's bisecting and
+it is perpendicular.Let's draw another perpendicular
+bisector right over here.So we're going to-- this is
+the midpoint of that side.Let's draw a perpendicular.So this is perpendicular
+and this lengthis equal to this length, and
+then let's do one over here.This looks like the midpoint
+of that side right over there.And then we will
+draw a perpendicular.It's perpendicular, and
+we know that this lengthis equal to this
+length right over here.And what we learned is where
+all of these perpendicularbisectors intersect, and
+what's neat about this,and frankly all the things
+that we're going to talk aboutin this video, is that they do
+intersect in one unique point.That one unique point is
+equidistant from the verticesof this triangle.So this distance, is going to
+be equal to this distance, whichis going to be equal
+to that distance.And because it's
+equidistant to the vertices,you could draw a circle
+of that radius thatgoes through the vertices.And that's why we call
+this right over here,that point, that intersection
+of the perpendicular bisectors.So let me write
+this down, just sothat we can keep
+track of things.Perpendicular bisectors.We call this point right
+over here our circumcenter,because it is the center of
+our circumcircle, a circle thatcan be circumscribed
+about this triangle.So this is our circumcircle.And the radius of the
+circumcircle, the distancebetween the circumcenter and the
+vertices is the circumradius.So that was the
+perpendicular bisectors.Now the next thing we
+learned, and the whole pointof this video is
+just to make surethat we can differentiate
+between these thingsand not get too confused.So let me draw another arbitrary
+triangle right over here.The next thing we
+thought about is well,what about if we were
+to bisect the angles?So we're not talking
+about perpendicularbisecting the
+sides, but we're nowtalking about bisecting
+the angles themselves.So we could bisect this
+angle right over here.Let me draw my best
+attempt to draw it.And so this angle is going
+to be equal to that angle.We could bisect this
+angle right over here.We could bisect-- I could do
+a better version than that.So that looks--
+well, one more try.So I could bisect it like that.And them if I'm
+bisecting it this angleis going to be
+equal to that angle.And then if I
+bisect this one, weknow that this
+angle is going to beequal to that angle over there.And once again, we have
+proven to ourselvesthat they all intersect
+in a unique point.And this point, instead of being
+equidistant from the vertices,this point is equidistant from
+the sides of the triangle.So if you dropped
+a perpendicularto each of the sides.So this distance is going to be
+equal to that distance, whichis going to be equal
+to that distance.And because of that,
+we can draw a circlethat is tangent to the
+sides that has this radius.So we could draw a circle
+that looks like this.And we call this
+circle, because it'skind of inside the triangle,
+we call it an incircle.And this point,
+we can call, whichis the intersection of
+these angle bisectors,we can call this the inradius.Now the other thing we
+learned about angle bisectors,and this we just
+have to draw one.So let me just draw another
+triangle right over here.And let me draw
+an angle bisector.So I'm going to
+bisect this angle.So this angle is
+equal to that angle.And let me label
+some points here.So let's say that this
+is-- change the colors.Let's say that is A,
+this is B, this is C,and this is D. We learned
+that if AC is really the anglebisector of angle BAD, that the
+ratio between-- that AB over BCis going to be equal to
+the ratio of AD to DC.Sometimes this is called
+the angle bisector theorem.So that's neat.So the next thing we
+learned is-- let'sdraw another triangle here.This is just to be an
+overview of everythingwe've been covering in
+the last few videos.So let me draw
+another triangle here.So now instead of drawing the
+perpendicular bisector-- solet me label everything.This was angle bisectors.And now what I'm going to
+think about are the medians.So the perpendicular bisectors
+were from the midpoint,were lines that
+bisect the sides,and they are perpendicular,
+but don't necessarilygo through the vertices.When we talk about
+medians, we aretalking about points
+that bisect the sides,but they go to the
+vertices, and they're notnecessarily perpendicular.So let's draw some medians here.So let's say this is the
+midpoint of that sideright over there.So we could draw a
+median like that.No, this is going
+through the vertices,these did not necessarily
+go through the vertices.This right over here is not
+necessarily perpendicular.But we do know
+that this length isequal to that length
+right over there.Let me draw a couple of more
+medians right over here.So this, the midpoint looks
+like it's right about here.So this length is
+equal to that length,and notice it goes
+through the vertex,but it's not necessarily
+perpendicular.And then this one--
+see the midpointlooks like it's
+right about there.And once again, all of
+these are concurrent.They all intersect at one
+point right over here.And so this length
+right over hereis equal to this
+length right over here.There's a bunch of neat
+things about medians.When you draw the three medians
+like this, that unique pointwhere they intersect, we
+called it the centroid.And as I mentioned, and
+you might learn thislater on in physics, is if
+this was a uniform triangle,if it had a uniform
+density, and if youwere to throw it or
+rotate it in the air,it would rotate around
+its centroid, whichwould essentially be
+its center of mass.It would rotate around that as
+it's flying through the air.If it had some type of
+rotational, or I guessyou could say angular momentum.But the neat thing about this
+is it also divides this triangleinto six triangles
+of equal area.So this triangle has the
+same area as that triangle.We proved this in
+several videos ago.Each of these six triangles
+all have the same area.The other thing that we
+learned about mediansis that where the centroid
+sits on each of the mediansis 2/3 along the median.So the ratio of this side, of
+this length to this length,is 2 to 1.Or this is 2/3 along
+the way of the median.This is 2/3 of the median,
+this is 1/3 of the median.So the ratio is 2 to 1.Another related
+thing we learned,this wasn't really
+necessarily about medians,but it's a related concept, was
+the idea of a medial triangle.A medial triangle
+like this, whereyou take the midpoint
+of each side,and you draw a
+triangle that connectsthe midpoints of each side.We call this triangle
+a medial triangle.And we proved to
+ourselves that whenyou draw a medial triangle,
+it separates this triangleinto four triangles that
+not only have equal area,but the four triangles here are
+actually congruent triangles.And not only are they
+congruent, but we'veshown that this side is
+parallel to this side.That-- let me use some
+more colors here--this side is parallel.Actually, I shouldn't
+draw two arrows like that.That side is parallel
+to that side.This side is parallel
+to this side.And then you have this side
+is parallel to this side righthere.And this length is
+1/2 of that length,this length is 1/2
+of that length,this length is 1/2
+of that length.And it really just
+comes out of the factthat these are four
+congruent triangles.And then the last thing
+that we touched onis drawing altitudes
+of a triangle.So there's medians,
+medial triangles,and I'll draw one last
+triangle over here.And here, I'm going to go
+from each of the vertex,and I'm not going to go to the
+midpoint of the other side.I'm going to drop
+a perpendicularto the other side.So here I will drop
+a perpendicular,but this isn't necessarily
+bisecting the other side.Once again, going to
+drop a perpendicularbut not necessarily
+bisecting the other side.And then drop a
+perpendicular but notnecessarily bisecting
+the other side.And we've also
+proven to ourselves--so these are the
+altitudes of the triangle.And these also intersect
+in a unique point.And I want to be clear,
+this unique pointdoes not necessarily have to
+be inside of the triangles.And the same thing was true of
+the perpendicular bisectors.It actually could be
+outside of the triangle.And this unique point
+we call an orthocenter.So I'll leave you there.And hopefully this
+was useful, because Iknow it can get confusing.How's a median different
+than a circumcenter, whichis different than an
+orthocenter, or an inradius,or any of these type of things?So hopefully this clarified
+things a little bit.

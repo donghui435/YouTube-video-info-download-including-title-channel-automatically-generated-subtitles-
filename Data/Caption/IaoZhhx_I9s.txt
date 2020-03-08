@@ -1,0 +1,59 @@
+Hi there, welcome to Math Antics!So far, in our series on geometry,
+we've learned about points, lines, planes and angles.In this lesson, we're going to learn about another
+important element of geometry.We're going to learn about polygons.You probably already know a lot about polygons
+because you see them all the time.Here's some common examples
+that you might recognize.These shapes are all polygons. That's because
+a polygon just means a multi-sided shape,and these shapes all have multiple sides.Okay, so that's a basic definition of a polygon, but to really understand what is a polygon
+and what is NOT a polygon,we need to learn about the specific properties
+that all polygons have in common.First we need to know the three parts that
+make up all polygons.And these parts are: sides, vertices, and angles.The sides are just the straight line segments
+that make up a polygon.And the vertices are points where the sides intersect.And the angles are formed by the intersecting lines.In fact, in Greek,
+the word polygon literally means "many-angles."So all polygons have sides, vertices and angles.This polygon here has 5 sides,
+5 vertices and it forms 5 angles.The next thing we need to know about polygons
+is that they're 'closed' shapes.Now what does it mean for a shape to be closed
+you ask?Well, it means that the sides are connected
+so that there are no gaps.The area inside the shape is separated 
+from the area outside the shape, and there's no way to get from the inside to the outside
+without crossing a line.It might help to think of a closed shape
+like a cage.If you put an ant inside the cage, there's no way for it to get out without crossing a line.But if the shape is open, then there is a way out.So these are all examples of closed shapes,
+and these are all examples of open shapes.And the important thing to remember is that
+a polygon must be closed.And the last thing we need to know about polygons
+is that they're 2 dimensional, or flat shapes.And that means that all the vertices
+must lie on the same plane.If any one of the vertices were to move
+forwards or backwards,so that it wasn't in the same plane as all the other vertices, then it wouldn't be a flat shape anymore.Flat shapes are also called planar shapes
+because all of their points are on the same plane.And even though polygons themselves can't be 3D shapes, you can use polygons to make 3D shapes.Like a box, for example. The box is not a polygon.But each of it's flat sides is a polygon.Alright then.
+We now have a specific definition of a polygon.A polygon is a multi-sided shape that has 
+sides, vertices and angles.A polygon is a closed shape,
+and a polygon is a 2 dimensional, or flat shape.And now that you know that,
+it's time to play "Polygon or NOT a Polygon!"Now here's your host: me!Thank you, thank you! Alright.
+Now the rules of the game are simple.I'm gonna show you a shape, and you tell me if it's a shape, and you tell me if it's a polygon or not a polygon.Are you ready to play?Our first shape is a square!
+Is a square a polygon?Yes! A square has 4 sides and 4 vertices 
+and it's a closed, 2D shape.So it is a polygon.And next we have, hmmm. I'm not exactly sure
+what to call this, but, is it a polygon?Nope! It's close, but because it's an open shape,
+it can't be a polygon.Alright, what about this one?
+Polygon or not a polygon?Yep! It is a polygon.
+Even though the sides are not all the same length,it is a closed, 2D, multi-sided shape.
+In fact, if you count, you'll see it has 7 sides.Ah, how about this one? Is a circle a polygon?Well, it is a closed, 2D shape,
+but how many sides does it have?Now that's the problem.A circle doesn't have any straight sides, 
+vertices or angles.It's a curved shape, so it's not a polygon.Next we have a star shape, just like me!
+Is this a polygon?Yup! It has straight sides and vertices,
+and it's a closed, 2D shape.That means it's a polygon!And what about this one? Right you are, 
+this is not a polygon! It's a dog!Ahh, here's an interesting one. It's a closed, 2D shape that does have straight sides andvertices,but, it also has this curved part here. Can it still be a polygon with that curve there? No! The curved part disqualifies it as a polygon.A polygon has to have only straight sides,
+so this is not a polygon.And what about this guy here? Is this a polygon?
+Well, it is just straight lines, but two of those lines cross, and if any lines cross
+it can't be a polygon. Plus, he has this big open end here.
+So this guy is definitely not a polygon.And last of all, what about this one?Right you are,
+this is not a polygon because it's a 3D shape. It's made from polygons,
+but the whole shape is not a polygon itself.Well, that's all the time we have for this week.Join us next week as we decide:
+"Is it Bigger than One?"Okay, so after playing that game,
+you have a really good idea of what a polygon is,
+and what it is not.The last thing I want to mention
+is that some polygons have special names depending on how many sides they have.Here's a list of the most important
+ones to know:3-sided polygons are called triangles. Triangle are so important in geometry,
+that they'll get a whole video of their own.4-sided polygons are called quadrilaterals.Wow! Now that's a fancy math word!But it helps if you just remember that the first part, "quad," means "4."Quadrilaterals are shapes like squares,
+rectangles, and parallelograms.They'll also get a video of their own.5-sided polygons are called pentagons.6-sided polygons are called hexagons.And 8-sided polygons are called octagons.By the way, polygons that have
+5, 6, 8, or however many sides like this,are called regular polygons
+if all of their angles are equal,and irregular polygons if their angles are not equal.Of course, there are a lot more polygons than that,
+but you probably won't need to know their names.As long as you know what polygons are, and how to identify them, then you're ready to move on.The exercises for this section are pretty easy,
+so no excuses! Good luck! Thanks for watching Math Antics,
+and I'll see ya next time.Learn more at mathantics.com

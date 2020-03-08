@@ -1,0 +1,24 @@
+Welcome to a lesson on deductive
+reasoning. Logic is the study of reasoning,and deductive reasoning, also known as
+deduction is when you make conclusionsbased upon facts thatsupport the conclusion without the question. So for example, if your instructor tells youif you score ninety-two percent or higher on the final, your semester grade will be an A.Well if you scored ninety-five percent on the final, what can you conclude?Well from the given statement,you can conclude that your semester
+grade will be an A.And this would be a form of deductive
+reasoning because it's based uponthe given statement, or facts that you know to be true.This type of reasoning is also called Law of Detachment or Modus Ponens,which states that if we have an if-then
+statement, if p hen q,which we know to be true. If we're given
+p is true,we can conclude q. And using notation it would look like this.If p then q is true, given p,therefore, q. This symbol here means
+therefore.Now we do have to be a little bit careful about this.Here's another conditional statement. The
+two anglesof a right triangle are complimentary. So
+if we know that to be true,if we're given that angle A and angle B are complementary,can we draw a conclusion? If we wanted to write this as an if-then statementin the form of if p then q, p would bep would be that we'd have two acute angles of a right triangle,and q would be that the angles are complimentary. Notice how that we're giventhat A and B are complimentary, so we're actually givenq. So what we're considering here is if we
+knowp then q is true, can we conclude
+somethingknowing that q is true? If we made the conclusion that angle A, and angle Bare the acute angles a right triangle, this would be a false conclusion becauseit is possible for A and B to be  complementary,but not be the two acute angles of a
+right triangle,and here's an example. Let's say angle A isforty degrees, and angle B is fifty degrees.They are complementary, but they are not
+the acute angles of a right triangle.So using the notation here, if we try to
+concludeif p then q given q, therefore, p,this would be a mistake and an error. This is called the converse error.The Law of Contrapositive, or Modus Tollenssays if p then q is true given not cue,we can conclude not p. Again using notation we have if p then q is truenot q therefore, not p. And this is a
+valid form of deductive reasoning,and here's an example. If a student goes
+on the spring break trip,then he or she must have a valid passport. If we know this to be trueand then we're given that the student
+Manuel does not have a valid passport,we can logically deduce that Manuel
+will not go on the spring break trip.So this is a valid form of deductive reasoning.Let's go ahead and take a look at one more method of deductive reasoning,and it's called the Law of Syllogism. And it states thatif p then q is true, and if q then r is true,we can conclude that if p then r.And we can express the same using this
+notation here.If p then q, if q then r,therefore, if p then r, and here's an example.If Sue wakes up early then she will go
+hiking.If Sue goes hiking, then she will go out
+for breakfast. So if we're given that she wakes upearly, we know she'll go hiking, and we
+also know if she goes hiking, she'll also go outto breakfast.So we can conclude that if she wakes up early,she will go out for breakfast.And again this is a valid form of  deductive reasoning using the Law ofSyllogism.And I think we'll go and stop here for
+this video. I hope you found this helpful.

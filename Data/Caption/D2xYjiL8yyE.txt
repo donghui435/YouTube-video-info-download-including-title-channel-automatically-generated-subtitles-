@@ -1,0 +1,124 @@
+Say you're me and
+you're in math class,and you're supposed to
+be graphing functionsas if there were some deep
+relationship between yand x that your teacher just
+won't stop gossiping about.But like most gossip,
+you really don'tcare about y's unhealthy
+dependency on x.Really y, get a life.Luckily, your friend
+passes you a note.You wait until the teacher
+is facing the board,and sneakily open it up.And it's this proof
+of pi equals 4that you've seen like a
+billion times on the internet.But because you're bored, and
+at least it's not graphing,you'd take another look.It's like this.Start with a circle of diameter
+one and circumference pi.Then draw a square around it.The length of a side
+of the square is 1,so the perimeter of the
+square is of course, 4.Now, you start
+approaching a circleby zigzagging this parameter.This shape still has perimeter
+4, and we do it again,and it's still 4, and again.And we approach a circle while
+the perimeter never changes.So therefore, pi equals 4.Obviously, there's
+something wrong here.The circumference
+of a circle is pi,but pi is more like 3.14
+numbers, and less like 4.So somehow what this
+process approaches,is something that looks like
+a circle, but is not a circle.I mean, what does
+circle mean anyway?There's this loopy line
+thing, And then there'sthis solid disk shape.And while they're
+related and all,they're not actually the
+same mathematical object.This troll proof is so much
+fun because, as you repeatthis zigzag move, all
+the way to zig-finity,it approaches the shape of
+a circle in the disk sense,and it approaches
+the area of a circle,but it does not
+approach a circle.It's all crinkled up.And you imagine that if you
+stuck a straw in this thingand inflated it-- that
+is, added as much areaas you can while keeping
+the perimeter as 4--all the infinite wrinkles
+would smooth out,and you'd get a circle
+with perimeter 4and diameter 4 over pi.In fact, you could inflate the
+square to get the same thing.Probably has something
+to do with how circlesare the shape with the most area
+possible given their perimeter,and why soap bubbles
+like to be spheres,and raindrops are actually
+pretty sphere-ish too.But anyway, you decide the best
+way to respond to your friendis to try applying
+the same fake proofprocess to something else.Maybe you can choose
+another irrational number,like square root 2.In fact, square root
+2 would work great,because it's also a
+common geometry number.The ratio of the diagonal of
+a square to its perimeter.I mean, like, if this
+square has side length 1,then you've got
+this right triangle.And a squared plus b
+squared equals c squared.In fact, that's how
+you decide to startyour proof for your friend.Take a right isosceles triangle.Each leg has length 1.So the hypotenuse
+is square root 2.Put this all in the
+square of perimeter 4.Now we can approach a
+triangle in the same way.And each time, the perimeter
+of the whole shape is still 4.And thus, by the time
+we get to a triangle,the length of the
+hypotenuse must be 2.Thus, the square root of 2 is 2.So you pass that
+over to you friend.Will he notice that
+you're approachingthe area of a triangle without
+approaching a triangle?That a triangle has three sides,
+but the shape you end up withis a polygon with
+infinite sides?An infini-gon?But not a boring one, like how
+a regular polygon approachesa circle as sides
+go to infinity,because infini-gons
+are more fun whenthere's actual
+angles between sides.Zigzagging along
+to make what you'vedecided to call a zig-fini-gon.You begin to wonder what other
+zig-fini-gons you can make.Maybe if you
+started with a star,and zigged all the points in.And did that again
+and again to infinity.You get something that
+looks like a pentagon,but it's actually
+a zig-finite starwith the same perimeter
+as the original star.Or maybe you could have
+a rule where at each stepyou zig down only part way.And then your zig-fini-gons
+will have more texture to it.Maybe you could throw
+some zags in there too.There's something
+fractal-ly about it,except the perimeter
+never changes.You could do that to
+a triangle, or maybemake a square that turns
+into a zig-fini-square.Uh oh, teacher's walking around.Better draw some axes, and
+pretend to be doing math.So you turn the idea
+sideways, and start at zero.Go to y equals 1 at x equals 1,
+then back to 0 at x equals 2.The next iteration is like
+folding this point down to 0.So the function zigzags from
+0 to 1/2, to 0 to 1/2, to 0.The next step brings
+the 1/2's to 0.And now the highest points
+are at y equals 1/4.Each step brings the
+highest points down to 0,and the new highest peaks
+are only half as high.And each step keeps the total
+length exactly the same.So what happens when you
+do this to zig-finity?In one way, it approaches this
+line, the x-axis, y equals 0.If there were any peaks,
+they'd get folded down to 0.Therefore, there can't be any.Yet, at each step we
+have twice as many peaks.So how can there be an infinite
+number of peaks and no peaks?You might reconcile this by
+saying that all infinite peaksare equally at zero,
+since all peaks getbrought to zero eventually.But if everything's
+at y equals 0,you have just a line
+segment of length 2.That doesn't make sense.The length of the zigzag
+stays the same at each step,and at the beginning it's
+like two hypotenuse of tworight triangles,
+so 2 square root 2.And 2 does not equal
+2 square root 2.Another problem is that only
+peaks ever get brought to 0,but not all numbers
+can be peaks.Any fraction of
+a power of 2 willbe a peak at some
+iteration, but a numberlike 1/3, or an
+irrational number,will never be a peak
+or a zig or a zag.So they must all be between
+the zigs and the zags.But there can't be any
+length between zigs and zags,or else that would
+create a peak thatwould have been folded down.Somehow it has to be
+infinitely zigzagged in a waywhere there's no
+actual line segmentsof any length, but
+only zigs and zags.Yet, there must be an
+infinite number of numbersbetween each zig and zag to
+fit all the irrationals in,and somehow all the
+pieces of 0 lengthadd up to be something
+that does have length.You could imagine grabbing the
+ends and stretching it out,accordion style, into a line
+of length 2 square root 2.And then I suppose
+you could crumple itall back down until the whole
+length 2 square root 2 line isfolded up into a single point.

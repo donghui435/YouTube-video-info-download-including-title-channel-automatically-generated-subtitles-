@@ -1,0 +1,112 @@
+So you mean you're
+in math class,yet again, because they make
+you go every single day.And you're learning
+about, I don't know,the sums of infinite series.That's a high
+school topic, right?Which is odd, because
+it's a cool topic.But they somehow manage
+to ruin it anyway.So I guess that's why they
+allow infinite seriesesin the curriculum.So, in a quite understandable
+need for distraction,you're doodling
+and thinking moreabout what the plural
+of series shouldbe than about the topic at hand.Serieses, serises,
+seriesen, seri?Or is it that the singular
+should be changed?One serie, or seris, or serum?Just like the singular
+of sheep should be shoop.But the whole concept
+of things like 1/2plus 1/4 plus 1/8 plus
+1/16, and so on approaches 1is useful if, say, you want to
+draw a line of elephants, eachholding the tail
+of the next one.Normal elephant, young
+elephant, baby elephant,dog-sized elephant,
+puppy-sized elephant,all the way down to
+Mr. Tusks, and beyond.Which is at least
+a tiny bit awesomebecause you can get an infinite
+number of elephants in a lineand still have it fit across
+a single notebook page.But there's questions,
+like what if you startedwith a camel, which, being
+smaller than an elephant,only goes across a
+third of the page.How big should the
+next camel be in orderto properly approach
+the end of the page?Certainly you could calculate
+an answer to this question,and it's cool that
+that's possible.But I'm not really interested
+in doing calculations.So we'll come back to camels.Here's a fractal.You start with these
+circles in a circle,and then keep drawing
+the biggest circle thatfits in the spaces between.This is called an
+Apollonian Gasket.And you can choose a different
+starting set of circles,and it still works nicely.It's well known in
+some circles because ithas some very interesting
+properties involvingthe relative curvature of
+the circles, which is neat,and all.But it also looks cool and
+suggests an awesome doodlegame.Step 1, draw any shape.Step 2, draw the biggest circle
+you can within this shape.Step 3, draw the biggest circle
+you can in the space left.Step 4, see step 3.As long as there is space left
+over after the first circle,meaning don't start
+with a circle,this method turns any
+shape into a fractal.You can do this with triangles.You can do this with stars.And don't forget to embellish.You can do this with elephants,
+or snakes, or a profile of oneof your friends.I choose Abraham Lincoln.Awesome.OK, but what about other
+shapes besides circles?For example, equilateral
+triangles, say,filling this other triangle,
+which works because the fillertriangles are the opposite
+orientation to the outsidetriangles, and
+orientation matters.This yields our friend,
+Sierpinski's triangle,which, by the way, you can also
+make out of Abraham Lincoln.But triangles seem to work
+beautifully in this case.But that's a special case.And the problem
+with triangles isthat they don't
+always fit snugly.For example, with
+this blobby shape,the biggest equilateral triangle
+has this lonely hanging corner.And sure, you don't have
+to let that stop you,and it's a fun doodle game.But I think it lacks some of
+the beauty of the circle game.Or what if you could change
+the orientation of the triangleto get the biggest possible one?What if you didn't have
+to keep it equilateral?Well, for polygonal
+shapes, the gameruns out pretty quickly,
+so that's no good.But in curvy, complicated
+shapes, the processitself becomes difficult.How do you find the
+biggest triangle?It's not always obvious
+which triangle has more area,especially when you're starting
+shape is not very well defined.This is an interesting
+sort of questionbecause there is
+a correct answer,but if you were going to
+write a computer program thatfilled a given shape
+with another shape,following even the simpler
+version of the rules,you might need to learn
+some computational geometry.And certainly, we can
+move beyond trianglesto squares, or even elephants.But the circle is
+great because it's justso fantastically round.Oh, just a quick little
+side doodle challenge.A circle can be defined
+by three points.So draw three, arbitrary
+points, and then tryand find the circle
+they belong to.So one of the things that
+intrigues me about the circlegame is that, whenever you have
+one of these sorts of corners,you know there's going to be
+an infinite number of circlesheading down into it.Thing is, for every one
+of those infinite circles,you create a few
+more little cornersthat are going to need an
+infinite number of circles.And for every one
+of those, and so on.You just get an
+incredible numberof circles breeding
+more circles.And you can see just how
+dense infinity can be.Though the astounding thing
+is that this kind of infinityis still the smallest,
+countable kind of infinity.And there are kinds of infinity
+that are just mind bogglinglyinfiniter.But wait, here's an
+interesting thing.If you call this distance 1
+arbitrary length unit, thenthis distance plus
+this, dot, dot, dot,is an infinite series
+that approaches 1.And this is another, different,
+series that still approaches 1.And here's another, and another.And as long as the outside
+shape is well defined,so will the series be.But if you want the simple kind
+of series, where each circle'sdiameter is a certain
+percentage of the one before it,you get straight lines.Which makes sense
+if you know howthe slope of a straight
+line is defined.This is good because it suggests
+a wonderful, mathematical,and doodle-able way to
+solve our camel problem,with no calculations necessary.If instead of camels,
+we had circles,we could make the
+right infinite seriesjust by drawing an angle
+that ends where the page doesand filling it up.Replace circles with
+camels and, voila,infinite Saharan caravan
+fading into the distance.No numbers necessary.Well, I have an infinite
+amount of informationI'd like to share with
+you in this last sentence.[VOICE SPEEDS UP]

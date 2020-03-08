@@ -1,0 +1,74 @@
+BRIT CRUISE: When we
+perform calculationswith a pen and
+paper, we often needto save intermediate results.And we may do this
+with, say, scrap paper.And in this case,
+the paper is actingas a form of external memory.And memory, no matter the
+form, takes up physical space.Computers contain memory.We can think of it as the
+scrap paper for the computer.And say, when you
+construct an arrayto store values in your
+program, you require memory.And at the lowest
+level, computersread and store all instructions
+as a string of numbers.But how do you store
+numbers in a machine?This was a very difficult
+problem originally.Especially when you need
+computers to hold their memoryafter the access
+to power is lost.This is known as
+non-volatile memory.The easiest difference
+for a machine to detectis simply a presence versus
+an absence of something.And this is how old
+punch cards would work.Along the top, we
+have some data.And the vertical
+columns contain a seriesof punched holes, which
+represent each character.So computers really have
+two fingers, base two.The same as a light switch being
+on for one and off for zero.This is the smallest
+amount of information,a single difference,
+which we call a bit.But bits are
+powerful for storagebecause the amount
+of unique statesgrows exponentially as
+we add bits together.Remember one light
+switch is one bitand it can store two states.But two light switches can
+store four unique states.And eight light
+switches, or 8 bits,can store 256 unique states.And space is measured in bits.But the physical
+size of a bit dependson your method of storage.So how do computer store
+zeroes and ones internally?[VIDEO PLAYBACK]SPEAKER 1: Modern data
+processing systemslike these use thousands
+of magnetic cores.What are magnetic cores?They are tiny rings
+of nickel alloyor other magnetic materials.They have replaced vacuum tubes
+for many important functionsin data processing systems.[END VIDEO PLAYBACK]BRIT CRUISE: And it allowed
+computers to store bitsas clockwise versus
+counterclockwise magnetizationdirection.Because each core
+could be magnetizedin two different ways,
+depending which directionthe current was applied.[VIDEO PLAYBACK]SPEAKER 1: Because a
+bit can be representedby any bi-stable device.And the magnetic core
+is a bi-stable device.[END VIDEO PLAYBACK]BRIT CRUISE: Later
+on, this was doneusing thin film
+magnetic disk, wherewe can think of as each a bit
+as a tiny magnetic cell, whichcan be charged to store
+either a 1 or a 0.So long story short,
+the size of a bithas been rapidly shrinking
+since the days of punch cards.A hard drive in
+a modern computercan be thought of as billions
+of tiny magnetic cells.Now you may wonder,
+well, how smallcan these little
+magnetic cells be?And current research
+at IBM is pushing thisto the atomic level.Where they have
+shown 12 iron atomscan work together as a
+stable magnetic unit.Where they're able
+to store a 1 or a 0,depending on how
+they're oriented.And this is approaching
+a theoretical limitwhere we would hold a
+single bit on a single atom.And interestingly
+IBM estimates that wecould put around one
+quadrillion bits of informationin a handheld device the size
+of an iPod with atomic storage.And let's call
+this a super drive.It doesn't even exist yet.As a hypothetical example,
+a small handheld super driveusing atomic storage
+would hold 1,000 terabits,which is 1,000
+trillion switches.Or more commonly
+known as 125 terabytesin the palm of your hand.Or to use an example
+everyone can understand,125 terabytes is the same as
+having a 1,250-kilometer-longbookshelf in the
+palm of your hand.And this is what the future
+of memory looks like.Will we ever be able to
+store a bit on somethingsmaller than an atom?

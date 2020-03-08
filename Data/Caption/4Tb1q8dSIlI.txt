@@ -1,0 +1,167 @@
+ We want to think brilliant.org
+for supporting PBS DigitalStudios.Last time, we discussed
+symmetric encryption protocolswhich rely on a
+user supplied numbercalled the key to
+drive an algorithm thatscrambles messages.Since anything encrypted
+with a given keycan only be decrypted
+with the same key,then Alice and Bob can
+exchange secure messagesonce they agree on a key.But what if Alice
+and Bob are strangerswho can only communicate
+over a channelmonitored by
+eavesdroppers like Eve.How are they supposed
+to agree on a secret keyin the first place?Symmetric key
+protocols like AES--the Advanced
+Encryption Standard--are simple, fast, and for
+all practical purposes,unbreakable.But unless they can time
+travel, Alice and Bobcan't use a symmetric
+key to sharethat key in the first place.This chicken and the egg
+problem is the Achilles heelI alluded to last episode.Yes, Alice and Bob
+could share a keyin person or through a courier.But typically, offline
+exchanges like thisare impractical or impossible.Now sense in
+practice AES directlyencrypts almost
+everything, there'sclearly got to be a
+way for Alice and Bobto get over the
+key sharing hump.Actually, broadly speaking,
+there are three ways.And in this episode,
+we'll discuss two of themand foreshadow the third that
+we'll get to another time.Here we go.Option one for sharing
+a symmetric key isdon't do it at all.Instead, use asymmetric
+key cryptography,also known as public key
+cryptography for reasonsthat will be clear in a moment.The idea here is to use
+two keys with the propertythat anything encrypted
+with one of themcan only be decrypted
+by the other.Not to work as I just
+described, these keyswill have to be related somehow.And we'll come back to how
+they are generated shortly.But for now, let's just
+assume these key pairsexist and outline the steps
+used to communicate securelywith them.Here are the steps.Alice generates two keys.She disseminates one publicly
+and keeps the other privatenever sharing it with
+anyone not even Bob.Bob follows suit.Now to send Bob a
+message, Alice encrypts itwith Bob's public key.Why?Because only Bob knows
+the counterpart key.That's his private key.So only he can
+decrypt that message.And of course, Bob could message
+Alice using her public key.Note that Alice can
+also use this systemto authenticate herself to Bob.How?Well, first she
+encrypts a messagewith her own private key and
+then encrypts that resultwith Bob's public key.When Bob decrypts
+the outer layer,he still sees an
+encrypted inner layer.If he can decrypt that
+with Alice's public key,then he knows the
+message was encodedwith Alice's private key,
+meaning she in fact sent it.Now extrapolate.If everyone generates a key pair
+and publishes half of the pair,then anyone can in principle
+communicate securelywith anyone else, even if the
+conversing parties had neverpreviously spoken or even met.Now the nitty gritty.How do we actually
+generate a pair of keysthat function like this?Because the fact that the
+keys have to be relatedseems to be a flaw
+in the system.I mean, if I know the
+protocol for creating keys,which is public, and I know
+Alice's public key, whichis also public, then there has
+to be a way to reverse engineerher private key.And in fact, there
+is which meansthat an asymmetric key
+scheme will only be viableif the math you use under the
+hood guarantees three things.First, that the
+keys will actuallywork in tandem like this.Second, that synthesizing
+the keys is fast and easy.And third, that reverse
+engineering the private keyfrom the public one while
+theoretically possibleis computationally infeasible.In short, we need something
+called a one way function--some operation that's easy to
+do but exceedingly difficultto undo.In the famous RSA protocol,
+the one way functionis plain old multiplication.I won't get into details
+because so much has beenwritten about this elsewhere.But in a nutshell,
+RSA begins by choosingtwo prime numbers at
+least one of whichhas hundreds of decimal digits.Those primes then get
+multiplied to forma large composite number, n.If you know the
+prime factors of n,and you do since that's how
+you built n in the first place,then it turns out
+that you can alsoproduce two other
+numbers e and dwith the following
+fascinating property.In mod N arithmetic, raising
+any number m to the e powerand then to the d power, or
+vise versa, will give you backthe original number n.In this picture, n is the
+message you want to send.n and e are published
+together as a public key.And d is kept private.Now technically the
+modular exponentiationthat we just performed is
+also a one way function.Raising something to the
+e-th power mod N is easy.But taking an e-th root
+mod N is really hard.The reason we don't identify
+that as a one way functionin RSA is because there is
+another attack against RSA,a so-called trap door.Namely, given how
+they are generated,d could be deduced from e if
+you knew the prime factors of n.And this is why we identify
+multiplication, which can onlybe undone with super
+slow factoring,as the relevant one
+way function in RSA.And because factoring is so
+much slower than multiplication,the private key is de facto
+safe despite having n outin the open.Now here's the dirty
+little secret of crypto.Modern factoring algorithms have
+actually gotten pretty good.RSA can stay a head
+of these algorithms,but it does so by
+using even bigger nvalues, i.e. longer keys.And this comes at a cost.Already, asymmetric encryption
+schemes are thousands of timesslower than symmetric ones.And they use way more
+computational resources.If on top of that, you
+keep generating ever moregigantic keys than this
+overhead can become a problem,especially on mobile devices
+where the processors are weakand power is scarce.Now I just said that all
+asymmetric schemes are slow,even without extra huge keys.For this reason, most
+real world encryptionrelies on a hybrid scheme.And this is option
+two for Alice and Bob.They will encrypt stuff
+quickly and inexpensivelyvia a symmetric
+protocol like AES.But they'll use an
+asymmetric scheme upfront just to transmit
+the shared symmetric keyas a message that
+Eve can't read.Note that this is why
+cracking RSA would compromisesymmetric encryption even
+though symmetric encryption hasnothing to do with
+factoring large numbers.It's because the main
+thing you encode with RSAis symmetric keys.Now for extra safety, most
+modern web security protocolsdon't allow reuse of
+either the symmetricor the asymmetric keys.You generate a
+public-private key pairfor just your current session.And you use that pair to share
+a symmetric key that you alsothrow away after that session.Nevertheless, if you encrypt
+upfront with RSA and RSAgets cracked, everything
+will fall apart.And this vulnerability, along
+with the increasing bloatednessof RSA keys, raises two
+interesting questions.One, if we are going to
+use asymmetric encryptionare there any other
+one way functionswe could base it on for which
+the undo algorithms are slowerthan the ones for factoring?Because if there were, we could
+get away with smaller keys.And second, does
+the option threethat I referenced at the top
+of the episode actually exist?In other words, is there some
+other way for Alice and Bobto share a symmetric key
+besides full blown asymmetricencryption?Now, as it turns out, these
+questions are related.And the answer to
+both of them is yes.Diving into why will take
+us into much heavier math,specifically cyclic
+groups and finite fields.And we'll do that in
+upcoming episodes.In the process, I
+think you'll geta much clearer picture of how
+real world encryption actuallytakes place.See you soon.We'd like to think brilliant.org
+for supporting PBS DigitalStudios.brilliant.org may be
+one of the best internetrepositories for problem-based
+learning in math and physics.Because the fact
+is that passivelywatching videos, including
+ours, only gets you so far.If you really want to
+understand something,you've got to engage
+the material actively.And brilliance problems are
+a captivating way to do that.I particularly
+like how Brilliantmakes it OK and fun
+to get things wrong,which gives you the
+freedom to fail.Because I can tell you
+from years of experienceas both a student and
+teacher of math and physics,that nothing builds
+deep intuitionlike getting interesting
+problems wrong,especially if you
+would have swornyou had those problems right.That's why I pose
+counterintuitive puzzlesto my own students in
+Columbia's 1401 mechanics classin almost every lecture,
+because it works.So if you're looking
+to take your learningto the next level,
+brilliant.org hasyou covered with
+fun problems thatchallenge you ranging from math,
+statistics, physics, computerscience.They've got it all.To support Infinite Series and
+learn more about Brilliant,go to
+brilliant.org/infiniteseriesto sign up for a free.The first 200 people who
+subscribe through that linkwill also get 20% off the
+annual premium subscription.

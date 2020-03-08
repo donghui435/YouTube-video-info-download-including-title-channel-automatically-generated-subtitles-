@@ -1,0 +1,70 @@
+They want us to subtract these
+two numbers and simplify theanswer and write as
+a mixed number.We're going to do it two ways.The first way, we're going to
+turn both of these intoimproper fractions and
+see what we get.And then the other way, we're
+going to subtract the wholenumber parts and then subtract
+the fraction parts and seewhat we get.So if we turn them both into
+improper fractions, let'sfirst turn 8 and 2/3 into
+an improper fraction.So it has 3 in the
+denominator, and3 times 8 is 24.24 plus 2 is 26.So 8 and 2/3 is the same
+thing as 26/3.And 5 and 5/6, so we're
+going to subtract.We're going to have 6
+in the denominator.6 times 5 is 30.30 plus 5 is 35.So this simplifies as an
+improper fraction to 35/6.Now to subtract, we have to
+have a common denominator.3 and 6 are not the same
+denominator, but they are bothdivisible into 6.6 is the least common
+multiple of 3 and 6.So let's turn them both
+into something over 6.So the 26/3, if we put it over
+6, to go from 3 to 6 in thedenominator, we have to multiply
+by 2, so we have todo the same thing in
+the numerator.We have to multiply 2 times
+26, which is 52.So it's going to be 52/6 minus--
+we don't have tochange this one here
+in orange.It's already over 6-- minus
+36/6, which is going to beequal to-- what's 52 minus 35?Let's see, if you add 5
+to 35, you get to 40.15 will get you to 50, and
+so we want 2 more, soit's going to be 17.So it's 17/6.This is as an improper
+fraction.Now, if we want to write it as
+a mixed number, we say howmany times does 6 go into 17?Well, 6 times 2 is 12,
+so that works.6 times 3 is too big.It's 18, so it goes
+in two times.Now, if you take it into it
+two times, you get 12, andthen you have 5 left
+over, right?To go from 12 to 17, you need
+5 so you have 5 left over.You could say 6 goes into 17 two
+times, remainder 5, so 17over 6 is 2 and 5/6.And we're done!Now this is kind of the improper
+fraction route, whichit'll always work.It'll always work.Sometimes it's easier
+or harder, butit will always work.Actually, either route will
+always work, but I tend to doit this way.Let's do it separating out
+the whole number and thefractional parts.So first we could view
+this as 8 minus 5.So let's do this.8 minus 5-- that's subtracting
+the whole number parts-- plus2/3 minus 5/6.Now, 8 minus 5, that's easy.That's 3.And then over here, though, we
+have an interesting-- well,let's try to work it out.Let me do this in a
+different color.We want a common denominator
+here, and we already saw that6 is the least common multiple
+of 3 and 5, so we could writethem both with 6 as
+the denominator.5/6 already has 6 as
+the denominator.We don't have to do
+anything there.To go from 3 to 6 in the
+denominator here, we have tomultiply by 2, so let's do the
+same thing with this 2.2 times 2 is 4.So this results in 4/6 minus
+5/6, which will give us-- andwe haven't covered it yet--
+a negative number.If you take 5 from 4, you're
+going to go below 0.Now, if we don't want to deal
+with that negative number,what we could do, and this is
+essentially the same idea asregrouping or borrowing,
+although they shouldn't callit borrowing, they should call
+it taking, is we canrewrite this 3.That's why this can get a little
+bit tricky sometimes.Let me do it over here.Let me draw a line here so we
+don't get the two ways ofdoing the problem confused.We can rewrite the 3 as 2 plus
+1, but instead of writing itas 1, we could write
+it as 6/6, right?6 over 6 is 1 plus 2 is 3.And then, if we add it
+to these guys, soplus 4/6 minus 5/6.Now, what happened
+by doing that?Well, if we throw this 6/6 into
+the mix and then we hadthe 4/6 and then we subtract
+the 5 from it, then we'regoing to have a positive number,
+so let's to do it.So we get this 2 right here.So it's 2 plus, and then over
+6, we have 6 plus 4--let me write it.6 plus 4 minus 5.Now, what's this
+going to equal?This is going to be this
+2 and what over 6?6 plus 4 is 10 minus 5 is 5.So you have 2 and 5/6, which
+is exactly what wegot the other way.

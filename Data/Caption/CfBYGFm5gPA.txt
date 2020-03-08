@@ -1,0 +1,65 @@
+Add.Simplify the answer and write
+as a mixed number.And we have three mixed numbers
+here: 3 and 1/2 plus11 and 2/5 plus 4 and 3/15.So we've already seen that we
+could view this as 3 plus 1/12plus 11 plus 2/5-- let
+me write that down.This is the same thing as 3
+plus 1/12 plus 11 plus 2/5plus 4 plus 3/15.The mixed number 3 and 1/12
+just literally means 3 and1/12 or 3 plus 1/12.And since we're just adding
+a bunch of numbers, orderdoesn't matter, so we
+could add all thewhole numbers at once.So we have 3 plus 11 plus 4,
+and then we can add thefractions: the 1/12 plus
+2/5 plus 3/15.Now, the blue part's pretty
+straightforward.We're just adding numbers.3 plus 11 is 14 plus 4 is
+18, so that part rightthere is just 18.This will be a little bit
+trickier, because we know thatwhen we add fractions, we have
+to have the same denominator.And now we have to make all
+three of these characters havethe same denominator and that
+denominator has to be theleast common multiple
+of 12 and 5 and 15.Now, we could just do it kind
+of the brute force way.We could just look
+at the multiples.We could pick one of these guys
+and keep taking theirmultiples, and then figuring
+out whether those multiplesare both divisible
+by 5 and 15.Or the other way we can do
+it is take the primefactorization of each of these
+numbers, and just say that theleast common multiple has
+to contain the primefactorization each of these
+guys, which means it containseach of those numbers.So let me show you what
+I'm talking about.If we take the prime
+factorization of 12, 12 is 2times 6, 6 is 2 times 3, so 12
+is equal to 2 times 2 times 3.That's the prime factorization
+of 12.Now, if we do 5, prime
+factorization of 5, well, 5 isjust 1 and 5, so 5 is
+a prime number.It is the prime factorization
+of 5.There's just a 5 there.This 1 is kind of useless.So 5 is just 5.And then 15, let's do 15.Actually, when I did the prime
+factorization of 5, I shouldhave said, look, 5 is prime.There's no number larger than
+1 that divides into it, soit's actually silly to even
+make a tree there.And now let's do 15, 15's
+prime factorization.15 is 3 times 5, and now both
+of these are prime.So we need something that has
+two 2's and a 3, so let's lookat the 12 right there.So our denominator has to have
+at least two 2's and a 3, solet's write that down.So it has to be 2
+times 2 times 3.It has to have at least that.Now, it also has to have
+a 5 there, right?Because it has to be a
+common multiple of 5.5's another one of those prime
+factors, so it's got to have a5 in there.It didn't already have a 5.And then it also has to
+have a 3 and a 5.Well, we already have a 5.We already have a 3 from the
+12, and we already have a 5from the 5, so this number will
+be divisible by all ofthem, and you can see that
+because you can see it has a12 in it, it has a 5 in it,
+and it has a 15 in it.So what is this number?2 times 2 is 4.4 times 3 is 12.12 times 5 is 60.So the least common multiple
+of 12, 5 and 15 is 60.So this is going to be plus.We're going to be over 60.So all of these are going
+to be over 60.All of these three fractions
+are over 60.Now, to go from 12 to 60,
+we have to multiply thedenominator by 5, so we also
+have to multiply the numeratorby 5, so 1 times 5 is 5.5/60 is the same
+thing as 1/12.To go from 5 to 60 in the
+denominator, we have tomultiply by 12, so we
+have to do the samething for the numerator.12 times 2 is 24.The last one, 15 to 60, you have
+to multiply by 4, so youhave to do the same thing
+in the numerator.4 times 3 is 12.And now we have the
+same denominator.We are ready to add.So let's do that.So this is going to be 18 plus,
+and then over 60, wehave 5 plus 24, which is 29.29 plus 12, let's see, 29
+plus 10 would be 39plus 2 would be 41.It would be 41.And as far as I can tell,
+41 and 60 do nothave any common factors.41 actually looks prime to me.So the final answer
+is 18 and 41/60.

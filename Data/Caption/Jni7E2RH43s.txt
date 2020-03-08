@@ -1,0 +1,61 @@
+This here is a screenshot of
+the Khan Academy unit circlemodule.And the whole point
+here is to getyou familiar with the unit
+circle definition of trigfunctions, which is
+just an extensionof the traditional
+SOHCAHTOA definition.But the reason why the
+math world did thisis so that we can define the
+sine and cosines of angles thatare 90 degrees or more, or
+that have actual negative anglemeasures.So let's figure out what
+the sine of 275 degrees is.So we have this dot that's
+sitting on a unit circle thathas a circle of radius 1.And let's hit this
+dot to 275 degrees.Let's make an angle
+of 275 degreeswith the positive x-axis.So let's see, that's 50
+degrees, 75 degrees, 90 degrees.You see the angle
+measure right over there.So 90 degrees, 180
+gets us halfway around.270 gets us at 3/4
+of the way around.So 275 is a little
+bit more than that.And we need to figure out
+the sine of 275 degrees.The unit circle
+definition of sineis that it's the y value of
+that angle measure on the unitcircle.So we've made the angle measure.We've gone 275 degrees
+counterclockwisefrom the positive x-axis to get
+to this point right over here.And the y value is
+this negative 0.996.That is the sine of 275 degrees.Negative 0.996.If they'd asked for
+the cosine, then wewould give the x value of
+this point of this dot rightover here.So the y value is
+negative 0.996.Let's check our answer.Very good.Let's do another one.And we get-- let's see--
+sine of negative 55 degrees.So now we're going to
+go below the x-axis.It's a negative angle.Negative 55 degrees.And it's sine once
+again, so we wantto look at the
+y-coordinate of this point.So the y-coordinate
+is negative 0.819.Negative 0.819.Check our answer.Very good.Let's keep doing it.Maybe we'll see a
+cosine soon enough.Sine of 285 degrees.So 285 degrees, we're
+looking right over there.The sine is the y value.Negative 0.966.Let's check our answer.Let's do another one.Sine again.2/3 pi.So now it's in radians.We don't see that
+little degree sign.So 2/3 pi.Let's see-- 2/3 pi
+is right over here.That's the angle in radians
+relative to the positive x-axisgoing in the
+counterclockwise direction.We care about the
+sine which is the yvalue of our point sitting
+on the unit circle.0.866.And one thing that bears
+mention is the exactis square root of 3/2.And square root of 3/2 if you
+were to write it as a decimalwould just continue on forever
+without actually repeating.This is just an approximation.For the sake of this
+module, we reallyjust want to make you
+comfortable with the unitcircle, and maybe
+using this tool.So you really should just type
+in this approximate number.You don't have to
+do the exact numberof what square root of 3/2 is.This is it rounded to
+the nearest thousand.So 0.866.Let's check our answer.Let's do another one.Sine again.Sine of 15 degrees.So 15 degrees.0.259.I'm going to keep doing
+this until I get a cosine.So let's do it again-- cosine!Very good.2 pi.2 pi radians.Well 2 pi is completely going
+around the unit circle once.So let's go all the
+way around, and wesee that we get back to
+where we were before.We've gone around
+to 2 pi radians.We're back to where
+we were before.The cosine is the x
+value of that point.So the x value of
+that point is 1.The x value of the point is 1.If we wanted the
+sine of 2 pi, then wewould get 0 because we have
+no y value right over here.We're at the x-axis.Let's check our answer.Let's do one.Maybe we'll see another cosine.There we go.Another cosine.Cosine of 112 pi.So that's just going
+to be a little-- let'ssee, 1/35, 1/18, 1/12.Cosine.We want the x value,
+not the y value.The x value is 0.966.So 0.966.Check our answer.And we are done.

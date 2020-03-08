@@ -1,0 +1,42 @@
+The marching band is holding a
+raffle at a football game withtwo prizes.After the first ticket is pulled
+out and the winnerdetermined, the ticket is
+taped to the prize.The next ticket is pulled out to
+determine the winner of thesecond prize.Are the two events
+independent?Explain.Now before we even think about
+this exact case, let's thinkabout what it means for events
+to be independent.It means that the outcome of one
+event doesn't affect theoutcome of the other event.Now in this situation, the first
+event-- after the firstticket is pulled out and the
+winner determined-- the ticketis taped to the prize.Then the next ticket is pulled
+out to determine the winner ofthe second prize.Now, the winner of the second
+prize-- the possible winners,the possible outcomes for the
+second prize, is dependent onwho was pulled out for
+the first prize.You can imagine if there's
+three tickets, let's saythere's tickets A, B,
+and C in the bag.And for the first prize,
+they pull out ticket A.That's for the first prize.Now, when we think about who
+could be pulled out for thesecond prize, it's only going
+to be tickets B or C.Now the first prize could
+have gone the other way.It could have been
+A, B, and C.The first prize could have
+gone to ticket B.And then the possible outcomes
+for the second prizewould be A or C.So the possible outcomes for
+the second event, for thesecond prize, are completely
+dependent on what happened orwhat ticket was pulled out
+for the first prize.So these are not independent
+events.The second event-- the outcomes
+for it, are dependenton what happened in
+the first event.So they are not independent.The way that we could have
+made them independent is,after the first ticket was
+pulled out, if they just wrotedown the name or something,
+and then putthat ticket back in.Instead they taped
+it to the prize.But if they put that ticket
+back in, then the secondprize, it would have still had
+all the tickets there.It wouldn't have mattered who
+was picked out in the firsttime because their name was just
+written down, but theirticket was put back in.And then you would have
+been independent.So if you had replaced the
+ticket, you would have beenindependent.But since they didn't replace
+the ticket, they taped it tothe prize, these are not
+independent events.

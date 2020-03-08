@@ -1,0 +1,96 @@
+Identify the hypothesis and
+conclusion of the followingstatement, and determine whether
+the statement isalways, sometimes,
+or never true.So let's see what the
+statement is.We have x-- well, this should be
+an x squared plus 5x plus 7is greater than 0 for
+all real numbers x.So first let's rewrite this
+as a proposition,as an if/then statement.Then it becomes a lot easier to
+identify the hypothesis andthe conclusion.So we could rewrite this as
+if x is a real number,then this is true.Then, x squared plus 5x plus
+7 is greater than 0.And when you write it as an
+if/then statement like this,it becomes a lot easier to
+identify the hypothesis andthe conclusion.Now the hypothesis is literally
+just what the ifpart is conjuring up.So this right here in pink.x is a real number.That's the hypothesis.Sometimes it's called
+the antecedent.That is the hypothesis.And as we said in previous
+videos, it's different,although related, to the
+notion of a scientifichypothesis.Here we're dealing with the
+hypothesis of a hypotheticalproposition.Don't want to confuse
+you too much.It's what's inside of the if
+part of the statement.The conclusion is the conclusion
+from the then, orit's the consequent
+right here.Then that.That right there is
+the conclusion.We could have labeled
+this too.The conclusion here is this
+statement right here.That right there is
+the conclusion.That is what you conclude
+if x is a real number.So you could say for all that is
+the hypothesis right there.For all real numbers x, that
+is the hypothesis.Either way you want to do it,
+it's always easier to write itas an if/then statement.Now, the more interesting
+question is whether thisstatement is always, sometimes,
+or never true.And the first thing that might
+pop out at you is that thecoefficient on the highest
+degree term here, on the xsquared term, it's a positive
+coefficient.So this is going to be an
+upward opening parabola.Let me draw that.So if this is the x-axis,
+whether this is always,sometimes, or never true rests
+on whether the vertex, whetherthe minimum point of this
+parabola is aboveor below the x-axis.Let me draw it for you.So if the parabola looks like
+this, then for any x you pick,the value of the function, the
+value of x squared plus 5xplus 7 is always going
+to be greater than 0.If the function looks like this,
+then you're going tohave some values for x where
+it's greater than 0.But you're going to have some
+values for x where it is equalor less than 0.So we have to determine whether
+it sits above or maybeon or below, the x-axis.And that's the y-value
+of the vertex.Now we know that it's
+not never true.We know that it's not never true
+because this is an upwardopening parabola.Even if your vertex is a
+negative number, eventually,if you get far enough away from
+it, you're going to getthe positive values
+of this function.So we know it's not never true,
+we just have to decidebetween always and sometimes.And to figure that out, let's
+figure out where the vertex--and in particular, where the
+y-value of the vertex is.But in order to get that
+y-value, you need the x value.So the x-value of the vertex,
+there's a formula here.I normally don't like giving
+formulas, but we've shown thisin multiple videos before.It's negative b over 2a.And I can't help myself, if
+you look at the quadraticformula, it comes straight
+out of that.The quadratic formula is
+negative b over-- well, I'llwrite it as negative b plus or
+minus the square root of bsquared minus 4ac.All of that over 2a.Or you could write it as
+negative b over 2a plus orminus the thing over 2a.You normally just see it with
+a big 2a in the denominator,but you could split
+it up like this.And notice, this right here is
+a formula, I just told youit's a formula for the x-value
+of the vertex.Which makes complete sense
+because the vertex is alwaysgoing to be along the line of
+symmetry of our parabola.And it is going to be equal
+distant from each of the 0's.So you get a 0 in the
+plus direction.This is the distance
+right here.This is one of the 0's in
+the plus direction.And then you subtract,
+that's the other 0.So it makes sense that negative
+b over 2a is thex-value of the line
+of symmetry or thex-value of the vertex.Now with that said, let's
+actually figure out what thex-value of the vertex
+is for this problem.So we have x squared--
+oh, sorry.So negative b over 2a.So this is equal to negative
+5 because b is 5,over 2 times 1.Over 2.So that's the x-value.Let's figure out
+where it sits.Whether the y-value for
+the vertex is belowor above the x-axis.So the y-value, we'll just have
+to substitute into this.The y-value of the vertex is
+going to be equal to negative5/2 squared.Plus 5 times negative 5/2.And then finally, plus 7.Let's see if this is
+positive or not.So negative 5/2 squared
+is 25/4.Minus 25/2, plus 7.So we can add these.Let's put everything over 4.So this is equal to 25/4.25/2 is the same
+thing as 50/4.Minus 50/4.Plus 28/4.This is equal to-- well,
+we know our denominatoris going to be 4.And you have 25 plus 28 is 53.Minus 50 is 3.So it equals positive 3/4.So the y-value is positive.It is above the x-axis.So the parabola will look
+something like this.The parabola will look something
+like this where they-value is 3/4 for the vertax.The x-value we just saw
+was negative 5/2.And because the minimum point
+of this upward openingparabola is a positive number,
+the minimum y-value is apositive number, it's always
+going to have values at thatlevel or above it.So this is true.If x is a real number,
+then it is true.It is always true.It is always true that x squared
+plus 5x plus 7 isgreater than 0.

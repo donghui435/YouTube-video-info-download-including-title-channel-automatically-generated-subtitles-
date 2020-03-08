@@ -1,0 +1,80 @@
+Use completing the square
+to find the roots of thequadratic equation right here.And when anyone talks about
+roots, this just means findthe x's where y is equal to 0.That's what a root is.A root is an x value that will
+make this quadratic functionequal 0, that will
+make y equal 0.So to find the x's, let's
+just make y equal 0 andthen solve for x.So we get 0 is equal to 4x
+squared plus 40x, plus 280.Now, the first step that we
+might want to do, just becauseit looks like all three of these
+terms are divisible by4, is just divide both sides
+of this equation by 4.That'll make our math a
+little bit simpler.So let's just divide everything
+by 4 here.If we just divide everything by
+4, we get 0 is equal to xsquared plus 10x, plus-- 280
+divided by 4 is 70-- plus 70.Now, they say use completing the
+square, and actually, letme write that 70 a little bit
+further out, and you'll seewhy I did that in a second.So let me just write a plus 70
+over here, just to have kindof an awkward space here.And you'll see what I'm about
+to do with this space, thathas everything to do with
+completing the square.So they say use completing the
+square, which means, turnthis, if you can, into
+a perfect square.Turn at least part of this
+expression into a perfectsquare, and then we can use that
+to actually solve for x.So how do we turn this into
+a perfect square?Well, we have a 10x here.And we know that we can turn
+this into a perfect squaretrinomial if we take 1/2 of the
+10, which is 5, and thenwe square that.So 1/2 of 10 is 5, you square
+it, you add a 25.Now, you can't just willy-nilly
+add a 25 to oneside of the equation without
+doing something to the other,or without just subtracting
+the 25 right here.Right?Think about it, I have not
+changed the equation.I've added 25 and I've
+subtracted 25.So I've added nothing to
+the right-hand side.I could add a billion and
+subtract a billion and notchange the equation.So I have not changed the
+equation at all right here.But what I have done is I've
+made it possible to expressthese three terms as
+a perfect square.That right there,
+2 times 5 is 10.5 squared is 25.So that is x plus 5 squared.And if you don't believe
+me, multiply it out.You're going to have an x
+squared plus 5x, plus 5x,which will give you 10x, plus
+5 squared, which is 25.So those first three terms
+become that, and then thesecond two terms, right there,
+you just add them.Let's see, negative
+25 plus 70.Let's see, negative 20 plus 70
+would be positive 50, and thenyou have another 5,
+so it's plus 45.So we've just algebraically
+manipulated this equation.And we get 0 is equal to x
+plus 5 squared, plus 45.Now, we could've, from the
+beginning if we wanted, wecould've tried to factor it.But what we're going to do here,
+this will always work.Even if you have crazy decimal
+numbers here, you can solvefor x using the method
+we're doing here,completing the square.So to solve for x, let's just
+subtract 45 from both sides ofthis equation.And so the left-hand side of
+this equation becomes negative45, and the right-hand
+side will be justthe x plus 5 squared.These guys, right here,
+cancel out.Now, normally if I look at
+something like this I'll say,OK, let's just take the
+square root of bothsides of this equation.And so you might be tempted to
+take the square root of bothsides of this equation, but
+immediately when you do that,you'll notice something
+strange.We're trying to take
+the square rootof a negative number.And if we're dealing with real
+numbers, which is everythingwe've dealt with so far, you
+can't take a square root of anegative number.There is no real number that if
+you square it will give youa negative number.So it's not possible-- I don't
+care what you make x-- it isnot possible to add x to
+5 and square it, andget a negative number.So there is no x that can
+satisfy-- if we assume that isx is a real number-- that can
+satisfy this equation.Because I don't care what x you
+put here, what real x youput here, you add 5 to it, you
+square it, there's no wayyou're going to get
+a negative number.So there's no x that can satisfy
+this equation, so wecould say there are no-- and
+I'm using the word realbecause in Algebra 2 you'll
+learn that there are thingscalled complex numbers, but
+don't worry about that rightnow-- but there no real roots
+to the quadratic equation.And we're done.And actually, if you had tried
+to factor it, you would havefound it very difficult,
+because this is not afactorable expression right
+here, and you know it becausethere's no real roots.

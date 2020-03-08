@@ -1,0 +1,138 @@
+BAM!!! Mr. Tarrou. Let's do some more proofs.
+Ok, we have the tangent squared x over secantof x is equal to secant minus cosine. How
+are we going to deal with this power of twoon the left hand side? You are not going to
+prove this identity if you can't get the degreesto be the same. We can't divide it way, we
+can't square root it away because those twofunctions require that you have to work with
+both sides of the identity. So what to do?I don't know. You can, at this point... Remember
+these are proofs, not here is five steps andfollow them in the right order to get the
+right answer. I am going to try something,if you don't like it then try something else.
+Maybe you will do the proof quicker than me,maybe I will do the proof quicker than you.
+You know what, if the two sides match thenwho cares. Just as long as the algebra is
+correct all the way through it. So, I seethis one...or this one tangent squared x and
+I don't see any tangent functions on the righthand side. So, I am going to take out tangent
+squared x and one of our identities is 1 plustangent squared x equals secant squared x.
+I am going to use that Pythagorean identityto rewrite the numerator and I am going to
+bring this one over to the other side andI am going to write tangent squared x is equal
+to secant squared x minus 1. Now you firststep may have been to write this as sine over
+cosine and this as one over cosine to startwith and that might be perfectly just fantastic.
+Maybe it is going to be a good proof. Butthat is what I have done first. Now I am looking
+at my problem and I still have a degree oftwo where over all I have is degrees of one.
+I don't see any way of canceling anythingout. Remember you CANNOT cancel terms. My
+students like to something like, "Can't thesecants cancel out?" Canceling this secant
+out with this secant would be like sayingthat this is ok. (4 + 9) over 4 My kids might
+be recognizing this if they are watching ittonight...right!? So could I cancel these
+fours? I have a common thing on the top andbottom of this fraction, but it is a common
+term. If I cancel out the fours, four dividedby four is equal to one. The last time I checked
+one plus nine which is ten does not equalwhat is really four plus nine over four. Four
+plus none is thirteen, the denominator isfour, and the last time I checked thirteen
+over four is not equal to ten. You cannotcancel out terms!!! YOU HEAR ME? ARE YOU PAYING
+ATTENTION!!! Ok:) Good. Now if it were multiplicationyou could cancel out. You can factors, but
+you cannot cancel terms. That is not goingto cancel away. So what else is going on?
+Well this is one term, a fraction bar is agrouping symbol. We have one term on the left
+and two terms on the right. How can we takethe fraction and break it up into two parts?
+Well, it has two terms in the numerator sowhat you have is a subtraction of two fractions
+with a common denominator. You don't believeme? How about 4/3 minus 1/3? You have a common
+denominator so don't you just subtract thenumerators and write the common denominator
+once? Yeah you do! So what I am going to dois, I am going to take secant square minus
+one and split it those terms up and give eachone their own fraction with a common denominator
+of secant. We have got secant squared x oversecant minus one over secant. I am getting
+excited because NOW I can cancel the secantsout because this is secant times secant over
+secant. Secant times secant, with two thingsare being multiplied together then they are
+factors and not terms. So this one secantin the bottom will cancel out with one of
+the two secants on top, and you can think..whenyou divide like bases you subtract the exponents
+as well. We get secant minus, one over secant...oneover secant is a reciprocal function...yeah
+you are right, that is cosine x and that ismatch!!! WHOO! Alright, going on to the next
+one. Okie dokie. So the next proof we aregoing to look at or the next identity we are
+going to try and verify is the cosine of negativetheta over one plus the sine of negative equals
+the secant of theta plus the tangent of theta.Well in this particular proof, or identity,
+that we are going to verify my angle measuresare not the same. Now they are very close,
+but they are not equal. Instead of theta wehave negative theta so we have opposite angles.
+Now we need to talk about a chapter 1 conceptin my book. You might remember it from the
+previous video if you are watching these insequence, we need to discuss the idea of even
+and odd functions. Cosine, the cosine graphstarts on the y axis at 1 and falls in both
+directions. The cosine graph is symmetricto the y axis which means that if you put
+in opposite x's you get out the same y value.So, cosine is an even function. If you are
+not sure what even functions are, or odd functions,you will need to go back and review that concept.
+You have already covered in your class ifyou are doing PreCalculus. The cosine of an
+angle is equal to the cosine of that oppositeangle. It is an even function. So the cosine
+of negative theta is equal to the cosine oftheta. Cosine again is symmetric to the y
+axis so it is even. Where as sine is not symmetricto the y axis. Sine has origin symmetry. If
+you were to take a look in book for a parentfunction of sine and turn you book 180 degrees,
+you know what the difference is...all of thenumbers are upside down and besides that nothing!
+Sine is an odd function and that means thatwhen you plug in an opposite angle, so I want
+to write this as the sine of theta not negativetheta... So I am going to plug in an opposite
+angle. When you plug in opposite values, youget out opposite answers. The sine of negative
+theta is going to be the opposite of the sineof positive theta. So if I plug in an opposite
+value, I am going to get out an opposite answer.Alright? So now we have got our two sides
+matching. And I am going to stop working withthe left hand side because sine and cosine
+are the building block trig functions. Thereis nothing else I can do, well I guess I could,
+but I am going to try and simplify insteadof making these more complicated. I am going
+to write secant and tangent in terms of sineand cosine and hopefully something nice happens.
+Let's see what happens...SHALL WE!!! So secantis one over cosine of theta. Oh, I have got
+to just laugh at my own joke, that is terrible.Tangent is sine over cosine. What is worse
+is that it was not really a joke. Now we havecommon denominators. So, on this side we have
+got one plus sine of theta over cosine theta...hmm. Well, now both sides have the building
+block trig core functions and wow... I don'tknow. Do you all have an ideas? Yeah.. Ok.
+I like that idea. We have got one minus sineon the right side of the proof...right side?
+I have got one minus sine on the bottom ofthe fraction on the left side of my identity.
+Let's start working with the right side. Ihave got more room and I think I am going
+to need a few more steps. Thank you for thesuggestion;) I want a one minus sine in this
+fraction. Now I just said that you cannotmove things over from one side of this equation,
+excuse me identity, to the other. So I amnot going to multiply both sides by one minus
+sine theta because that would be moving itfrom one side to the other. But what I am
+going to do is multiply this fraction by one.Just a funny looking one. I am going to multiply
+it by one minus sine theta over one minussine theta. That is one right? See I multiplied
+it by one, right? Ok, what happens? Well,this is what happens. We are going to have
+one times one. One times negative sine andpositive sine times one. Then we have a positive
+sine times negative sine. This is a differenceof squares pattern. So when I distribute these
+I am going to get 1 times 1 is 1. Then I amgoing to get positive sine and negative sine
+and those are going to cancel out. And positivesine and negative sine is negative sine squared
+theta all over cosine theta times one minussine theta. I am not going to distribute this
+stuff together because I need to do some canceling.See that power of two that is showing up.
+I am going to do some kind of canceling tomake it match this left hand side. So I am
+if I leave the denominator in factored form,that is going to save me some work. My numerator
+is full of the sine function and this numeratoris only cosine. I am not going to get these
+to match if I don't get the top of the fractionsto have the same trig functions in them. So
+the first Pythagorean theorem that says sinesquared plus cosine squared equals one, if
+the angles are the same...I should be probablynot be leaving theta out, says if I take one
+minus sine squared theta and substitute usingthat first pythagorean identity...one minus
+sine square theta is equal to cosine squaredtheta. Now look. We have one term on top and
+it is cosine. I have one term on top and itis cosine squared. I have a one minus sine
+on the bottom, and I have a one minus sineon the bottom. We are sooooo close! Oh, I
+can cancel these factors out. One of thosecosines on the bottom, that factor...it is
+multiplied to something else and not added,that cosine on the bottom is going to cancel
+with one of the two cosines on top. LOOK ATTHERE! Cosine theta over one minus sine theta.
+Is that a match? Is that a match? YEAH ITIS!!! Alright, let's do another one. I love
+this stuff. You just have to try differentthings, do some different substitutions, and
+then all of a sudden the algebra starts going...hey...hey...hey... aren't you getting close
+to the answer. We have got one plus cosecanttheta over secant theta minus cotangent of
+theta equals cosine. Now I have a lot goingon in the left hand side. Work your way down
+the tree and you will land or come down thatone trunk. Don't make it more complicated.
+Don't try and make this one term into twoterms and somehow add in cotangents and secants
+from just the simple cosine function. So startwith the left and figure it out. I only have
+cosine. I don't have cosecants, secants, orcotangent so I am going to rewrite the left
+hand side in terms of sine and cosine rightoff the bat. We have one plus one over sine
+theta all over one over cosine theta minuscotangent which is cosine over sine. Now,
+that looks worse. We are going to have tostart cleaning up this first fraction and
+see if anything nice happens with this secondfraction when we are done. We are going to
+find a common denominator between one andsine and that is going to be sine. So we are
+going to multiply this by sine theta on thetop and bottom. We have a common denominator
+now so I am going to do sine theta plus oneover sine all over cosine theta minus cosine
+theta over sine theta. Now this bottom fractionis going to get flipped up and we are going
+to get, and this is going to sit here, weare going to get sine theta plus one over
+sine and the cosine got flipped up...oops.I mis-copied it. That was one over cosine
+theta, sorry about that. That is going toget flipped up and be sine theta plus one
+times cosine over sine. Again, this bottomgets flipped up. The second fraction already
+has a sine in the denominator. Now look. Wehave got sine theta plus one times cosine
+minus cosine over sine and our final goalis to have nothing but cosine left. If I take
+out the cosine from these two terms becausethese are going to come together as one big
+fraction. Let me just write it like that sincewe have a common denominator of sine. These
+two terms both have a cosine, so if I takethat cosine and I factor it out... Sine plus
+one times cosine with the cosine out is goingto be sine theta plus one. And if I take the
+cosine out of this term, cosine again dividedby cosine is one but it is minus one all over
+sine. Well I am running out of room be weare also almost done. One minus one is zero.
+Now we have cosine times sine over sine oftheta. I almost made a mistake, but we did
+finish in time. BAM! The sines cancel outand we get the cosine of theta. Which now
+that I am in a hurry I am making a coupleof mistakes here, let me fill that back in.
+BAM!!! Cosine theta from the left equals cosinetheta from the right. I am Mr. Tarrou. Go
+do your homework:D

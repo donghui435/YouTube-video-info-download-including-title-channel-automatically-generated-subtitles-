@@ -1,0 +1,131 @@
+ROGER BOWLEY: The number I want
+to talk about now is thesquare root of 2.JAMES GRIME: My favorite
+fact about root 2?Well, if you take the
+A series of paper.So this is A4 paper.It's pretty standard in
+most of the world.If you take a piece of paper
+like this, if you look at theratio between the long edge
+and the short edge, whichmeans if you measure the long
+edge, and you divide by theshort edge, it will be
+the square root of 2.And they picked this
+on purpose.ROGER BOWLEY: The square
+root of 2 is about 1.41something or other.And it's the number you get if
+you work with Pythagoras'Theorem, which said that if you
+have a unit length alongthere, and a unit length
+along there.So this length, the square of
+this length plus the square ofthat is that.This length is root 2, it's
+the square root of 2.JAMES GRIME: If I fold this
+piece of paper in half--let's try that out.This now is something
+called A5 paper.We started with A4.This is now A5 paper.And if you do the same thing
+again, if you take the longedge of this and divide by the
+short edge, it will again bethe square root of 2.The ratio is the same.They do this so that you can
+scale things up and scale themdown without it being
+disproportionate.ROGER BOWLEY: Square root of
+2 is this, which is 1.41.Well, it runs on forever.It doesn't stop at a
+particular point.And there are a whole
+range of these.This is just the
+first of many.Another one is pi.JAMES GRIME: In fact, they
+start off with A0.An A0 is defined to be a piece
+of paper, which has a ratio,square root of 2, and it has an
+area of one meter squared.In fact, root 2 is the only
+ratio where this works.And I'm going to show
+that it's theonly ratio this works.There you go.Well, our rectangular
+piece of paper.This is your long edge, which
+I'm going to call a, and thisis your short edge, which
+I'm going to call b.Now, if I take the long edge,
+a, and divide by the shortedge, b, I'll get a ratio.It's actually going to be root
+2, but let's pretend we don'tknow that yet.But this is what I want.If I cut this in half, I want
+this now to be the long edge.So b is now the long edge.The short edge is actually
+half of a, thisside, half of a.Now I want that to be the same
+ratio as I had before.In other words, I want these
+two things to be equal.So all we have to do now
+is rearrange this,play with this a little.Let's see what we get.OK.Let's take the b's over this
+side, the a's over this side.If you play with it, you will
+get a squared on the left, and2 b squared on the
+right-hand side.Or, in other words, a squared
+divided by b squared equals 2.Or, square root it, square
+root both sides.And you'll get a divided
+by b on the left.And on the right, you get
+the square root of 2.And this was actually the
+ratio we wanted to find.The only ratio where this works
+is the square root of 2.JAMES GRIME: This is Pythagoras'
+Theorem.Pythagoreans were a cult
+way, way back.And there might have been a
+figure called Pythagorasassociated with this.But they were very
+strange bunch.And they believed
+in this theorem.They believed in the harmony
+of natural numbers.So if you want to do music, you
+took a bit of string ofcertain tension.If you took half the length,
+you'll get aharmonious note with it.They thought all of nature
+was composed of numbers.They thought that everything
+could either be expressed as apure integer or a ratio
+of integers.That was their fundamental
+core belief.JAMES GRIME: What
+did they know?They had the numbers one,
+two, three, four, five.They had worked out the
+fractions, that you coulddivide two things together, 3/5,
+1/2, that sort of thing.ROGER BOWLEY: They had other
+beliefs, as well.That you shouldn't marry a woman
+who wore gold jewelry,for example.Or you should be a vegetarian.And you shouldn't
+eat fava beans.And you shouldn't urinate
+towards the sun.There was a disciple of this
+strange sect called Hippasus.And he worked out that if you
+believed in this theorem,Pythagoras Theorem, then you
+could show mathematically aproof showing that this
+number is not aratio of two integers.JAMES GRIME: But a number that
+could not be written as afraction, that was a new thing
+that went on forever.That's what an irrational
+number is.ROGER BOWLEY: And they disliked
+this so much.I can't begin to tell you how
+much they disliked it.So they took him out to sea,
+according to legend, and hedidn't come back.Somehow, either they drowned
+him or left himon a deserted island.He wasn't seen again.JAMES GRIME: They did,
+apparently--they suppressed this
+information.They weren't sure that this
+was a real thing.ROGER BOWLEY: We call them now
+irrational numbers becausethey don't fit in with this
+Pythagorean viewpoint.JAMES GRIME: It's the same sort
+of problem that peoplehave today.People say to me, oh, I've heard
+of complex numbers, I'veheard of that.I don't believe they exist.I don't understand it.Same problem, they do exist.It's just you have to
+get used to it.ROGER BOWLEY: So he was one
+of the first people to bepersecuted for proving
+people wrong withtheir previous ideas.And this has gone on
+through history.I mean, I could tell you about
+physicists who've suffered,like Bruno Giordano,
+who went to--burnt at the stake for saying
+the universe was infinite.And the Catholic church said,
+well, that doesn't leave anyroom for God.JAMES GRIME: We're going
+to prove that root 2 isirrational.It cannot be written
+as a fraction.The way we prove this is a
+really powerful, usefulmathematical proof called
+contradiction.We're going to assume
+the opposite.I'm going to assume you can
+write it as a fraction.Let's assume we can write
+it as a divided by b .And this a and b are special.They are integers.They are whole numbers.They're one, two, three,
+four, five.They're something like that.And they're in their smallest
+possible terms.So we're not including things
+like 2 divided by 4 becausethat's a half.That's not in its smallest
+possible terms.All right.Let's see what we can do.ROGER BOWLEY: If you come up
+with an idea which is rightbut goes against conventional
+wisdom, you can be sent to adesert island, or burned at
+the stake, or executed.Because people don't like their
+ideas about how theworld should be upset.Even if you can disprove it,
+it's not a good idea tourinate towards the sun.JAMES GRIME: I'm going
+to square both sides.So on the left-hand
+side, I get a 2.On the right-hand side,
+I get a squareddivided by b squared.This time, a and b are whole
+numbers, remember.Let's play with it.We get 2b squared on the left
+equals a squared on the right.Now what I've shown here
+is I've shown thata squared is even.Because it's a multiple of
+2, it's an even number.And you can show that because
+a squared is even,a is even as well.Well, if it was two odd numbers
+squared, that would bean odd number.So yeah, yeah, if a squared is
+even, the original number, a,that was even.So a is even.OK.So a is even.Let's call it something
+else, let's call it aequals 2 times c.So what do we have now?2b squared on the left-hand side
+is 2 times c because it'seven, squared.This is equal to 4c squared.In other words, I'm
+saying b squaredis equal to 2c squared.Can you see that?b squared is even.If b squared is even, like
+before, b is even.What I've shown is a is
+even and b is even.That's a problem.They can't both be even.Like my example of 2 divided by
+4, it's not in its smallestpossible terms if they're
+both even.So this is an impossible
+fraction.It doesn't exist.You cannot write root 2 as
+a fraction like this.

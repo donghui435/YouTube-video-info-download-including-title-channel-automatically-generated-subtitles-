@@ -1,0 +1,96 @@
+Here's something I like to think about: say
+you want to try to list just all the realnumbers between 0 and 1, I mean, you can't
+actually list them because there's infinitelymany, and you can't even make a scheme for
+listing them because there's uncountably infinitelymany (see cantor's diagonal proof), but just
+'cause something's a little bit impossibledoesn't mean you can't have fun trying it
+out and learning from all the ways it fails.So, to list all the numbers, maybe you start
+by making a tree of possibilities: start with0., then here's all the combinations of the
+first digit, 0 through 9, and then after 0can come any digit 0-9, and after 1 could
+come any digit 0-9 and so on, and we'll justexponential tree this number thing and get
+all possible combinations of digits!I call it: the digitree!No wait, that's the name of a company.Digitry?As in, let us engage in some mathemagical
+digitry! nope, also a company.Anyway every node on this digit-tree represents
+a number, here's .75, and .314, and the numberof nodes grows really fast but that doesn't
+change that theoretically we can list thenodes, line them up layer by layer to count
+everything on the tree, here's the 1st layer,and then there's 10 more in the layer below
+it and 100 more in the layer below that andthen 1000... the numbers get big, but as long
+as it's finite it can be counted.so as we go infinitely down this tree there's
+eventually an infinite number of nodes butit's a countable sort of infinity because
+each node has a counting number that can beassigned to it, and thus we list an infinite
+number of numbers!So... is every number between 0 and 1 included?I mean, we have all combinations, right?For any number, you just go down the digits
+until you get to the last one, and that'sthe node for that number.Which works fine, if there's a finite number
+of digits and you CAN stop at the last one.Then there's tricky numbers like pi, or I
+guess pi/10 since we're working between 0and 1, whatever, but you can still use the
+same scheme... all you have to do is followthe pi path: branch 3, branch 1, branch 4,
+branch 1, and so on.You'll never get to the last digit, but you
+can still go down the infinite pi path.In fact, any real number can be thought of
+as an infinite path going down this infinitetree..3 repeating, for example, means you take
+the third branch each time.On your usual finite tree every node has a
+single path that goes to it, and every pathgoes to a single node.There's a correspondence between the number
+of nodes and the number of paths.So at first think, you might assume that's
+still the case with the infinite tree: thatif the number of nodes is countable and every
+real number is included on this tree, thenthis shows that the number of real numbers
+is actually countably infinite!But mathematics is much weirder than that,
+and just because something's true for allfinite cases of things doesn't mean it's true
+once infinity gets involved.Sure, if your number has a finite number of
+digits, it has a path along those digits thatends on one of those countably infinite nodes.But for numbers with infinite paths, there
+is no corresponding node.The pi path can't end on a node before it
+reaches the last digit of pi, and there isno last digit of pi.The moment your tree becomes infinite, there's
+more paths than nodes.Like, a lot more.There's a countably infinite number of nodes,
+and a countably infinite number of branches,but an uncountably infinite number of paths
+that don't correspond to nodes at all.And this is true not just for this infinitree,
+oh, there's the word, infinitree, but alsoother kinds of infinitrees like an infinite
+binary tree, ternary tree, n-tree, geometree,poetry...So, like, the number of circles in this appellonian
+gasket is the smallest kind of infinity, acountable infinity, like nodes on a tree.But the number of infinite spirally paths
+that go along circles down into the infinitedepths of this thing is uncountably infinite.If you think that's weird, you should check
+out the Cantor set.Or if even that's not weird enough for you,
+throw in a little axiom of choice and thensee how super weirdatronical things can get.Anyway what I really like thinking about is:
+what if you made up some scheme where thereis a node corresponding with pi?I don't know exactly how you'd do it yet but
+y'know, math is all about making stuff upand seeing what happens so why not, if this
+node were the pi node it must have an infinitepath of infinite digits between it and the
+rest of the tree.The old node listing method assumes every
+layer of nodes is finite, simple powers often, but if you somehow let your number of
+layers go past any finite number, then yournode-counting is going to encounter layers
+of nodes with infinite nodes, 10 to the powerof infinity nodes to be precise, and your
+counting method will get stuck in the depthsof the infinitree.Oh no, turns out infinitree is trademarked.Ugh, see, this is why math is hard.You make up all this cool stuff and then you
+want to give it cool names but the cool namesare taken and then you end up calling things
+generic and misrepresentative names like "imaginary"numbers and "real" and "complex" and, just,
+why would you call a type of number that?It makes no sense.Only "infinitree" makes sense.Anyway, the reason I like imagining there's
+a "pi" node is that then I get to try to imagine:what does pi's neighborhood look like?Like, what number is in the node next to the
+Pi node?Up here, neighboring nodes have just the last
+digit changed, but there IS no last digitof pi.Maybe there is no neighboring node, just uncountably
+many nodes infinitely far apart?Or maybe the neighboring node also equals
+Pi, maybe kinda like how .9repeating equals1, like, the neighboring pi node is pi plus
+.0repeating1, not that .0repeating1 is reallya thing, but if it were a thing it would equal
+zero and so this would be pi too, so maybethere's infinite pi nodes before all those
+increments of .0repeating1 add up to somethingmeasurable and then you get to the other numbers.Maybe.And usually if you go one node up, the number
+there has one fewer digit, but for pi infinitydigits minus one digit is still infinity digits
+and still exactly Pi, and I guess if you goup an infinite number of branches you'll get
+ones that have finite numbers of digits, just,there's no step-by-step path that gets you
+there.Like, this is connected to here through an
+overly-infinite path, but you can't actuallyget from one to the other.I guess topologically it would be like, this
+pi path is an infinite ray going towards infinitydigits, but once you make the path include
+infinity and go beyond it, it's no longera regular ray, which even though it's infinitely
+long would still never reach down to here,but a long ray, the "long" in "long ray" being
+another amusing yet confusing generic technicalmath term that means, like, really long in
+the only sense in which "long" can have meaningin topology 'cause like the whole point of
+topology is that length doesn't matter, butstill, couldn't they have called it "double
+infinilong" or something?Because I feel like "infinilong ray" would
+better capture the way the ray is so longthat even though it's continuous, parts of
+it aren't actually connected.And by "not connected" I mean "not connectoline-able,"
+a word which would better capture the waythat a regular infinite line is too short
+to connect this node to this one.And what about the layer after this infinitieth
+layer?Is it still all Pi here in the infinite pi
+neighborhood, and an infinilong distance tothe right is the infinite e neighborhood,
+and it's all .3 repeating over here, because.3 repeating is still .3 repeating even if
+you add in a 7 after infinity digits?Or what if we go down to an uncountably infinite
+number of layers, what sort of numbers wouldwe find there?It's like, it shouldn't make sense, but it
+kind of does, and probably if we used surrealnumbers, by which I mean the all-the-numbers
+numbers, we could make this infinilong infinitreemake both more and less sense, but, like,
+even regular real numbers, by which I meaninfinitable-digity-numbers (as opposed to
+rational numbers which is so close to beinga good name but couldn't they just have called
+them ratio-able numbers), yeah, real numbersshouldn't make sense in the first place because
+allowing infinite digits causes such conceptualweirdness, but unfortunately for sanity infinitable-digity
+numbers like pi just seem to come part andparcel with the universe and all the universe's
+weird things that make it do universe stuff,like, space and waves and time, none of which
+make any sense either but there you are.Anyway, just something I like to think about
+sometimes.

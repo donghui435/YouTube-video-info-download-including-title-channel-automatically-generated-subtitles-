@@ -1,0 +1,104 @@
+"The introduction of numbers as coordinates
+is an act of violence."！Hermann WeylThe fundamental, root-of-it-all building block
+for linear algebra is the vector, so it'sworthmaking sure that we're all on the same page
+about what exactly a vector is.You see, broadlyspeaking there are three distinct but related
+ideas about vectors, which I'll call the physicsstudent perspective, the computer science
+student perspective, and the mathematician'sperspective.The physics student perspective is that vectors
+are arrows pointing in space.What defines a givenvector is its length, and the direction it's
+pointing in, but as long as those two factsare thesame, you can move it all around and it's
+still the same vector.Vectors that live in the flat planeare two-dimensional, and those sitting in
+broader space that you and I live in are three-dimensional.The computer science perspective is that vectors
+are ordered lists of numbers.For example, let'ssay that you were doing some analytics about
+house prices, and the only features you caredaboutwere square footage and price.You might model each house with a pair of
+numbers: the firstindicating square footage, and the second
+indicating price.Notice that the order matters here.In the lingo, you'd be modelling houses as
+two-dimensional vectors, where in this context,"vector" is pretty much just a fancy word
+for "list", and what makes it two-dimensionalis the factthat the length of that list is 2.The mathematician, on the other hand, seeks
+to generalise both of these views, basicallysaying thata vector can be anything where there's a sensible
+notion of adding two vectors, and multiplyingavector by a number, operations that I'll talk
+about later on in this video.The details of this vieware rather abstract, and I actually think
+it's healthy to ignore it until the last videoof thisseries, favoring a more concrete setting in
+the interim,but the reason that I bring it up here is
+that it hints at the fact that ideas of vectoradditionand multiplication by numbers will play an
+important role throughout linear algebra.But before I talk about those operations,
+let's just settle in on a specific thoughtto have in mindwhen I say the word "vector".Given the geometric focus that I'm shooting
+for here, whenever Iintroduce a new topic involving vectors, I
+want you to first think about an arrow！andspecifically,think about that arrow inside a coordinate
+system, like the x-y plane, with its tailsitting at the origin.This is a little bit different from the physics
+student perspective, where vectors can freelysitanywhere they want in space.In linear algebra, it's almost always the
+case that your vector will berooted at the origin.Then, once you understand a new concept in
+the context of arrows in space,we'll translate it over to the list-of-numbers
+point-of-view, which we can do by consideringthe coordinates of the vector.Now while I'm sure that many of you are familiar
+with this coordinate system, it's worth walkingthrough explicitly, since this is where all
+of the important back-and-forth happens betweenthe twoperspectives of linear algebra.Focusing our attention on two dimensions for
+the moment, you have ahorizontal line, called the x-axis, and a
+vertical line, called the y-axis.The place where theyintersect is called the origin, which you
+should think of as the center of space andthe root of all vectors.After choosing an arbitrary length to represent
+1, you make tick-marks on each axis torepresent this distance.When I want to convey the idea of 2-D space
+as a whole, which you'll seecomes up a lot in these videos, I'll extend
+these tick-marks to make grid-lines, but rightnowthey'll actually get a little bit in the way.The coordinates of a vector is a pair of numbers
+thatbasically give instructions for how to get
+from the tail of that vector！at the origin！toits tip.The first number tells you how far to walk
+along the x-axis！positive numbers indicatingrightwardmotion, negative numbers indicating leftward
+motion！and the second number tell you howfar to walkparallel to the y-axis after that！positive
+numbers indicating upward motion, and negativenumbersindicating downward motion.To distinguish vectors from points, the convention
+is to write this pairof numbers vertically with square brackets
+around them.Every pair of numbers gives you one and only
+one vector, and every vector is associatedwith one andonly one pair of numbers.What about in three dimensions?Well, you add a third axis, called the z-axis,which is perpendicular to both the x- and
+y-axes, and in this case each vector is associatedwith an ordered triplet of numbers: the first
+tells you how far to move along the x-axis,the secondtells you how far to move parallel to the
+y-axis, and the third one tells you how farto then moveparallel to this new z-axis.Every triplet of numbers gives you one unique
+vector in space, andevery vector in space gives you exactly one
+triplet of numbers.So back to vector addition, and multiplication
+by numbers.After all, every topic in linear algebrais going to center around these two operations.Luckily, each one is pretty straightforward
+to define.Let's say we have two vectors, one pointing
+up, and a little to the right, and the otheronepointing right, and down a bit.To add these two vectors, move the second
+one so that its tail sitsat the tip of the first one; then if you draw
+a new vector from the tail of the first oneto wherethe tip of the second one now sits, that new
+vector is their sum.This definition of addition, by the way, is
+pretty much the only time in linear algebrawhere we letvectors stray away from the origin.Now why is this a reasonable thing to do?！Why
+this definition of addition and not some otherone?Well the way I like to think about it is that
+each vector represents a certain movement！astep witha certain distance and direction in space.If you take a step along the first vector,then take a step in the direction and distance
+described by the second vector, the overalleffect isjust the same as if you moved along the sum
+of those two vectors to start with.You could think about this as an extension
+of how we think about adding numbers on anumber line.One way that we teach kids to think about
+this, say with 2+5, is to think of moving2 steps to theright, followed by another 5 steps to the
+right.The overall effect is the same as if you just
+took7 steps to the right.In fact, let's see how vector addition looks
+numerically.The first vectorhere has coordinates (1,2), and the second
+one has coordinates (3,-1).When you take the vector sumusing this tip-to-tail method, you can think
+of a four-step path from the origin to thetip of thesecond vector: "walk 1 to the right, then
+2 up, then 3 to the right, then 1 down."Re-organisingthese steps so that you first do all of the
+rightward motion, then do all of the verticalmotion,you can read it as saying, "first move 1+3
+to the right, then move 2+(-1) up," so thenew vector hascoordinates 1+3 and 2+(-1).In general, vector addition in this list-of-numbers
+conception lookslike matching up their terms, and adding each
+one together.The other fundamental vector operation is
+multiplication by a number.Now this is best understoodjust by looking at a few examples.If you take the number 2, and multiply it
+by a given vector, itmeans you stretch out that vector so that
+it's 2 times as long as when you started.If you multiplythat vector by, say, 1/3, it means you squish
+it down so that it's 1/3 of the original length.When you multiply it by a negative number,
+like -1.8, then the vector first gets flippedaround,then stretched out by that factor of 1.8.This process of stretching or squishing or
+sometimes reversing the direction of a vectoris called "scaling",and whenever you catch a number like 2 or
+1/3 or -1.8 acting like this！scaling somevector！you call it a "scalar".In fact, throughout linear algebra, one of
+the main things thatnumbers do is scale vectors, so it's common
+to use the word "scalar" pretty much interchangeablywith the word "number".Numerically, stretching out a vector by a
+factor of, say, 2, corresponds tomultiplying each of its components by that
+factor, 2, so in the conception of vectorsaslists of numbers, multiplying a given vector
+by a scalar means multiplying each one ofthose components by that scalar.You'll see in the following videos what I
+mean when I say that linear algebra topicstend to revolvearound these two fundamental operations: vector
+addition, and scalar multiplication; and I'lltalkmore in the last video about how and why the
+mathematician thinks only about these operations,independent and abstracted away from however
+you choose to represent vectors.In truth, it doesn'tmatter whether you think about vectors as
+fundamentally being arrows in space！likeI'm suggestingyou do！that happen to have a nice numerical
+representation, or fundamentally as listsof numbersthat happen to have a nice geometric interpretation.The usefulness of linear algebra has less
+to do witheither one of these views than it does with
+the ability to translate back and forth betweenthem.It gives the data analyst a nice way to conceptualise
+many lists of numbers in a visual way,which can seriously clarify patterns in data,
+and give a global view of what certain operationsdo,and on the flip side, it gives people like
+physicists and computer graphics programmersa languageto describe space and the manipulation of
+space using numbers that can be crunched andrun through a computer.When I do math-y animations, for example,
+I start by thinking about what's actuallygoing on inspace, and then get the computer to represent
+things numerically, thereby figuring out wheretoplace the pixels on the screen, and doing
+that usually relies on a lot of linear algebraunderstanding.So there are your vector basics, and in the
+next video I'll start getting into some prettyneatconcepts surrounding vectors, like span, bases,
+and linear dependence.See you then!Captioned by Navjivan Pal

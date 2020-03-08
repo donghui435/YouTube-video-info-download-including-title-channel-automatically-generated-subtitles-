@@ -1,0 +1,55 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.In our lecture on the decimal number system,we explained that this is an example of
+"positional notation".In positional notation,
+the column occupied by a digitdetermines the multiplier for that digit.Since the decimal system is base-10,each column multiplier differs by a factor
+of ten from the adjacent columns.The multiplier for the right-most digit
+is one.The digits to the left are multiplied by
+ten, one-hundred, and so on.The value of a decimal number is the sum of
+all its digits times their multipliers.For example, the value of the decimal number
+one-thousand eight-hundred-seventy-nine isone times one-thousand,plus eight times one-hundred,plus seven times ten,plus nine times one.Using decimal notation,
+we can represent any integer.But decimal notation is also capable of representing
+fractional quantities,by adding a decimal point immediately to the
+right of the one¡¯s digit.We can then add as many digits as we like
+to the right of the decimal point.Each of these column multipliers is one-tenth
+the size of the column to the left,continuing the pattern of multipliers.The first digit to the right of the
+decimal point is multiplied by one-tenth.The next digit is multiplied by one-hundredth,
+and so on.Just as with integers,
+the value of a decimal numberis the sum of all its digits
+times their multipliers.For example, the number
+one eight seven nine point two five,represents one thousand,plus eight hundreds,plus seven tens,plus nine ones,plus two tenths,plus five one-hundredths.Using a number line, we can see how each digit
+adds different size divisions to the number.For example, the decimal number
+three point four two fiverepresents three units,plus four tenths of a unit,plus two hundredths of a unit,plus five thousandths of a unit.Any fraction can be converted to a
+decimal numberby simply dividing the numerator by the denominator.We can do this using long division,
+or with a calculator.The result of this division will be a decimal
+number which is equivalent to the fraction.This decimal number will either
+repeat or terminate.A terminating decimal number has a finite
+number of digits after the decimal point.A repeating decimal number has a sequence
+of digits after the decimal pointwhich repeats forever.Repeating decimals can be written with
+three dots, called an "ellipsis",to indicate that the pattern repeats forever,or a bar can be placed over the digits
+which repeat.For instance, we can indicate a repeating
+three by placing a bar over the three.Likewise, a bar over a sequence of digits
+indicates that the sequence repeats forever.Some unit fractions
+when written in decimal form,can be represented with a finite number of
+digits, while others cannot.For instance, the fractions one-half, one-fourth,
+one-fifth, one-eighth, and one-tenthcan be written with a finite number of digits.On the other hand, the decimal equivalent
+of one-thirdis a decimal point, followed by
+an infinite number of threes.One-sixth is a decimal point followed by a
+one, and then an infinite number of sixes.One-seventh is a decimal point followed by
+the infinitely repeating sequenceone, four, two, eight, five, seven.And one-ninth is a decimal point followed
+by an infinite number of ones.You may be wondering why some fractions can
+be represented with a finite number of digits,while others cannot.To see why, let¡¯s look at the fraction one-half
+on the number line.One-half can be represented by exactly
+five tenths.So one-half is equivalent to the decimal number
+zero point five.On the other hand, the fraction one-third
+is larger than three tenths,but smaller than four tenths.If we subdivide these divisions into hundredths,we see that one-third falls somewhere between
+thirty-three hundredthsand thirty-four hundredths.If we subdivide these divisions into thousandths,we see that one-third falls somewhere between
+three-hundred-thirty-three thousandthsand three-hundred-thirty-four thousandths.If we subdivide these divisions into ten-thousandths,we see that one-third still falls between
+two divisions.It is larger than
+point three three three threebut smaller than
+point three three three four.We can repeat this process indefinitely.No matter how close we zoom in, the fraction
+one-third will never fall exactly on a division.We will just keep adding threes after the
+decimal point forever.So although some rational numbers like one-half
+can be represented by a finite number of digits,others like one-third cannot.We have seen that by dividing the numerator
+by the denominator,any fraction can be converted to an equivalent
+decimal numberwhich will either terminate or repeat.In the next lecture,we will see how to convert any terminating
+or repeating decimal number to a fraction.

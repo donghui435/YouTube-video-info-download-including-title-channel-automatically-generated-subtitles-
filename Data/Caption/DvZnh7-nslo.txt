@@ -1,0 +1,148 @@
+Of course most of you are here to find out
+what a Klein bottle Rubik's cube looks like. So here straightaway are three
+different views of the same Klein bottle Rubik's cube in the last stages
+of being solved. Sounds mysterious but I'll explain. Now this Klein bottle Rubik's
+cube is just one of hundreds of different Rubik's Cube like puzzles in MagicTile, an amazing piece of software by Roice Nelson, and it's completely free. So
+get your copy, link is in the description. MagicTile contains some of the most
+difficult twisty puzzles you'll ever see but also a lot of really easy ones
+that you can solve completely intuitively, so without looking up any
+sort of algorithm. Today's video is an introduction to MagicTile, to this
+universe of puzzles and some of the nice mathematics at the core of it. So, what do
+these two patches have to do with Klein bottles. Well it's really quite easy, you just
+take a square and bring the two red sides together like so that gives you a
+cylinder. Now the open ends we can bring together like that and that will give us a
+doughnut or, in math lingo, a torus. That's the the standard way of bringing the two ends
+together. There's also a non-standard way and that goes like this and you've got your
+Klein bottle. So, really, when you look at the square you're dealing with a flat
+Klein bottle, so as long as we specify how the two opposite sides are glued
+together. Well with the red ones we already know
+they're glued together straight across. What about the yellow ones? Well, there, if
+you have a close look, it turns out they are identified with a twist, so just like a Möbius strip. So this thing
+actually does contain lots of Möbius strips. In other words, what we're dealing
+with here is a pacman space. So there's little Pacman. As he hits one of the red
+sides he re-enters right opposite. As he hits one of the yellow sides he
+re-enters diagonally opposite, but also mirror reversed which is very very
+important. Remember that one when you are solving one of those Klein bottle Rubik's cubes and some pieces just don't seem to fit
+anywhere. This flat Klein bottle is actually the nicest Klein bottle there is, much nicer than this one as far as mathematicians are concerned. Why? Because it's cut from a super nice surface a flat plane. So what that means is that for a
+little Pacman that kind of floats around here this guy here looks the same wherever he
+is, so points are not distinguishable for a little Pacman, unlike here. So, when
+Packman floats around inside this surface he can actually do little experiments
+and distinguish between points. Sne little experiment like this is draw a little triangle. Do it
+here and you get not what you would expect 180 degrees as the
+angle sum of this triangle but you actually get something less than180  degrees. On the other hand, if you draw a little triangle up there, you
+get more than 180 degrees and that number will change as you move
+Packman around inside the surface. Unlike here, you can draw little triangles
+whereever you want, the angle sum will always be 180 degrees, just like in
+the plane. And, of course, now you know what it means for this to be a Klein
+bottle Rubik's Cube. We can actually also bend this square together into a real
+Klein bottle as I showed before and then you get this guy here which is actually
+also part of MagicTile so you can actually solve this puzzle using that
+view, too. It's a lot more complicated and most people would use that flat Klein
+bottle view. If you're a four-dimensional alien or you have access to the fourth
+dimension you can actually glue the sides of your square together so that the 
+squares all stay square. So it actually stays super nice and you can play with
+this thing without open edges. So here's a view of our Klein bottle Rubik's cube. We've got nine square faces and we're turning around those faces. What about here, how do we turn there. Well
+there's the turning circle. We know that things get glued together here, so the
+turning circle cuts into this part and really that part attaches here and here
+we go diagonally across and so this gray bit attaches here and there's a little
+corner missing there, that comes from up there. Now let's turn. There you go. Now this
+extending business that we just produced just around here, we can actually extend
+all the way around and that's something very very very useful, so let's just do it and actually extend all the
+way. What you are seeing here is the square tiling of the plane colored in with nine
+different colors and whenever you see a red tile you are actually looking at the
+same face. If you're focusing in on any three-by-three block you get a different
+view of the Klein bottle. It's basically moving or turning the Klein bottle
+Rubik's cube around and viewing it from different sides when you
+moving this three-times-three block around. What about individual pieces? Well we've got center pieces here and
+there. The center pieces don't move with respect to each other
+both here and there as we manipulatate the cube. We've got corner pieces, three stickers here four stickers. We've got edge pieces, two stickers here two stickers there. Now
+with this guy here we actually get one additional kind of piece, the Star Trek
+logo like piece that also gets shuffled around. This is actually just one
+possible twisty puzzle that you can put on a Klein bottle. There are many many more. So how do you get the other ones. Well
+you can, for example, shrink that cutting circle here and when you do this you
+actually only get two different kinds of pieces you get center pieces and these
+lens like edge pieces. Or you can make the circles bigger. What that does is it
+destroys the centers here and again the turn behaves differently but you can
+also move the circles so that they're centered at corners. You may be familiar
+with that principle, if you've got a Rubik's Cube collection you probably
+have something like, this is a Rex cube that also turns around corners and if
+you've gotta Rex cube chances are you also have a helicopter cube and with helicopter
+cubes you turn around edges and of course you can do the same sort of thing
+with your Klein bottle Rubik's cubes. Other variations, you can actually change
+the number of faces that are playing with. So this is a six-faced Klein bottle Rubik's
+cube or here we've got four faces. In fact you can do any number of faces. That
+looks just like what we looked at before but it's actually different so this
+turning is different from the one we saw before. Why? Because here we glue together
+across both in terms of the red sides and in terms of the yellow sides. So
+that's actually a flat torus Rubik's cube and if you actually do this
+physically you get this view here which is also part of MagicTile  and what you can also play around with. What we've looked at so far only account for 28 of
+the 811 puzzles in MagicTile at the moment. So what else is there? Well lots more and it's all based on tilings.
+So our Klein bottle Rubik's cube here that's based on a square tiling of the plane
+that's colored in a special way. Now there's other tilings of the plane, other
+nice regular tilings or the plane actually there is two more. There's one with regular hexagons, for
+example, so this one here and there's a special kind of coloring of this tiling
+and we've got the Rubic's cube cuts on top and so when you have a close look at
+this you'll find there's nine colors here and
+we get this patch and when you have a close look you see that the sides of the patch
+are glued together straight across this way and with a twist that way. So this
+gives us another kind of Klein bottle Rubik's Cube and actually for me this is
+really THE Klein bottle Rubik's Cube. Lots of different variations but which one is IT?
+This is IT.  Everything you see here has a counterpart in the real Rubik's cube. There's the center pieces, one sticker edge pieces, two stickers, corner pieces
+three stickers. So if you don't want to solve anything else and you are in for a challenge you accept the Mathologer Klein bottle challenge. So Roice and I agreed that
+there would be a limited-edition Hall of Fame just for this video here. So what
+you can do is you can download the program, choose this puzzle, do a full
+scramble, solve it, save your log file, send it to Roice and
+then he puts your name into the limited Hall of Fame. It's got space for 100 people.
+It's a fairly hard puzzle, especially since there's no ready-made solutions
+available for it, you have to make them up yourself. (If you don't know how to do this check out that video there.) But even for people who are kind of experienced in
+terms of making up algorithms you'll find lots of interesting stuff here that
+you won't find anywhere else. Okay so check it out. I am interested in
+seeing how you go with this. So we've had regular tilings with
+hexagons, regular tilings with squares now we've also got these guys here,
+regular tilings with equilateral triangles and all of these you can use to make up the
+Klein bottle and torus Rubik's cubes. What I've talked about so far accounts
+for one-third of MagicTile. MagicTile also has the regular tilings of
+the sphere and there's five of them. They correspond to the five Platonic solids.
+These tilings here very different from the ones that we just looked at importantly
+they only have finitely many times. This only has four tiles, this only has eight tiles and of course with the Cube we've only got as many as there are faces: six tiles. So what we don't have to
+worry about to start with is coloring multiple faces here with the same color,
+we could just have one tile play the part of one face and when you do this
+you get all these sorts of puzzles. So that's a standard Rubik's Cube that's
+a Gigaminx, that's a Jing's Pyraminx and those ones
+you can probably not find in shops and there are hundreds of them in MagicTile.
+We've covered two-thirds of MagicTile this way. Apart from the sphere and the
+plane there's one more supergeometry which is the hyperbolic plane which you
+can use for making up these puzzles. There are some incarnations of it here.
+For example, this coral that's part, closely part of a hyperbolic plane that
+actually goes on forever, so it's kind of really hard to see what's going on, it gets more and more crinkly on the outside
+it's not as obvious that this sort of thing should have the same property as
+the sphere, with the little Pacman kind of being able to slide around in here and not
+being able to distinguish were he is but they have this property and also in
+terms of tilings the hyperbolic plane actually admits infinitely many
+different tilings. In fact, even better you can just take any regular n-gon like an
+equilateral triangle and can make up infinitely many regular tilings
+with this triangle or infinitely many with a square or infinitely many with a regular
+pentagon and so on. These are bit of a mess to look at so how do we actually
+represent them in MagicTile. Well there's nice pictures that are actually very symmetrical and that,
+you know, represent a lot more the symmetry and the niceness of this plane than the
+object itself and so just like this is a picture, a nice picture of this tiling here
+which is completely flat that is a flat picture of a regular tiling with regular
+7-gons. So, of course, all these things look very different so this looks like a regular 7-gon but this one doesn't. Why? Because we've got a distorted view here
+we've got a picture of the real thing but they're all regular 7-gons
+and I can actually turn this thing around so let's just turn it around. So if I rotate
+one of those other 7-gons into the middle it actually will appear as a
+regular 7-gon, so all of these things are regular 7-gons, there is infinitely many of them and I said there is infinitely many tilings of this thing. Now this particular
+one is of course one of the special colored ones. So now we can turn this into a
+Rubik's cube by putting in the cutting circles. We're using 24 colors here. Let's just isolate a patch. When we glue this patch together as the colors prescribe we
+actually get this 3-torus which with the special kind of tiling in the
+background is called a Klein quadric. So this is a Klein quadric Rubik's cube. So
+also get that one and play with.  It's actually easier to solve then the Klein
+bottle Rubik's cube, mainly because of the absence of the twists. There's a lot more
+things I could talk about here in terms of the math. There is orbifolds and there is
+projective planes and all kinds of other things but I let you find this out for
+yourself. Now there will also be another video on Mathologer 2 in which I talk
+about MagicTile itself, the interface, how your program algorithms, how you find
+algorithms and what I'll focus in particular are the easiest types of
+MagicTile puzzles and these are the Harlequin puzzles. These are edge turning puzzles. So very
+very nice puzzles, easy to solve check that out too if you are really keen. And
+that's it for today :)

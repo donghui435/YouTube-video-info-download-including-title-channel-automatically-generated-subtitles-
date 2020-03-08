@@ -1,0 +1,60 @@
+Hi! Welcome to Math Antics.In this Geometry lesson, 
+we¡¯re gonna learn all about triangles.You may remember from the lesson about polygons 
+ that triangles are special polygonsthat always have 3 sides and 3 angles.And that¡¯s what the word ¡®triangle¡¯ means.¡°tri" means 3 and ¡°angles¡± means... angles.Okay, that¡¯s easy enough... 3 sides... 3 angles...but what else is there to know about triangles?Well for starters, we¡¯re gonna
+learn how to classify triangles.Oooo¡­ such a classy triangle! [laughter]But seriously, there¡¯s two different way
+to classify (or organize) triangles.They can be classified by their sides 
+and they can be classified by their angles.Let¡¯s start by classifying triangles by their anglessince we¡¯ve already learned a lot about angles 
+ in the previous videos.You may remember from our first video about angles 
+ that there¡¯s 3 types of angles:there¡¯s right angles, acute angles, and obtuse angles.Well... watch what happens if we usea third line in each of these anglesto form closed shapes.Ah ha!¡­ triangles!And can you guess what these three different kinds of triangles are called?Yep - The one made from the right angleis called a Right Triangle.The one made from the acute angleis called an Acute Triangle,and the one made from the obtuse angleis called an Obtuse Triangle.So that¡¯s simple enough. 
+But notice that for each of our three triangles,the new angles that were formed 
+when we closed the shapesare all acute angles.So triangles always have at least 2 acute angles...and it¡¯s the other angle that determines what type it is.That¡¯s important to know so you don¡¯t get tricked.For any given triangle,
+ just because you see one acute angle,that doesn't mean it¡¯s an acute triangle.You have to look at ALL the angles to tell if 
+it¡¯s an acute triangle.The situation is easier with right and obtuse
+triangles because you can only have ONEright or obtuse angle per triangle.So as soon as you spot one of those kinds of angles,you know what type of triangle you have.Alright then¡­ classifying triangles by angles 
+is pretty simple.But we can also classify triangles by their sides.If we pay close attention 
+to the length of each side of a triangle,we can see that there are three possibilities.First of all, if all three sides of a triangle
+are exactly the same length,then we call it an Equilateral Triangle. 
+It¡¯s kind of  a long word, but it¡¯s easy to rememberbecause it sounds like it has the word ¡°equal¡± in it.To see the second possibility, let¡¯s take
+the top vertex of our equilateral triangleand move it up like this. See what happened?
+Two of the triangle¡¯s sides got stretchedby the same amount, 
+but the bottom side remained the same.Now we have a triangle that has only 2 equal
+sides, and that¡¯s called an Isosceles Triangle.That¡¯s a long word too. The best way to
+remember that is to look at an isosceles triangleand say it¡¯s name 20 times as fast as you can!Is osceles, Isosceles, Isosceles, Isosceles,   
+Isosceles, Isosceles, Isosceles, Isosceles,...And finally, to see the third possibility,
+let¡¯s move that same top vertex again...but this time to the left. 
+Now, all the sides are different lengths.This type of triangle is called a Scalene Triangle.So those are the three possibilities when
+classifying triangles by their sides.Equilateral Triangles have 3 equal sides.Isosceles triangles have only 2 equal sides.And scalene triangles have NO equal sides.That way was pretty easy too. 
+The hardest part is just remembering the names.And now that you know both ways to classify triangles,
+let¡¯s see how you can use them together.Yep, you can use them both at the same time.If you classify triangles both by their angles
+and by their sides,it turns out that there's several possible combinations.To see what I mean,let¡¯s list the three classifications by sides: 
+(scalene, isosceles, and equilateral)¡­and the three classifications by angle:
+(right, acute and obtuse)A scalene triangle can also be a right triangle, 
+like this one.And a scalene triangle can also be 
+either an obtuse or an acute triangle.In the same way, an isosceles triangle can
+also be acute, like this one,or obtuse, like this one.And in one special case, an isosceles
+triangle can also be a right triangle, like so.But things are different when it comes to
+an equilateral triangle.An equilateral triangle is always an acute triangle.Because all three sides are exactly the same, 
+all three angles must also be exactly the same.And since we can¡¯t have more than one right
+angle in a triangle, or more than one obtuse angle,ALL the angles in an equilateral triangle must be acute.Okay, now that you know all about how 
+triangles are classified,let¡¯s learn one more really important thing 
+about triangles.In our video about angles and degrees, we
+learned that we can measure angles and sayhow big or how small they are using special
+units called degrees.Well, since triangles are always made up of 3 angles,each of those angles has its own 
+measurement in degrees.And the important thing 
+is that those three angle measurements,if you combine them, they will always 
+add up to 180 degrees.For example, have a look at this triangle.
+If we were to take a saw and cut it up intothree separate angles, ...and then if we were
+to take those three angles and rearrange themso that they¡¯re right next to each other like this,you can see that the total would be the same as a straight angle... that¡¯s 180 degrees!And this will work no matter what type of
+triangle it is.Knowing that a triangle¡¯s angles will 
+always add up to 180 degrees canreally help you out when solving geometry problems.There¡¯s a whole lot of situations where
+you¡¯ll know what two of the angles are,but you need to figure out what the third
+angle is. Like in this problem.With this triangle, we¡¯re told that one
+of the angles is 35 degrees,and the other is 45 degrees. But the third angle is unknown. We need to figure out what it is.Since we know that the total must be 180 degrees,we can just add up the angles that we DO know,and then subtract that from 180 degrees to
+see what¡¯s left over.The leftover amount MUST be 
+the measurement of the unknown angle.So, 35 + 45 = 80 degrees.And when we take that 80 and subtract it 
+from 180we get 100 degrees left over.That means that our unknown angle is 100 degrees!And, you can always check your answer by adding
+up all the angles to make sure you get 180.So you can see why it¡¯s so important to
+know that a triangle¡¯s angles add up to 180 degrees!Well, that¡¯s all we¡¯re going
+to learn about triangle is this video.Remember, the key to really learning math
+is to do it.So, be sure to practice by doing the 
+exercises for this section.As always, thanks for watching Math Antics!and I¡¯ll see you next time!Learn more at www.mathantic.com

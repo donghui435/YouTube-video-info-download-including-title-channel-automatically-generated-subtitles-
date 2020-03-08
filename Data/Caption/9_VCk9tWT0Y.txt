@@ -1,0 +1,131 @@
+What I want to do in this video
+is think about how expressionsare formed and the
+words we use to describethe different parts
+of an expression.And the reason
+why this is usefulis when you hear other people
+refer to some expressionand say, oh, I don't agree
+with the second term,or the third term
+has four factors,or why is the coefficient
+on that term 6,you'll know what
+they're talking about,and you can communicate
+in the same way.So let's think about what
+those words actually mean.So we have an expression here.And the first thing
+I want to think aboutare the terms of an
+expression or what a term is.And one way to think about it
+is the terms are the things thatare getting added
+and subtracted.So, for example, in this
+expression right over here,you have three things that are
+getting added and subtracted.The first thing, you're
+taking 2 times 3.You're adding that to 4.And then from that,
+you're subtracting 7y.So in this example,
+you have three terms.The first term is 2 times 3.The second term is
+just the number 4.And the third term is 7 times y.Now, let's think about
+the term "factor."And when people are
+talking about a factor,especially in terms
+of an expression,they're talking
+about the things thatare getting multiplied
+in each term.So, for example,
+if you said, whatare the factors
+of the first term?The first term refers to this
+one right over here-- 2 times3.And there's two factors.There's a 2 and
+a 3, and they arebeing multiplied by each other.So here you have two
+factors in the first term.What about the second term?This was the first term.The second term here has
+only one factor, just the 4.It's not being
+multiplied by anything.And the third term here,
+once again, has two factors.It's the product of 7 times y.So we have two factors here.We have a 7 and a y.And this constant factor
+here, this number 7that is multiplying
+the variable,also has a special name.It is called the coefficient
+of this term-- coefficient.And the coefficient
+is the nonvariablethat multiplies the
+rest of the term.That's one way of
+thinking about it.So here's 7y.Even if it was 7xy
+or 7xyz or 7xyzsquared, that nonvariable that's
+multiplying everything else,we would consider to
+be the coefficient.Now, let's do a
+few more examples.And in each of these--
+I encourage you actuallyright now to pause the video--
+think about what the terms are.How many terms are there
+in each expression, howmany factors in each term,
+and what are the coefficients?So let's look at this first one.It's clear that we have three
+things being added together.This is the first term.This is the second term.And this is the third term.So this is the first term.This is the second term.This is the third term.And they each have two factors.This first one has
+the factors 3 and x.The second one here has
+the factors x and y.And this third one has
+the factors y and z.Now, what are the
+coefficients here?Well, remember, coefficients
+was a nonvariablemultiplying a bunch
+of other variables.And so here, the coefficient in
+this first term right over hereis a 3.Now, you might be
+saying, well, whatabout the coefficients on
+these terms right over here?Depending on how
+you think about it,one way to say it
+is, well, xy isthe same thing as 1 times xy.So some people would
+say that, hey, youhave a coefficient
+of 1 here on the xy.Or it's implicitly there.It wasn't written, but you're
+multiplying everything by 1.And that might be
+subject to a little bitof interpretation
+one way or another.Now, this one is
+really interesting,because if we look at
+the bigger expression,if we look at the
+whole thing, it'sclearly made up of three terms.The first term is xyz.The second term is x plus
+1, that whole thing times y.And then the third term is 4x.And if you look at that level,
+if you look at the first term,and you say, well, how many
+factors does that have?Well, you would say that it has
+three factors-- x, y, and z.How many factors does
+the second term have?Well, you could say,
+well, it has two factors.One factor is x plus y, and
+then the other factor is y.The first factor is x plus 1.And the second one is y.It's multiplying
+this expression.This smaller expression
+itself is one of the factors.And the other one is y.And then this third one also
+has two factors, a 4 and an x.And if someone said, hey, what's
+the coefficient on this term?You would say, hey, look,
+the coefficient is the 4.Now, let's look at
+this one over here.Actually, before I look at that
+one, what was interesting aboutthis is that here you had
+a little smaller expressionitself acting as
+one of the factors.So then you can go
+and then zoom inon this expression
+right over here.And you can ask
+the same question.On this smaller expression,
+how many terms does it have?Well, it has two
+terms-- an x and a 1.Those are the two things
+being added or subtracted.And each of them have
+exactly one factor.So when we're giving
+these, you cankeep nesting these expressions
+to think about when you talkabout terms or factors
+or factors of terms,you have to really specify
+what part of the nestingyou're thinking about.If you're talking about the
+terms of this whole expression,there's one, two, three.But then you could look at this
+subexpression, which itselfis a factor of a term,
+and say, oh, well,there's only two
+terms in this one.Now, let's look at this one.How many terms?Well, once again,
+there's clearly three.Actually, let me add
+one more, because I'mtired of expressions
+with three terms.So I'm just going
+to add a 1 here.So now, we clearly
+have four terms.This is the first term, second
+term, third term, fourth term.And how many factors
+are in each of them?Well, this is interesting.You might say, well, the
+factors are the thingsthat are being multiplied.But here I'm dividing by y.Remember, dividing by
+y is the same thingas multiplying by
+its reciprocal.So it would usually
+be consideredto have three
+factors here, wherethe factors are 3x and 1/y.If you multiplied 3
+times x times 1/y,you're going to get exactly
+what you have right over here.So you would say this
+has three factors.If someone asks, what's
+the coefficient here?Well, you'd say, well,
+that 3 is the coefficient.Here how many
+factors do you have?And this is a little bit
+tricky, because you might say,well, isn't 5x squared times
+y, isn't that equal to 5 timesx times x times y?And you'd be right.So it would be very tempting to
+say that you have four factors.But the convention, the
+tradition that most people use,is that they
+consider the exponentwith x as a base as just
+one factor, this as just onefactor.So traditionally, people will
+say this has three factors.It has a 5x squared
+and a y. x squaredis just considered a factor.And once again, what's
+the coefficient?It's the 5.So with that in mind,
+how many factors here?Well, you have
+three factors here.You have an x.You have a y squared.And you have a z to the fifth.And then, finally, this last
+term, it's a constant term.How many factors does it have?Well, it's just 1.It's just got a 1 sitting there.It's not being
+multiplied by anything.

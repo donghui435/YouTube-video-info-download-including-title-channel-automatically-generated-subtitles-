@@ -1,0 +1,84 @@
+Hi and welcome to Math Antics.In our last geometry video, 
+we learned some important things about angles.One of the things we
+learned was than angles come in different sizes.Some are big and some are small.Well in this video, we're gonna learn how
+we can tell exactly how big or small an angle is.We're gonna learn how angles are measured.You probably already know a lot about measurement,like you know how to measure how long something is with a ruler or a tape measure.And the units you'd use would be inches, or centimeters, or something like that, right?But when it comes to angles, we can't use
+a ruler to measure them, or use units like centimeters.And that's because angles aren't
+about length, angles are about rotation.And to measure how much something is rotated,
+we use a special unit called degrees.Now hold on a second, I thought degrees were used
+to measure how hot or cold something is.Ya know, like, "it's 100 degrees outside today!"Ah, that's a good point you smart looking
+fellow. The word degree is actually used fora lot of different things, so it can be a
+little confusing sometimes.It makes more sense if you just think of a
+degree as a small amount of something. For temperature, a degree is a small amount of heat.But for angles, a degree is a 
+small amount of rotation.And there's a special math symbol for degreesthat we can use instead of writing 
+the word 'degrees' over an over again.It's this little circle that you put after the number
+and up near the top.To see how we use degrees to measure angles,let's get two rays that point in exactly the 
+same direction.Then, let's put one ray
+directly on top of the other one, so it lookslike there is only one ray there,
+even though there's really two.Now, let's take the ray on top and rotate it
+just a tiny amount counter-clockwise.This point on the ray will be our axis
+(or center) of rotation.It is like the point at the center
+of a clock that stays stationary
+while the hands rotate around it.Our rays now form an angle that measures 1 degree, and as you can see, 1 degree is a really small angle.We need to zoom in on
+it to see that it really is an angle.In fact, you might wonder if there could be any angle
+smaller than 1 degree.Yep, there sure are. And we saw one just a
+second ago.Before we rotated our top ray,
+when our rays were exactly on top of each other,that is a zero degree angle.And there's a whole range of tiny fraction
+angles between 0 and 1 degree,but we aren't going to learn about them in this video.Instead, we are going to keep on rotating
+our top ray and watch the angle get bigger and bigger.This special readout here will
+tell us how many degrees our angle measures.Now let's start out slow. 1 degree, 2, 3, 4, 5,
+6, 7, 8, 9, and 10, now let's hold it there for a second.So this is what 10 degrees looks like.10 degrees?! That's f-f-freezing!Huh. Guess you're not as smart as I thought
+after all.So we can see that a 10 degree angle is still
+a very small angle.So let's keep going, but a little bit faster this time.That's 15 degrees, 20, 25, 30, 35, 40 and 45.Now 45 degrees is a special angle because it's exactly half of a right angle.If we draw a right angle in the same spot, you can see that our ray cuts it into two equal parts.So, if 45 is half of a right angle, can you
+guess how many degrees a right angle is? Let's keep on rotating to see if you're right. 50, 60, 70, 80, and 90.Yep, a right angle is exactly 90 degrees, and that is super important to memorize because
+right angles are used all the time in geometry.Okay, do you remember from our last videothat all angles less than a right angle are called
+acute angles?So that means that all
+the angles we've seen so far that are between0 and 90 degrees (like 10, 30, 45, 60 and
+so on) are acute angles.But, if we keep on rotating our ray past
+90 degrees,we'll start forming obtuse angles,
+because they are greater than a right angle.Ready? Here we go. 100 degrees, 110, 120, 130, 140, 150, 160, 170 and 180.Ah ha, does this look familiar? Yep. It's a straight angle, like we learned about in the last video.The rays point in exactly
+opposite directionsand the angle they form is 180 degrees. And that's also a really important
+angle measurement to memorize.Now before we go on, let's quickly review
+the important angles and regions we've looked so far.Our angle measurement is zero degrees when
+the rays point in the same direction.It's 90 degrees when they are perpendicular,
+and form a right angle.And it's 180 degrees when they point in 
+opposite directions, and form a straight angle.In this region (between 90 and 180)
+we find obtuse angles.And in this region (between 0 and 90)
+we find acute angles.One important acute angle is 45 degrees since
+it's half of a right angle.Alright then, let's continue rotating past
+180 degrees.Our angle readout keeps getting higher, and the next important angle we come to is this one, 270 degrees.It also forms a right angle,
+but it points down instead of up.Let's keep on going because another really
+important angle is just around the corner.And it's coming up right about now!We've rotated our ray all the way around the axis
+and now it's back to where we started.Now you might be wondering, "If we're back
+where we started, then why is our counterreading 360 degrees instead of 0 degrees like before?"The answer is that, even though our rays are back to the same place, we had to rotate our top ray 360 degree to get it there.And you can see that our angle arc
+now forms a complete circle.So 360 degrees is the angle that represents
+a full circle! Rotating 360 degrees bringsyou all the way around the circle to the point
+where you started from.Okay, now that you know what degrees are and
+have seen how they relate to the size of an angle,we need to learn how to actually measure
+an angle without this fancy readout that we have here.Just like a ruler can be used to measure the
+length of a line,a special tool called a protractor
+can be used to measure angles.A protractor is similar to a ruler, but it's
+curved into a half-circle so that it can measurerotation around an axis point. A protractor
+also has a straight edge with a hole or dotin the middle that represents the axis, or
+center of rotation.So, if you are given a mystery angle
+(like this one)and you want to measure how many degrees it is,you just put your protractor
+on top of itso that the axis point lines up with the intersection of your rays, like this.Then you make sure that one of the rays lines
+up with the straight line on the protractor.And last of all, you look to see where the other
+ray crosses the curved partand read off what angle measurement it lines up with.As you can see, this angle is 50 degrees.Alright, there's one more thing I want to
+teach you in this video because you will probablysee this kind of geometry problem on your
+homework or tests.Do you remember what complementary and supplementary angles are from the last video?Complementary angles combine to form a right angle, and supplementary angles combine to form
+a straight angle.Well, now that we know a right angle is 90
+degrees, and a straight angle is 180 degrees,we can use that information to solve problems
+that have unknown angles, like this one.It shows two angles (A & B)
+that combine to form a right angle.The problem tells us that angle A is 30 degrees,
+and it wants us to figure out what angle B is.Fortunately, it's easy to figure that out nowbecause we know that a right angle is 90 degrees,so we know what the total of both angles must be.That means that to find angle B, all we do is take
+the total (which is 90 degrees)and subtract angle A (Which is 30 degrees) 
+and whatever is left over will be angle B. So, 90 - 30 = 60. Angle B is 60 degrees.Now let's try this problem. It uses the same
+idea, but with a straight angle this time.The straight angle is divided into two smaller
+angles. (again, angle A & angle B)And again, the problem tells us that angle A is 70 degrees, and it wants us to figure out what angle B is.Well, we know that the total of both angles
+must be 180 degreesbecause we just learned
+that's how big a straight angle is.So if we take that total (180 degrees) and subtractangle A (which is 70 degrees), whatever is
+left after subtracting must be angle B.So 180 - 70 = 110.Pretty cool, huh? And now you can see why
+it's important to know how degrees work in geometry.They can tell us how big angles
+are or how much something is rotated.Well, that's all I've got for you in this video. But don't worry, there's a lot more geometry 
+where that came from. So I'll get going on my next video, and you get going on practicing what you've learned.Thanks for watching Math Antics,
+and I'll see ya next time.Learn more at mathantics.com.

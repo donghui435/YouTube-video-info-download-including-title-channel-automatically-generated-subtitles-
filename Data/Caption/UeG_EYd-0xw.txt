@@ -1,0 +1,48 @@
+Rewrite the expression
+below applyingthe commutative and associative
+properties of addition.And then show that
+both expressionsyield the same result.So one, we could just evaluate
+the expression the wayit's written.And then we can
+kind of mess aroundwith it using the commutative
+and associative propertiesof addition.So let's first add 17.5 plus 3.So that's going to give us 20.5.So this is going to be 20.5.And then to that, we're
+going to add negative 7.5.Now, adding negative 7.5
+is the exact same thingas subtracting 7.5.So this is going to be equal
+to-- the 0.5's cancel out.And then 20 minus 7 is 13.So that's our first way
+of getting the answer.And we kind of adhered
+to the parentheses.Now let's use the
+commutative property.The commutative
+property tells usthat the order doesn't matter.We can commute these
+numbers around.They can move, commute.It's like you're going to work.They can move around.So let's just move
+the numbers around.Let's make it--
+actually, we coulddo all sorts of crazy things.We could just change
+the order here.We could make this negative
+7.5 plus 17.5 plus 3.We could keep the
+parentheses, just like that.So we would have
+essentially just changedthe order of this
+expression right over here.But let's use both
+the commutativeand the associative properties.So now we've commuted
+everything around.And now we can
+re-associate everything.So instead of putting the
+parentheses like that,we could put the
+parentheses like that.So that's what the
+associative property tells us.So let me write this down.So associative
+property of additiontells us that a plus b plus
+c-- we do a plus b first--is the same thing as a plus b
+plus c, where you do b plus cfirst.The commutative
+property tells usthat a plus b is
+equal to b plus a,that you can move
+these guys around.So let's evaluate this one.We actually got here
+using both the commutativeand the associative property.So we get negative
+7.5 plus 17.5.This is the exact same
+thing as 17.5 minus 7.5.It might be easier for
+you to realize, OK,I'm adding two numbers
+of different signs,so what I could do is take the
+difference between the two.And since the larger
+number is positive,I have a larger number.Or you could just view
+this as 17.5 minus 7.5.So 17.5 minus 7.5--
+the 0.5's cancel out.17 minus 7 is 10.So this part right
+here becomes 10.And then we still
+have the plus 3 there.And that, once again, is
+going to be equal to 13.And we could keep
+commuting this aroundand keep re-associating it.No matter how we do it,
+we are going to get 13.

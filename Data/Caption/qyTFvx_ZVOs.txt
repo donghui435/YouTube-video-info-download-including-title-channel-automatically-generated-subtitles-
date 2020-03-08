@@ -1,0 +1,30 @@
+Hello.I'm Professor Von Schmohawk
+and welcome to Why U.In the last lecture we saw that any fraction
+can be converted to a decimal numberby simply dividing the numerator by the denominator.The result of this division will be a decimal
+number which is equivalent to the fraction.This decimal number will either terminate,meaning that it can be represented with
+a finite number of digits,or it will have one or more digits
+which repeat forever.In this lecture, we will see how to convert
+any terminating decimal numberback into a fraction.Remember that each digit in a decimal numberrepresents a value ten times that
+of the digit to its right.Now if we take any decimal number
+and multiply it by ten,each digit is shifted one column to the left.We have increased the value of each digit
+by a factor of ten.This is also true when there are digits
+to the right of the decimal point.For example, the decimal equivalent to
+the fraction one-eighthis zero point one-two-five.If we multiply this number by ten, each digit
+is shifted one column to the left.If we multiply by ten again, each digit is
+shifted one more column to the left.And if we multiply by ten a third time,there will be no more digits
+to the right of the decimal point.We will have an integer.So by multiplying our decimal number by ten
+three times,which is the same as multiplying by one-thousand,we have produced an integer which is
+one-thousand times the original number.If we then divide this integer by one-thousand,
+the result will be equal to the original number.So zero point one-two-fiveis equivalent to the fraction
+one-hundred-twenty-five one-thousandths.Now, using the techniques we learned in our
+lecture on reducing fractions,we can simplify this fraction to one-eighth.So we have converted the decimal number
+zero point one-two-five,to the fraction one-eighth.We can use this same techniqueto convert any decimal number with
+a finite number of digits to a fraction,by multiplying it by ten enough times
+to produce an integer,and then dividing the integer by
+the same amount we multiplied by.If the number we are converting also has digits
+to the left of the decimal point,we just separate it into an integer, plus
+the digits to the right of the decimal point,and then convert the digits on the right
+into a fraction.We can then combine the integer and the fraction,
+to create a mixed number.So far we have seen how to convert any
+decimal number with a finite number of digitsto a fraction.In the next lecturewe will see how to convert any decimal number
+with infinitely repeating digits to a fraction.

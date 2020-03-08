@@ -1,0 +1,69 @@
+Determine whether 380 is
+divisible by 2, 3,4, 5, 6, 9 or 10.They skipped 7 and 8
+so we don't haveto worry about those.So let's think about 2.So are we divisible by 2?Let me write the 2 here.Well, in order for something to
+be divisible by 2, it hasto be an even number, and to be
+an even number, your onesdigit-- so let me rewrite 380.To be even, your ones digit
+has to be even, sothis has to be even.And for this to be even, it has
+to be 0, 2, 4, 6 or 8, andthis is 0, so 380 is even, which
+means it is divisible by2, so it works with 2.So 2 works out.Let's think about the
+situation for 3.Now, a quick way to think about
+3-- so let me write just3 question mark-- is to add
+the digits of your number.And if the sum that you get is
+divisible by 3, then you aredivisible by 3.So let's try to do that.So 380, let's add the digits.3 plus 8 plus 0 is equal to--
+3 plus 8 is 11 plus 0,so it's just 11.And if you have trouble figuring
+out whether this isdivisible by 3, you could then
+just add these two numbersagain, so you can actually add
+the 1 plus 1 again, and youwould get a 2.Regardless of whether you look
+at the 1 or the 2, neither ofthese are divisible by 3.So not divisible by 3, and maybe
+in a future video, I'llexplain why this works, and
+maybe you want to think aboutwhy this works.So these aren't divisible by
+3, so 380 is not divisible.380, not divisible by 3,
+so 3 does not work.We are not divisible by 3.Now, I'll think about the
+situation for 4, so we'rethinking about 4 divisibility.So let me write it in orange.So we are wondering about 4.Now, something you may or may
+not already realize is that100 is divisible by 4.It goes evenly.So this is 380.So the 300 is divisible by 4, so
+we just have to figure outwhether the leftover, whether
+the 80, is divisible by 4.Another way to think about it
+is are the last two digitsdivisible by 4?And this comes from the fact
+that 100 is divisible by 4, soeverything, the hundreds place
+or above, it's going to bedivisible by 4.You just have to worry
+about the last part.So in this situation, is
+80 divisible by 4?Now, you could eyeball that.You could say, well, 8 is
+definitely divisible by 4.8 divided by 4 is 2.80 divided by 4 is 20,
+so this works.Yes!Yes!So since 80 is divisible
+by 4, 380 is alsodivisible by 4, so 4 works.So let's do 5.I'll actually scroll
+down a little bit.Let's try 5.So what's the pattern when
+something is divisible by 5?Let's do the multiple of 5?5, 10, 15, 20, 25.So if something's divisible by
+5-- I could keep going-- thatmeans it ends with either
+a 5 or a 0, right?Every multiple of 5 either has
+a 5 or a 0 in the ones place.Now 380 has a 0 in the
+ones place, so it isdivisible by 5.Now, let's think about
+the situation for 6.Let's think about what
+happens with 6.So we want to know are
+we divisible by 6?So to be divisible by 6, you
+have to be divisible by thethings that make up 6.Remember, 6 is equal
+to 2 times 3.So if you're divisible by 6,
+that means you are divisibleby 2 and you are
+divisible by 3.If you're divisible by both
+2 and 3, you'll bedivisible by 6.Now, 380 is divisible by 2, but
+we've already establishedthat it is not divisible by 3.If it's not divisible by 3, it
+cannot be divisible by 6, sothis gets knocked out.We are not divisible by 6.Now, let's go to 9.So divisibility by 9.So you can make a similar
+argument here that ifsomething is not divisible by
+3, there's no way it's goingto be divisible by 9 because
+9 is equal to 3 times 3.So to be divisible by 9, you
+have to be divisible by 3 atleast twice.At least two 3's have to go
+into your number, and thisisn't the case, so you could
+already knock 9 out.But if we didn't already know
+that we're not divisible by 3,the other way to do it is a very
+similar way to figure outdivisibility by 3.We can add the digits.So you add 3 plus 8 plus
+0, and you get 11.And you say is this
+divisible by 9?And you say this is not
+divisible by 9, so 380 mustnot be divisible by 9.And for 3, you do the same
+thing, but you test whetherthe sum is divisible by 3.For 9, you test whether
+it's divisible by 9.So lastly, we have
+the number 10.We have the number 10, and
+this is on some level theeasiest one.What do all the multiples
+of 10 look like?10, 20, 30, 40, we could just
+keep going on and on.They all end with zero.Or if something ends with zero,
+it is divisible by 10.380 does end with zero, or its
+ones place does have a zero onit, so it is divisible by 10.So we're divisible by all
+of these numbers exceptfor 3, 6 and 9.

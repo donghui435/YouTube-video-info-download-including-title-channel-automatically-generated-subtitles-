@@ -1,0 +1,76 @@
+We're told to plot these values
+on a number line.And you see every one of
+these values have anabsolute value sign.So let's take a little bit of
+a review of what absolutevalue even is.The way I think about
+it, there's two waysto think about it.The first way to think about
+it is, how far issomething from 0?So let me plot this
+negative 3 here.So let me do a number line.This isn't the number line for
+our actual answer, or to thiscommand-- plot these values
+on a number line.I'm just first going to plot
+the numbers inside theabsolute value sign, and then
+we're going to take theabsolute value and plot those,
+just like they'reasking us to do.So on this number line, if this
+is 0, if we go to thenegative, we're going to
+go to the left of 0.So this is negative 1, negative
+2, negative 3.Negative 3 sits right over
+there, so this is negative 3right there.The absolute value of negative
+3 is essentially saying, howfar are you away from 0?How far is negative 3 from 0?And you say, well, it's
+1, 2, 3 away from 0.So you'd say that the absolute
+value of negative 3 is equalto positive 3.Now that's really the conceptual
+way to imagineabsolute value.How far are you away from 0?But the easy way to calculate
+absolute value signs, if youdon't care too much about the
+concept, is whether it'snegative or positive, the
+absolute value of it's alwaysgoing to be positive.Absolute value of negative
+3 is positive 3.Absolute value of positive
+3 is still positive 3.So you're always going to get
+the positive version of thenumber, so to speak.But conceptualy, you're just
+saying how far awayare you from 0.So let's do what they asked.So that first value, on this
+number line, so all of theseare absolute values.So they're all going to
+be positive values.So they're all going to
+be greater than 0.So let me draw my number
+line, like this.I can do a straighter number
+line than that.Let's see.Well, that's a little
+bit straighter.And let's say, if this is 0,
+this would be negative 1, thenyou'd have 1, 2,
+3, 4, 5, 6, 7.I think that'll do the trick.So this first quantity here--
+I'll do it in orange --theabsolute value of negative 3,
+we just figured out, that ispositive 3.So I'll plot it right over
+there, positive 3.Then this next value, right
+here, the absolute value of 7.If we look over here,
+1, 2, 3, 4, 5, 6, 7.7 is how far away from 0?It is 7 away from 0.So the absolute value
+of 7 is equal to 7.So you already see the
+pattern there.If it's negative, it just
+becomes positive.If it's already positive,
+it just equals itself.So plotting this value,
+I'll just placeit right over there.So the absolute value
+of 7 is 7.Absolute value of negative
+3 is positive 3.Let me mark out the 0 a little
+bit better, so you seerelative to 0.Now we have the absolute
+value of 8 minus 12.Well, first of all, let's figure
+out what 8 minus 12 is.So if you take 12 away from
+8, you're at negative 4.12 less than 8 is negative 4.And you can do that on a number
+line if you don't quiteremember how to do this.But if you, you know, if you
+take 8 away from 8, you're at0, and then you take another
+one, you're at negative 1,negative 2, negative 3, all
+the way to negative 4.So this is equal to the absolute
+value of negative 4.If we just plot negative 4, we
+go 1, 2, 3, negative 4 isright over there.But if we're taking its absolute
+value, we're sayinghow far is negative 4 from 0?Well it's 4 away from 0.1, 2, 3, 4.So this is equal
+to positive 4.So we'll plot it right here.This number line is the answer
+to this command up here.So the absolute value of 8 minus
+12, which is negative 4,is positive 4.Then we have the absolute
+value of 0.So how far is 0 from 0?Well, it's 0 away from 0.The absolute value of 0 is 0, so
+you can just plot it rightover there.And we have one left.Let me pick a suitable
+color here.The absolute value
+of 7 minus 2.Well, 7 minus 2 is 5, so this
+is the same thing as theabsolute value of 5.How far is 5 away from 0?Well, it's just 5 away.It's almost, you
+know, too easy.That's what makes
+it confusing.If I were to plot 5,
+it's 1, 2, 3, 4, 5.It is 1, 2, 3, 4,
+5 spaces from 0.So the absolute value
+of 5 is 5.So you plot it just like that.So conceptually, it's how
+far you are away from 0.But if you think about it in
+kind of just very simpleterms, if it's a negative
+number, it becomes a positiveversion of it.If it's a positive number
+already, it just equals itselfwhen you take the
+absolute value.

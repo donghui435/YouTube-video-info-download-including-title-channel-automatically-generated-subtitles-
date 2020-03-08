@@ -1,0 +1,192 @@
+MATT PARKER: 0 is a perfectly
+good number.And you ignore it
+at your peril.The problem is it's a
+dangerous number.And a lot of things can go
+horribly wrong with 0.And because it is a slightly
+more unusual, nuanced number,you have to be a little
+bit more careful withhow you handle it.And so there are some things
+that you can't do with it.So you can't divide
+something by 0.And you can't have things like
+0 to the power of 0.And I get asked about
+these all the time.People are constantly, why
+can't I divide by 0?I want to divide by 0?Isn't it just infinity?Blah, blah, blah.And so I thought I would
+do two things.First of all, I'm going to show
+you why, no, you cannotdivide by 0.It's not just infinity.It's a bit more complicated
+than that.And then, I'm also going to look
+at why you can't have 0to the power of 0.JAMES GRIME: OK, so this is
+something that we've beenasked a lot at Numberphile.Well, you may know that
+something like multiplicationis just glorified
+adding, really.You want to do 5 times 10?You just add on 5 plus 5
+plus 5 plus 5 10 times.Division is just glorified
+subtraction.So if I want to take a number
+like, oh, 20, and then divideit by 4, I just keep
+subtracting 4.So you take away 4, take
+away 4, take away 4.You do that five times.And that number, 5, that's
+your answer.20 divided by 4 is equal to 5.So it's just glorified
+subtraction.That's really what it is.Now, if I divide by 0, then that
+means I'm subtracting 0over and over.So 20 divided by 0 means
+I take away 0.I've got 20.And then, I take away 0 again.I've still got 20.I take away 0, and 0, and that
+would go one forever.You would never get very far
+doing something like that,keep taking away 0.So 20 divided by 0?That's infinity, isn't it?Surely--surely it's infinity.And that's what I expect
+people to think.Surely only a nerd would
+tell you differently.That's when you cut to Matt
+telling them differently.MATT PARKER: Because first of
+all, everyone goes, why can'tyou just say that's something
+divided by 0?So let's say I'm going
+to do a function.I'm going to have the
+function of 1/x.JAMES GRIME: We don't say
+something is equal toinfinity, OK?So infinity is not a number,
+and it can't betreated like number.It's an idea.So we can't say 1 divided
+by 0 equals infinity.We can no more say that than we
+can say 1 divided by 0 isequal to blue.But if I am naughty and I do
+this, 1 divided by 0 is equalto infinity, you would get just
+as equally 2 divided by 0is equal to infinity.And obviously you get
+the problem here.That's one seems to
+be equal to 2.Oh, and we see that's
+nonsense.And that's why we don't-- so
+for a very good reason, wedon't say it's equal
+to infinity.You're going to get nonsense
+like 1 equals 2.MATT PARKER: But what
+if you take a limit?What if you just take
+the limit as x getsreally close to 0?Doesn't this equal infinity?And so you would say that
+actually, dividing by 0, youcould therefore conclude that 1divided by 0 equals infinity.And I'm going show you why
+you can't do that.So if you imagine your
+number line here.This is the number line.I'm going to put
+0 right there.So there's 0 in the middle.And out here, this might be 1
+and so on, all the way up.And as you go along, this here,
+I'm going to draw onthis axis going up.This here is 1/x.I'm going to have 1/x on that.And over here where it's 1, this
+would be about 1 there.When you come back to, let's
+say, about 1/2, this is goingto be a bit bigger.It's going to be twice as big.By the time you get down to
+about 1/4, that's going to betwice as being again.And if you come-- as you get
+closer and closer, this does--it does, I absolutely agree--
+this gets bigger and bigger.This goes racing off.And it does tend to infinity.This is absolutely correct.But this only works if you're
+approaching 0 from thepositive numbers, if you're
+coming in from the right onyour number line.If you come in from the left,
+it's completely different.So if you start over here at
+negative 1, then your value isactually down here at 1.If you then go to negative
+1/2, it's down here atnegative 2.And as you get closer and
+closer, the value goes racingoff in this direction.In fact, it goes racing down
+to negative infinity.So yes, if you approach
+0 from onedirection, you get infinity.But if you come in a different
+way to exactly thesame place, you get--well, you can't get much
+more differentthan negative infinity.And people will yell at me
+if I say it's infinitelydifferent from positive
+infinity, blah, blah.Maybe this line goes all the
+way around and wraps aroundthe entire universe and then
+comes back up here.But as far as I'm concerned,
+if you're coming from onedirection you get one answer.If you're coming from the other
+direction, you get adifferent answer.You're going to the
+same place.There is no one limit as you
+get closer and closer todividing by 0.There's more than
+one limit withcompletely different answers.And that's why we say
+it's undefined.Mathematically, what we
+would say is we say--I want blue this time, sorry.If you approach the limit as x
+approaches 0 from the positivedirection, equals positive
+infinity.And then separately, down
+here, the limit as xapproaches 0 from the negative
+direction of 1/x equalsnegative infinity.And these are different.They equal different things.We simply cannot just assume
+that 1/0 equals infinity.JAMES GRIME: If you go to 0
+from this direction, it'sgoing off to plus infinity.And if you go to 0 from this
+direction, it goes off tominus infinity--two different answers.BRADY HARAN: When I type
+1 divided by 0 into mycalculator or my computer,
+it can't do it.It can't handle it.What's it trying
+to do, though?What can it not do?What happens in those
+circuits?What did it try and
+fail to do?Or has the calculator
+been taught?MATT PARKER: Oh, that's
+a very good question.Is it attempting to do
+something, and then it's notgetting an answer?Or has it just been rote taught
+to not divide by 0?I honestly don't know.I suspect it's just been taught
+that if someone hitsdivide by 0, say error.Or what it might do is actually
+try to get to thatanswer by an iterative process,
+which it then findsexploding in one or the other.And so it's got some kind of
+built-in cap or some kind ofsafety switch which goes off
+to say, this calculation isgetting out of control.Call it off here.Just say maths error.But I imagine it might even vary
+from device to device.But it'd be one of the two.The other thing that people get
+very annoyed about is whenyou've got 0 to the
+power of 0.And the reason they get annoyed
+about this is whenyou've got anything, anything at
+all, to the power of 0, youalways say it equals 1.And when you've got 0 to the
+power of anything, you alwayssay it equals 0.So what happens when
+these collide?And people, to be honest, argue
+different ways dependingon what they need.More often than not, people
+argue for 0 to the 0 equals 1in my experience, although the
+video I did on 345 forNumberphile, people in the
+comments argued that 0 to the0 should be 0, which is, of
+course, equally insane.And I'm going to show you
+why you can't have this.And this is absolutely lovely
+because when you start withyour number line here--this is a normal number line.There's 0 in the middle.This time, you can look at the
+limit as x approaches 0.So this time, our function is
+x to the power of x, right?And we're going to
+slide it in.And in fact, we have to do
+it from both directions.We have to come in from the
+positive direction.And as we know, we have to
+come in, the limit as xapproaches 0, from a negative
+direction of x to the x.And we'll see what we get.And obviously, if they're
+different, then things aregoing horribly wrong.So if I draw in my
+y-axis here.This is where I'm going to
+be graphing x to the x.As you get closer in--and to be honest, the path
+we follow is irrelevant.But what happens is as
+you come in from oneside, you hit 1.As you come in from the
+other side, you hit 1.In fact, these have exactly
+the same answer.They both give you one.And so you say, well, if it
+doesn't matter which sidewe're coming in from, if we can
+come in along the numberline this way into the middle,
+or we can come along thenumber line this way into the
+middle, and both cases, thefunction has the same limit,
+surely we can just call it 1.But it's slightly more
+complicated because this isonly the real number line.I'm not going to go into this.But the real number line is very
+boring because it's onedimensional.You can go backwards and
+forwards on your numbers.You've also got the
+complex numbers.And for that, you need to
+put in the imaginary.So I'm going to put in-- this
+is my imaginary axis.And so now, you've got this
+entire surface of numbers.And you've got the real
+in one direction,imaginary in the other.And any single point in there is
+part of the complex plane.In fact, now there are loads of
+different ways to come intowards the origin.And you could approach it from
+anywhere on the complex plane.And then, these approaches,
+you get different limits.You don't get 1 anymore.It starts to fall apart once you
+go to the complex plane.And so this is why, even though
+on the surface of it itmight look like the limit should
+be 1, it doesn't workonce you go to complex
+numbers.And that's why mathematicians
+still get very emotional whenyou try to say that 0 to
+the 0 has a value.In fact, it is still undefined
+because the limits vary.JAMES GRIME: How about something
+like x divided by y?So I'm going to draw--here's x and here's y.If I think about x
+divided by y--BRADY HARAN: Slide that
+page around a bit?JAMES GRIME: If I think about x
+divided by y, this is goingto be fine except here.This is called the origin.It's the point 0, 0.x is equal to 0 and
+y is equal to 0.So at this point, we have
+something that is0 divided by 0.That doesn't sound like
+good news at all.What is that?Is it 0?Is it infinity?What is it?In fact, it can be any answer
+you want it to be depending onthe angle you come from.I'll show you what I mean.Now, this line is y equals x.This line.Now, if I travel along
+that line, thenthis thing here, x/y--why did I say this?
+y equals x?This is actually x divided
+by x now, which is 1.So this is 1.Everything on this line is 1.So it would be OK if I'm only
+traveling along that line.I would be quite happy to say
+that that is a 1 as well.Everything else is.So I'm going to say,
+yeah, that is.That's called a removable
+singularity.That's it's proper name.If I travel along this
+direction, this is the line yequals minus x.If I do that, y equals
+minus x.In that case, you get
+x divided by y.y is equal to minus x.So this is minus 1.Everything on this
+line is minus 1.Now, let's try this.I'm going to travel
+along the x-axis.X-axis--In other words, this
+is y equals 0.That's what the x-axis is.So y equals 0.If I do that, then I
+get x divided by y.I said y equals 0.So here's x divided by 0.Oh, dear.Well, we know that this
+is a problem.But it's going to be something
+like I'm going to be naughty.It's going off to infinity--plus infinity, minus infinity.But it's something like that.If I go along this direction,
+which is the y-axis, here xequals 0 down here.But you have the same thing,
+right? x is equal to 0.So I'm going to say 0.x is equal to 0.Divide it by y.That's 0 divided by 1.Everything on this line
+is equal to 0.So I would be justified to say,
+well, that point is theonly problem.Take it out, and call it 0.So it just depends on which
+angle you approach from.In fact, I can make
+any number.I've made minus 1, plus
+1, infinity, and 0.And depending on which angle you
+come at, you can make anynumber you want out of that.So 0 divided by 0 is this
+property called undefined.Frankly, we could make it to be
+anything we want it to bedepending on the angle
+we come at it from.[INTERPOSING VOICES]MATT PARKER: It's all to do with
+the angle that the matchtakes as being sort of--

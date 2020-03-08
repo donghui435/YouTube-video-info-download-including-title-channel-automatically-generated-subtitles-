@@ -1,0 +1,31 @@
+We're asked to simplify d times
+4d to the 1/2 power.So let's see what
+we can do here.And I think there's multiple
+ways to kind of simplify it,and we'll explore all of them.So d times 4d to the 1/2.4d to the 1/2, let me just focus
+on that right there.4d to the 1/2.If you take the product of two
+things and you raise that toan exponent, that's the same
+thing as taking each of thoseterms to that exponent and
+then taking the product.So 4d to the 1/2 is the same
+thing as 4 to the 1/2 times dto the 1/2.And of course, you have
+this d out front.And I could put the parentheses
+here, but itdoesn't matter at this point.Now you just have three
+things that you'retaking the product of.So I'll put this d out
+front just like that.And now there's a couple of ways
+you could think about it.You have this 4 to the 1/2 power
+and you're taking itsprincipal square root, so its
+positive square root.So that right there
+is going to be 2.So 4 to the 1/2, that
+right there is goingto be equal to 2.And then, there's a couple of
+ways you could think about it.You have this d out front.And then you have
+a d to the 1/2.And there's several ways that
+you can now represent this,depending on what you feel--
+I don't know--aesthetically pleasant.You could say, well look, this
+is d to the first power.This is d to the 1/2 power.I could add them.So one way to say it is it's 2
+times d to the 1 plus 1/2.You can either say 1 and
+1/2 power or 3/2power if you want.So that's one simplification
+of this expression.Another simplification would be
+well, you could say, look.d to the 1/2, that is the same
+thing as the square root of d.So you could say this is the
+same thing as 2 times d timesthe square root of d.So any of these are actual
+simplifications, but it'sinteresting to see that
+they're really allrepresenting the same thing.

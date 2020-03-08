@@ -1,0 +1,118 @@
+So let's say that we've
+got a pool of waterand I drop a rock into the
+middle of that pool of water.And a little while later,
+a little wave, a ripplehas formed that is moving
+radially outward from whereI dropped the rock.So let's see how
+well I can draw that.So it's moving
+radially outwards.So that is the
+ripple that is formedfrom me dropping the
+rock into the water.So it's a circle centered
+at where the rock initiallyhit the water.And let's say right at this
+moment the radius of the circleis equal to 3 centimeters.And we also know that
+the radius is increasingat a rate of 1
+centimeter per second.So radius growing at rate
+of 1 centimeter per second.So given this, right
+now our circle,our ripple circle has a
+radius of 3 centimeters.And we know that the
+radius is growingat 1 centimeter per second.Given that, at what rate
+is the area growing?At what rate is area
+of circle growing?Interesting.So let's think
+about what we knowand then what we
+don't know, what we'retrying to figure out.So if we call this radius
+r, we know that right now ris equal to 3 centimeters.We also know the
+rate at which r ischanging with respect to time.We also know this information
+right over here. dr dt,the rate at which the radius is
+changing with respect to time,is 1 centimeter per second.Now what do we
+need to figure out?Well, they say at what rate is
+the area of the circle growing?So we need to figure
+out at what rateis the area of
+the circle-- wherea is the area of the circle--
+at what rate is this growing?This is what we
+need to figure out.So what might be
+useful here is if wecan come up with a relationship
+between the area of the circleand the radius of the
+circle and maybe takethe derivative with
+respect to time.And we'll have to use a
+little bit of the chain ruleto do that.So what is the relationship
+at any given pointin time between the
+area of the circleand the radius of the circle?Well, this is
+elementary geometry.The area of a circle
+is going to beequal to pi times the radius
+of the circle squared.Now what we want
+to do is figure outthe rate at which the area is
+changing with respect to time.So why don't we
+take the derivativeof both sides of this
+with respect to time?And let me give myself a
+little more real estate.Actually, let me just
+rewrite what I just had.So pi r squared.Area is equal to pi r squared.I'm going to take the
+derivative of both sides of thiswith respect to time.So the derivative
+with respect to time.I'm not taking the
+derivative with respect to r,I'm taking the derivative
+with respect to time.So on the left-hand
+side right over here,I'm going to have the
+derivative of our area.Actually, let me just write
+it in that green color.I'm going to have the
+derivative of our areawith respect to time
+on the left-hand side.And on the right-hand
+side, what do I have?Well, if I'm taking the
+derivative of a constant timessomething, I can take
+the constant out.So let me just do that.Pi times the derivative with
+respect to time of r squared.And to make it a little bit
+clearer what I'm about to do,why I'm using the
+chain rule, we'reassuming that r is
+a function of time.If r wasn't a
+function of time thenarea wouldn't be a
+function of time.So instead of just writing
+r, let me make it explicitthat it is a function of time.I'll write r of t.So it's r of t,
+which we're squaring.And we want to find the
+derivative of this with respectto time.And here we just have
+to apply the chain rule.We're taking the derivative of
+something squared with respectto that something.So the derivative of that
+something squared with respectto the something is going
+to be 2 times that somethingto the first power.Let me make it clear.This is the derivative of r of t
+squared with respect to r of t.The derivative of something
+squared with respectto that something.If it was a derivative of x
+squared with respect to x,we'd have 2x.If it was the derivative of r
+of t squared with respect to rof t, it's 2r of t.But this doesn't get us just
+the derivative with respectto time.This is just the derivative
+with respect to r of t.The derivative at which this
+changes with respect to time,we have to multiply this
+times the rate at which r of tchanges with respect to time.So the rate at which r of t
+changes with respect to time?Well, we could just
+write that as dr dt.These are equivalent
+expressions.And of course, we
+have our pi out front.And I just want to
+emphasize this is justthe chain rule right over here.The derivative of something
+squared with respect to timeis going to be the derivative
+of the something squaredwith respect to the something.So that's 2 times the
+something, times the derivativeof that something
+with respect to time.I can't emphasize enough.What we did right over here,
+this is the chain rule.That is the chain rule.So we're left with
+pi times this isequal to the derivative of
+our area with respect to time.Now let me rewrite
+all this againjust so it cleans
+up a little bit.So we have the derivative
+of our area with respectto time is equal to
+pi times-- actuallylet me put that 2 out front.Is equal to 2 times
+pi times-- I can nowswitch back to just
+calling this r.We know that r is
+a function of t.So I'll just write 2
+pi times r times dr dt.Actually, let me
+make the r in blue.2 pi r dr dt.Now what do we know?We know what r is.We know that r, at this
+moment right in time,is 3 centimeters.Right now r is 3 centimeters.We know dr dt right now is
+1 centimeter per second.We know this is 1
+centimeter per second.So what's da dt
+going to be equal to?Well, it's going to be equal
+to-- do that same green-- 2pi times 3 times 3
+times 1 times-- that'spurple-- times 1
+centimeter per second.And let's make sure we
+get the units right.So we have a centimeter
+times a centimeter.So it's going to be centimeters.That's too dark of a color.It's going to be square
+centimeters, centimeterstimes centimeters, square
+centimeter per second, whichis the exact units we
+need for a change in area.So we have da dt is equal to
+this. da, the rate at whicharea is changing with respect
+to time, is equal to 6 pi.So it's going to be a little
+bit over 18 centimeters squaredper second.Right at that moment.Yep, 3 times 2 pi.So 6 pi centimeters
+squared per secondis how fast the
+area is changing.And we are done.

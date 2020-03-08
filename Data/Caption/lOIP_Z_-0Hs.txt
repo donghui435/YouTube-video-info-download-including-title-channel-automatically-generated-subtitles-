@@ -1,0 +1,135 @@
+Say you're me and
+you're in math class,and you're doodling
+flowery petally things.If you want something with
+lots of overlapping petals,you're probably following
+a loose sort of rulethat goes something like this.Add new petals where there's
+gaps between old petals.You can try doing
+this precisely.Start with some number
+of petals, say five,then add another
+layer in between.But the next layer, you have to
+add 10, then the next has 20.The inconvenient part
+of this is that youhave to finish a layer
+before everything is even.Ideally, you'd have
+a rule that justlets you add petals
+until you get bored.Now imagine you're
+a plant, and youwant to grow in a
+way that spreads outyour leaves to catch the
+most possible sunlight.Unfortunately,
+and I hope I'm notpresuming too much in
+thinking that, as a plant,you're not very smart.You don't know how to add
+number to create a series,you don't know geometry
+and proportions,and can't draw spirals, or
+rectangles, or slug cats.But maybe you could
+follow one simple rule.Botanists have
+noticed that plantsseem to be fairly
+consistent whenit comes to the angle between
+one leaf and the next.So let's see what you
+could do with that.So you grow your first leaf,
+and if you didn't change angleat all, then the
+next leaf you growwould be directly above it.So that's no good,
+because it blocksall the light or something.You can go 180 degrees, to
+have the next leaf directlyopposite, which seems ideal.Only once you go 180
+again, the third leafis right over the first.In fact, any
+fraction of a circlewith a whole number
+as a base is goingto have complete overlap
+after that number of turns.And unlike when you're
+doodling, as a plantyou're not smart enough to see
+you've gone all the way aroundand now should switch to
+adding things in between.If you try and
+postpone the overlapby making the
+fraction really small,you just get a ton of
+overlap in the beginning,and waste all this space,
+which is completely disastrous.Or maybe other
+fractions are good.The kind that position leaves
+in a star like pattern.It will be a while
+before it overlaps,and the leaves will be more
+evenly spaced in the meantime.But what if there
+were a fraction thatnever completely overlapped?For any rational fraction,
+eventually the star will close.But what if you used
+an irrational number?The kind of number that can't
+be expressed as a whole numberratio.What if you used the
+most irrational number?If you think it sounds weird
+to say one irrational number ismore irrational than
+another, well, youmight want to become
+a number theorist.If you are a number
+theorist, youmight tell us that phi is
+the most irrational number.Or you might say, that's like
+saying, of all the integers,1 is the integer-iest.Or you might
+disagree completely.But anyway, phi.It's more than 1, but less
+than 2, more than 3/2,less than 5/3.Greater than 8/5,
+but 13/8 is too big.21/13 is just a
+little too small,and 34/21 is even closer,
+but too big, and so on.Each pair of adjacent
+Fibonacci numberscreates a ratio that
+gets closer and closerto Phi as the numbers increase.Those are the same numbers on
+the sides of these squares.Now stop being a
+number theorist,and start being a plant again.You put your first leaf
+somewhere, and the second leafat an angle, which is
+one Phi-th of a circle.Which depending
+on whether you'regoing one way or the other,
+could be about 222.5 degrees,or about 137.5.Great, your second leaf is
+pretty far from the first,gets lots of space in the sun.And now let's add the next one
+a Phi-th of the circle away.And again, and again.You can see how new
+leaves tend to pop upin the spaces left
+between old leaves,but it never quite
+fills things evenly.So there's always room
+for one more leaf,without having to do
+a whole new layer.It's very practical and as a
+plant you probably like this.It would also be a good
+way to give lots of roomto seed pods and
+petals and stuff.As a plant that
+follows this scheme,you'd be at an advantage.Where do spirals come in?Let's doodle a pinecone
+using this same method.By the way, you can make
+your own phi angle-a-tronby dog-earing a corner
+of your notebook.If you folded it so
+the edges of the line--You have 45 degrees
+plus 90, which is 135.Pretty close to 137.5.If you're careful, you can
+slip in a couple more degrees.Detach your angle-a-tron
+and you're good to go.Add each new pine cone-y
+thing a phi angle around,and make them a little
+farther out each time.Which you can keep
+track of by markingthe distance on
+your angle-a-tron.Check it out!The spirals form by themselves.And if we count the number of
+arms, look it's five and eight.If you're wondering
+why spirals would form,and why always with
+Fibonacci numbers,you could morph back into a
+number theorist, or a geometeror something.But here's just a
+little bit of intuition.One simple way to do
+a flower is to startwith a certain number
+of petals, say five.And when you go back
+around, add the next layerclose to the first, but bigger.Each layer adds five new petals
+and the five arms spiral out.Looks pretty spiral-ey to me.Now go back to phi.You put out three petals
+before you go back around.And if I make them
+really wide, the next lapadds three petals that overlap
+a bunch with the first,and so on.If I started with
+skinnier petals though,the second time you go around it
+doesn't quite overlap so much.And it takes eight petals
+before it goes around twiceand they overlap enough
+for you to see the spirals.So this time I get 8 and 13.I mean none of the spirals
+are actually physically thereon any of these plants,
+it's just the plant bitsare close enough that
+you can see the pattern.So all the plant needs to
+do to get awesome Fibonaccinumbers of spirals, is add new
+bits at 137.5 degree angles.The rest takes care of itself.That the Fibonacci series
+is in so many thingsreally says less
+about those things,and more about mathematics.I mean that's what
+mathematics is all about.Simple rules,
+complex consequences.A process so easy that
+even a plant can do it,can turn into these amazing
+structures all around us.Just like a few
+simple postulatescan give us an incredibly
+powerful geometry.I mean that's all assuming
+that a plant can do it.But measuring the angles
+between plant bits,you can see they obviously
+do do it, somehow.I mean, it's not like
+they have angle-trons,but plants have been
+around a long time,and have had a lot of
+practice, so that probablyexplains everything.And so we always get spirals of
+5 and 8 on this flower, 5 and 8on this artichoke, 5
+and 8 on this pine cone,even this cauliflower has 1,
+2, 3, 4, 5, 6, 7-- um, anyway,we always get 1, 2
+3, 4, 5, 6, 7-- Huh.And 1, 2, 3, 4?It's easy to dismiss
+these as mutant anomalies,but just because they're
+different and unusual,doesn't mean we
+should ignore them.4?7?11?What could these numbers mean?Maybe things aren't as
+simple as I thought.

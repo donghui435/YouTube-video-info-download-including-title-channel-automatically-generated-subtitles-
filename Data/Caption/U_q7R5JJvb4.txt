@@ -1,0 +1,46 @@
+You may have been wondering, why do integrals
+always have that dx at the end? And what isthat dx, anyway?
+Well, there are a few answers to that question. Just like withanything else in math, your understanding
+of dx will get more and more complete as youget to higher and higher levels of math. A
+simplified, incomplete understanding of dxmight serve you best when you're just starting
+out with integrals, but you'll need a moreaccurate understanding as you go along. So
+let's start with the simplest answer, andthen peel away the first few layers of the
+onion.Answer number one: dx is just notation. In
+other words, the integral symbol, and thedx, are like bookends that frame the function
+that's supposed to be integrated. That functionin the middle is called the integrand, by
+the way. Basically the integral symbol andthe dx just work together to say, integrate
+whatever's between us.Answer number two: The dx tells you which
+variable to integrate. If it's a dx, you'resupposed to integrate with respect to x. If
+you had a dt instead, then you'd integratewith respect to t. In other words, the integral
+symbol tells you to integrate the function,and the dx tells you to do so with respect
+to the variable x. That's why the variablein the integrand usually matches the variable
+in the dx, or dt, or d anything.Now you might ask, why do I need the dx to
+tell me which variable to integrate, whenthe function only has an x in it in the first
+place? Great question! And you're right. Insingle variable calculus, the dx, or dt, or
+d whatever, feels a little irrelevant, becauseif there's only one variable in the integrand,
+then you already know which variable to integrate.It's pretty obvious that you would integrate
+f of x with respect to x, f of t with respectto t, or f of theta with respect to theta.
+But here's why it's going to matter later.When you get to multivariable calculus, and
+you have more than one variable inside thefunction, you'll need to know which variable
+to integrate, and that dx, or dt, or dy, willbe an absolute necessity. As an example, this
+double integral is telling you to integratefirst with respect to y, and then later with
+respect to x.Answer number three, the hardest, but best
+answer: dx is a differential, which meansthat it represents the difference between
+two things. So more specifically, it representsthe distance between two values of x. But
+while capital Dx is usually used to representany distance large or small, lowercase dx
+is what we use to specifically represent aninfinitely small distance between two x-values.
+In other words, the distance between two x-valuesthat are so close together, you care barely
+tell them apart.For some of you this might be yesterday, but
+think back to whenever you learned differentmethods for approximating the area under a
+curve, like Riemann sums and Trapezoidal rule.Those rules used a bunch of rectangles, or
+trapezoids, to approximate the area underthe curve. You just find the area of each
+rectangle, and then add all those areas together.Those methods rely on a consistent width for
+each rectangle. That width is called deltax, and delta x is just the distance between
+each x-value.So what happens to delta x when we want to
+try to find exact area, instead of just anestimation? Well, the integral is what's going
+to give us exact area, but the reason it givesexact area is because we change delta x to
+dx when we switch from the sum to the integral!Where delta x was the width of a rectangle,
+using dx instead of delta x makes the widthof each rectangle infinitely small. Since
+the dx is the only thing that makes thoserectangles infinitely thin, it's the only
+way for us to get to exact area. Which iswhy when you take the integral, and you're
+finding exact area, it always has to be accompaniedby that dx.Could you use some extra help with math?Click the button to head over to CalculusExpert.com.It's where I've collected and organized all of my best resourcesincluding exclusive videos, notes, quizzes, and even formula sheetsIt's the perfect resource, whether you're struggling,or if you want to take your learning further,or even if you just want to save yourself some time studying.So check it out, because I know it'll help.

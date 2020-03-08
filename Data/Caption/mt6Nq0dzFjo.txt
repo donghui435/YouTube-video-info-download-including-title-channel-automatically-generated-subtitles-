@@ -1,0 +1,194 @@
+SALMAN KHAN: I have
+some footage hereof one of the most exciting
+moments in sports history.And to make it
+even more exciting,the commentator is
+speaking in German.And I'm assuming that
+this is OK under fair use,because I'm really using
+it for a math problem.But I want you to
+watch this video,and then I'll ask you
+a question about it.[CHEERING]COMMENTATOR: [SPEAKING GERMAN]SALMAN KHAN: So you see,
+it's exciting in any languagethat you might watch it.But my question to you is,
+how fast was Usain Bolt going?What was his average
+speed when heran that 100 meters right there?And I encourage you to watch
+the video as many timesas you need to do it.And now I'll give you a little
+bit of time to think about it,and then we will solve it.So we needed to figure out
+how fast was Usain Bolt goingover the 100 meters.So we're really thinking
+about, in the caseof this problem, average
+speed or average rate.And you might already be
+familiar with the notionthat distance is equal
+to rate or speed--I'll just write
+rate-- times time.And I could write
+times like that,but once we start doing algebra,
+the traditional multiplicationsymbol can seem very confusing
+because it looks justlike the variable x.So instead, I will
+write times like this.So distance is equal
+to rate times time.And hopefully, this makes
+some intuitive sense for you.If your rate or your
+speed were 10 metersper second-- just as an example.That's not necessarily
+how fast he went.But if you went 10
+meters per second,and if you were to do
+that for two seconds,then it should hopefully
+make intuitive sensethat you went 20 meters.You went 10 meters per
+second for two seconds.And it also works
+out mathematically.10 times 2 is equal to 20.And then you have seconds in
+the denominator and secondsup here in the numerator.I just wrote seconds
+here with an s.I wrote it out there.But they also cancel
+out, and you're justleft with the units of meters.So you're just left
+with 20 meters.So hopefully this
+makes intuitive sense.With that out of the
+way, let's actuallythink about the problem at hand.What information do
+we actually have?So do we have the distance?So what is the distance
+in the video we just did?And I'll give you a second
+or two to think about it.Well, this race
+was the 100 meters.So the distance was 100 meters.Now, what else do we know?Do we know-- well, we're
+trying to figure out the rate.That's what we're
+going to figure out.What else do we know out of
+this equation right over here?Well, do we know the time?Do we know the time?What was the time that it
+took Usain Bolt to run the 100meters?And I'll give you another few
+seconds to think about that.Well luckily, they were
+timing the whole thing.And they also showed
+that it's a world record.But this right over
+here is in seconds.It's how long it took Usain
+Bolt to run the 100 meters.It was 9.58 seconds.And I'll just write
+s for seconds.So given this information here,
+what you need to attempt to dois now give us our rate in
+terms of meters per second.I want you to think if
+you could figure outthe rate in terms of
+meters per second.We know the distance,
+and we know the time.Well, let's substitute
+these valuesinto this equation
+right over here.We know the distance
+is 100 meters.And it's equal to-- we
+don't know the rate,so I'll just write
+rate right over here.And let me write it
+in that same color.It's equal to rate times--
+and what's the time?We do know the time.It's 9.58 seconds.And we care about rate.We care about solving for rate.So how can we do that?Well, if you look at this right
+hand side of the equation,I have 9.58 seconds times rate.If I were able to
+divide this right handside by 9.58 seconds,
+I'll just haverate on the right hand side.And that's what I
+want to solve for.So you say, well, why don't I
+just divide the right hand sideby 9.58 seconds?Because if I did that,
+the units cancel out,if we're doing
+dimensional analysis.Don't worry too much if that
+word doesn't make sense to you.But the units cancel out,
+and the 9.58 cancels out.But I can't just divide one
+side of an equation by a number.When we started off, this
+is equal to this up here.If I divide the
+right side by 9.58,in order for the equality
+to still be true,I need to divide the left
+side by the same thing.So I can't just
+divide the right side.I have to divide the
+left side in orderfor the equality
+to still be true.If I said one thing is
+equal to another thing,and I divide the other thing
+by something, in order for themto still be equal, I have
+to divide the first thingby that same amount.So I divide by 9.58 seconds.So on our right
+hand side-- and thiswas the whole point--
+these two cancel out.And then on the
+left hand side, I'mleft with 100 divided by 9.58.And my units are
+meters per second,which are the exact units that
+I want for rate, or for speed.And so let's get the calculator
+out to divide 100 by 9.58.So I've got 100 meters
+divided by 9.58 secondsgives me 10 point--
+this says we'vegot about three
+significant digits here--so let's say 10.4.So this gives us 10.4.And I'll write it
+in the rate color.10.4-- and the units are
+meters per second-- metersper second is equal to my rate.Now, the next question.So we got this in
+meters per second.But unfortunately,
+meters per second,they're not the--
+when we drive a car,we don't see the speedometer
+in meters per second.We see either kilometers
+per hour or miles per hour.So the next task I have for
+you is to express this speed,or this rate-- and this
+is his average speed,or his average rate,
+over the 100 meters.But to think about this in
+terms of kilometers per hour.So try to figure out
+if you can rewritethis in kilometers per hour.Well, let's just take
+this step by step.So I'm going to
+write-- so let me justgo down here, start over.So I started off with 10.4.And I'll write meters in
+blue, and seconds in magenta.Now, we want to get to
+kilometers per hour.Right now we're
+meters per second.So let's take baby steps.Let's first think about it in
+terms of kilometers per second.And I'll give you
+a second to thinkabout what we would
+do this to turn thisinto kilometers per second.Well, the intuition here, if I'm
+going 10.4 meters per second,how many kilometers
+is 10.4 meters?Well, kilometers is a much
+larger unit of measurement.It's 1,000 times larger.So 10.4 meters will be a much
+smaller number of kilometers.And in particular, I'm
+going to divide by 1,000.Another way to think
+about it, if youwant to focus on
+the units, we wantto get rid of this in meters,
+and we want a kilometers.So we want a
+kilometers, and we wantto get rid of these meters.So if we had meters
+in the numerator,we could divide by meters here.They would cancel out.But the intuitive way to
+think about it is we'regoing from a smaller
+unit, meters,to a larger unit, kilometers.So 10.4 meters are going
+to be a much smaller numberof kilometers.But if we look at it
+this way, how many metersare in 1 kilometer?1 kilometer is equal
+to 1,000 meters.This right over here, 1
+kilometer over 1,000 meters,this is 1 over 1.We're not changing
+the fundamental value.We're essentially just
+multiplying it by one.But when we do this,
+what do we get?Well, the meters cancel out.We're left with
+kilometers and seconds.And the numbers, you get
+10.4 divided by 1,000.10.4 divided by 1,000
+is going to give you--so if you divide by 10,
+you're going to get 1.04.You divide by 100,
+you get 0.104.You divide by 1,000,
+you get 0.0104.So that's just 10.4
+divided by 1,000.And then our units are
+kilometers per second.So that's the
+kilometers, and then Ihave my seconds right over here.So let me write the equal sign.Now, let's try to convert
+this to kilometers per hour.And I'll give you a
+little bit of timeto think about that one.Well, hours, there's
+3,600 seconds in an hour.So however many kilometers
+I do in a second,I'm going to do 3,600
+times that in an hour.And the units will
+also work out.If I do this many
+in a second, so it'sgoing to be times 3,600, there
+are 3,600 seconds in an hour.And another way to
+think about it is wewant hours in the denominator.We had seconds.So if we multiply
+by seconds per hour,there are 3,600
+seconds per hour,the seconds are
+going to cancel out,and we're going to be left
+with hours in the denominator.So seconds cancel out, and we're
+left with kilometers per hour.But now we have to multiply
+this number times 3,600.I'll get the calculator
+out for that.So we have 0.0104 times 3,600
+gives us, I'll just say 37.4.So this is equal to 37.4
+kilometers per hour.So that's his average speed
+in kilometers per hour.And now the last thing I want to
+do, for those of us in America,we'll convert into
+imperial units,or sometimes called English
+units, which are ironicallynot necessarily used in the UK.They tend to be used in America.So let's convert this
+into miles per hour.And the one thing I will
+tell you, just in caseyou don't know, is that 1.61
+kilometers is equal to 1 mile.So I'll give you a
+little bit of timeto convert this
+into miles per hour.Well, as you see
+from this, a mileis a slightly larger
+or reasonably largerunit than a kilometer.So if you're going 37.4
+kilometers in a certain amountof time, you're going to
+go slightly smaller amountof miles in a certain
+amount of time.Or in particular, you're
+going to divide by 1.61.So let me rewrite it.If I have 37.4
+kilometers per hour,we're going to a larger unit.We're going to miles.So we're going to divide by
+something larger than one.So we have one-- let
+me write it in blue-- 1mile is equal to
+1.61 kilometers.Or you could say there's one
+1.61th mile per kilometer.It also, once again,
+works out with units.We want to get rid of the
+kilometers in the numerator.So we would want it
+in the denominator.We want a mile in the numerator.So that's why we have a
+mile in the numerator here.So let's once again
+multiply, or Iguess in this case
+we're dividing by 1.61.And we get-- let's just divide
+our previous value by 1.61.And we get 23 point--
+I'll just round up-- 23.3.This is equal to 23.3.And then we have miles per hour.Which is obviously very fast.He's the fastest human.But it's not maybe as fast
+as you might have imagined.In a car, 23.3 miles per
+hour doesn't seem so fast.And especially relative
+to the animal world,it's not particularly
+noteworthy.This is actually slightly
+slower than a charging elephant.Charging elephants have been
+clocked at 25 miles per hour.

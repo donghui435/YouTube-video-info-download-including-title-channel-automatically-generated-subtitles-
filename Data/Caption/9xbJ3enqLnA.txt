@@ -1,0 +1,101 @@
+JAMES CLEWETT: Absolutely
+it's heavy.It is an antique 1980s
+television.This is back from when
+television was furniture.I love it.Well, this is my
+first computer.This is a computer that my
+parents had the foresight tobuy me when I was
+11 years old.It gave me a curiosity about
+mathematics and physics, whichhas never really gone away.Today I'm going to talk
+about the number 15.And I want to tell you that if
+you're a computer geek likeme, we don't really think
+of the number 15 as 15.We think of it as the
+letter F, and I'mgoing to tell you why.Right, you've got to
+get this sound.This just makes such a fantastic
+switch-on sound.[BEEP]Isn't that satisfying?So all I'm going to do is write
+a short piece of codethat makes the computer count.I'm rather pleased with myself
+that I can still remember howto do this.Tah-dah!So all I'm doing is just
+counting 1, 2, 3, 4, 5, 6, 7,8, 9, and then something
+rather odd happens.And instead of counting to 10,
+the computer switches to A, B,C, D, E, F, and then 10.11, 12, 13.And again it happens at 19.1A, 1B, C, D, E, F. 20.How bizarre.I was baffled.I was 11 years old, and we used
+to have to wait for gamesto load from cassettes.And when they loaded, they would
+count, and that wouldtake maybe 10 minutes.And so I would be watching
+these numbers count, verypatiently waiting to play
+Pac-Man or Tetris or whatevergame I was playing that day, and
+wondering precisely why itwasn't just getting on with
+it and getting to 10.You know, why did it have to
+go through-- it felt liketorture, because I wanted
+to play the game.Get on with it.Count to 10.But no, we had to go A through
+F, first of all.So what we need to remember is
+that computers don't count theway you and I count
+on our fingers.They count on lines representing
+ones and zeroes,binary numbers.So what I want to show you is
+just four lines, first of all,and the number 0, the number 1,
+the number 2, the number 3.And then I'm going
+to skip a few.Down here we're going to
+go to the number 14.And the number 15.OK, so there's quite a few
+numbers in between, which weskipped over for brevity.So this is 0, 1, 2, 3, 14, 15.And I have to stop there.I have to stop there because
+we've run out of numbers.If I try and count to a higher
+number, that means that's gotto be 0, 0, 0, 0, 1.But I don't have space
+for this one here.And so we can't count
+to a number biggerthan 15 on four bits.The thing is, if you want to
+understand the underlying onesand zeroes that's going on in a
+computer, then I need to beable to very quickly say
+what is this number?And this number, unfortunately,
+bears verylittle relationship to
+the decimal value.So, for example, the number
+9, this is thenumber 9 for a computer.So the number 11, that's
+number 11, OK?Or the number 6, for example,
+would be 0, 1, 1, 0, number 6.So what we do instead is we
+count in a thing calledhexadecimal.This is base 16.So if we had 16 fingers, then
+we would have come up withnumbers sufficient to
+go from 1 to 16.But because we only have 10
+fingers, we only have 10digits for counting.And so instead of using just
+more digits, we used lettersto replace the missing digits.So let's start at the
+number 8, and we'llwork our way through.So the number 8 is going
+to be 1, 0, 0, 0.That's 8.The number 9, 1, 0, 0, 1.That's 9.And then the number
+10, that's 10.Now, notice that in decimal,
+we've had to go into a newcolumn for the number 10.But if we're working in
+hexadecimal, then this is 8,9, and then this becomes
+the letter a.And then 11, that's 11,
+and it's the letter b.Then we're just going to skip to
+the end, and it's going tobe 1, 1, 1, 1, which is the
+number 15, or in our case, theletter f, our magic number.OK, this is magic because it
+allows us as programmers tovery quickly see what's going
+on with the binary numbers,the electronics inside
+the computer.So in an 8-bit computer, we've
+got two sets of 4-bit sets.So the number 0 becomes 0,
+0, 0, 0, 0, 0, 0, 0.Two lots of four bits.Now, this set can be represented
+by one hexadecimaldigit, the letter 0.And just to let you know that
+it's hexadecimal, I'm justgoing to write an X
+in front of it.And this lot can similarly
+be represented by thehexadecimal number 0.So this is 10, and this is 10.But in hexadecimal, we can
+still represent this by asingle character.This becomes a, and
+this becomes a.In hexadecimal, our number is a,
+a, with a little x in frontof it, just to tell you that
+it's a hexadecimal number.So I'm going to skip to the crux
+of the issue, and that isthe top number that we can
+store in an 8-bit value,which, of course, is simply
+1, 1, 1, 1, 1, 1, 1, 1.MALE SPEAKER: What
+number is that?JAMES CLEWETT: And
+that number is--this is f.This is f.So we've got the hexadecimal
+number ff, which is equal to255, which is the highest
+value that an 8-bitcomputer can store.OK, now, course, modern
+computers aren'tsimply eight bits long.Recently, 32 bits, or you can
+go out and you can buy atop-end 64-bit computer.So I want to show you the
+highest number in veryshorthand notation that a 32-bit
+computer can store.Here we go.ff, ff, ff, ff, so 8 bits, 16
+bits, 24 bits, 32 bits.Now I'll write that in binary.How I hate you.1111, 1111, 1111, 1111, 1111--I'm going to have to put
+a few on the front.And that is the binary number 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1,1, 1, 1, 1.You get the idea.It's a big number.And that's why we don't
+use binary.We use hexadecimal values.Obviously, if I wanted to write
+a really big numberdown, it's just too much
+pen and ink, so wedon't use the binary.We don't use decimal because,
+well, this number, it's not65,000, it's approximately
+4 billion.This has no relationship
+to 4 billion.There's no obvious way to tie
+the two things together.But when we're using the
+hexadecimal numbers, eachcharacter is simply tied to a
+block of four binary values.So this character represents the
+first four, this characterthe next four.And so it's very easy to just
+walk along, understanding thenumber in human readable
+chunks.

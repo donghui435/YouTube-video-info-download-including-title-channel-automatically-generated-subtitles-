@@ -1,0 +1,154 @@
+What I want to do
+in this video isgive an overview
+of quadrilaterals.And you can imagine,
+from this prefix,or, I guess you could say,
+the beginning of this word,quad-- this involves
+four of something.And quadrilaterals, as you
+can imagine, are shapes.And we're going to be talking
+about two-dimensional shapesthat have four sides and four
+vertices and four angles.So, for example--
+one, two, three, four.That is a quadrilateral,
+although that last sidedidn't look too straight.One, two, three, four.That is a quadrilateral.One, two, three, four.These are all quadrilaterals.They all have four
+sides, four vertices,and, clearly, four angles.One angle, two angles, three
+angles, and four angles.Actually, let me draw this
+one a little bit bigger,because it's interesting.So in this one
+right over here, youhave one angle, two angles,
+three angles, and thenyou have this really big
+angle right over there.If you look at the interior
+angles of this quadrilateral.Now, quadrilaterals,
+as you can imagine,can be subdivided
+into other groupsbased on the properties
+of the quadrilaterals.And the main subdivision
+of quadrilateralsis between concave and
+convex quadrilaterals.So you have concave,
+and you have convex.And the way I remember
+concave quadrilaterals,or really concave polygons
+of any number of shapes,is that it looks like
+something has caved in.So, for example, this is
+a concave quadrilateral.It looks like this
+side has been caved in.And one way to define
+concave quadrilaterals--so let me draw it a little bit
+bigger, so this right over hereis a concave
+quadrilateral-- is that ithas an interior angle that
+is larger than 180 degrees.So for example, this interior
+angle right over hereis larger than 180 degrees.And it's an interesting proof.Maybe I'll do a video.It's actually a pretty
+simple proof to show that,if you have a concave
+quadrilateral, if at least oneof the interior angles has
+a measure larger than 180degrees, that none of the sides
+can be parallel to each other.The other type of
+quadrilateral, you can imagine,is when all of the
+interior anglesare less than 180 degrees.And you might say, wait--
+what happens at 180 degrees?Well, if this angle
+was 180 degrees,then these wouldn't be
+two different sides,it would just be one side.And that would look
+like a triangle.But if all of the
+interior anglesare less than 180
+degrees, then you'redealing with a
+convex quadrilateral.So this convex
+quadrilateral wouldinvolve that one and
+that one over there.So this right over here is
+what a convex quadrilateralcould look like-- four points,
+four sides, four angles.Now, within convex
+quadrilaterals,there are some other
+interesting categorizations.So now we're just going to
+focus on convex quadrilaterals,so that's going to be all
+of this space over here.So one type of convex
+quadrilateral is a trapezoid.And a trapezoid is a
+convex quadrilateral,and sometimes the
+definition hereis a little bit--
+different people willuse different definitions.So some people will
+say a trapezoidis a quadrilateral that
+has exactly two sides thatare parallel to each other.So, for example, they would
+say that this right over hereis a trapezoid, where this
+side is parallel to that side.If I give it some letters here,
+if I call this trapezoid ABCD,we could say that segment AB
+is parallel to segment DC,and because of that we know
+that this is a trapezoid.Now I said that the
+definition is a little fuzzy,because some people say
+you can have exactly onepair of parallel
+sides, but some peoplesay at least one pair
+of parallel sides.So if you use the
+original definition--and that's the kind of thing
+that most people are referringto when they say a
+trapezoid, exactlyone pair of parallel sides-- It
+might be something like this.But if you use the broader
+definition of at least one pairof parallel sides,
+then maybe thiscould also be
+considered a trapezoidso you have one pair of
+parallel sides like thatand then you have another pair
+of parallel sides like that.So this is a question mark
+where it comes to a trapezoid.A trapezoid is definitely
+this thing here,where you have exactly one
+pair of parallel sides.Depending on
+people's definition,this may or may
+not be a trapezoid.If you say it's exactly
+one pair of parallel sides,this is not a trapezoid,
+because it has two pairs.If you say at least one
+pair of parallel sides,then this is a trapezoid.So I'll put that in a
+little question mark there.But there is a name
+for this, regardlessof your definition of
+what a trapezoid is.If you have a quadrilateral with
+two pairs of parallel sides,you are then dealing
+with a parallelogram.So the one thing that you
+definitely can call thisis a parallelogram.And I'll just draw it
+a little bit bigger.So it's a quadrilateral, and
+if I have a quadrilateral,and if I have two pairs
+of parallel sides.So the opposite
+sides are parallel.So that side is
+parallel to that side,and then this side is
+parallel to that sidethere-- you're dealing
+with a parallelogram.And then parallelograms can
+be subdivided even further.If the four angles
+in a parallelogramare all right angles, you're
+dealing with a rectangle.So let me draw one like that.This is all in the
+parallelogram universe,what I'm drawing
+right over here.This is all the
+parallelogram universe.So it's a parallelogram,
+which tells methat opposite
+sides are parallel.And then if we know that all
+four angles are 90 degrees.And we've proven
+in previous videoshow to figure out the sum of the
+interior angles of any polygon.And using that same
+method you couldsay that the sum of the interior
+angles of any quadrilateralis actually 360 degrees.And you see that in this
+special case as well.But maybe we'll prove
+it in a separate video.But this right over here
+we would call a rectangle.Parallelogram--
+opposite sides paralleland we have four right angles.Now, if we have a parallelogram
+where we don't necessarilyhave four right
+angles, but wherewe do have the length of
+the sides being equal,then we're dealing
+with a rhombus.So let me draw it like that.So it's a parallelogram.This is a parallelogram, so that
+side is parallel to that side,this side is parallel
+to that side.And we also know that all
+four sides have equal length.So this side's length is equal
+to that side's length, whichis equal to that
+side's length, whichis equal to that side's length.Then we are dealing
+with a rhombus.So one way to view it-- all
+rhombi are parallelograms.All rectangles are
+parallelograms.All parallelograms you cannot
+assume to be rectangles.All parallelograms you
+cannot assume to be rhombi.Now, something can be both
+a rectangle and a rhombus.So let's say that this is
+the universe of rectangles.So the universe of
+rectangles-- I'lldraw a little bit of
+a Venn diagram here--is that set of shapes and
+the universe of rhombiis this set of shapes
+right over here.So what would it look like?Well, you would have
+four right anglesand they would all
+have the same length.So it would look like this.So it'd definitely
+be a parallelogram.Four right angles
+and all the sideswould have the same length.And this is probably the first
+of the shapes that you learned,or one of the first shapes.This is clearly a square.So all squares could also
+be considered a rhombus,and they could also be
+considered a rectangle,and they could also be
+considered a parallelogram.But clearly, not all
+rectangles are squares,and not all rhombi are squares.And definitely not all
+parallelograms are squares.This one, clearly,
+right over here,is neither a rectangle nor
+a rhombi, nor a square.So that's an overview.Just gives you a little bit
+of taxonomy of quadrilaterals.And then in the
+next few videos, wecan start to explore
+them and findtheir interesting
+properties or just dointeresting problems
+involving them.

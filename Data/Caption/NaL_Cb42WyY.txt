@@ -1,0 +1,293 @@
+This is a video I’ve been excited to make
+for a while. The story here braids together prime numbers, complex numbers and pi in a
+very pleasing trio. Quite often in modern math, especially that
+which flirts with the Riemann zeta function, these three seemingly unrelated objects show
+up in unison, and I want to give you a peek at one instance where this happens; one of
+the few that doesn’t require too heavy a technical background.
+That’s not to say it’s easy –in fact this is one of the most intricate videos I’ve
+ever done– but the culmination is worth it.
+What we’ll end up with is a formula for pi, a certain alternating infinite sum.
+This formula is actually written on the mug I’m drinking coffee from as I write this,
+and a fun but almost certainly apocryphal story is that the beauty of this formula is
+what inspired Leibniz to quit being a lawyer to instead pursue math.
+Whenever you see pi show up in math, there’s a circle hiding somewhere, sometimes very
+sneakily. So the goal here is not just to discover this sum, but to really understand
+the circle hiding behind it. You see, there’s another way to prove the
+same result that you and I will spend some meaningful time building to with just a few
+lines of calculus. But it’s one of those proofs that leaves you thinking “Okay, I
+suppose that’s true”, without a sense for why, for where the hidden circle is.
+On path you and I will take, what you’ll see is that fundamental truth behind this
+sum and the circle it hides is a certain regularity in prime numbers behave within complex numbers. To start the story, imagine yourself with
+nothing more than a pencil, some paper, and a desire to find a formula for computing pi.
+There are countless ways to approach this, but as a broad outline for the plotline hear,
+you’ll start by asking how many lattice points of the plane sit inside a big circle.
+That question can lead asking about how to express numbers as the sum of two squares,
+which in turn will lead to factoring integers inside the complex plane.
+From there, bringing in a function named chi will give us a formula for pi that at first
+seems to involve a crazy complicated pattern dependent on the distribution of primes, but
+a slight shift in perspective will simplify it dramatically and expose the ultimate gold
+nugget. It’s a lot, but good math takes time, and
+we’ll take it step by step. When I say “lattice point”, I mean a point
+(a, b) in the plane where a and b are both integers, a point where grid lines cross.
+If you draw a circle centered at the origin, say with radius 10, how many lattice points
+would you guess are inside that circle? Well, there’s one lattice point for each
+unit of area, so the answer should be approximately equal to the area of the circle, pi*R2, which
+in this case is pi(102). And for a really big radius, like 1,000,000, you’d expect
+this to be more accurate, in the sense that the percent error between the estimate pi*R2
+and the actual count of lattice points should get smaller.
+If you can find a second way to answer the same question, how many lattice points are
+in this circle, it might lead you to another way to express the area of a circle, and hence
+another way to express pi. So you play! And you wonder. And maybe, especially
+if you just watched a certain calculus video, you might try looking through every possible
+ring that a lattice point could sit on. For each of those points, (a, b), its distance
+from the origin in the square root of a2+b2, and since a and b are both integers, a2+b2
+is also an integer, so you only have to consider rings whose radii are the square roots of
+whole numbers. A radius of 0 just gives that single origin
+point. A radius of 1 hits 4 lattice points… radius sqrt(2) hits 4 lattice points as well...sqrt(3)
+doesn’t hit any lattice points...sqrt(4) hits four again...a radius of sqrt(5) actually
+hits 8 lattice points... So what you need is a systematic way to count
+how many lattice points are a given distance away from the origin, and to tally them all
+up. If you pause and try this for a moment, you’ll
+see that the pattern seems pretty chaotic, which is a good sign that some very interesting
+math will come into play. In fact, as you’ll see, this pattern is
+rooted in the distribution of primes. For example, look at the ring with radius
+sqrt(25). It hits (5, 0), since 52 + 02 = 25. It also
+hits (4, 3), since 42+32 = 25, and likewise it hits (3, 4).... and (0, 5)...
+What’s really happening here is that you’re counting how many pairs of integers (a, b)
+have the property that a2 + b2 = 25, and it looks like there’s a total of 12.
+As another example, look at the ring with radius sqrt(11). It doesn’t hit any lattice
+points, which corresponds with the fact that you cannot find two integers whose squares
+add up to 11. Now, many times in math when you see a question
+that has to do with the 2d plane, it can be surprisingly fruitful to just ask what it
+looks like when you think of that plane as the set of all complex numbers.
+So instead of thinking of this lattice point as the pair of integer coordinates (3, 4),
+think of it as the single complex number 3 + 4i.
+That way, another way to think of the sum of the squares of its coordinates, 32+42,
+is to multiply this number by 3 - 4i. This is called its “complex conjugate”,
+it’s what you get by reflecting over the real axis, replacing i with -i.
+This might seem like a strange step if you don’t have much of a history with complex
+numbers, but describing this distance as a product can be unexpectedly useful. It’ll
+turn our question into a factoring problem, which is ultimately why patterns among prime
+numbers come into play. Algebraically, this relation is straight-forward
+enough to verify. You get a 32, then the 3*(-4i) cancels with the 4i*3, then you have -(4i)2,
+which because i2 is -1 becomes +42. This is also quite nice to see geometrically;
+and if the following feels unfamiliar, I do have another video where I go into more detail
+about why complex multiplication looks the way it does.
+The number 3+4i has a magnitude of 5, and some angle off the horizontal. Multiplying
+by 3-4i rotates by that same angle in the opposite direction, putting it on the positive
+real axis, then stretches by that same magnitude, 5, meaning you land on the number 25, the
+square of the magnitude. The collection of all these lattice points
+a + bi, where a and b are integers, has a special name: the “Gaussian integers”,
+named after Martin Sheen. Geometrically, you will still be asking the
+same question, how many of these lattice points (Gaussian integers) are a given distance away
+from the origin, like sqrt(25). But we’re just phrasing it in a more algebraic way:
+How many gaussian integers have the property that multiplying by their complex conjugate
+gives 25? This might seem needlessly complex, but it’s
+the key to understanding the seemingly random pattern for how many lattice points are a
+given distance from the origin. To see why, we need to understand how numbers
+factor inside the Gaussian integers. As a quick refresher, among the ordinary integers,
+every number can be factored as some unique collection of prime numbers. For example,
+2,250 can be factored as 2*32*53, and there is no other collection of primes that also
+multiplies to 2,250. Unless you just make some of the primes in
+this factorization negative. So really, factorization in the integers is
+not perfectly unique, it’s almost unique, with the exception that some of the factors
+might be multiplied by -1. Analogy with primes
+Factoring works very similarly in Gaussian integers.
+Some numbers, like 5, can be factored into smaller Gaussian integers, in this case (2+i)(2-i).
+This Gaussian integer (2+i), cannot be factored into anything smaller, so we call it a “Gaussian
+prime”. Again, this factorization is almost unique.
+But this time, not only can you multiply each of the factors by -1 to get a factorization
+that looks different, you can also be extra sneaky by multiplying one factor by i, and
+another by -1. This gives a different way to factor 5 into Gaussian primes.
+But other than the things you can get by multiplying some of these factors by -1, i or -i, factorization
+within the Gaussian integers is unique. If you can figure out how ordinary primes
+numbers factor inside the Gaussian integers, it’ll tell you all all other integers factor,
+so here we pull in a crucial and surprising fact.
+Primes which are 1 above a multiple of 4, like 5, 13, 17, can be always factored into
+exactly 2 distinct gaussian primes. This corresponds with the fact that rings
+with radii equal to the square root of one of these primes always hit lattice points.
+In fact they always hit 8, as you’ll see in a bit.
+Primes that are 3 above a multiple of 4, like 3, 7, 11 and so on, cannot be factored further
+in the Gaussian integers. Not only are they primes in the integers, they are also Gaussian
+primes, unsplittable even when i is in the picture.
+This corresponds with the fact that a ring whose radius is the square root of one of
+these will never hit any lattice points. This pattern is the regularity within primes
+that we’ll ultimately exploit. And in a later video I might explain why on earth this
+is true; why a prime number’s remainder when divided by 4 has anything to do with
+whether or not it factors inside the Gaussian integers, and hence, whether it can be expressed
+as the sum of two squares. But here we’ll take it as given.
+The prime number 2 is special, because it does factor, as (1+i)(1-i), but these two
+gaussian primes are a 90o rotation away from each other, so you can multiply one by i to
+get the other. And that fact will make us want to treat 2 a little differently for where
+this is all going. Remember, our goal here is to count how many
+lattice points are a given distance away from the origin. Doing this systematically for
+all distances sqrt(N) can lead us to a formula for pi.
+And counting the number of lattice points with a given magnitude, like sqrt(25), is
+the same as asking how many Gaussian integers have the property that when you multiply by
+its complex conjugate, you get 25. So here’s the recipe for finding all Gaussian
+integer with this property. First, factor 25, which in the ordinary integers
+is 52, but since 5 factors further as (2+i)(2-i), 25 breaks down into these four Gaussian primes.
+Next, organize these into two columns, with conjugate pairs sitting right next to each
+other. Now multiply what’s in each column, and
+you’ll come out with two Gaussian integers. Because everything in the right is a conjugate
+to everything in the left, what comes out will be a complex conjugate pair, which multiply
+to make 25. Picking an arbitrary standard, let’s call
+that product from the left column the output of our recipe.
+Notice, there are three choices for how to divvy up the primes that can affect that output:
+Here, both copies of 2+i are in the left column, and that left column product is 3+4i; you
+could also have only one copy of 2+i is in the left column, in which case that product
+is 5; or both copies of 2+i are in the right column, which will give an output of 3-4i.
+Those three possible outputs are all lattice points on the circle with radius sqrt(25).
+So, why does this recipe not yet capture all 12 lattice points?
+Well, remember how I mentioned that a factorization into gaussian primes can look different if
+you multiply some of them by i, -1 or -i? If you write the factorization of 25 differently,
+maybe splitting up one of those 5’s as (-1+2i)(-1-2i), it can affect our result.
+But the only effect that would have is to multiply the total output by i, -1 or -i,
+so as a final step to our recipe, say you have to make one of 4 choices: Multiply the
+product from the left column either by 1, i, -1 or -i.
+The three lattice points we originally found, can each be multiplied by i, -1, or -i, and
+that accounts for all 12 ways to construct a gaussian integer whose product with its
+own conjugate is 25. Extend to 53
+The best way to see how this recipe counts lattice points more generally is to just see
+more examples. If instead we were looking at 125, which is
+53, we would have had 4 choices for how to divvy up primes conjugate pairs into the two
+columns, either including 0, 1, 2, or all three copies of 2+i in that left column.
+Those four choices, multiplied by final four choices of multiplying the product from the
+left column by 1, i, -1 or -i, would suggest there are 16 lattice points a distance of
+sqrt(125) away from the origin. And indeed, if you draw that circle and count,
+you’ll find that it hits exactly 16 lattice points If you introduce a factor like 3, which doesn’t
+break down into the product of two conjugate Gaussian primes, it really mucks up the whole
+system. When you’re divvying up primes between the
+two columns, there’s no way to split up that 3. No matter where you put it, it leaves
+the columns imbalanced, and when you take the product of all the numbers in each column
+you wouldn’t end up with a conjugate pair. So for a number like 3*53, which is 375, there’s
+actually no lattice point you hit; no Gaussian integer whose product with its own conjugate
+gives 375. Extend to 32*53
+But if you add a second factor of 3, then you have an option. You can throw one 3 in
+the left column, and the other in the right. Since 3 is its own complex conjugate, this
+keeps things balanced, in the sense that the products of the left and right columns will
+be complex conjugates of each other. But it doesn’t add any new options. There
+will still be a total of 4 choices for how to divvy up those factors if 5, multiplied
+by the final 4 choices of multiplying by 1, i, -1 or -i.
+So just like the sqrt(125) circle, this guy also hits exactly 16 lattice points. Let’s just sum up where we are.
+When you’re counting how many lattice points lie on a circle with radius sqrt(N), the first
+step is to factor N. For prime factors like 5, 13, and 17, which
+factor into a conjugate pair of Gaussian primes, the number of choices you have is one more
+than the exponent that shows up with that factor.
+For prime factors like 3, 7 and 11, which are already Gaussian primes and can’t be
+split, if they show up with an even power, you have one and only one choice for what
+to do with them. If it’s an odd exponent, you’re screwed, you have zero choices.
+And no matter what, you have those 4 choices at the end. By the way, this process right here is, I
+think, the most complicated part of the video. It took me a couple times to think through
+that yes, this is a valid way to count lattice points, so don’t be shy if you want to pause
+and scribble things down to get a feel for it.
+The one last thing to mention is how factors of 2 affect the count. If your number is even, the factor of 2 breaks
+down as (1+i)(1-i), so you can divvy up that conjugate pair between the columns. At first
+it might look like this doubles your options, depending on how you choose divvy these up
+between the columns. However, since multiplying one of these gaussian
+primes by i gives you the other one, if you swap them between the columns, the effect
+on the output from the left column is to multiply it by i or -i.
+So this is redundant with that final step, where we take the product of the left column
+and choose to multiply it either by 1, i, -1 or -i.
+This means a factor of 2, or any power of 2, doesn’t actually change the count at
+all; it doesn’t hurt, it doesn’t help. For example, a circle with radius sqrt(5)
+hits 8 points, and one with radius sqrt(10) also hits 8 points, as does sqrt(20)... and
+sqrt(40). Factors of 2 just don’t make a difference. What’s about to happen is number theory
+at its best. We have this complicated recipe telling us
+how many lattice points sit on a circle with radius sqrt(N), and it depends on the prime
+factorization of N. To turn it into something simpler, we’re
+going to exploit the regularity of prime numbers that those which are 1 above a multiple of
+4 split into distinct gaussian prime factors, while those that are 3 above a multiple of
+4 cannot be split. Introduce chi
+To do this, we’ll bring in a simple function, which I’ll label with the greek letter “chi”.
+For inputs 1 above a multiple of 4, the output of chi is 1. For inputs 3 above a multiple
+of 4, it outputs -1. And for even numbers, it gives 0.
+So if you evaluate chi on the natural numbers, it gives this nice cyclic pattern 1, 0, -1,
+0, and repeat. Chi has a special property, it’s what’s
+called a “multiplicative” function. If you evaluate it on two number and multiply,
+like chi(3)*chi(5), the result is the same as chi evaluated on the product of those two
+numbers, in this case chi(15). Likewise, chi(5)*chi(5) = chi(25)...and this works for any two numbers,
+go ahead an try it. Show answer to counting question in terms
+of chi So, for our central question of counting lattice
+points in this way that involves factoring a number, I’m going to write the number
+of choices we have using chi in what at first seems to be a more complicated way, but it
+has the benefit of treating all prime factors the same way.
+For each prime power, like 53, write (chi(1) + chi(5) + chi(52) + chi(53)), adding up the
+value of chi on all the power of this prime up to the one that shows up in the factorization.
+Since 5 is 1 above a multiple of 4, all of these are just 1, so this sum comes out to
+4, which reflects the fact that the factor of 53 gives us 4 options for how to divvy
+up its two Gaussian prime factors between the columns.
+For something like 34, this looks like (chi(1) + chi(3) + chi(32) + etc.). Since chi(3) is
+-1, this sum oscillates, 1 - 1 + 1, etc. If it’s an even power, like 4 in this case,
+the sum comes out to 1, which encapsulates the fact that there is only 1 choice for what
+to do with those unsplittable 3’s. If it’s an odd power, that sum is 0, indicating that
+we have no choices. For powers of two, this looks like (1 + 0
++ 0 + etc.), indicating that with a factor of 2, we always have 1 choice for what to
+do with it, it neither helps nor hurts the lattice point cause.
+And as always, that 4 in front reflects the final choice of multiplying the output by
+1, i, -1 or -i. We’re getting close to the culmination now,
+things are starting to look organized, so take a moment, pause and ponder, make sure
+this all feels good. Take the number 45 as an example, which factors
+as 325. The expression for the number of lattice points is 4*(1 + chi(3) + chi(32))(1 + chi(5)),
+which is the same as 4*(1 choice for what to do with the 3’s)*(2 choices for how to
+divvy up the Gaussian prime factors of 5). It might seem like expanding out this sum
+is really complicated, because it involves looking at all possible combinations of these
+prime factors. But because chi is multiplicative, each one
+of these combinations corresponds to a divisor of 45, so really this looks like 4*(chi(1)
++ chi(3) + chi(5) + chi(9) + chi(15) + chi(45)). This covers every number which divides evenly
+into 45, once, and only once. And it works like that for any number, there’s
+nothing special about 45. That’s pretty interesting, and I think wholly
+unexpected. This question of counting the number of lattice points a distance sqrt(N)
+away from the origin involves adding up the value of this simple function over all divisors
+of N. Now, remember why we’re doing all of this.
+The total number of lattice points inside a big circle with radius R should be about
+pi*R2. But on the other hand, we can count those
+same lattice points by looking through all numbers N between 0 and R2 and counting how
+many lattice points are a distance sqrt(N) from the origin.
+We’ll go ahead and ignore the origin dot, with radius 0, since it doesn’t follow the
+pattern of the rest, and one little dot won’t make a difference as we let R grow towards
+infinity. From all of this Gaussian integer and factoring
+and chi function stuff we’ve been doing, the answer for each N looks like adding up
+the value of chi on every divisor of N, and multiplying by 4.
+Let’s just put that 4 in the corner for now and remember to bring it back in a moment.
+Rearrange sum At first, adding up the values of all these
+rows seems super random. Numbers with lots of factors have lots of divisors, primes only
+have two divisors, and you might think that you’d need perfect knowledge of the distribution
+of primes to get anything useful out of this. But if instead you organize these into columns,
+the puzzle starts to fit together. How many numbers between 1 and R2 have 1 as
+a divisors; well, all of them, so our sum should include R2*chi(1)
+How many have 2 as a divisors. Well, about half of them, so that accounts for (R2/2)*chi(2)
+in our total tally up. About a third of the rows have a chi(3), so
+that’s (R2/3)*chi(3). Keep going like this, and the total count
+of lattice points looks like R2*chi(1) +(R2/2)*chi(2) + (R2/3) * chi(3), and so on. Factoring out
+that R2, and bringing back the 4 that needs to be multiplied in, this means the total
+number of lattice points in this big circle is approximately 4R2(..this sum..).
+Since chi is 0 on all even numbers, and oscillates between 1 and -1 for odd numbers, that sum
+looks like 1 - ⅓ + ⅕ - 1/7, and so on. This is what we wanted! An alternative expression
+for the number of lattice points in a big circle, which we know to be around pi*R2
+The bigger R is, the more accurate both these estimates are, so the error between these
+sides can be arbitrarily small. Dividing by R2, this gives us an infinite
+sum which should converge to pi. And the reason this sum is so simple, just
+oscillating back and forth between odd numbers, stems from the regular pattern for how prime
+numbers factor inside the Gaussian integers. If you’re curious, there are two main branches
+of number theory: Algebraic number theory, and analytic number theory.
+Very loosely speaking, the former deals with new number systems, like these Gaussian integers
+you and I looked at, while the latter deals with things like the Riemann zeta function,
+or its cousins called “L” functions which involve multiplicative functions like the
+central character chi from our story. The path we just walked is a little glimpse
+of where those two fields intersect. Both are pretty heavy-duty fields with lots of
+active research and unsolved problems. So if this feels like something which will take
+time to mentally digest, like there’s more patterns to be uncovered and understood, it’s
+because it is, and there are. So, you are all demonstrably the kind of people
+who watch in-depth math videos in your free time, and I know that some subportion of you
+are software engineers, or soon-to-be software engineers, so before you go there’s a little
+recruiting I’d like to do. This video is sponsored by Remix, which is
+a planning platform for public transit. They enable cities to find the most efficient and
+cost-effective ways to serve the communities and demographics they want.
+And, if you think about if for a moment, doing this well can involve some seriously interesting
+optimization problems. And indeed, their looking for mathematically oriented programmers who
+can tackle problems involving a variety of optimization techniques so that, as one of
+their engineers phrased it to me, they can “trick the universe into letting them create
+quality schedules.” If you want to work with smart people on interesting
+problems, take a look at their site and careers page, which I’ve linked to on the screen
+and in the description.

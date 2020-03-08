@@ -1,0 +1,43 @@
+Well Euclid had the straight edge and the compass that those are the tools thathe had available. He didn't have very
+good paper. A completely differentapproach that you can take to construction which is well it's much less classical and so it's less talked aboutis to use folding paper, instead of a straight edge and a compassNow, if you think about it, folding paper uses nothing.First of all, you can't ever do circles.You'll never be able to fold a circle onto a paper.So, all you have, ever, is straight lines.If you think about, is this stronger or weaker?than this set of tools that Euclid was using, then the intuitive answeris that it must be weaker, but sometimesthe intuitive answer is not the right
+answer. Let me just jump right inand show you how to trisect an angle by
+folding paper. What i'd like youto realise is that essentially you
+have a straight edgebecause if you have two points that you
+previously constructed somehowthen you can fold the paper so that those
+two points are on the creasethis is exactly the same thing as
+connecting them by a straight edge.Even better you can do perpendicular
+bisectorin a single step because you can fold
+the paperso that these two points cover each otherand when you do that, that created creasewill be perpendicular to the line
+segment connecting those points and it willcut it exactly in half because they covered each otherso to trisect an angle first we have to create an angle. A right angleis not very interesting You can trisect a
+right angle with straight edge and compasswhich is probably an important point
+to make. It's not that there's no anglewhatsoever that you can trisectit's that you can trisect an arbitrary angle
+so ninety degrees you can trisectbecause you can construct a thirty degree angle.So we want to create an
+arbitrary angleso that our job is not so easyso I'll just fold the paper so that the bottomof this crease is right at that cornerSo this is the angle. We created it arbitrarily. We don't know how big it is.So I'll try to draw a line just inside the crease. Ok.Brady: you're gonna trisect that?
+Zsuzsanna Dancso: I am going to trisect thatFirst we fold the paper in half so I just
+fold the bottomup to the top so that they match exactlythen I fold the bottom up to the halfso now I have this crease at the
+halfwayso now I have these two creases one
+up hereand one down hereNow, here's the trick. I'll mark two pointsone is this bottom of the angleBrady: Yep
+ZD: the tip and the second one is thispoint on the edge of the paper that's halfway up. I will foldthe paper so that this point at thetip of the angle lines up/matchesthis line this crease that I created
+beforeand this point halfway up the papermatches this line which is the angle
+itselfso I'm going to fold it and fiddle it aroundnow once I've found thatalignment, I'm going to put my hand down
+andcrease the lineand then I take a pen and mark this point right where the tip gotokay open it upand another important point to mark is
+where thiscrease that I just created with this last foldwhere that intersects the bottom lineso you might already see where this is going
+Brady: yesZD: I will fold to connectthe tip of the angle with this marked pointand then fold again toconnect the tip of the angle with the other marked pointand magic ... 
+Brady: that's it, is it?ZD: that's it. Since we are foldingwe can check that, not prove it, but check itby folding the crease and see that it
+matches upfolding this crease and see that it matches up for the threeso if you want to prove that ...
+it's an exerciseit's doable if you remember your
+congruent trianglesBrady: What power does origami have thatthe straight edge and compass didn't have?
+ZD: exactlyvery good question.So the trick was this one step that I did which wastaking these two points and lining them up 
+with two lines.So if you allow that step which isa reasonable step, I mean if I have a paperit's very easy to do so the keyis that if you translate this step to
+what it does to coordinatesthe same way that I told you about it in
+the context of straight edge and compasswhat it does is this creasethat it creates is a sharedtangent of two parabolas, and to solve thisequation to find the shared tangent of two parabolasyou need to do something cubic. 
+Brady: So that was the one thing that was beyond EuclidZD: That was the one thing that's beyond Euclidand it turns out that with origamiphrased in terms of what are the constructible numbers what are allthe coordinates that we can construct we
+can doaddition, subtraction, multiplication,
+fractionssquare roots, and cube roots.Brady: So, origami is more powerful than Euclidean geometry!
+ZD: It's more powerful than Euclidean geometry.even better if I give you any cubic equationyou can construct by origami the solutionso you could solve a cubic equation
+which isthe formula is is really reallybig and ugly and hard to plug intoand you can solve it just by a simple
+folding mechanism and then measuring the solutionso I for example I showed you how to do
+square root two, I showed you how to do threeI show you how to do one-third it turns
+out that you can doall numbers that just involve fractions
+and square rootsand addition and subtraction but there's
+a problem with cube rootsso what this guy proved is thatyou will never be able to do cube roots

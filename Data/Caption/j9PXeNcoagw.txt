@@ -1,0 +1,76 @@
+a professor at the University of
+Maryland asked thisawesomely evil test question you have
+the opportunity to earn extra points forthis examselect whether you want two points or
+six pointsbut there's a small catch if more than
+10 percent in the class pick six pointsthen no one will get any points only I
+will see your selection it will beanonymous to the rest of the classdo you pick two points or six points? when
+this question wasposted to Twitter it went viral with a
+lot of people discussing the questionit looks like there's a dilemma here and a
+lot of people thought thatlook if we at least pick two points
+everyone can cooperate then at least wecan get twobut that's not the game theory way to
+think about this questionso let's try and to analyze what the
+correct strategic decisionshould be given the incentives of this
+questionyou want to think about your choicerelative to what the other people in the
+class are doingand the relevant characteristic is how
+many peopleare picking 6 it could be that more than
+10 percent in the class is picking 6it could be the case that fewer than 10
+percent in the class is picking sixor there's a small probability that
+may be exactly 10 percent of the otherpeople are picking 6we'll construct a matrix based on what
+the other people are doingto see what your payoff will be if more
+than 10 percent in the classis picking 6 then it doesn't matter
+whether you pick two or sixeveryone is going to get zero pointsnow, if fewer than 10 percent to the other
+people are picking sixsay everyone else is picking two then
+you are going to get the number pointsthat you pickif you pick two points you get two, if
+you pick six points you get sixand now you can see something very
+interesting you arealways better off at least as good of
+picking 6as if you are picking two so picking six
+hereis a logical choice whether the class is
+more than 10 percent picking 6or less than 10 percentpicking 6 you are always going to score
+more points if you pick 6versus 2 now there's onethird case to consider that may be
+exactly 10 percent pick 6in this case you would get two if you
+picked twobut you would ruin it for everyone and
+get zeroif you pick 6 you would, you know, increase
+the threshold beyond 10 percentso in this one small scenarioyou're actually better off picking two
+points but is kindarare and there's no way you can know
+that exactly 10 percent in the classis picking 6 so in a class of ten that
+would beexactly one person picking 6 and
+everyone elsepicking two this is a very unlikely
+scenarioso you can kinda disregard this third
+possibility and you could say picking 6is the logical thing to dobut there's another reason to think
+about why picking six is logicalexams are not usually based on the
+absolute number of points you getit's not usually a point threshold that
+ninety percent is in a eighty percent is a Bthat's usually true in grade school or
+high school but once you get to collegeeverything is usually graded on a curve
+your gradeis based on how much better you do
+relative to everyone elseso you don't want to think about the
+absolute number of points you're gettingyou want to think about how many more
+points you're getting than other peopleso when you think in this relativistic
+methodif you get 2 and everyone else gets
+2 your getting zero extra pointswhereas if you get six and other people
+get 2then you have a chance to get four extra
+points so we want to reduce the payoutswhen points are awarded by twoso if the class is getting more than 10
+percent's picking 6 no one's gettingpoints anywayif you fewer than 10 percent are
+picking 6then when you pick two if everyone gets two,you're not getting any more points than
+anyone else who's picking 2but if you get six and other people are
+getting two you get four extra pointsand then look at the third scenario where
+exactly 10 percent is picking sixso say one in 10out of your ten percent class is picking
+six andone person's picking six and every one else is picking twothen you're not going to do any better
+than the people who are picking twoand if you pick six and spoil it for
+everyone then youget zero so when you look at the payouts
+nowpicking six is always at least as good
+as picking twoso in this case picking 6 is the logical
+choiceand it's what's known as a weakly
+dominant strategy so when you have aweakly dominant strategy you're gonna
+wanna play itnow the unfortunate outcome even though
+everyone individually is thinking aboutpicking six and they all pick sixyou end in a situation that everyone ends up
+with zero pointsbut this is not because any individual
+person is thinking wrongthis game is sorta rigged so that the
+group outcome sorta says oh you pick 6you're selfishbut that's not really the case I think
+it should be your decision to pick sixand that's the logical thing to do
+thanks for watching this videoif you like more videos about game
+theory and math please subscribe to mychannelyou can catch me on my blog mind your
+decisions which you can follow onFacebook Google+ and Petronyou can also catch me on social media at
+Presh Talwalkerand if you like this video please check
+out my books I've written a book aboutgame theory an introduction to strategic
+thinkingwhich will help you understand this
+example and many more ways to usemath tooutsmart your opponents

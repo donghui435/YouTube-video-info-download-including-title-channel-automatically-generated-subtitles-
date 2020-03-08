@@ -1,0 +1,76 @@
+Alice and Bob have figured
+out an amazing trick.They're exchanging
+messages by pluckinga wire either hard or soft to
+transmit a zero versus a one.However, due to gusts of
+wind, false zeros or onescan occur during transmission,
+resulting in errors.Though they figured out a
+way to communicate errorfree, even in the
+presence of noise.How could they do this?In the 1940s, Richard Hamming
+faced a similar problemwhile working at
+Bell Laboratories.At the Bell Telephone
+Laboratories, we do about 10%of the experiments on a
+computer, and about 90%in the laboratory.Highly expected in time we will
+do 90% on the computer and 10%in the lab.Speed, cost, and effort
+favor the computerover the laboratory approach.At the time, the computers
+used stored informationon punch cards representing
+one versus zerowith hole versus no hole.This system was error prone,
+because it was common for cardsto get bent or mis punched
+in the first place.So holes could be
+missed or no holescould be accidentally
+punctured, causing flipped bits.These errors would
+cause the entire systemto halt until the error location
+could be found and correctedmanually.So Hamming took it upon himself
+to devise a method whichcould automatically detect
+and correct single biterrors without
+interrupting calculations.His solution was rooted in the
+intuitive idea of repetition,something we all do when
+faced with interference,or the chance that part of
+our message will be corrupted.His error correcting
+codes were builton the simple concept
+of a parity bit.A parity it is a
+single bit whichis added to the end of
+a message and indicateswhether the number of ones in
+the message is even or odd.If a single error
+occurs, the receivercan then detect it
+because the paritybit will no longer match.However, to detect and
+correct single errors,Hamming needed to
+add more parity bitsto identify the error location.This leads to his seven four
+code, which adds three paritybits to each block of
+four data bits as follows.First, we start with
+the three parity bits,which can be
+represented by a circle.Now, these circles intersect
+to produce four regions,and the four data
+bits are placedinside these regions
+in a specific order.Now, to calculate
+the parity bits,we look at each
+circle one at a time,each containing three data bits.We determine the
+parity bit as before.Add up the data bits, and
+if we get zero or two,the parity bit is zero for even,
+and if we get one or three,the parity is one for odd.And we do this for all circles,
+and end up with three paritybits to match the
+four data bits.These are then placed in a
+standard sequence as follows.Realize now this system
+can automaticallycorrect single errors
+with a simple rule.If a single character occurs,
+two or more of the parity bitswill be incorrect, and
+wherever they intersectis the location of the error.This intersecting data bit
+is then flipped automaticallyso that all parity
+bits are valid again.And this is Alice
+and Bob's trick,the additional parity bits
+are known as redundant bits,because they don't carry
+any new information.And all air correction codes
+work this way, they allincrease the size of
+the source messagesslightly at the expense of
+automatically correctingerrors.We also use error correcting
+codes for storage, for example,on a physical CD,
+the informationis encoded using special codes
+to correct for chunks of errorscaused by scratches or dust,
+which corrupt longer sequencesof zeros and ones
+stored on the surface.This is why you can
+scratch a CD and often itwill still play perfectly.Claude Shannon used
+this idea of redundancyto redefine the capacity
+of a communication channel,because as the noise on
+your channel increases,we must increase the
+amount of redundancyto communicate error
+free, and this must thendecrease the effective
+amount of informationyou can send per unit time.

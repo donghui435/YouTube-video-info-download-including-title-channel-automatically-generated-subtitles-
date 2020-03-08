@@ -1,0 +1,113 @@
+JAMES GRIME: There are people
+out there who want to changethe way that you count.They want to change the world so
+that we stop counting using10 symbols and start counting
+using 12 symbols.I love them.I think these guys are great.Let's talk about what
+we know so far.So, the way we count is
+the decimal system.It uses 10 symbols.So, let's just write those
+out, first of all.0, 1, 2, 8, 9.Once we get to this point, we
+start to have to make ournumbers using combinations of
+the symbols we've already got.12, 13, 14, 22, 23.Now, if we had been born with
+six fingers on each hand, thenwe would have 12 fingers, and
+maybe we would have startedusing something called the
+dozenal system where it'sbased on 12 symbols.And there are some people out
+there who think this is thesystem we should be using.They think we should have six
+fingers on each hand.They're disappointed we don't
+have six fingers on each hand,because they think it's a much
+easier way to count.So first of all, if we're going
+to use 12 symbols, Ineed two extra.Let's have a look at
+what they suggest.For 10, we we're going to
+have a symbol like this.That's called dek.And for 11, we're going to have
+a symbol like this, whichis called el.So now it reads 0, 1, 2, 3,
+4, 5, 6, 7, 8, 9, dek, el.This would be 12.In fact, they say do.So this is do, do 1, do 2, do 3,
+do 4, do 5, do 6, do 7, do8, do 9, do dek, and do el.So, do el would be
+12 and 11 more.So that's 23, and then
+you keep counting.2 do is 24, so 2 do.Two do 1, 2 do 3, 2
+do 4, and so on.Just like decimal
+system, really.It's the exact same idea.There's no difference between
+the dozenal system and thedecimal system.That would be 3 do, this
+would be 4 do.You keep going and you would get
+9 do, then you would getdek do, el do, and then
+you'd get do do.do do.12 12s.12 12s, that's 144,
+12 12s, or gross.So if we write that out, 12 12s
+will be written like this.It's 144, or gross, or gro
+So that would be a gro.Something like this
+would be a mo.So if we take this year, it's
+2012, which is a good year topick, since we were
+talking about 12.So if we took the year 2012,
+in the dozenal system, it'swritten like this.That is mo gro el 8.That's the current year if
+you count in base 12.Now, there is a reason
+why these guys wantto count this way.Because they say it's going to
+make arithmetic much easier.I want to make this clear.For serious maths, this system
+would not make any difference.But for day to day life, for
+your regular shopping, theseguys reckon that this 12 system
+would make life mucheasier because of the number
+of factors that 12 has.So 10 has--let's see.How many factors does it have?It has 1.10 has 2, 5, and 10 itself.But 12 has much more factors.It has 1, it has 2, it has
+3, it has 4, it has 6,and it has 12 itself.The reason this is useful is
+it will make calculationsusing thirds and quarters
+much easierthan they are in decimal.Let's do something like
+a 4 times table.If we did that in decimal,
+it would look like this.OK, it's 4, and then 2 times 4
+is 8, 3 times 4 is 12, 4 times4 is 16, 5 times 4 is 20.If we did it with the dozenal
+system, then it would have 4,and we would have 8, then we
+would have do, which is theirword for 12.Then we would have do 4, do
+8, 2 do, 2 do 4, 2 do 8,3 do, and so on.This pattern is a much easier
+pattern to teach children.4, 8, 0, 4, 8, 0, 4, 8, 0.The patterns are much
+easier to see.But the real strength of it is
+when you start dividing.If we wanted something like 1/3,
+you know in decimal thatthis is 0.3333, it goes on
+forever, which is fairly ugly.But in the dozenal system, it
+suddenly becomes really nice.If I want to write 1/3,
+that'd be 4 out of do.4/12 is 1/3.4 out of do, which
+is equal to 0.4.1/3 written in this
+system is 0.4.It's not something that
+goes on forever.That's the sort of thing
+that decimal does.It's horrible.In dozenal, it doesn't happen.Let's do something else.Let's do a quarter.A quarter of 12, a quarter of
+do, is 3 out of do, whichwould be 0.3.1/2 would be 6 out of
+do, which is 0.6.If you want to do 1/6, that
+would be 2 out ofdo, which is 0.2.Suddenly, all these become
+much simpler.You can see now why
+they like it.Suddenly, all those horrible
+things that happen in decimaldon't happen in dozenal.If we had been born with six
+fingers on each hand and thisis the system we have learnt,
+and then I came to you andsaid, no, I've got an idea,
+let's not use base 12, let'suse base 10, you would
+laugh in my face.Why would you use base 10?It's not as good.Now, naturally, we actually
+count in twelves, andhistorically, weights and
+measures were in twelves.So you would have
+feet and inches.12 inches to a foot.And currency was counted in
+twelves as well, because itwas naturally made dividing by
+half, dividing by thirds, anddividing by quarters
+and sixths.Much more easy and much more
+practical, and that's thesystem we had.Then in the French Revolution,
+the French got obsessed withdecimalizing everything.They wanted to make weights and
+measures easier to use, sothey wanted to decimalize it,
+divide it into 100 because weuse the decimal system.Now, they had a choice.They could have decimalized
+everything, or they could havechanged the way we counted
+from 10 to 12.If they had done that, they
+could have kept all theweights and measures the same
+and all the calculations wouldhave been as easy to do
+in dozenal as theyare today in decimal.Now, they chose to make things
+metric and keep the system.Maybe they made the
+wrong choice.In fact, in the French
+Revolution, they went so madwith decimalization that they
+had a decimal week, they had adecimal calendar, and a
+decimal clock as well.They did that for a few years.Didn't take off.BRADY HARAN: What would pi be?Would pi be the same?JAMES GRIME: So, if we're
+talking about serious maths,something like pi, it would look
+a lot different, and itwould involve these dek symbols
+and el symbols.And if we look at it, it looks
+weird and unusual.But if you were born with this
+system, it would be fine.It would be normal.There's no significant
+difference in the mathematics.The real difference this would
+make would be to just yourregular life.It might make arithmetic easier
+for children as well.BRADY HARAN: But the one thing,
+I guess, people aregoing to say is, when you're
+very small and learning aboutnumbers, your fingers and your
+hands are a really usefullearning aid.You'd be taking that away from
+children right at the start.JAMES GRIME: Well, to answer
+that, there are some culturesthat still use base 12.And what they do is
+they count on thesegments of your fingers.1, 2, 3, 4, 5, 6, 7,
+8, 9, dek, el, do.Just as easy to use.MATT PARKER: How many
+hours do you want?So the next one, let's say we
+did 3 to the power of, to thepower of, arrow, arrow, arrow,
+or whatever you wantto call this, 3.That is equivalent to 3 to the
+double to the double to the 3.

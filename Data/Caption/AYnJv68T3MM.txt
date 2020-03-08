@@ -1,0 +1,51 @@
+There it is, that's hard to get.I don't know if your camera is fast enough to catch that.I'll do it until you cry "Uncle".
+There you go.So for many people -- me in particular, viscerally -- this is as close to a random phenomena as I know.And yet you can think about it, if you knew when the coin leaves your thumb( faint ringing sound )if you knew how fast it was traveling,and if you knew how many times a second it was turning overNewton tells you, if you know the speed,
+how long it takes you to come downand that if you know how fast it's turning,you know whether it will come up heads or tails.Coin tossing is a deterministic process.So what's random about it?
+But first of all,let's try doing a little of the math of tossing a coin.I'm going to say feet per second,
+I know that's unpopular.And here's revolutions per second.So a dot on this plane is a coin toss.A dot on this plane is how fast it's going,
+and how many times a second is it turning.So for example, a dot here near the axis,the speed is high
+but the revolutions per second is not so much.So that means it's going up like a pizza.It's kind of doing this,and not really turning over.If it's close enough,
+it might be just kind of slowly turning.So it might be that it doesn't turn over at all.Similarly a dot here, very near the axis up here,is a coin which was thrown
+with a lot of revolutions per secondbut very low speed, so it never gets very far.( faint ringing sound )So there's a region like this, of initial conditions
+where the coin never turns over at all.Any place in here the coin never
+turns over at all, there's some region.And we can figure out what this curve is.It's just, you know, a first course in physics.And then there's a region
+where the coin turns over once.Initial conditions here, the coin just turns over once.And then there's a third region 
+where the coin turns over twice.And then there's a fourth region
+where the coin turns over three times,which is the same as turning over once.And these regions alternate.When you do the math what you find is 
+these regions get closer and closer together,so that small changes in initial conditions make for the difference between heads and tails.And for most of us that's what makes coin tossing random.Now you can ask, when real people
+flip real coins, where are we on this picture?I want to know how fast is the coin going when it leaves my hand?Is it going 5 miles an hour?
+Is it going 20 miles an hour?Is it going 40 miles an hour? 
+It makes a difference.So I got a friend with a stopwatch, and I went:"1, 2, 3, flip!"
+"1, 2, 3, flip!"and we got sort of synchronized,and so he could tell how long it took the coin to come down,and from that I could tell how fast it was going.Now, it took three hours to get that data,
+if you think about it.To get the data about how fast is the coin turningI had a good research idea which is the following:I took a coin and I took a piece of dental floss,you know the tape type dental floss,
+about three feet long,like that,and then I flip the coin up,
+and then I could unwind the dental flossto see how many times it had turned
+until it was flat again.( faint ringing sound )The floss twists around.Now, it's truethat a coin flipping in the air with a piece of dental flossis different than the coin
+just flipping in the air unimpeded.So as with any measurement process the measuring interferes with the randomness.But you hope it's a third order effect.Based on those kindsof experiments and a lot more of that,I know where we are on this picture.What was funny is how fast the coins go.
+A typical coin flip lasts,comes up and lasts about half a second.When you translate that,
+that means the coin is going up and backabout five and a half miles an hour.
+That's how fast this coin is traveling.Now I have to say where we are on this picture.This dot where we are in this picture is about 5,this is 1.And in the units of this picturefive and a half miles an hour
+comes down to very very close to zero,but the revolutions per second
+were 40 units up in the picture.So this picture says nothing about real coins,but the math behind the picture tells youhow serrated you are
+up there where you can't see.It seems to be true that coinsthe way we flip them are fair to 2 decimal places
+but not to 3.It's not perfectly 50/50.In work with Susan Holmes and Richard Montgomerywe showed that coins the way real people flip themit's about .51, so one in a hundred off.And it's not .51 to "heads or tails",it's .51 that it comes up the way it started.That is, if you started heads up
+it spends more time heads up.And I don't care how hard you flip the coin,you can flip it to the moon.
+That bias is a provable stable bias.And it's not a "I think" or "from experiments",
+this is a theorem.When real coins flip, when we get your
+high-speed camera, you'll be able to seethat they don't turn through
+their axis of symmetry in that way,through this plane, they precessand they do pretty complicated things.And because of the precession
+it's not just the simple two parameter business.The real analysis of flipping a coin, it's 12 parameters.Actually describing a moving coinis a 12 dimensional problem.
+It's not something I can draw a picture of.We did the analysis in the 12 dimensional spaceand put in some data from
+real people flipping real coins.We had to measure the distribution of angular momentum when real people flipped real coins.And that was quite challenging, but we did it.So based on all of that analysis, when people,when you flip a coin it's about .51
+to come up the way it started.So it's better if you see its heads, 
+it's better to guess heads.It is also true that if you take a coin
+out of your pocket,or jiggle it in your hands,
+that probably makes the start random.And then physically flipping a coin
+won't destroy that randomness.It's not as if the coins have a predilection to kind of favor heads when they come.Brady Haran: This video was made at
+the Mathematical Sciences Research Institute.Now you might be wondering,
+is it more fair to catch the coin
+or let it drop to the ground?You also might be wondering,
+is it more fair just to spin a coin on a surfacerather than tossing it through the air
+in the first place?Well Professor Diaconis has discussed both of these with us,and depending on when you're watching this,
+that video is coming very soon.Or, maybe it's already uploaded. 
+So check those out, and thanks for watching.

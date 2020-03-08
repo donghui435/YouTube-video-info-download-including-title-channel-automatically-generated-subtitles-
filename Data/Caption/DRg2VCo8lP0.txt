@@ -1,0 +1,68 @@
+I've got three rectangles
+here, and I alsohave their dimensions.I have their height
+and their width.And in fact, this one right here
+has the same height and width,so this is actually a square.So let's think about how
+much space they each take upon my screen.And since we're doing
+everything in terms of meters,since all of the
+dimensions are in meters,I'm going to measure the area
+in terms of square meters.So let's see how
+many square metersI can fit onto this
+yellow rectanglewithout going outside
+of its boundaryand without overlapping.So I can fit 1 square meter.Remember, a square
+meter is just a squarewhere its length is 1 meter
+and its width is 1 meter.So that's 1 square meter, 2, 3,
+4, or 5, and 6 square meters.So we see here that the
+area is 6 square meters.Area is equal to
+6 square meters.But something might
+be jumping out at you.Did I really have to sit
+and count 1, 2, 3, 4, 5, 6?You might have recognized
+that I could view thisas really 2 groups of 3.And let me make that very clear.So, for example, I could
+view this as one group of 3and then another group of 3.Now, how did I get groups of 3?Well, that's because
+width here is 3 meters.So I could put 3 square
+meters side by side.And how did I get the 2 groups?Well, this has a
+length of 2 meters.So another way that I
+could have essentiallycounted these six things
+is I could have said,look, I have a
+length of 2 meters.So I'm going to
+have 2 groups of 3.So I could multiply 2 times
+3, 2 of my groups of 3,and I would have gotten 6.And you might say, hey, wait.Is this just a coincidence
+that if I took the lengthand I multiplied
+it by the width,that I get the same
+thing as its area?And no, it's not, because
+when you took the length,you essentially said, well,
+how many rows do I have?And then you say when you
+multiply it by the width,you're saying, well,
+how many of these squaremeters can I fit into a row?So this is really a
+quick way of countinghow many of these
+square meters you have.So you could say that 2
+meters multiplied by 3 metersis equal to 6 square meters.Now, you might say, hey, I'm
+not sure if that always applies.Let's see if it applies
+to these other rectanglesright over here.So based on what
+we just saw, let'stake the length, 4 meters,
+and multiply by the width,and multiply by 2 meters.Now, 4 times 2 is 8.So this should give
+us 8 square meters.Let's see if this is
+actually the case.So 1, 2, 3, 4, 5--
+and you see it'sgoing in the right
+direction-- 6, 7, and 8.So the area of this rectangle
+is, indeed, 8 square meters.And you could view
+this as 4 groups of 2.So you could literally
+view this as 4 groups of 2.That's where the 4
+times 2 comes from.So you could view it as
+4 groups of 2 like this.Or you could view
+it as 2 groups of 4,So 1 group of 4 right over here.So you could view this is 2
+times 4, and then 2 groups 4.I want to draw it a
+little bit cleaner.Now, you could
+probably figure outwhat the area of
+this rectangle is.It's actually a
+square, because ithas the same length
+and the same width.We multiply the length, 3
+meters, times the width,so times 3 meters, to get 3
+times 3 is 9-- 9 square meters.And let's verify it again just
+to feel really good about thismultiplying the dimensions
+of these rectangles.So we have 1, 2, 3,
+4, 5, 6, 7, 8, and 9.So it matches up.We figure out how many
+square meters can wecover this thing with,
+without overlapping,without going over
+the boundaries.We get the exact same thing
+as if we multiplied 3 times3, if we multiplied the length
+times the width in meters.

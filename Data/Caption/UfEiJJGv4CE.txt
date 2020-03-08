@@ -1,0 +1,73 @@
+DR JAMES GRIME: So today, I want
+to tell you that almostall integers contain
+the digit 3.So the integers are
+the whole numbers.So I'm saying that almost
+all whole numberscontain the digit 3.It sounds strange, doesn't it?Yeah, because I can think of
+infinitely many numbers thatcontain a 3.I've got 3, 33, 333,
+3,333, and so on.I can think of infinitely
+many numbers thatdon't contain a 3.7, 77, 777, and 7,777,
+and so on.So how can almost all integers
+contain the digit 3?So 23 contains the digit 3.310 contains the digit 3.9,002,023.So what about the numbers
+less than 10?How many numbers less than
+10 contain the digit 3?It's just 3, isn't it?Yeah, it's just one of them.Right.So one of those, just
+the number 3 itself.So what's the proportion
+of numbers?Well, it's one out of ten.So it's 1/10.It's 0.1.It's 10%.What's the next size up?Let's look at numbers
+less than 100.We've got 3.We've got 13, 23, 43,
+53, 63, 73, 83, 93.You may have noticed I skipped
+off the 30s there.So we've got 30, 31,
+32, 33, 34, 35--so I reckon we've got 19.19 out of 100, that's 0.19.It's 19% is what I'm saying.So the percentage has gone up.Let's try numbers
+less than 1,000.Well, we've got the 19 we
+said already, right?But we've got all those
+numbers again,but with a 1 in front.Like it's 103 and 113 and then
+we get 200 and something.We get 400 and something,
+500, 600, 700, 800, 900.And then we can include
+all the 300s,which I skipped there.So just the 300, 301,
+302, 303, right?So it's 271.What's the percentage?It's about 0.271--27%.It's going up.Now, did you notice the
+trick that we usedfor that last one?I said, think of all the numbers
+with a 1 in the front.It was the same copy but with a
+1 in the front, with a 2 inthe front, and then it
+was all the 300s.You can do this in general.The numbers containing a digit
+3-- let's call that T for 3.Let's call these 10.Less than 10 to the power n.So these are the numbers
+containing a digit 3, lessthan 10 to the power n.If you want to find
+the next one-- andthat's going to be 10,000.You take the last of your
+previous number, times it by9, and add on 10
+to the power n.And you can find the
+next number.You can do that.So that would be the next
+one we're looking for.So there's a little
+formula there.So let's do it.All right then, I'm going
+to use my calculator.So 9 times 271, plus 1,000.And I get that number, 3,439.What's the proportion?It's about 0.3439.It's going up all the time--
+about 34% now.It's going up all the time.In fact, there's a nice way to
+work out how many numbersthere're going to be with a 3.Imagine if I was allowed to
+write my numbers like this,with zeroes.So that would be a zero, but
+with all these zeroes there.This is a four-digit number.So here's another one, and
+here's another one.How many four-digit
+numbers are there?It's actually 10
+to the power 4.10 choices there, 10 choices
+there, 10 choices, 10 choices.How many of them
+don't have a 3?Well, if I'm not allowed to use
+3, then I only have ninechoices for that place, nine
+choices for that place, ninechoices for that place, nine
+choices for that place.So that would be 9
+to the power 4.If you want to find out how many
+integers that contain thedigit 3, it is 10 to the power
+n, minus 9 to the power n.See, these are all my n-digit
+numbers minus the ones thatdon't contain a 3.The proportion, then, is going
+to be this thing divided bythis thing--just 10 to the n.So it's this.And what is that proportion?10 to the n divided by 10 to the
+n is 1, minus 9 to the ndivided by 10 to the n.Here's another way
+to write that--9/10 to the n.That's the proportion that
+contain a digit 3.And just what happens?Well, as this gets really,
+really big, this fraction getssmaller and smaller
+and smaller.And it will go to 1.That will disappear.It will barely be worth
+mentioning.And that is 1.So it goes to 1--we say, as n gets big.So this is getting closer
+and closer to 1 minus 0.As that gets closer to 0, as it
+gets big, this gets closerand closer to 1 minus 0.So the whole thing is
+going towards 100%.100% of numbers contain
+the digit 3.And this is the proper technical
+definition of when Isaid almost all numbers
+contain the digit 3."Almost all" sounds like a
+wishy-washy vague expression.But in mathematics, it
+has a proper meaning.It means that the proportion
+is going toward 100% as youget more and more numbers.BRADY HALAN: Would it be equally
+true to say almost allnumbers contain the number 5?DR JAMES GRIME: That would
+be equally true.And you can do the exact same
+thing to say almost allnumbers contain a 5.

@@ -1,0 +1,109 @@
+Let's say we have the
+repeating decimal 0.4008,where the digits 4008
+keep on repeating.So if we were to
+write it out, itwould look something like this.0.400840084008, and it
+keeps on going forever.What I want you to do right
+now is pause the videoand think about whether
+you can representthis repeating decimal
+as an infinite sum,as an infinite series.And then think about
+whether that infinite seriesis a geometric series.So I'm assuming you've
+given a go at it.So let's think about it.So for each term of
+my infinite series,I'm going to represent one
+of these repeating patternsof 4008.So, for example, I will make
+this 4008 my first term.So this could be viewed as 0.And this 4008 represents 0.4008.Then I could make this
+4008 my next term,or my next term will
+represent this 4008.And this 4008 is the
+same thing as 0.00004008.And then this next
+4008, well, thatrepresents 0 point-- and
+we have eight zeroes--1, 2, 3, 4, 5, 6,
+7, 8, 4008, 4008.And then we would just keep
+on going like that forever.So we're just going to keep
+on going like that forever.So hopefully there's
+a pattern here.We're essentially throwing
+four zeroes before the decimalevery time.And we can just keep on
+going like that forever.So this is an infinite sum.It's an infinite series.The next question is, is
+this a geometric series?Well, in order for it to
+be a geometric series,to go from one term
+to the next, youmust be multiplying
+by the same value,by the same common ratio.So what are we multiplying when
+we go from 0.4008 to this oneright over here, where we add
+four zeros before the 4008?What are we multiplying?Well, we moved the decimal
+four spots to the left.So we're multiplying by
+10 to the negative fourth.Or you could view it
+as we're multiplyingby 0.0001, 10 to the
+negative 1, 2, 3, 4.To go from here to
+here, well, same thing.Move the decimal four
+places to the left.So once again, we're
+multiplying by 0.0001.And so it looks
+pretty clear that wehave a common ratio of 10 to
+the negative fourth power.So we can rewrite
+all of this businessas 0.4008 times our common
+ratio for this first termtimes our common ratio of
+10 to the negative fourthto the 0-th power--
+so that gives usthat right over there--
+plus 0.4008 times 10to the negative fourth
+to the first power.And that gives us that
+value right over there.Plus 0.4008 times 10 to the
+negative 4 to the second power.And we keep on going.And so in this form, it
+looks a little bit clearer,like a geometric series, an
+infinite geometric series.And if we wanted to write
+that out with sigma notation,we could write this
+as the sum from kequals 0 to infinity
+of, well, what'sour first term going to be?It's going to be 0.4008
+times our common ratio, whichwe could write out as either
+10 to the negative fourthor 0.0001.I'll just write it as 10
+to the negative fourth.10 to the negative fourth to the
+k-th power, to the k-th power.So the next
+interesting question--this clearly can be represented
+as a geometric series--is, well, what is the sum?You might say, well,
+that's just goingto be 4008 repeating
+over and over.But I want to express
+it as a fraction.And so I want you
+to pause the video.Use what would you
+already know about findingthe sum of an infinite
+geometric seriesto try to express this thing
+right over here as a fraction.So I'm assuming
+you've had a go at it.So let's think about it.We've already
+seen, we've alreadyderived in previous
+videos, that the sumof an infinite
+geometric series--let me do this in
+a neutral color.If I have a series like this,
+k equals 0 to infinity of arto the k power, that this sum
+is going to be equal to a over 1minus r.We've derived this actually
+in several other videos.So in this case, this
+is going to be-- well,our a here is 0.4008.And it's going to be that over 1
+minus our common ratio, minus--and I'll write it like this--
+0.0001, 1 ten thousandth.So what's this going to be?Well, this is going to be
+the same thing as 0.4008.If you take 1 minus
+1 ten thousandths,or you could do this as
+10,000 ten thousandths minus 1ten thousandth, you're going
+to have 9,999 ten thousandths.Once again, you could
+view-- let me write this outjust so this doesn't
+look confusing.1 is the same thing
+as 10,000/10,000.And you're subtracting 1/10,000.And so you're going
+to get 9,999/10,000.And so this is going
+to be the same thingas 0.4008 times 10,000.So times 10,000 over 9,999.Well, what's this top
+number times 10,000?Well that's just going
+to give us 4,008.4,008 over 9,999.And we've just expressed
+that repeating decimalas a fraction.So we have succeeded.And you might say, well, maybe
+we can simplify this thing.And so let's see.This is already a
+fraction, so we've alreadykind of achieved it.But if we want to get
+a little bit simpler.Let's see, if we add the
+digits up here, 4 plus 8 is 12and 1 plus 2 is 3.So this up here
+is divisible by 3.And this down here is
+clearly divisible by 3.So let's divide
+both of them by 3.So 3 goes into
+4,008-- let's see.It goes into 4 one time,
+subtract, you get a 10.3 times 3 is 9.Subtract, you get another 10.Goes into 3 times.3 times 3 is 9.Subtract.Bring down an 8.3 into 18 exactly six times.So our numerator is 1,336.This is no longer
+divisible by 3.The sum of the digits
+is not divisible by 3,it's not a multiple of 3.And if you divide this bottom
+number by 3, you get 3,333.And I think we
+have simplified it.I think we can simplified
+it about as well as we can.Well, we could check more.Let me know if I didn't.But either way, we
+have now written this.This was pretty neat.We saw that a
+repeating decimal canbe represented not just
+as an infinite series,but as an infinite
+geometric series.And then we were able to use
+the formula that we derivedfor the sum of an
+infinite geometric seriesto actually express
+it as a fraction.

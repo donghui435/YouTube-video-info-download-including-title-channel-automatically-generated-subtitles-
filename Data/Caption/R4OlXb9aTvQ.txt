@@ -1,0 +1,101 @@
+Imagine 2 machines.They both output messages from
+an alphabet of A, B, C, or D.Machine 1 generates
+each symbol randomly.They all occur 25% of the time.Machine 2 generates
+symbols accordingto the following probabilities.Now, which machine is
+producing more information?Claude Shannon cleverly
+rephrased the question.If you had to predict the
+next symbol from each machine,what is the minimum number
+of yes or no questionsyou would expect to ask?Let's look at Machine 1.The most efficient way is
+to pose a question whichdivides the
+possibilities in half.For example, our
+first question, wecould ask if it is any
+2 symbols-- such as,is it A or B?Since there is a
+50% chance of A or Band a 50% chance of C or D.
+After getting the answer,we can eliminate half
+of the possibilities.And we will be left with 2
+symbols, both equally likely.So we simply pick
+one-- such as, is it A?And after this
+second question, wewill have correctly
+identified the symbol.So we can say the
+uncertainty of Machine 1is 2 questions per symbol.Now, what about Machine 2?As with Machine 1, we
+could ask two questionsto determine the next symbol.However, this time the
+probability of each symbolis different.So we can ask our
+questions differently.Here A has a 50%
+chance of occurring,and all other
+letters add to 50%.So we could start
+by asking-- Is it A?If it is A, we are done.Only one question in this case.Otherwise, we are left with 2
+equal outcomes-- D or B and C.So we could ask-- is it D?If yes, we are done
+with 2 questions.Otherwise, we have to
+ask a third questionto identify which of the
+last 2 symbols it is.On average, how many
+questions do youexpect to ask to determine
+a symbol from Machine 2?And this can be explained
+nicely with an analogy.Let's assume instead we want to
+build Machine 1 and Machine 2.And we can generate symbols
+by bouncing a disk off a peginto 1 of 2 equally
+likely directions.Based on which way it falls,
+we can generate a symbol.So with Machine
+1, we need to adda second level or
+a second bounceso that we have 2
+bounces, which leadto 4 equally likely outcomes.And based on where the disk
+lands, we output A, B, C, or D.Now, Machine 2.In this case, the
+first bounce leadsto either an A-- which occurs
+50% of the time-- or elsewe lead to a second bounce,
+which then can either outputat D-- which occurs 25%
+of the time-- or elseit leads to a third bounce,
+which then leads to either Bor C-- 12.5% of the time.So now we just take
+a weighted averageas follows-- the expected
+number of bouncesis the probability
+of symbol A times 1bounce plus the probability
+of B times 3 bouncesplus the probability
+of C times 3 bouncesplus the probability
+of D times 2 bounces.And this works out
+to 1.75 bounces.Now, notice the
+connection between yesor no questions
+and fair bounces.The expected number
+of questions isequal to the expected
+number of bounces.So Machine 1 requires 2
+bounces to generate a symbolwhile guessing an unknown
+symbol requires 2 questions.Machine 2 requires 1.75 bounces.We need to ask 1.75
+questions on average.Meaning, if we need to guess
+100 symbols from both machines,we can expect to ask 200
+questions for Machine 1and 175 questions for Machine 2.So this means that Machine 2
+is producing less informationbecause there is
+less uncertaintyor surprise about its output.And that's it.Claude Shannon calls this
+measure of average uncertainty"entropy," and he uses a
+letter H to represent it.And the unit of
+entropy Shannon choosesis based on the uncertainty
+of a fair coin flip,and he calls this
+"the bit," whichis equivalent to a fair bounce.And we can arrive at the
+same result using our bounceanalogy.Entropy, or H, is the
+summation for each symbolof the probability
+of that symboltimes the number of bounces.Now, the difference
+is-- how do weexpress number of bounces
+in a more general way?And as we've seen,
+number of bouncesdepends how far down
+the tree we are.And we can simplify
+this by sayingthat the number of bounces
+equals the logarithm base 2of the number of
+outcomes at that level.And the number of
+outcomes at a levelis also based on the
+probability, wherethe number of
+outcomes at a levelequals 1 divided by the
+probability of that outcome.Number of bounces actually
+equals the logarithm base 2of 1 over the probability
+of that symbol, whichgives us our final equation.Entropy, or H, is the
+summation for each symbolof the probability of that
+symbol times the logarithm base2 of 1 over the
+probability of that symbol.And Shannon writes this
+slightly different,which just inverts
+the expressioninside the logarithm, which
+causes us to add a negative,though both formulas
+give the same results.So let's summarize.Entropy is maximum when all
+outcomes are equally likely.Any time you move away from
+equally likely outcomesor introduce predictability,
+the entropy must go down.Now, the fundamental idea
+is that if the entropyof an information
+source drops, thatmeans we can ask fewer
+questions to guess the outcome.And thanks to Shannon, the bit--
+which is the unit of entropy--is adopted as our
+quantitative measureof information or
+measure of surprise.

@@ -1,0 +1,92 @@
+So let's talk a little bit
+about rational numbers.And the simple way to think
+about it is any number thatcan be represented as
+the ratio of two integersis a rational number.So for example, any integer
+is a rational number.1 can be represented as 1/1 or
+as negative 2 over negative 2or as 10,000/10,000.In all of these cases, these are
+all different representationsof the number 1,
+ratio of two integers.And I obviously can
+have an infinite numberof representations
+of 1 in this way,the same number over
+the same number.The number negative 7 could be
+represented as negative 7/1,or 7 over negative 1, or
+negative 14 over positive 2.And I could go on, and
+on, and on, and on.So negative 7 is definitely
+a rational number.It can be represented as
+the ratio of two integers.But what about things
+that are not integers?For example, let us imagine--
+oh, I don't know-- 3.75.How can we represent that as
+the ratio of two integers?Well, 3.75, you
+could rewrite thatas 375/100, which is the
+same thing as 750/200.Or you could say, hey,
+3.75 is the same thing as 3and 3/4-- so let
+me write it here--which is the same
+thing as-- that's 15/4.4 times 3 is 12, plus 3 is
+15, so you could write this.This is the same thing as 15/4.Or we could write this as
+negative 30 over negative 8.I just multiplied the
+numerator and the denominatorhere by negative 2.But just to be clear,
+this is clearly rational.I'm giving you multiple
+examples of howthis can be represented as
+the ratio of two integers.Now, what about
+repeating decimals?Well, let's take
+maybe the most famousof the repeating decimals.Let's say you have 0.333, just
+keeps going on and on forever,which we can denote by
+putting that little bar on topof the 3.This is 0.3 repeating.And we've seen--
+and later we'll showhow you can convert
+any repeating decimalas the ratio of two integers--
+this is clearly 1/3.Or maybe you've seen things like
+0.6 repeating, which is 2/3.And there's many, many,
+many other examples of this.And we'll see any
+repeating decimal, not justone digit repeating.Even if it has a million
+digits repeating,as long as the pattern
+starts to repeat itselfover and over and
+over again, youcan always represent that as
+the ratio of two integers.So I know what you're
+probably thinking.Hey, Sal, you've
+just included a lot.You've included all
+of the integers.You've included all of finite
+non-repeating decimals,and you've also included
+repeating decimals.What is left?Are there any numbers
+that are not rational?And you're probably
+guessing that there are,otherwise people
+wouldn't have takenthe trouble of trying to
+label these as rational.And it turns out-- as you
+can imagine-- that actuallysome of the most famous
+numbers in all of mathematicsare not rational.And we call these numbers
+irrational numbers.And I've listed there
+just a few of the mostnoteworthy examples.Pi-- the ratio of
+the circumferenceto the diameter of a circle--
+is an irrational number.It never terminates.It goes on and on and on
+forever, and it never repeats.e, same thing-- never
+terminates, never repeats.It comes out of continuously
+compounding interest.It comes out of
+complex analysis.e shows up all over the place.Square root of 2,
+irrational number.Phi, the golden ratio,
+irrational number.So these things that
+really just pop outof nature, many of these
+numbers are irrational.Now, you might say, OK,
+are these irrational?These are just these
+special kind of numbers.But maybe most
+numbers are rational,and Sal's just picked out
+some special cases here.But the important thing to
+realize is they do seem exotic,and they are exotic
+in certain ways.But they aren't uncommon.It actually turns out
+that there is alwaysan irrational number between
+any two rational numbers.Well, we could go on and on.There's actually
+an infinite number.But there's at least one,
+so that gives you an ideathat you can't
+really say that thereare fewer irrational numbers
+than rational numbers.And in a future
+video, we'll provethat you give me two rational
+numbers-- rational 1,rational 2-- there's going to be
+at least one irrational numberbetween those, which
+is a neat result,because irrational
+numbers seem to be exotic.Another way to think about it--
+I took the square root of 2,but you take the square root
+of any non-perfect square,you're going to end up
+with an irrational number.You take the sum
+of an irrationaland a rational number-- and
+we'll see this later on.We'll prove it to ourselves.The sum of an irrational
+and a rationalis going to be irrational.The product of an
+irrational and a rationalis going to be irrational.So there's a lot, a lot, a
+lot of irrational numbersout there.

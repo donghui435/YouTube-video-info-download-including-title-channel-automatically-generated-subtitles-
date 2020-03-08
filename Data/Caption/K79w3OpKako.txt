@@ -1,0 +1,72 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.In the last several lectures
+we explored the concept of a "binary relation".We saw that the set of ordered pairs
+which forms a binary relationis sometimes referred to
+as the "graph" of the relation.So in a binary relation on R, the graph would
+be a set of ordered pairs of real numbers.Since Cartesian coordinates can be used to
+visually represent ordered pairs of real numbersthis is a way to visually represent
+the graph of a relation on R.Graphing a set of ordered pairs can be usefulwhen trying to understand
+how two quantities may be related.For example, could there be some correlation
+between the height and weightof members of the
+U.S. Men's National Soccer Team?Let's start by making a table
+with the height and weight of each player.We can then create
+a collection of ordered pairswhere the first element of an ordered pair
+is the player's heightand the second element is his weight.This collection of ordered pairs
+forms a binary relation.The domain of this relation
+is the set of all height valuesand the range is the set of all weights.Notice that several players
+have a height of 72 inchesor a weight of 170 pounds.But these values are listed only once
+in the domain and range.This is because the domain and range are sets
+and every member of a set must be unique.No member of a set
+may be listed more than once.Now let's graph this relation
+using Cartesian coordinates.For each ordered pairwe will plot the position of the first coordinate
+on the horizontal axisand the second coordinate
+on the vertical axis.Since height and weight
+can only have positive valueswe can eliminate everything
+except the first quadrant of the graph.We will mark the horizontal axis
+in increments from zero to 80 inchesand the vertical axis
+in increments from zero to 300 pounds.Now starting with the first ordered pairwe locate the value of the first coordinate
+on the horizontal axisand the second coordinate
+on the vertical axis.So the point corresponding to the
+height and weight of the first soccer playeris located at this
+horizontal and vertical position.Likewise, the ordered pair
+corresponding to the second playeris represented by a point
+at a horizontal position of 76 inchesand a vertical position of 210 pounds.Each of the remaining ordered pairs
+is plotted in the same way.Notice that these points are very close togetherand take up only
+a very small portion of our graph.However, we can rescale the graph so that
+the points are spread over a larger areaand easier to see.When graphing only positive values
+it is not necessary to start the axes at zero.For example, we could make the first division
+on the horizontal axis 60 inchesand the first division on the vertical axis
+100 pounds.Graphs of finite sets of ordered pairs
+are called "scatter plots".Scatter plots allow us
+to visually detect patternswhich may exist
+in a relation between two quantities.For example, in this scatter plot
+it is apparent that as a general trendthe weight of a player increases
+as the height increases.We summarize this correlation
+between the two quantitiesby drawing what is called a "trend line".This example illustrates what in mathematics
+is called a "positive correlation".since on the average, as a player's height
+increases, so does his weight.But, if as height increased weight decreasedheight and weight would be "negatively correlated".Or, if no trend between height and weight
+was apparentwe would say they were "uncorrelated".When the data points are grouped
+closely to the trend linewe say that they are "strongly correlated".If the data points are grouped
+more loosely around the trend line
+0:04:55.500,0:04:49.600
+we say that they are "weakly correlated".A trend line is sometimes called
+a "line of best fit"and there are various ways to draw this line.In general, a trend line is drawn in a waythat minimizes the distance
+between the line and the data points.One way to draw a trend lineis to simply estimate the position
+which seems to fit the data points the best.This is similar to trying to build
+a straight roadthat comes as close as possible
+to several different towns.The optimum path might be the one
+which minimizes the sum of the distancesbetween the road and the towns.Many spreadsheet programs and scientific calculatorshave functions that mathematically
+calculate trend lineswhich minimize the vertical distance
+to the data points.One of the most common methods
+is the "least squares" methodwhich minimizes the sum of the squares
+of the vertical distances.Scatter plots can be useful for comparing
+characteristics of different groups.For instance, if we graph
+the weight versus heightfor the U.S. Men's National Soccer Team
+in blueand the weight and height
+for a random sample of men in redwe would see that the weights and heights
+of the soccer teamwere much more tightly grouped
+than the random sample.One reason could be
+that the U.S National Soccer Team playersare in better shape than the average person.One important type of binary relation
+which we will often encounter in mathematicsis a special type of relation called a "function".In the next lecture
+we will see how to create functionswhich will allow us to visualize and analyze
+many types of interesting and useful relationships.

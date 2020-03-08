@@ -1,0 +1,33 @@
+- [Voiceover] Let's say
+that I've got a triangle,and this side has length b,which is equal to 12,12 units or whatever units
+of measurement we're using.Let's say that this side right over here,this side right over here, has length c,and that happens to be equal to nine.And that we want to figure out the lengthof this side, and this side has length a,so we need to figure out what
+a is going to be equal to.Now, we won't be able to figure this outunless we also know the angle here,because you could bring the blue sideand the green side close together,and then a would be small,but if this angle was larger
+than a would be larger.So we need to know what
+this angle is as well.So let's say that we know that this angle,which we will call theta,is equal to 87 degrees.So how can we figure out a?I encourage you to pause this
+and try this on your own.Well, lucky for us, we
+have the Law of Cosines,which gives us a way for
+determining a third sideif we know two of the sides
+and the angle between them.The Law of Cosines tells
+us that a squared is goingto be equal b squared plus c squared.Now, if we were dealing
+with a pure right triangle,if this was 90 degrees, then
+a would be the hypotenuse,and we would be done, this would
+be the Pythagorean Theorem.But the Law of Cosines
+gives us an adjustmentto the Pythagorean Theorem,
+so that we can do thisfor any arbitrary angle.So Law of Cosines tell
+us a squared is goingto be b squared plus c squared,minus two times bc,times the cosine of theta.And this theta is the angle that opens upto the side that we care about.So we can use theta because
+we're looking for a.If they gave us another
+angle right over here,that's not the angle that we would use.We care about the angle that opens upinto the side that we
+are going to solve for.So now let's solve for a,because we know what bc
+and theta actually are.So a squared is going to
+be equal to b squared...so it's going to be equal to 144,plus c squared which is 81, so plus 81,minus two times b times c.So, it's minus two,
+I'll just write it out.Minus two times 12 times nine,times the cosine of 87 degrees.And this is going to be equal to,let's see, this is 225 minus,let's see, 12 times nine is 108.108 times two is 216.Minus 216 times the cosine of 87 degrees.Now, let's get our calculator outin order to approximate this.And remember, this is a squared.Actually, before I get my calculator out,let's just solve for a.So a is just going to be
+the square root of this.So a is going to be equal
+to the square root...of all of this business, which
+I can just copy and paste.It's going to be equal to
+the square root of that.So let me copy and paste it.So a is going to be equal
+to the square root of that,which we can now use the
+calculator to figure out.Let me increase this radical a little bit,so that we make sure we're
+taking the square rootof this whole thing.So let me get my calculator out.So I want to find that square root of 220.Actually, before I do that,
+let me just make sure I'min degree mode, and I am in degree mode.Because we're evaluating a
+trig function in degrees here.So that's fine, so let me exit.So it's going to be 225 minus 216,times cosineof 87 degrees.Not 88 degrees, 87 degrees.And we deserve a drumroll now.This is going to be 14.61,or 14.618.If, say, we wanted to
+round to the nearest tenth,just to get an approximation,it would be approximately 14.6.So a is approximately equalto 14.6, whatever units we're using long.

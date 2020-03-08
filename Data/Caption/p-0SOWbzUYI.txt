@@ -1,0 +1,215 @@
+Welcome to another Mathologer video A
+squared plus B squared equals C squared.Forget about Euler's formula and company,
+Pythagoras's theorem beats them all injust about every conceivable way, at
+least in my books. Ok so finally aMathologer video about THE theorem
+of theorems. My main mission today is tochase down the all-time greatest,
+simplest, no-brainer proof of Pythagoras'stheorem, just for you. At the same time,
+I'll introduce to some truly gorgeouscrazy and divine Pythagorean facts off
+the beaten track. And to finish off thevideo I'll tell you a little bit about a
+new book by me and Marty that's justappeared. Before we get started with the
+maths let's do a little debunking.Pythagoras's theorem is a misnomer. The
+basic fact about right-angled trianglesnamed after Pythagoras was not
+discovered by Pythagoras at all and wasactually known to the ancient
+Babylonians at least a thousand yearsbefore Pythagoras was born. Also, although it's often claimed that Pythagoras wasthe first to have produced a rigorous
+proof of this theoremthere actually does not seem to exist any
+evidence to support this claim, andplenty of maths historians doubt it. Now
+Pythagoras was the leader of a veryinfluential mathematical cult, the
+Pythagoreans, who were in the habit ofattributing all results originating with
+them to Pythagoras himself and it'slikely that because of this practice
+Pythagoras's name came to be attached tothe theorem. Anyway it's too late now,
+it's all gone, and so I'll also call THEtheorem Pythagoras's theorem or simply
+Pythagoras. Okay let's get started bylooking at a couple of gorgeous proofs
+of Pythagoras's theorem. Here's my take andone of the simplest, most beautiful and
+most popular. Let's make four copies of aright-angled triangle with short sides A
+B and hypotenuse C. Now we arrange thesethe four triangles in a square which at the
+same time creates a smaller tiltedsquare inside.
+So the small square is what you get whenyou partially cover this big blue square
+by the triangles. The small square hassides of length, what? Well, the length is
+just the length of the hypotenuse of ourtriangle which is C and so the area of
+the small square is equal to C squared.Let's shift one of the triangles. Now how
+large is the modified blue area that yousee here. Well, the triangle covers just as muchblue as before and so the new blue area
+is just as large as before, C squared.Let's do some more shifting. How large is
+the new blue area? Well, obviously, still Csquared, right? Now comes the punchline.
+Shift again. Obviously the blue area isstill C squared. However, it's also A
+squared plus B squared and so A squaredplus B squared equals C squared.
+Super neat isn't it :) Now it all seemspretty convincing, but it's definitely
+important to stress that for thisargument to count as a bulletproof
+proof we'd have to check some moredetails. For example, in this diagram here
+we need to check that the two squarelooking shapes are really squares no
+matter what right triangle we start with.Not hard but not a step we can afford to
+skip. After all, looks can be deceiving,that's as true in maths as it is in life.
+Just to give you an idea what a morecomplete proof looks like, let me show
+you a proof of Pythagoras's theorem in themost famous maths textbook ever written,
+the 2,000+ year old Elements by theancient Greek mathematician Euclid.
+Here's a translation. Whoa what happenedhere. It just looked very neat, didn't it,
+but no now it's really prettyoff-putting isn't it? And actually also
+pretty hard to understand, just based onthis diagram and the text. On the other hand,
+we can also capture the gist of thisclassic proof (2,000 years and still
+going strong) with a pretty animation. Nowif Euclid had an animation, it's been
+lost sohere's mine :) So Euclid proves Pythagoras
+by showing that the two orange figureshave the same area, and the same for the
+two blue figures. Then we've got orangeplus blue on top which is A squared plus
+B squared is equal to orange plus blueat the bottom which is C squared. Here's
+my take on Euclid's argument. The littleorange square is what you get when you
+cover this larger orange region by thiswhite copy of our right-angled triangle.
+Then shifting the triangle as beforedoes not change the area, right? The same
+can be done with the blue square. Let'sdo it. Now the orange parallelogram is
+just this larger orange figure hereafter being covered by the little red
+triangle and shifting the triangle thearrow stays unchanged again and the same
+with the blue parallelogram. And withpretty much the same diagram as before
+materialising we are done. There's the Csquared again and it is now also clear
+that the orange and blue squares westarted with are equal in size to these
+orange and blue rectangles. Over themillennia, hundreds of different proofs
+of Pythagoras's theorem have been foundand there's even a book that lists 371
+of them. And that's definitely 371 morethan most people know:)  That's the book.
+I've got about 20 of the most beautifulproofs memorised. (Marty) Really? (Burkard) Really 20. at
+least :) Let me now show you another of mymy favourites. Here's our A-B-C triangle again.
+Let's scale it up by a factor C. The newtriangle has sides AC, BC and CC. We now
+scale another copy of the originaltriangle by B. Okay let's do it. Right, and
+one more copy of the triangle, we scalethat one by A, there we go. Now let's have
+a close look and so what we see is thatthese two sides are the same. And so are
+these other two. And this means that thethree triangles fit together into a
+rectangle like this and so A squaredplus B squared equals C squared.
+Absolutely gorgeous, isn't it and there arelots and lots of other proofs that are
+just as beautiful as the ones I've shownyou. For example, you should check out the
+proofs discovered by Leonardo da Vinciand the one discovered by American
+President Garfield. If you're keen tofind out more there's no need to dig up
+the book I mentioned earlier. Insteadhave a look at the nicely Illustrated
+list of about 120 proofs on theabsolutely amazing cut-the-knot website.
+So there I am just scrolling really quick.Oh, just in case the current American
+president Donald Trump ever tweets hisown proof please someone let me know
+immediately :) Alright, all thoseproofs that I've shown you so far are
+great but none of them is the simplest. Iknow that this will sound very strange
+but the simplest proof for Pythagoras'stheorem is a proof of a very very
+general super theorem that featuresPythagoras theorem as just one of
+infinitely many special cases. So whatI'm saying is that proving the general
+theorem which comprises infinitely manyspecial cases is easier than proving
+Pythagoras's theorem which is just oneof these special cases. Super weird,
+well we'll see. Now what's this supertheorem? Well Pythagoras says that if we
+attach three suitably scaled copies of asquare in the same way to the sides of a
+right-angled triangle, then the two smallersquares together equal the larger square.
+It turns out, and that's the supertheorem, that the same is true if we
+replace the squares by any other shape.For example, the areas of the little semicircles add exactly to the area of thelarge one, the areas of the little
+pentagon's add exactly two the area ofthe large one, and so on.
+That's Pythagoras Pythagoras :)That the super theorem is true
+actually follows from Pythagoras's theorem.To see this, let's just focus on the semicircles and the squares. It's clear thatevery one of the semicircles occupies
+the same fraction of the correspondingsquare, in fact a quick pi calculation,
+and that's an exercise for you, showsthat every one of the semicircles has
+about 39 percent of the area of thecorresponding square. But since the two
+smaller squares add to the larger square0.39 times the smaller squares adds to
+0.39 times the larger square, like that,and that's the same as saying that the
+two smaller semicircles add to thelarge semicircle. So Pythagoras for
+squares implies Pythagoras for semicircles.But, using exactly the same
+argument, it also follows that Pythagorasfor squares implies Pythagoras for all
+other shapes. In fact, even stronger andagain using exactly the same argument,
+Pythagoras for any shape whatsoeverimplies Pythagoras for all other shapes.
+Now just to make sure that there's nomisunderstanding what I mean by this, let
+me rephrase what I just said: if we canprove from scratch that Pythagoras is
+true for some special shape, then thisproof implies immediately that
+Pythagoras is true for all other shapes.How amazing is that.
+But this insight then prompts a naturalquestion: Is there one best, super-terrific perfect shape for which it'seasiest to see that Pythagoras is true,
+It turns out there is. Have a look atthis. Wait for it... DONE, that's the easiest
+proof of Pythagoras. Now just in case youthink I've gone crazy note that you're
+actually looking at three triangles andnot just two, okay,
+and that the two smaller ones obviouslyadd to the larger one, AND that 
+the three triangles are similar becausethey have the same angles, AND that they
+attach a la Pythagoras to the originalred triangle like this. Really done.
+There, the simplest proof of Pythagorasusing the simplest imaginable shape, the
+right-angled triangle itself. Prettybloody amazing, as we say Down Under :)
+Definitely something for real mathsconnoisseurs to savor. Okay before we get
+into Pythagorean super facts here's alittle puzzle for you. You go to a pizza
+shop and as usual they have small, mediumand large pizzas. It turns out that one
+small plus one medium together costexactly the same as one large pizza. Now,
+using only a pizza knife decide which isthe better deal,
+the smaller plus medium combo or thelarge pizza by itself? Leave your answer
+in the comments and while you are at it alsolet me know which of the proofs of
+Pythagoras you like best.Now Pythagoras is great but it only
+works for right-angled triangles. Whatabout other triangles. Well there's also
+a really nice generalisation ofPythagoras hidden in school mathematics
+that applies to all triangles. For thislet's have another look at Euclid's
+proof. It turns out that equality ofareas of the same colour in this diagram
+generalises to other triangles like this.So in this diagram any two rectangles of
+the same colour are equal. Now with alittle trigonometry the proof is quite
+simple. Let me just show you how you cansee that the two green rectangles really
+have the same area. So we just label thesides A,B, C and the angle opposite C gamma.
+Then you can read straight off thisdiagram here that the two green
+rectangles both have area A times B timescos gamma, yet another exercise
+for you, you'll be very busy today :)And so the green rectangles have equal
+area and with that insight we get the sumof the top two squares A squared plus B
+squared minus the two green bits, sominus two times A B cos gamma equals C
+squared.Of course most of you will have encountered
+this Pythagoras under the name Cosinerule.
+So, in the case that the angle is 90degrees cos is zero and the cosine rule
+turns into standard Pythagoras. When itcomes to the cosine rule the next best
+triangle angles beside 90 degrees are 60and 120 degrees.
+Why? Because cos 60 is 1/2 and cos120 is -1/2. For example, for 60
+degrees the cosine rule takes on thisparticularly nice form and for 120 degrees
+we get a plus sign. There, almost aspretty as the 90 degree Pythagoras, and
+who knows maybe in a world of giant beesin which the hexagon's 120 degree angles
+dominate this is THE Pythagoras :) Anywayhere's another little puzzle for you. One
+remarkable thing about Pythagoras is theexistence of Pythagorean triples.
+These are triples of positive integersA, B, C such that A squared plus B squared
+equals C squared, like, for example, 3squared plus 4 squared equals 5 squared.
+How about the 60 and 120 degreePythagoras. Can you find non-trivial
+positive integer triples ABC thatsatisfy these other two Pythagorean
+equations? People always think that sincePythagoras has been around for thousands
+of years they know everything worthknowing and there's nothing new to be
+discovered about it. WRONG! New proofs andfascinating Pythagorean facts are
+still being discovered and there's somuch beautiful stuff that hardly anybody
+has heard of. For example Marty and I justrecently discovered a proof of
+Pythagoras's theorem that seems to be new.(Marty) Really? (Burkard) Yeah, actually that was new to me too
+but actually if you look at thecut-the-knot site in the list there's
+a proof by us and I had a look: yeah,actually, what we did there amounts to a
+new proof :) Anyway it's there. Anyway,to finish off here's just a little
+gallery of really interestingPythagorean flavored theorems that will
+culminate in my all-time favourite inthis respect de Gua's theorem. So A
+squared plus B squared equals C squaredbut if this height here is D then 1 over
+A squared plus 1 over B squared equals 1over D squared. Hands up, who knew that? (Marty) My hand was down. (Burkard)
+Well it's really easy to prove, giveit a try. Now theorem 2. This one works
+for arbitrary triangles. Drawing theseconnections here X, Y, Z, then X
+squared plus Y squared plus Z squared isequal to A squared plus B squared plus C
+squared ... times 3 :) and every single one ofthese new green triangles here has the
+same area as the red one we started with.Not easy to prove but feel free to give
+it a try anyway. Theorem 3. Suppose we hadstarted with an A-B-C right-angled
+triangle and then throw squares on thesides of the green triangles like this.
+Then the yellow square is equal to Csquared and 5 times the yellow square
+is equal to the sum of the 2 orangesquares. Pretty amazing :) Why 5? Why, anything nice?
+And we can keep on going. Adding the pinksquares here the sum of the two small
+pink squares is equal to the large pinksquare. How unexpected and how pretty is
+that and there seem to be many similarrelationships to be discovered if we
+keep extending this way. Ok now to reallyfinish off let me tell you about higher-dimensional counterparts of Pythagoras'stheorem. The first counterpart many of
+you will be familiar with. To begin let'srestate Pythagoras in terms of
+rectangles. In a rectangle with sides Aand B and diagonal C, well A squared plus B squaredequals C squared. This version of
+Pythagoras has one straightforwardcounterpart in 3d where we replace the
+rectangle with a rectangular box likethis. Now if its sides are A, B, C and its
+diagonal is D then A squared plus Bsquared plus C squared equals D squared.
+And this works in all dimensions. So fora 4d box with sides A, B, C, D and diagonal E
+we've got a squared plus B squared plus Csquared plus D squared equals E squared.
+Okay most of you would know this but didyou know that there is a second totally
+different and totally crazy way in whichPythagoras generalizes to all higher
+dimensions. It is called de Gua's theoremand the 3d version was only discovered
+in the 18th century by the mathematicianJean-Paul de Gua de Malves. To motivate it we interpret this right angle triangle aswhat we get when we cut a corner of a
+rectangle like that. In 3d cutting offthe corner of our box we get this.
+That's a triangular pyramid with the redcut forming the base of this pyramid and
+we've also got three faces that are allright-angled triangles. Now if A, B and C
+are the areas, so no longer distances, sothe areas of the right angled triangles
+and D is the area of the red base, thende Gua's theorem says that A squared
+plus B squared plus C squared equals Dsquared. I absolutely love this one. I
+find it so surprising that this shouldwork for squared areas instead of
+squared distances and not only in 3d butalso in all higher dimensions where
+what's squared are volumes and hypervolumes. I often assign the easy proof of
+the 3d facts in assignments at uni somaybe you'd like to try your hand at
+this one too. As I said, lots and lots andlots of homework for you today. Again
+these are just some examples of tons ofstunning Pythagorean facts. If you
+enjoyed this video make sure to alsocheck out some of the links in the
+description and in particular thecut-the-knot list of proofs which also containsMarty my new proof of Pythagoras. And
+that's it for todayexcept I also wanted to tell you about a
+new book by me and Marty which has justbeen published by the American
+Mathematical Society. For about eightyears Marty I wrote a weekly maths
+column for one of the big newspapershere in Australia and this book is a
+collection of 64 of these articles allwith an Australian theme. The book has
+come out really really nice, it's in fullcolor, looks great and so if you like the
+videos here's an opportunity to bridgethe time between videos and to find out
+about the prehistory of the Mathologer. Ingeneral have a look at www.qedcat.com that's Marty's and my website for all thingsmathematical, especially our mathematical
+Movie Database our mathematical movieclip collection, our other books, articles
+etc. And that's really finally it for today.

@@ -1,0 +1,51 @@
+So in my last video I ranted about a taxi
+driver who almost hit me in the crosswalkbecause they couldn¡¯t brake fast enough
+in the rain, and I was thinking about thisproblem in a few ways.They couldn¡¯t stop before the crosswalk,
+but really it¡¯s that they couldn¡¯t decreasetheir speed fast enough to get from 50 to
+0 before hitting the crosswalk, or maybe it¡¯sreally that the slope of their decreasing
+speed, out of all possible slopes, was nota steep enough slope.Too little deceleration.Now, some people after seeing my last video
+protested my use of the term deceleration.Deceleration: is it even a thing?Or should we say¡­ negative accelleration?Because the opposite of speeding up isn¡¯t
+slowing down, it¡¯s negative speeding-up.And that¡¯s the problem with cars; they have
+separate modes for forward and reverse.When you¡¯re coming up to a stop light you
+don't slow down by putting the car into reverse,you hit the brakes.And after you slow to a stop using the brakes,
+if you want to start going backwards backout of the crosswalk, it's not like you do
+it by just holding down the brakes real hard.Deceleration stops when the speed of the car
+reaches zero, and negative accelleration startswhen you go into reverse, and when you brake
+while in reverse, slowing down your slowingdown, that¡¯s negative deceleration.Which is also known as acceleration.Yep, hitting the brakes while in reverse actually
+speeds you up, in the positive direction,because really we¡¯re talking about velocity
+not speed.Velocity: it¡¯s speed that cares.About direction.Care-Speed.BUT IF WE HAD HOVERCARS, there¡¯s no frictional
+attachment to the relative zero position ofthe earth, no friction-based brakes that care
+about things like whether you¡¯re stoppedor not.In a hover car, you¡¯d be zooming up to the
+crosswalk and instead of decellerating byhitting the brakes, because there are no brakes,
+you'd hit the reverse thrusters that accellerateyou backwards, which would slow you down,
+I mean negatively care-speed you up to speedzero but instead of stopping, the hovercar
+would keep on the reverse thrusters and smoothlycontinue the deceleration curve until it were
+back out of the crosswalk.And possibly very far away so that I don¡¯t
+come after it on my hoverboard.Like, here's the regular taxi: vroooom eeeeeee-shnk.
+mrhhhhshnk.And the hovercar: vvvvvv pffwhshhh.Clearly superior, and a much smoother ride.Good drivers avoid these sorts of nondifferentiable
+changes in accelleration... y'know, the sudden-changeanglybits.Although in real life there¡¯s lots of little
+slope-iness going on everywhere in here...Mm, slopes.I always found that weird, that you'd get
+a smoother ride if you kept decelleratingin a hovercar until you're going backwards,
+than if you just stop.Which is why to understand what it's like
+to drive a hovercar I find it helpful to lookat the 2nd derivative, oh, did I mention care-speed
+is the 1st derivative of position over timeand accelleration is the 2nd?Calculus.The art of lookin¡¯ at slopes.Side note: I'm pretty sure the reason Newton
+gets the credit for inventing calculus insteadof Leibniz was that someone was like hey,
+newton, what are you doin', and he was like,I am integrating the derivatives of the differential
+calculus, and it sounded so fancy that theydecided kids just had to memorize all of it,
+while when someone asked Leibniz what he wasdoing, he was probably like, I'm lookin' at
+slopes, I like slopes.Do you like slopes?I like slopes.Anyway that's how it goes in my head.But it¡¯s the second derivative I care about,
+because when you¡¯re driving that¡¯s whatyou have control over.You can accelerate and decelerate using gas
+and brakes, that¡¯s it.Unless you¡¯ve got fancy cruise control that
+lets you directly input a speed, in whichcase you can sometimes work on a 1st-derivative
+level.And someday we¡¯ll all use self-driving cars
+where you just put in the position you wantto go and they calculate the rest, ah technology,
+lowering derivatives for the common good.Although if we were going to work directly
+with position rather than acceleration I¡¯dprefer straight up teleportation but if you
+like differentiable modes of transportationthen hovercars are the mathematically more
+beautiful choice of vehicle with which tonarrowly avoid hitting pedestrians, just look
+at that smooth flat deceleration that createsa constant sloping down-wards speed that goes
+right through the stillness of 0 to continuebackwards, which means your position over
+time as you approach the crosswalk and backaway again is the perfect smooth curve of
+a parabola.And whenever you buy a hovercar you should
+always check the range of your second derivativebecause more powerful thrusters means steeper
+slopes for your first derivative and tighterparabolas.Parabola!It's got all the slopes!Look at the slopes!It's calculus! (lookin' at slopes).

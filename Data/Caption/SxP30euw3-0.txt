@@ -1,0 +1,179 @@
+JAMES CLEWITT: I think this is
+going to be a really excitingvideo, because today we are
+going to generate some randomnumbers with strontium-90--radioactive strontium-90.I find all of this quite
+unnerving because this stuffis dangerous.You have to really respect it.It will hurt you.Let's do it.You've asked me to generate
+for you arandom number, right?And I want to throw that
+straight back at you.I want to play a
+game, actually.What I want you to do-- all of
+you, everybody, all right?You watching?Everybody, I want you to clear
+your head for a moment and Iwant you to think of a random
+number from 1 to 10.Got it?OK.BRADY HARAN: Choose a number
+between 1 and 10.MALE SPEAKER: Do
+I tell you it?OK.I'll choose 6.MALE SPEAKER: 7.BRADY HARAN: Choose a number
+between 1 and 10.MALE SPEAKER: 7MALE SPEAKER: 9.MALE SPEAKER: 7.7 is more likely to be chosen.And I'm annoyed.JAMES CLEWITT: I'm learning
+that very quickly.MALE SPEAKER: I'm annoyed that
+I picked 7, actually.JAMES CLEWITT: 45% of you are
+going to have said 7.BRADY HARAN: Choose and
+then tell me a numberbetween 1 and 10.JAMES CLEWITT: 7.7.Everybody says 7.Obviously, you're not going to
+choose 1 or 10, because that'snot very random.You're not going to choose an
+even number, because theydon't sound particularly
+random, either.And you're not going to go for
+5, because 5's in the middle.Hell, that's not random.So you probably want
+a prime number.So 9's out.3 is too small.3 is like you're not trying.You haven't worked hard
+enough to get to it.So what are you left with?You're left with 7.So everybody chooses 7.So is there something innately
+random about the number 7?No, of course not.That's ridiculous.There's nothing random
+about any number.If I said to you pick a random
+number, and you said 5, how doI know that's random?If I ask you do it again and you
+came up with 5 again andagain and again, clearly, that's
+not a random number.The property that makes a number
+random isn't in thenumber itself, but it's in
+the sequence of numbers.Any individual number
+isn't random.1--is the number 1 random?It entirely depends on
+the context, right?Just 1 on its own-- there's
+nothing random about that.But if I have 1, 5, 2,
+8, 7, 4, is 1 random?Yes, 1 is a random part
+of that sequence.Or at least, it's as random as
+the human mind can make it,which, as we've just seen from
+my little game, isn'tparticularly random at all.As a scientist, I model gases.And as a part of modeling gases,
+I need to give them arandom kick to get them started
+so that I don't modelan identical gas every time.I can't go through and give each
+molecule a random valuefrom my own mind.I use a computer to choose
+my random numbers.And it's spectacularly
+bad at doing that.There's no chance of getting
+a computer to generate acompletely random sequence.It's not a random machine.We have to generate a sequence
+of numbers which look and feelrandom to us.But they're not random.If we look closely enough,
+we're alwaysgoing to find patterns.So the easiest way to go
+about doing this-- canI write this down?Let me write this
+down for you.BRADY HARAN: Please.JAMES CLEWITT: Typically, the
+way that a computer engineeris going to go about generating
+a sequence ofrandom numbers for you is
+to think of a number.And we'll just call that number
+x0, our first number inthe sequence, or our zeroth
+number in the sequence.And we're going to multiply that
+number by something big,something that feels random.And we're going to call that,
+rather unimpressively a.Typically, it's going to be
+something of the order of tensof thousands.At this point, there's
+absolutely nothing randomabout this whatsoever.Then I'm going to take another
+big prime number in the tensof thousands and we're
+going to add it on.And with a spectacular lack
+of imagination, I'm goingto call that b.Still not random.I know it's not random.The next step is probably the
+only complicated bit.I'm going to take the number
+that we've just got and I'mgoing do a modulus-- which we
+normally define as just beinga percent sign--m.And this is a cyclic division.So essentially, it's the
+remainder of a divide.So if I were, for example, to
+use m of 8, if I do a cyclicdivision of 64 divided
+by 8, I get 0.If I use 66 divided by 8,
+I'm going to get 2.It's the remainder
+of that division.BRADY HARAN: So you make this
+big number and then you dothat process to it using
+this number?JAMES CLEWITT: Correct.BRADY HARAN: So you must
+still get the samenumber every time.JAMES CLEWITT: You still get
+the same number absolutelyevery time.And the answer-- we're
+going to need anequals sign in here.What we get out of here is the
+next number in a sequence--x1.Then I'm going to take x1 and
+I'm going to feed it back in.And we're going to use
+that to generate x2.And then I'm going to feed that
+back and generate x3.So I get the sequence of numbers
+that feel like theymight be random.If I were to start with x of
+0, then I'm always going toget an identical sequence.So if I'm going to write a piece
+of software where I wanta random sequence, I need the
+value of x0 to be differentevery time.If I kick my computer off again,
+I need it to be in adifferent state to start with.And the most obvious way of
+doing that, and the way I dothat, is I simply
+use the time.I use the number of merely
+seconds since January[? 1970. ?]And then I'm going to
+feed that into x0.And then x1's different.x2's different.x3's different.But--and this is the important
+thing--because this is a cyclic
+division, it's going toeventually repeat.And depending on which numbers
+you choose for a and b and n,it'll repeat sooner
+rather than later.You're going to get
+cyclic patternsin your random numbers.Now, we don't call these
+random numbers.We call these pseudorandom
+numbers becausethey're kind of random.They're not really random.We can do better than
+that, though, right?OK.So if you asked me to generate
+a random number-- let's goback to the game we played
+at the start.And I'm going to say, let's
+generate a random number, thistime between 1 and 6.There's a really obvious
+way of doing that.I brought a die with me.We throw it and we generate
+a random number.And each of those numbers, 1 to
+6, has the same probabilityof coming up.But that's not always true.What if I want to generate a
+number between 1 and 12?Let me get another die.First of all, I can't generate
+a 1 with two dice.I recognize that.So it's going to be a number
+between 2 and 12.We throw that.We get 6.There are many, many more ways
+to throw a 7 than thereare to throw a 2.There's only one way
+I can throw a 2.I've got to throw double 1.If I want to throw a 12, I've
+got to throw double 6.But I can throw 7 with a 3 and
+4 or a 4 and 3 or a 5 and a 2or a 6 and 1.There's loads of ways
+to do that.So you're far more likely.Let me draw this for you.For one die, this probability
+is the same, and it's 1/6.But for two dice, then you're
+going to get a probabilitywhich is quite sharply peaked.What if I brought
+more dice out?I'll just throw three for now.So now, we're throwing--that's random, right?BRADY HARAN: Well done.Almost a yahtzee.JAMES CLEWITT: So now, I'm going
+to throw three dice.And what we find is that we
+get a similar plot, but itstarts to curve over
+like this.So we can go from 3 up
+to [? 18 ?] now.What we're starting to produce
+is a thing called a Gaussiandistribution, a normal
+distribution.It's called normal because
+almost everythingin nature does this.If there's some probability
+distribution which is based ondice or based on the probability
+of the behavior oflots of things which are
+behaving identically, then youget a Gaussian distribution.So it's absolutely everywhere.And a Gaussian distribution
+has a shape whichlooks a bit like this.And it's very sharply peaked.You're very, very likely to
+get this average value.But it's still completely
+random.I can't tell you what value
+I'm going to get.All I can tell you is the
+probability of that value.You don't want to hear about
+the ancient Greeks, do you?We've thrown two.We've thrown three.Now, I've brought, frankly,
+every die I own.And we're going to
+throw many dice.And when we throw many, some of
+them go on the floor, butwhat we end up with is this
+Gaussian distribution.The probability of the number
+that we're going to get is theGaussian distribution.So what most people think of as
+a random number is actuallya uniform deviate, which
+basically means that everynumber in the sequence has got
+the same chance of coming up.But that doesn't
+make it random.What makes it random is that you
+can choose any number inthe sequence.It doesn't matter what the
+probability of that choice is.So you may be very, very likely
+to choose the number inthe middle.But that doesn't mean that it's
+not randomly possible foryou to choose any
+number at all.BRADY HARAN: So it's like if you
+and I had a weightliftingcompetition.The result will be random, but
+you're probably going to win.JAMES CLEWITT: That's
+not random.No, you misunderstand.I'm going to win that one.You've asked me to give
+you a random number.And I really want to.So I've gone out of my way and
+I've gone to the safe and I'vegot something that's going to
+create a random number,because here, I've got a small
+radioactive source.It's strontium-90.And it is going to randomly
+give out electrons.As a neutron turns into a
+proton, then out comes ahigh-energy electron
+from the strontium.And so coming into the Geiger
+counter here, I'm getting justas a steady stream
+of electrons.And I'm counting them.And the number that I count--surprise, surprise--
+is Gaussian.But it's random.It's completely random.And so--let's turn it on.Let me just show you.Can I show you?That's the happy sound
+of radiation.So you can hear it, but
+you can see it, too.Here it is.Here are the individual
+pulses.Each one of these flashing
+on here--that's an electron going into
+the Geiger counter, which ispretty cool.So I've written you're a
+small computer program.I hope it works.The number you're going to
+get is the deviationfrom the mean value.So I know what the mean value
+for the count is going to be.And I'm giving you the
+difference between that valueand the number we
+actually count.Here we go.[LAUGHING]Well, I was expecting it
+to be a little moredramatic than that.What that means is we've got
+exactly the mean value.So that is the most
+likely outcome.And yet somehow I didn't
+expect that thatwas going to be it.Shall we try again?We're generating another
+random number.And to be honest, I really
+want it to be 7.So this is it counting.13--it's prime.How much more random
+do you want to be?That is a spectacularly
+random number.It's 13.Brilliant.BRADY HARAN: So if you enjoyed
+this video, I've got some goodnews for you.We're actually starting a new
+channel a bit like Numberphilebut all about computers.It's something a lot of
+you have asked about.That channel's going to be
+launching properly in May, butwe've started it now
+and you can go andhave a look and subscribe.I'll put a link on the screen
+underneath the video and inthe video description, all
+that sort of thing.Have a look, and we hope
+to see you there, too.

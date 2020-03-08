@@ -1,0 +1,41 @@
+We're told to graph the
+inequality y is lessthan 3x plus 5.So you give me any x, y is going
+to be less than 3 timesthat x plus 5.So the way to think about it is
+you want to think about theline y equals 3x plus 5, but
+since we're going to be lessthan that, instead of drawing
+the line, we're going to drawit as a dotted line and then
+shade all the y's that areless than that.So let me show you
+what I mean.So if we wanted to just draw 3x
+plus 5, if this was just anequality, if we wanted to draw
+that graph-- I'll do it inthis dark green color-- we'd say
+OK, the y-intercept hereis positive 5.So we'd go 1, 2, 3, 4, 5.And we'd say the slope is 3,
+which means if we move 1 inthe x direction, we move up 3.If we move back in the x
+direction, we're goingto move down 3.If we move back 2, we're
+going to go down 6.2, 4, 6, just like that.Now, if this was graphing the
+line y is equal to 3x plus 5,we would just connect
+all of these dots.But because we're not less than
+or equal to, we're justless than, we're going to do a
+dotted line here to show thatthe line is actually not
+going to be included.So let me draw a dotted line
+here, which is actuallysurprisingly easier to draw
+than a regular line.So that is a dotted line.We're not going to include
+that line, we're going toinclude all the y's that are
+less than 3x plus 5.So let's think about
+it for second.If you give me some arbitrary
+x, so let's say that x is 0.If x is 0, then what's
+3x plus 5?Well, 3 times 0 plus 5 is 5.So y is going to be
+less than that.If x is 0, y has to
+be less than 5.So y is going to be all of
+these values down here.And it would not include-- and
+if you were doing it as anumber line, you would do a
+circle over there-- you wouldnot include 5.If x was equal to 1,
+what is 3x plus 5?3 times 1 is 3, plus 5 is 8.So y would have to be less
+than 8, 8 is over here.So it's all the values less
+than eight over here.So in general, for any x over
+here, the y's that are lessthan 3x plus five are
+all of the valuesbelow the dotted line.All of these values below the
+dotted line is the graph ofthe inequality y is less
+than 3x plus 5.If it was less than or equal
+to, you would make that asolid line.But it's not, so it's just all
+of this area down here.All of this area below this
+line, that's what that lessthan tells you.

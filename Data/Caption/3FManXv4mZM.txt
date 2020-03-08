@@ -1,0 +1,79 @@
+So quadrilateral ABCD, they're
+telling us it is a rhombus,and what we need to
+do, we need to provethat the area of this rhombus is
+equal to 1/2 times AC times BD.So we're essentially proving
+that the area of a rhombusis 1/2 times the product of
+the lengths of its diagonals.So let's see what
+we can do over here.So there's a bunch of
+things we know about rhombiand all rhombi are
+parallelograms,so there's tons of things that
+we know about parallelograms.First of all, if it's a rhombus,
+we know that all of the sidesare congruent.So that side length is
+equal to that side length isequal to that side length is
+equal to that side length.Because it's a
+parallelogram, we knowthe diagonals bisect each other.So we know that
+this length-- letme call this point
+over here B, let'scall this E. We know that BE
+is going to be equal to ED.So that's BE, we know that's
+going to be equal to ED.And we know that
+AE is equal to EC.We also know, because
+this is a rhombus,and we proved this
+in the last video,that the diagonals, not only
+do they bisect each other,but they are also perpendicular.So we know that this
+is a right angle,this is a right angle,
+that is a right angle,and then this is a right angle.So the easiest way
+to think about itis if we can show that
+this triangle ADC iscongruent to triangle ABC,
+and if we can figure outthe area of one of them,
+we can just double it.So the first part is
+pretty straightforward.So we can see that
+triangle ADC isgoing to be congruent
+to triangle ABC,and we know that by
+side-side-side congruency.This side is congruent
+to that side.This side is congruent to
+that side, and they both sharea C right over here.So this is by side-side-side.And so we can say that the
+area-- so because of that,we know that the
+area of ABCD is justgoing to be equal to
+2 times the area of,we could pick
+either one of these.We could say 2 times
+the area of ABC.Because area of ABCD-- actually
+let me write it this way.The area of ABCD is equal to
+the area of ADC plus the areaof ABC.But since they're
+congruent, these twoare going to be the
+same thing, so it's justgoing to be 2 times
+the area of ABC.Now what is the area of ABC?Well area of a triangle is
+just 1/2 base times height.So area of ABC is just
+equal to 1/2 times the baseof that triangle times its
+height, which is equal to 1/2.What is the length of the base?Well the length
+of the base is AC.So it's 1/2-- I'll
+color code it.The base is AC.And then what is the height?What is the height here?Well we know that this
+diagonal right over here,that it's a
+perpendicular bisector.So the height is just
+the distance from BE.So it's AC times BE,
+that is the height.This is an altitude.It intersects this base
+at a 90-degree angle.Or we could say BE is the
+same thing as 1/2 times BD.So this is-- let me write it.This is equal to, so it's
+equal to 1/2 times AC, that'sour base.And then our height is
+BE, which we're sayingis the same thing
+as 1/2 times BD.So that's the area
+of just ABC, that'sjust the area of this broader
+triangle right up there,or that larger triangle
+right up there,that half of the rhombus.But we decided that the
+area of the whole thingis two times that.So if we go back, if we
+use both this informationand this information right over
+here, we have the area of ABCDis going to be equal to
+2 times the area of ABC,where the area of ABC is
+this thing right over here.So 2 times the area
+of ABC, area of ABCis that right over there.So 1/2 times 1/2 is
+1/4 times AC times BD.And then you see
+where this is going.2 times 1/4 fourth is
+1/2 times AC times BD.Fairly straightforward,
+which is a neat result.And actually, I haven't
+done this in a video.I'll do it in the next video.There are other ways of finding
+the areas of parallelograms,generally.It's essentially base times
+height, but for a rhombuswe could do that because
+it is a parallelogram,but we also have this
+other neat little resultthat we proved in this video.That if we know the
+lengths of the diagonals,the area of the rhombus
+is 1/2 times the productsof the lengths of the diagonals,
+which is kind of a neat result.

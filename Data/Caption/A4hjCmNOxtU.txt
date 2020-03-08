@@ -1,0 +1,23 @@
+- Hi, welcome to this question right here.
+So, we have two similar triangles righthere. That did tell us it's similar,
+right? So, don't worry about it. It issimilar. We need to calculate the missing
+length. Turns out the missing length isright here, okay?
+So, what you do first is you have to setup like a proportional fraction. So, let's
+put an equal sign right here. And put up afraction sign and a fraction sign. So,
+what you do is this, you know that thesetwo are similar triangles, okay? So, the
+shorter side with the shorter side,there's a ratio that's involved between
+these two so, my own little preference isI'm gonna take the bigger number that goes
+first. So, I'm gonna put a two right here,for the bigger triangle. This side right
+here versus this side, which is 0.5, okay?Then, I'm gonna try to figure out my
+missing x right here. So, this missing xcorresponds to the six over here, okay?
+Because the hypotenuse and the hypotenuseof the two triangles would go together.
+So, the six over here of my biggertriangle will match the x here for my
+little triangle. So once again, the biggeron the top, smaller on the bottom. Just
+because the math is easier. The six isover here, and the x is over here, okay?
+Now, maybe now you're not go with thealgebra. But you can just think about
+this. They are the same ratio to eachother. All you need to do is think about
+how to go from two to six. Well,mathematically, going from two to six, you
+just have to times it by three. And sinceyou times by three to the top, you have to
+do the same thing to the bottom, right?So, 0.5 times by 3, you get yourself a 1.5
+at the very end.So, x over here turns out just to be a 1.5
+meters. And that is your final answer.Thanks for watching.

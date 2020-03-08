@@ -1,0 +1,43 @@
+We have three lines and we have
+to figure out which ofthe three are parallel.So line A-- and it can't be
+parallel on its own, it has tobe parallel to another
+of the three lines.So the equation for line
+A is y is equalto 3/4 x minus four.Line B is 4y minus 20 is
+equal to negative 3x.And then line C is negative
+3x plus 4y is equal to 40.So to figure out if any of these
+lines are parallel toany of the other lines,
+we just have tocompare their slopes.If any two of these lines have
+the same slope and they'redifferent lines, they have
+different y-intercepts, thenthey're going to be parallel.Now line A, it's very easy
+to figure out its slope.It's already in slope-intercept
+form.This is mx plus b, the slope
+is 3/4 and the y-intercept,which isn't as relevant when
+you're figuring out parallellines, is negative 4.So let's see what the other
+character's slopes are.This isn't in any kind
+of standard form.It's not a standard form,
+slope-intercept, orpoint-slope form, but let's
+see what the slopeof this line is.So to get it into
+slope-intercept form, which isreally the easiest one to pick
+out the slope from, let's add20 to both sides of
+this equation.The left-hand side, those cancel
+out, that was the wholepoint, you get 4y is equal
+to negative 3x plus 20.And now we can divide
+everything by 4.We are left with y is equal
+to negative 3/4 x plus 5.So in this case, y-intercept
+is 5, but most importantly,the slope is negative 3/4, so
+it's different than this guy.This is negative 3/4, this is
+positive 3/4, so these twoguys definitely aren't
+parallel.Let's move on of this guy
+in standard form.So let's get the x term
+on the other side.So let's add 3x to both sides
+of this equation.Left-hand side, these
+cancel out.We're just left with 4y is equal
+to 3x plus 40, or 40plus 3x, either way.Now we can divide both sides
+by 4 you have to divideevery term by 4.The left-hand side, you're
+left with y.The right-hand side, you
+have 3/4 x plus 10.So here, our slope is 3/4 and
+our y-intercept, if we careabout it, is 10.So this line and this line have
+the exact same slope,3/4, and they're different
+lines because theiry-intercept is different.So we know that A and C are
+parallel lines and B is notparallel to either one
+of the other two.

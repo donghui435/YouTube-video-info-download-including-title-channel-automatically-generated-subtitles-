@@ -1,0 +1,25 @@
+- Hi, welcome to this question right here.
+So, in the following diagram which ishere, the radius of the triangle is 24
+centimeters, right? And we know the angleB, D, and C. That's this angle right here,
+is 75 degrees. So, we're trying to figureout the angle BAC, which is right over
+here. So, that's the missing angle thatyou're trying to figure out, okay?
+Now, there's a relationship between thisangle and this angle. Now, the angle 75 is
+called the central angle. The centralangle is called the C, for example, okay?
+And the inscribed angle of that centralangle is only just half of that, okay? So,
+it's equal to the inscribed angle but youneed to put a two times right there, okay?So, basically the central angle is double,
+double of the inscribed angle. Now, how doyou know that one is really an inscribed
+while the other is the center? Well, thecentral angle is always from a point and
+then the other point, and they form withthe center line, okay? The center point,
+okay? So, this is your central angle righthere.
+Now, if you start and finish with the samepoints, which is B and C, and you form any
+triangle around your circle right here,those are called your inscribed angles,
+okay? Or they have the same arc lengths.You can actually look at the arc lengths
+right here. This is the arc length of thetriangles, right?So, as long as they share the same arc
+length. Doesn't have to start from here tohere. It could be somewhere else. As long
+as the arc length, the A-R-C, is the same.Therefore, this equation right here will
+exist, okay? The central angle is thedouble of the inscribed angle. So, if
+that's 75 over here, then, basically it'sjust two times the missing angle. Which
+is, let me put down. . .75 degrees and there's your two theta
+that's missing, okay? So, just grab yourcalculator and take the 75 divided by two,
+you get yourself the angle, which is thisone right here, the BAC will just be 37.5
+degrees. And that's your final answer forthis question. Thanks for watching.

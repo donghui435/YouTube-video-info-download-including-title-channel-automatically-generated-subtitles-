@@ -1,0 +1,70 @@
+In the late 1950¡¯s and 1960¡¯s people began
+to experiment with the idea of computer tocomputer communication¡­.all information, no matter the form, is stored
+in the computer¡¯s memory as a sequencesof bits.To send these bits they created hardware which
+could transmit a clocked sequence of electricalpulses along a wire.On the receiving end the computer would capture,
+store and convert the bits into the informationthey represent.Doing this with two computers, along a single
+line, is quite simple.But of course, other people wanted to connect
+their computers together, too.Leading to a computer network.One simple solution to make this network would
+be to connect all machines to all other machines.but as you add more and more computers this
+requires an impractical amount of line¡­plusit¡¯s incredibly wasteful.Telephone networks at the time took a more
+practical approach, individuals were connectedto a Hub (such as a city switchboard) which
+was a point through which many people couldconnect.At this hub would be an operator with a switchboard
+would manually patch people together by closinga circuit between them (known as a circuit
+switched network).So if PERSON A wants to connect to PERSON
+B, they both get patched onto the long distanceline through the hub.the drawback of this method is nobody else
+in the network can use the long distance lineuntil they finish their conversation.We call this line the bottleneck of the network.By 1972 the designers of what we now call
+the internet were building ARPANET.It began as a small network of computers at
+universities on both sides of the countryconnected together.So they came up with a clever way of weaving
+computer conversations together.by breaking up all digital messages into chunks
+known as packets.The job of the hub is simple: Send packets
+as they arrive from various sources on a firstcome, first served basis.each packet labeled by its source and destinationOn the receiving end this weaving is undone
+and the packets are put back into their originalsequence.Effectively squeezing multiple conversations
+along the line at the same time...New cities were connected to hubs and those
+hubs were connected to each other.So more and more digital data needed to get
+squeezed down these long distance lines.But there is a fundamental limit to how many
+bits you can squeeze down any line per second.This limit is known as the line capacity (or
+Bandwidth).And as you add more and more and more households
+to the network, then you¡¯ll run into a problemwe¡¯ve all experienced in traffic¡­.a waiting
+line develops(waiting line visual)If you are watching a streaming video you
+will notice these missing packets as unwantedpauses in your stream.To see exactly how this happens, let¡¯s do
+a simple example and ignore all the peopleon the internet except one household.Imagine this household is watching a video
+stream from Washington upstairs and downstairssomeone is watching an audio stream from California.The video packet could take THIS pathway and
+at the same time the audio packet could takeTHIS pathway.No problem.But now let¡¯s add another household to the
+network, in a separate city.And assume they also want the identical audio
+and video stream.Perhaps they are popular shows.They have direct a pathway to the music source,
+but they also need the middle path for theirvideo source.This causes a waiting line, or queue, to develop,
+so the hub will transmit two packets downthe line, one after the other.This is what we mean when we say the network
+is ¡®slowing down¡¯ - people begin to waitfor their packets due to queues which develop
+at the hub.so The BIG engineering problem today becomes,
+how can we make these queues at our bottleneckssmaller?In the year 2000 a seminal paper was published
+(Ahlswede et al) and it¡¯s based on a cleverstrategy for what happens at the nodes in
+a network...Instead of treating packets like cars, and
+sending them one at a time.The idea was to treat packets as numbers.And blend them together using mathematical
+operations, such as addition.Resulting in a new packet which contains a
+mixture of information from more than onepackets.Think of these mixed packets as providing
+clues about what¡¯s in themLet¡¯s return to our example to see exactly
+how it works...Let¡¯s say the video packet being sent can
+be represented by the number 1.And the audio packet can be represented by
+the number 4.When the video packet hits the first hub,
+it¡¯s the only one to arrive so it¡¯s sentunchanged along all the output lines.Same thing happens when the music packet when
+it hits the first hub.But now look at the middle up, it receives
+2 packets, and this time it adds them togetherand sends the result as a single packet.Notice now, both households receive their
+packets just as fast for each household asif they were alone on the network!Finally the key step is to look at how we
+can unmix these mixtures on the receivingend.Let¡¯s look at Household 1 first.It receives the video packet directly.to extract the music packet out of the mixture
+it needs to SOLVE for the missing value, bydoing simple math we all learn in school.We know the Video packet = 1And the Video + Music packet = 5Therefore,The Music packet equals 4.And that¡¯s the great insight of this paper.We treat each mixture as an equation, the
+receiving computer solves for the variables,or packets, it needs.This is in sharp contrast to how the internet
+was originally designed.Because it allow smultiple packets to travel
+the same line at the same time, instead ofhaving to get each packet in line and wait
+its turnAnd this system practically works because
+computers can now do basic arithmetic operationsneeded to solve these linear equations incredibly
+fast, millions of times per secondBy 2020 it is expected that ~75% of network
+traffic will be video streams and the trafficfrom mobile phones alone will be 30 exabytes.And we increasingly rely on our communication
+networks for services that are consideredfundamental such as health, finance, education...Therefore solving problems related to network
+congestion is critical.And network coding is a great approach because
+it allows us to mix information packets insteadof having to get each packet in line and wait
+its turn.This video presented the basic principle of
+network coding in a simplified manner, butthere still exist many open questions, as
+well as new applications to explore.Such as wireless networks, security, distributed
+computing and storage.An active research area in information theory
+today is how to best leverage this paradigmshift to network coding as we build our digital
+future.END

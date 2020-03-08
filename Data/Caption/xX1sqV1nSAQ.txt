@@ -1,0 +1,70 @@
+Hello.I'm Professor Von Schmohawk
+and welcome to Why U.We have seen that multiplying any
+decimal number by tenshifts each digit in the number
+one column to the left.In the last lecture,we used this trick to convert decimal numbers
+with a finite number of digits into fractions.In this lecture, we will see how to convert
+"repeating" decimal numbers into fractions.Repeating decimal numbers have one or more
+digits after the decimal pointthat repeat forever.As an example, let¡¯s convert a decimal number
+with one infinitely repeating digitinto a fraction.The first step is to eliminate the
+infinitely repeating digit.We do this by first multiplying the number
+by ten to shift it one column to the left,and then subtracting the original number.Since both numbers in this example have an
+infinite number of repeating fives,this eliminates all the repeating fives
+after the decimal point.We know that our original decimal number
+is equal to some fraction,but we don¡¯t yet know
+what that fraction is.However, we do know that when it is subtracted
+from ten times itself, we get five.Let¡¯s write this statement as an equation.Ten times the fraction,minus the fraction,equals five.It is possible to write this statement
+more simply.Subtracting one thing from ten things
+leaves nine things.So instead of writing
+¡°ten times the fraction, minus the fraction¡±we can simply write
+¡°nine times the fraction¡±.Since both sides of the equation are equal,we can divide each side by the same number
+and they will still be equal.Let¡¯s divide both sides by nine.Notice that on the left side of the equation,the fraction is
+multiplied AND divided by nine.This leaves its value unchanged,so we can cancel out the nines
+on the left side of the equation.We are left with an equation which says that
+the fraction is equal to five-ninths.We have converted our repeating decimal number
+to the fraction five-ninths.Let¡¯s try this again
+with a repeating sequence of threes.As we did in the previous example,
+we eliminate the one repeating digitby multiplying by ten one time,
+and then subtracting the original number.This eliminates all the repeating threes
+to the right of the decimal point.So ten times the fraction, minus the fraction,
+equals three.We write this as an equation
+which we can simplify to say:¡°Nine times the fraction equals three¡±.We then divide each side of the equation
+by nineso that the nines on the left side cancel.This equation tells us that our fraction
+is equal to three-ninths.Of course the fraction three-ninths
+can be reduced to one-third.So we have converted this repeating decimal
+number to the fraction one-third.Now instead of a single repeating digit,let¡¯s convert a decimal number with a
+repeating sequence of three digits.Since there are three repeating digits
+to eliminate,we must shift the number three columns to
+the left, by multiplying it by ten three times.This, of course, is the same as
+multiplying by one-thousand.We then subtract our original number,
+which eliminates the repeating digits.Now we write this as an equation:One-thousand times the fraction,minus the fraction,equals one-hundred-twenty-three.One-thousand times the fraction,
+minus the fractionis the same as nine-hundred-ninety-nine
+times the fraction.And dividing both sides of the equation by
+nine-hundred-ninety-ninecancels out the nine-hundred-ninety-nine
+on the left.So our fraction is equal to one-hundred-twenty-three
+nine-hundred-ninety-ninths.Let¡¯s see what happens with the repeating
+decimal numberzero-point-one,
+followed by an infinite number of sixes.Since there is only one repeating digit, six,we shift the number one column to the left
+by multiplying by ten one time,and subtract the original number.This eliminates the repeating sixes,and we are left with one-point-five.We then write the equation:"Ten times the fraction, minus the fraction,
+equals one-point-five",which we can simplify to¡°Nine times the fraction
+equals one-point-five¡±.Dividing both sides of the equation by nine
+eliminates the nines on the left,and we see that our fraction is equal to
+one-point-five over nine.But we have a problem.A fraction¡¯s numerator and denominator
+must be integers.We can solve this problem by multiplying the
+top and bottom of the fraction by tento create two integers.This gives us fifteen-ninetieths,which can be reduced to one-sixth.So this repeating decimal number
+is equal to one-sixth.As a final example, let¡¯s reduce a number
+that has the repeating sequence of digits,one-four-two-eight-five-seven.Since there are six repeating digits,we shift this number six columns to the left
+by multiplying it by ten six times,which is the same as multiplying by one-million.We then subtract the original number.This eliminates all but one copy
+of the repeating sequence.We are left with the integer,
+one-four-two-eight-five-seven.We then write the equation:"One million times the fraction,
+minus the fraction,equals one-four-two-eight-five-seven."Using the same logic as before,the left side of this equation
+can be simplified tonine-nine-nine-nine-nine-nine
+times the fraction.Dividing both sides of the equation by
+nine-nine-nine-nine-nine-nine,leaves us with an equation which says that
+our number is equal to the fractionone-four-two-eight-five-seven
+over nine-nine-nine-nine-nine-nine.Using the factoring techniques we learned
+in the lecture on reducing fractions,this scary-looking fraction
+can be reduced to one-seventh.So we have discovered that
+this repeating decimal numberis equivalent to the fraction one-seventh.This concludes our lectures on fractions.So far we have learned about the properties
+of the arithmetic operationsaddition, subtraction,
+multiplication, and division.In our next lecture, we will introduce the
+mathematical operation of "exponentiation".

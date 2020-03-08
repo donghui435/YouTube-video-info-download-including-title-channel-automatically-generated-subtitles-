@@ -1,0 +1,40 @@
+In which quadrant is the point
+negative 7 comma 7 located?So let's just review
+what a quadrant is.A quadrant are each
+of the four sectionsof the coordinate plane.And when we talk
+about the sections,we're talking about the sections
+as divided by the coordinateaxes.So this right here is the
+x-axis and this up-down axisis the y-axis.And you can see it
+divides a coordinate planeinto four sections.We call each of these
+sections quadrants.This one over here, where both
+the x-values and the y-valuesare positive, we call
+the first quadrant.And we use the Roman numeral I.Then if we kind of
+move counterclockwisearound the coordinate
+plane, this quadrant wherethe x-values are negative and
+the y-values are positive,we call this the
+second quadrant.I could write it.We call this the
+second quadrant.Then we go down here where
+both the x-values are negativeand the y-values are negative.We call this the third
+quadrant, once againusing Roman numerals.Then finally the quadrant
+where the x-values are positivebut the y-values
+are negative, wecall this the fourth quadrant.So let's see which quadrant
+the point negative 7 comma7 is located.So there's two ways
+to think about it.You could just say, look,
+we have a negative x-value.Our x-value is
+negative, so we'regoing to move to the left.So we're going to
+be on this side.We're going to be on
+this side right hereof the coordinate plane.Just by the fact that
+the x-value is negative,we're going to be either in the
+second or the third quadrant.Now, we know that the
+y-value is positive.We know that the
+y-value is positive.So if the x-value is negative
+and the y-value is positive,we're going to land
+someplace right over herein the second quadrant.The other way to
+think about it is youcould literally
+just plot this pointand see that it falls
+in the second quadrant.So let's do that.If x is negative 7.So that's negative 1, negative
+2, negative 3, negative 4,negative 5, negative
+6, negative 7.Did I do that right?1, 2, 3 4, 5, 6, 7.So this is x is negative 7.And then we have to
+go up 7 because yis equal to positive 7.So 1, 2, 3, 4, 5, 6 7.So the point negative 7
+comma 7 is right over here,clearly lies in the
+second quadrant.

@@ -1,0 +1,18 @@
+Okay, hours of fun to be had working out the codes
+for different numbers in a two-one machine.But then, I had a flash of insight.I realized, instead of doing a two-one machine,
+I could do a three-one machine.Whoa.So now three dots in the box will explode
+to become one dot, one place to the left.So what do the codes for numbers look like
+in a three-one machine?Let's find out.Put in one dot, zoom,
+not very exciting, one dot.Put in a second dot, zoom,
+still not very exciting.We need three dots to explode.I've only got two so the code for two
+is still two.Put a third dot however, here it comes,
+zoom.Three dots in the box explode¡ª
+ka-thwack!To become one dot one place to the left.So the code for three is nothing, nothing,
+nothing, one dot, zero dots.One, zero.Ah-ha!Four, right most box, zoom.Fine, that's one one.Five, zoom¡ª
+one, two.Six might be exciting.Can you see what the code for six
+is going to be?Here it comes.Zoom.Three dots in a box, ka-zooble.Ka-thwack.Three dots became one.The code for six is now nothing, nothing,
+nothing, two dots, zero dots, two zero.Grand.Your turn.What's the code for thirteen
+in a three-one machine?And again, I've skipped some numbers,
+how annoying of me.Can you figure it out?I'll give the answer away in a later video
+but try for now.Again, hours of fun working out codes
+of numbers in a three-one machine.Whoa!

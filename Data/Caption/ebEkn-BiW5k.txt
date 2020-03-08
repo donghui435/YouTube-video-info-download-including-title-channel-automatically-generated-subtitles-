@@ -1,0 +1,59 @@
+We often evaluate the success of medical treatments
+or social programs by how much of the population they help. Like, suppose we're treating a disease that
+afflicts both people and cats, and among 1 cat and 4 people we treat, the cat and 1 person
+recover and 3 people die. And of 4 cats and 1 person we don't treat,
+three of the cats recover while the person and 1 cat die. In the real world, these numbers might be
+more like 300 and 100, or whatever, but we'll keep them small so they're easier to keep
+track of. So, in our sample, 100% of treated cats survive
+while only 75% of untreated cats do, and 25% of treated humans survive while 0% of untreated
+humans do. Which makes it seem like the treatment improves
+chances of recovery. Except that if we aggregate the data, among
+all people and cats treated, only 40% survive, while among all people and cats left on their
+own, 60% recover. Which makes it seem like the treatment reduces
+chances of recovery. So which is it? This is an illustration of Simpson's paradox
+, a statistical paradox where it's possible to draw two opposite conclusions from the
+same data depending on how you divide things up, and statistics alone cannot help us solve
+it – we have to go outside statistics and understand the causality involved in the situation
+at hand. For example, if we know that humans get the
+disease more seriously and are therefore more likely to be prescribed treatment, then it
+can make sense that fewer individuals that get treated survive, even if the treatment
+increases the chances of recovery, since the individuals that got treated were more likely
+to die in the first place. On the other hand, if we know that humans,
+regardless of how sick they are, are more likely to get treated than cats because no
+one wants to pay for kitty healthcare, then the fact that 4 out of 5 humans died while
+only 1 in 5 cats died suggests that, indeed, the treatment may be a bad choice. So if you're doing a controlled experiment,
+you need to make sure to not let anything causally related to the experiment influence
+how you apply your treatments, and if you have an uncontrolled experiment, you have
+to be able to take those outside biases into account. As a more tangible example, Wisconsin has
+repeatedly had higher overall 8th grade standardized test scores than Texas, so you might think
+Wisconsin is doing a better job teaching than Texas. However, when broken down by race – which,
+via entrenched socioeconomic differences is a major factor in standardized-test scores
+– Texas students performed better than Wisconsin students on all fronts: black Texas students
+scored higher than black Wisconsin students, and likewise with hispanic and white students. The difference in the overall ranking is because
+Wisconsin has proportionally far fewer black and hispanic students and proportionally more
+white students than Texas – so the takeaway should not be that Wisconsin has better education
+than Texas! Just that it has (proportionally) more socioeconomically
+advantaged people. In some situations there's also a nice graphical
+way to picture Simpson's paradox: as two separate trends that each go one way, but the overall
+trend between the populations goes the other way. Like, maybe more money makes people sadder,
+and more money makes cats sadder, but if cats are both much happier and richer than people
+to start with, the overall trend appears, incorrectly, to be that more money makes you
+happier. Of course, you can also misinterpret this
+graph to show that, overall, more money makes you a cat, which I think helps illustrate
+very well the ability to lie or reach incorrect conclusions by blindly using statistics without
+context! Of course, this is not to say that statistics
+are always going to be paradoxical or confusing – it's quite possible that everything will
+just make sense from the get-go, like if people and cats both get sadder when you give them
+more money, and cats are both poorer and happier than people, then the overall trend is no
+longer paradoxical: more money = more sadness. But it's important to be aware that paradoxes
+like Simpson's paradox are possible, and we often need more context to understand what
+a statistic actually means. Given the mathiness of my videos, it may not
+surprise you to hear that I get a lot of practice with math & physics problems while working
+on them, and this video’s sponsor, Brilliant.org, wants to help you stay sharp on your problem
+solving, too! (since, unfortunately, watching videos doesn’t require as much problem solving). Practice is pretty much the best way to really
+get to know a subject, and Brilliant.org is ready to give you plenty with premium courses
+in probability, logic, and math for quantitative finance. Plus addictive puzzles: for example, “if
+half of the earth is blown away by the impact of a comet, what happens to the orbit of the
+moon?” It almost sounds like a MinutePhysics video…
+but you’re going to have to go to Brilliant.org to solve it (or one of their many others)
+– and when you do, use the URL brilliant.org/minutephysics to let Brilliant know you came from here.

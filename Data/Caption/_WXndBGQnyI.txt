@@ -1,0 +1,69 @@
+- [Voiceover] What I wanna
+do in this video is geta little bit familiar with
+the idea of molecular mass.Let's start off with a molecule thatwe're all quite familiar with.In fact, we are made
+up of this molecule orto a large degree, made
+up of this molecule.That is water and the molecularformula for water is H2O.Every water molecule
+has two hydrogen atomsand one oxygen atom.What I'm curious about is, what isthe mass of a molecule of water?So, the way that you might
+think about doing that is,what's the mass of each of the hydrogens?You're gonna have two of those and thenwhat's the mass of the oxygen?That would be a reasonable way to do it.So, what is a mass of the hydrogen?A hydrogen has a mass...We can go to a periodic table here,I've got one right over here.You see hydrogen, it has
+its atomic number one.That's the number of protons,
+that's what makes it hydrogen.Then down here you have this number.I think you can see, it's a
+little bit small probably,on your screen, it says, "1.0079".This right over here is the
+atomic weight of hydrogen.This is, if you take the
+various isotopes of hydrogenon the planet earth and you
+take the weighted average.So the ones that are more
+common, they are weighted higher.The weighted average
+of their atomic massesis 1.0079.Now for the sake of this
+first pass, we're just goingto say, "It's roughly one
+atomic mass unit." and one wayto think about it...This isn't precise and it's
+not how things are defined,but it is a useful way to think aboutatomic mass or mass on the atomic scale.Is that one neutron,or one protonhave an atomic mass of approximatelyone atomic mass unit.In other videos we'll talk
+about why it's not definedthis way and why it's based on thecarbon-12 isotope and all of that.But this is a fairly useful
+thing that is helpfulto think about, what is the
+atomic mass likely to be?What is it roughly?When you see that hydrogen,
+it has one proton.Clearly, that's what makes it hydrogen.It also has an atomic mass of
+one or roughly one, it says,"Well, it must not have a neutron."That is the case, the most
+common isotope of hydrogenon earth is just a proton with a electron.The electron also does contribute to massbut it's negligible
+compared to the proton.Most of this mass is
+essentially the proton.A little bit of the
+electron and also kind ofthe weighted average, when you think aboutthe other isotopes of
+hydrogen that maybe mighthave a neutron that is involved with it.For the sake of this, we could say,"Hey, hydrogen, it's a
+proton with an electron"kind of buzzing around it."It is approximately oneatomic mass unit,and then oxgen.Oxygen, same idea, we'll
+look at the periodic table.You could guess what its mass is close to.Oxygen, the most typical isotope of oxygenthat you'll see on
+earth has eight protons.The eight protons are
+what makes it oxygen.Any oxygen has to have
+eight protons anywherethat you are in the
+universe, if it doesn't haveeight protons it's not oxygen.It's gonna have eight
+protons and it's gonna haveeight neutrons, that's the
+most typical isotope of oxygen.So you might guess that its atomic massis 16 atomic mass units.You can see that your
+guess is pretty good.When we look at our atomic
+weight right over here.Which is the weighted
+average of the variousisotopes of oxygen as found on earth.You get 15.999, which
+is pretty close to 16.Our approximation to 16 is pretty good.Then based on these numbersyou would say that this H2Ohas an atomic mass of approximately...Well, two from the hydrogens,
+where did I get the two from?Each of these two hydrogenshave an atomic mass of one.If you have two times
+one, it's just gonna betwo atomic mass units.Then 16 from the oxygen.Two plus 16,which is going to get us...Let me do this in another
+color, since I've been using...It's going to give us 18atomic mass units.Now, if you wanted to be more preciseor if you wanted to say,
+"Well, I have this big bag"of water, I'm not looking
+exactly at one water molecule."What is going to be, on average,"the mass of those water molecules?"It might be helpful to get
+a little it more precise.Then it is helpful, especially
+if you're talking about alarge number of molecules
+and you really just wannatake the weighted average
+of all of those molecules.Then it makes sense to say, "Well, let's"use the atomic weight."So for hydrogen, the atomic weight was1.0079.Which is, once again,
+1.0079 atomic mass units.We call it atomic weight
+but it's really justthe weighted average, it's not weight inkind of the physics sense
+of measuring a force.So, 1.0079 atomic mass
+units and the oxygen isis 15.999atomic mass units and if
+you wanted to get a moreprecise number here, let's
+get a calculator out.I got my calculator.I'm gonna have two times1.0079is equal to, and then to
+that I'm gonna add, plus15.999.Gets us to...Let's see, I should go no more thanthree decimal places to the right.Since I added this, if I don't wannaadd precision here...If you wanna a review
+of that, you should lookat the video on significant figures.Since I added something
+with just three decimals toto the right I shouldn't
+have more than three decimalsin my answer so, 18.01,I'll round in the thousandths place,015.So the real one is 18.015atomic mass units.You could actually consider
+this the molecular weight.Because once again, we're
+using atomic weights.We're using weighted average
+and you could think of,maybe the weighted
+average of water moleculeswould be a little bit closer to this.These two numbers are very close.So we might call thismolecular weight.Either way, these ideas
+are very closely related.When we're thinking on the atomic scale,when people use the word
+weight, they're not usingit like a force like
+you use in physics thatyou would measure in newtons or pounds.They are essentially taking aweighted average of masses.So the molecular weight of
+water, 18.015 atomic mass units.If you wanted to just kinda
+be a little bit loosey goosey,you could say it's roughly
+18 atomic mass units.

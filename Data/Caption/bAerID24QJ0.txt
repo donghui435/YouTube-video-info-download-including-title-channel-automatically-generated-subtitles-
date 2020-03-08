@@ -1,0 +1,104 @@
+Welcome to level one
+linear equations.So let's start
+doing some problems.So let's say I had the equation
+5-- a big fat 5, 5x equals 20.So at first this might look
+a little unfamiliar for you,but if I were to
+rephrase this, Ithink you'll realize this
+is a pretty easy problem.This is the same thing as
+saying 5 times question markequals 20.And the reason we do the
+notation a little bit--we write the 5 next
+to the x, because whenyou write a number right
+next to a variable,you assume that you're
+multiplying them.So this is just
+saying 5 times x,so instead of a question
+mark, we're writing an x.So 5 times x is equal to 20.Now, most of you all could
+do that in your head.You could say, well, what
+number times 5 is equal to 20?Well, it equals 4.But I'll show you a way to do
+it systematically just in casethat 5 was a more
+complicated number.So let me make my pen
+a little thinner, OK.So rewriting it, if
+I had 5x equals 20,we could do two things
+and they're essentiallythe same thing.We could say we just divide
+both sides of this equationby 5, in which case, the left
+hand side, those two 5's willcancel out, we'll get x.And the right hand side,
+20 divided by 5 is 4,and we would have solved it.Another way to do it, and this
+is actually the exact same way,we're just phrasing
+it a little different.If you said 5x equals 20,
+instead of dividing by 5,we could multiply by 1/5.And if you look at that, you can
+realize that multiplying by 1/5is the same thing
+as dividing by 5,if you know the difference
+between dividingand multiplying fractions.And then that gets the
+same thing, 1/5 times 5is 1, so you're just
+left with an x equals 4.I tend to focus a
+little bit more on thisbecause when we start having
+fractions instead of a 5,it's easier just to think about
+multiplying by the reciprocal.Actually, let's do one
+of those right now.So let's say I had negative
+3/4 times x equals 10/13.Now, this is a harder problem.I can't do this one in my head.We're saying negative
+3/4 times some numberx is equal to 10/13.If someone came up to you on
+the street and asked you that,I think you'd be like me,
+and you'd be pretty stumped.But let's work it
+out algebraically.Well, we do the same thing.We multiply both sides
+by the coefficient on x.So the coefficient, all that
+is, all that fancy word means,is the number that's
+being multiplied by x.So what's the
+reciprocal of minus 3/4.Well, it's minus 4/3 times,
+and dot is another wayto use times, and
+you're probablywondering why in algebra, there
+are all these other conventionsfor doing times
+as opposed to justthe traditional
+multiplication sign.And the main reason is, I think,
+just a regular multiplicationsign gets confused
+with the variable x,so they thought of either using
+a dot if you're multiplying twoconstants, or just writing
+it next to a variableto imply you're
+multiplying a variable.So if we multiply the left
+hand side by negative 4/3,we also have to
+do the same thingto the right hand
+side, minus 4/3.The left hand side, the
+minus 4/3 and the 3/4,they cancel out.You could work it out on
+your own to see that they do.They equal 1, so we're just
+left with x is equal to 10 timesminus 4 is minus 40, 13 times
+3, well, that's equal to 39.So we get x is equal
+to minus 40/39.And I like to leave
+my fractions improperbecause it's easier
+to deal with them.But you could also view
+that-- that's minus--if you wanted to write it
+as a mixed number, that'sminus 1 and 1/39.I tend to keep it like this.Let's check to make
+sure that's right.The cool thing about algebra is
+you can always get your answerand put it back into
+the original equationto make sure you are right.So the original equation
+was minus 3/4 times x,and here we'll substitute
+the x back into the equation.Wherever we saw x, we'll
+now put our answer.So it's minus 40/39, and
+our original equationsaid that equals 10/13.Well, and once
+again, when I justwrite the 3/4 right next to
+the parentheses like that,that's just another
+way of writing times.So minus 3 times minus
+40, it is minus 100--Actually, we could do
+something a little bit simpler.This 4 becomes a 1
+and this becomes a 10.If you remember when you're
+multiplying fractions,you can simplify it like that.So it actually becomes
+minus-- actually, plus 30,because we have a minus times
+a minus and 3 times 10, over,the 4 is now 1, so all
+we have left is 39.And 30/39, if we divide the
+top and the bottom by 3,we get 10 over 13, which
+is the same thing as whatthe equation said
+we would get, so weknow that we've got
+the right answer.Let's do one more problem.Minus 5/6x is equal to 7/8.And if you want to
+try this problemyourself, now's a
+good time to pause,and I'm going to start
+doing the problem right now.So same thing.What's the reciprocal
+of minus 5/6?Well, it's minus 6/5.We multiply that.If you do that on
+the left hand side,we have to do it on the
+right hand side as well.Minus 6/5.The left hand side, the
+minus 6/5 and the minus 5/6cancel out.We're just left with x.And the right hand
+side, we have,well, we can divide both
+the 6 and the 8 by 2,so this 6 becomes negative 3.This becomes 4.7 times negative
+3 is minus 21/20.And assuming I haven't
+made any careless mistakes,that should be right.Actually, let's just
+check that real quick.Minus 5/6 times minus 21/20.Well, that equals
+5, make that into 1.Turn this into a 4.Make this into a 2.Make this into a 7.Negative times
+negative is positive.So you have 7.2 times 4 is 8.And that's what we
+said we would get.So we got it right.I think you're
+ready at this pointto try some level one equations.Have fun.

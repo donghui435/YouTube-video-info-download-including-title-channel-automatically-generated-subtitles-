@@ -1,0 +1,53 @@
+Generally, we classify differential equations
+into two broad categories: partial differentialequations, or PDEs, and ordinary differential
+equations, or ODEs.Partial differential equations, or partial
+derivatives, are what you get when you havea function defined in terms of multiple variables,
+but you take the derivative just with respectto one of them.For example, you have the equation z=2x^2+3y^4,
+and you take the partial derivative of z withrespect to x, and the partial derivative of
+z with respect to y.You get one partial derivative equation for
+each variable.Partial derivatives can be first-order, second-order,
+or higher-order.So we just found first-order partial derivatives
+for z with respect to x and y, because wetook the derivative just once with respect
+to each variable.If we wanted to find second-order derivatives,
+we would take the derivative of the first-orderderivatives.Because we're dealing with partial derivatives,
+we can take the partial derivative of bothof these with respect to both variables, to
+give me four second-order partial derivatives.As you can see, if we kept going, taking higher-order
+derivatives, we'd get two first-order partialderivatives, four second-order partial derivatives,
+eight third-order partial derivatives, andso on.The other broad category of differential equations
+is ordinary differential equations.The easiest way to think about ordinary differential
+equations is to know that they're any equationthat contains something like dy/dx, or d^2y/dx^2.This does not include d/dx. d/dx is a verb,
+or a command that means "take the derivativeof whatever follows me."dy/dx, on the other hand, is a noun that means
+"the derivative of y with respect to x".It is literally a derivative function itself.Ordinary differential equations are generally
+classified by their "order".A first-order ordinary differential equation
+has a first order derivative in it, like dy/dx,but no higher-order derivatives.A second-order ordinary differential equation
+has a second-order derivative in it, liked^2y/dx^2, but no higher-order derivatives.In other words, you know the order of the
+differential equation based on the highest-orderderivative it contains.Now let's talk about some different types
+of ordinary differential equations.Linear, separable, and exact differential
+equations are types all ordinary differentialequations.You can have first, second, or higher-order
+differential equations for these differenttypes, but let's just focus on the first-order
+functions.A first-order linear differential equation
+looks like this.You might have an equation that's a linear
+differential equation and doesn't look exactlylike this, but can be manipulated into this
+exact form.Either way, if you can get your equation into
+this form where you have the derivative hereby itself, a function of x multiplied by y
+here, and then a function of x over here,then it's a linear differential equation.A first-order separable differential equation
+usually looks like this.Again, you could easily have one that looks
+different, but the point is to see whetheror not you can separate the variables.If you can separate the variables, then you
+know you have a separable differential equation.In this equation, I can multiply both sides
+by dx, then multiply both sides by y.Now I have my y variables separated on the
+left from my x variables which are all onthe right.That's how I know for sure that this is a
+separable differential equation.And by the way, regular derivatives, the ones
+we learn about in Calc 1, those are reallyjust separable differential equations.Take this simple single variable function
+from Calc 1.When you take the derivative, you get dy/dx=2,
+then you can multiply both sides by dx, andyou've got separated variables, with y's on
+the left and x's on the right.So even this simple derivative, which is really
+the same as y'=2, is a separable differentialequation.A first-order exact differential equation
+looks like this.As you know by now, your equation might not
+be in this same format to start with, butif you can get it into this format, then it's
+an exact differential equation.What you're looking for is a function in terms
+of x and y here, a function in terms of xand y here, multiplied by the derivative dy/dx,
+and a 0 value over here.We haven't even talked about homogeneous or
+nonhomogeneous differential equations, sothis certainly isn't an exhaustive list of
+every kind of differential equation.But it's at least an overview of the most
+common types of differential equations thatyou'd study as part of a calculus class, or
+at the beginning of a differential equationsclass.

@@ -1,0 +1,33 @@
+Use the associative law of
+multiplication to write-- andhere they have 12 times 3 in
+parentheses, and then theywant us to multiply that times
+10-- in a different way.Simplify both expressions
+to show theyhave identical results.So the way that they wrote it
+is-- let me just rewrite it.So they have 12 times 3 in
+parentheses, and then theymultiply that times 10.Now whenever something is in
+parentheses, that means dothat first. So this literally
+says let's do the 12 times 3first. Now, what
+is 12 times 3?It's 36.So this evaluates to 36, and
+then we still have that times10 over there.And we know the trick.Whenever we multiply something
+times a power of ten, we justadd the number of zeroes that we
+have at the back of it, sothis is going to be 360.This is going to be
+equal to 360.Now, the associative law of
+multiplication, once again, itsounds like a very
+fancy thing.All that means is it doesn't
+matter how we associate themultiplication or it doesn't
+matter how we put theparentheses, we're going to get
+the same answer, so let mewrite it down again.If we were to do 12 times 3
+times 10, if we just wrote itlike this without parentheses,
+if we just went left to right,that would essentially be
+exactly what we just did hereon the left.But the associative law
+of multiplicationsays, you know what?We can multiply the 3 times 10
+first and then multiply the12, and we're going to get the
+exact same answer as if wemultiplied the 12 times
+the 3 and then the 10.So let's just verify
+it for ourselves.So 3 times 10 is 30, and we
+still want to multiply the 12times that.Now, what's 12 times 30?And we've seen this several
+times before.You can view it as a 12 times
+3, which is 36, but we stillhave this 0 here.So that is also equal to 360.So it didn't matter how we
+associated the multiplication.You can do the 12 times 3 first
+or you can do the 3times 10 first. Either way, they
+both evaluated to 360.

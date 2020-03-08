@@ -1,0 +1,95 @@
+We know that quadrilateral ABCD
+over here is a parallelogram.And what I want to
+discuss in this videois a general way of finding
+the area of a parallelogram.In the last video, we talked
+about a particular wayof finding the
+area of a rhombus.You could take half the
+product of its diagonals.And a rhombus is
+a parallelogram.But you can't just
+generally takehalf the product of the
+diagonals of any parallelogram.It has to be a rhombus.And now we're just going to
+talk about parallelograms.So what do we know
+about parallelograms?Well, we know the opposite
+sides are parallel.So that side is
+parallel to that side,and this side is
+parallel to this side.And we also know that
+opposite sides are congruent.So this length is
+equal to this length,and this length is equal
+to this length over here.Now, if we draw a diagonal--
+I'll draw a diagonal AC--we can split our parallelogram
+into two triangles.And we've proven
+this multiple times.These two triangles
+are congruent.But we can do it in a
+pretty straightforward way.We can look.Obviously, AD is equal to BC.We have DC is equal to AB.And then both of these
+triangles share this third sideright over here.They both share AC.So we can say triangle-- let me
+write this in yellow-- we couldsay triangle ADC is
+congruent to triangle-- letme get this right.So it's going to be
+congruent to triangle--so I said A, D, C. So I went
+along this double magentaslash first, then the
+pink, and then I went D,and then I went the last one.So I'm going to say CBA.Because I went the double
+magenta, then pink,then the last one.So CBA, triangle CBA.And this is by side,
+side, side congruency.All three sides, they have
+three corresponding sidesthat are congruent
+to each other.So the triangles are
+congruent to each other.And what that tells us is
+that the areas of these twotriangles are going
+to be the same.So if I want to find the area of
+ABCD, the whole parallelogram,it's going to be equal
+to the area of triangle--let me just write it here--
+it's equal to the area of ADCplus the area of CBA.But the area of CBA is just the
+same thing as the area of ADCbecause they are congruent,
+by side, side, side.So this is just going to be two
+times the area of triangle ADC.Which is convenient
+for us, because weknow how to find the
+areas of triangles.Area of triangles is literally
+just 1/2 times base timesheight.So it's 1/2 times base times
+height of this triangle.And we are given
+the base of ADC.It is this length
+right over here.It is DC.You could view it as the base
+of the entire parallelogram.And if we wanted to
+figure out the height,we could draw an
+altitude down like this.So this is perpendicular.We could call that the
+height right over there.So if you want the total
+area of parallelogram ABCD,it is equal to two times one
+half times base times height.Well, two times one
+half is just one.And so you're just left
+with base times height.So we can call this b.So it's just b times this height
+over here, base times height.So that's a neat result.And you might have guessed
+that this would be the case.But if you want to find the
+area of any parallelogram,and if you can figure
+out the height,it is literally you just
+take one of the bases,because both bases are going
+to be the-- opposite sides areequal, so it could have been
+either that side or that side,times the height.So that's one way you
+could have found the area.Or you could have multiplied.The other way to think about it
+is you could have multiplied.So if I were to turn
+this parallelogram over,it would look
+something like this.It would look
+something like this.So if I were to
+rotate it like that,and stand it on this side,
+so this would be point--let me draw the points--
+this would be point A.Let me make sure I'm
+doing this right.Yeah.This would be
+point A. This wouldbe point D. This
+would be point C.And then this would be point B.
+You could also do it this way.You could say it's
+1-- sorry, not 1/2.That would be for a triangle.The area of this would
+be base times height.So you could say
+it's h times DC.So you could say
+this is going to beequal to h times the length DC.That's one way to do it.That's this base
+times this height.Or you could say it's
+equal to AD times,I'll call this altitude right
+here, I'll call this height 2.Times h2.Maybe I'll call this h1.h1, h2.So you could take this
+base times this height,or you could take
+this base timesthis height right over here.This is h2.Either way.So if someone were to give
+you a parallelogram, justto make things clear,
+obviously, you'dhave to be have some way to be
+able to figure out the height.So if someone were to give
+you a parallelogram like this,they would tell you
+this is a parallelogram.If they were to tell you that
+this length right over hereis 5, and if they were to tell
+you that this distance is 6,then the area of
+this parallelogramwould literally be 5 times 6.I drew the altitude outside
+of the parallelogram.I could have drawn it
+right over here as well.That would also be 6.So the area of this
+parallelogram would be 30.

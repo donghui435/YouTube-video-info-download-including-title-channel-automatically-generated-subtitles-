@@ -1,0 +1,168 @@
+In this video, we're going to
+a couple of warm-up solvingequations problems. And you'll
+see these require severalsteps, maybe a little bit more
+than the ones that we've donein the previous video.And then we'll do a word problem
+that applies ourequation-solving capabilities.So here we have 7 times w plus
+20, minus w, is equal to 5.Let's see if we can
+solve this.And like all things, there's
+multiple ways to solve these.I'll just solve the way that
+seems most natural to me.So one thing I like to do, is
+I like to distribute thenumbers out.Because if I distribute the
+numbers out, I get a 7w, andthen I can subtract
+w from there.So maybe I can merge the
+w terms somehow.So this 7w plus 20 I can rewrite
+as 7w plus 7 times 20.Remember, distributive
+properties.So plus 140.And then we have this minus
+w is equal to 5.I just rewrote this
+part right here.I just distributed the 7.And now, just like I talked
+about, we can merge-- We cantake 7w, and from that,
+we can subtract a w.So if you take those two
+terms, you get 6w.If I have 7 of something, and
+I take away 1 of thatsomething, I have 6
+of that something.So I have 6w plus 140
+is equal to 5.Now, I want get rid
+of this 140.Because then I'll have 6w is
+equaling to something, andI'll be able divide by
+6, and all of that.So to get rid of 140, I can
+subtract 140 from both sidesof the equation.And I'll do it in pink.Minus 140.So I'm just subtracting
+140 from bothsides of this equation.If something equals something,
+something minus 140 is goingto equal something minus 140.Whatever you do to one side,
+you've got to doto the other side.So the whole point here was for
+these two to cancel out.You're left with the left side,
+which is 6w is equal to5 minus 140.Well, that's negative 135.And now we can divide both sides
+of this equation by 6,which is equivalent to
+multiplying by 1/6, and youget w is equal to, let's see,
+negative 135 over 6.Let's see, is there any place
+to simplify this anymore?Let's see.This isn't divisible by 2,
+and it also doesn't lookdivisible by 3.So this looks like we are
+done with the problem.And you can verify.Actually let's verify, because
+it's kind of astrange-looking-- Let's verify
+that this is the answer.So 7 times negative 135 over
+6-- that's our solutionfor w --plus 20.Instead of 20, I'm going to
+write plus 120 over 6.20 is the same thing as
+120 over 6, right?Minus w.So w is negative 135 over 6.So subtracting a negative
+becomesadding a positive, right?So let's see what happens.This becomes 7 times-- Let's
+see, negative 135 plus 120 isnegative 15 over 6
+plus 135 over 6.Let's see what we get here.So then we get 7 times 15.So let me go over here.What is 7 times 15?It's 70 plus 35.So it's negative 105 over 6.That is that right there.Plus 135 over 6.What does that become?This becomes 30 over 6,
+which is equal to 5.Which is exactly what it
+needed to be equal to.It's equal to 5, so we
+got the right answer.My spider sense was wrong.We did it correctly, even though
+we got this strangelooking answer.So now let's do this problem.So once again, I like to
+distribute out the 9.Actually, we don't have
+to distribute it out.There's multiple ways
+to do this.Maybe we'll do it both ways.So the first way I like to do it
+is to distribute out the 9,so I don't have to deal
+with fractions.So you get 9x minus 18. just
+distributed the 9.Is equal to 3x plus 3.Now we want to get the x-terms
+together somehow.Let's get them together
+on the left-hand side.So let's get rid of this 3x
+on the right-hand side.And the best way to get rid of
+it is to subtract 3x from theright-hand side.But if we do it from the
+right-hand side, we have to doit from the left-hand
+side, as well.So I'm subtracting 3x
+from both sides.The left-hand side, 9x minus 3x
+is equal to 6x, and then,of course, you have your minus
+18 is equal to 3x minus 3x.That just disappears, those
+cancel out, and you just havethe 3 left over.Now there's multiple ways
+you could do this.I mean, one fun thing-- Well,
+let me just do it the mosttraditional way.We could add 18 to both sides so
+that the 18 disappears fromthe left-hand side.So then you are left with 6x--
+these two guys cancel out --isequal to 3 plus 18,
+which is 21.Divide both sides by 6, you get
+x is equal to 21 over 6,or if you divide the numerator
+and the denominator by 3, youget 7 over 2.And you are done.Now, I said that there's
+multipleways to do this problem.Let me do it another
+way here in orange.So you have 9 times x minus
+2 is equal to 3x plus 3.Well, I see a 9,
+I see some 3's.What if I just divide both sides
+of this equation by 3?So if I divide that side by 3,
+and I divide all of theseterms by 3.What do I get?This becomes 3 times x minus
+2 is equal to x plus 1.Maybe at this point, if I want,
+I could distribute this.So this becomes 3x minus
+6 is equal to x plus 1.I could subtract x from both
+sides of this equation, so Iget 2x minus 6 is equal to 1.Remember, I subtracted that
+from both sides, so itdisappeared on the
+right-hand side.I could add 6 to both sides
+of this equation.I get 2x is equal to 1
+plus 6, which is 7.Divide both sides by 2, you get
+x is equal to 7 over 2.I went through this a
+little bit faster.But really, I just wanted to
+show you that as long as dolegitimate operations, you're
+going to get the same answer.And you could check, verify
+that this is indeed thecorrect answer, if you like.Now we have a word problem.Let's see if we can
+tackle this.Lydia inherited a
+sum of money.She split it into
+5 equal chunks.So let me just say m is the
+amount of money she has.So she split into
+5 equal chunks.So let me say, Lydia's money
+that she inherited.She splits it into
+5 equal chunks.She invested 3 parts of the
+money in a high interest bank.So how much did she invest in
+the high interest bank?She divided it into 5 equal
+chunks, and she invested 3 ofthose chunks into a high
+interest bank account.So she took her money, divided
+it into 5 chunks-- So this iseach of the 5 chunks.Then she put 3 of those chunks,
+or you could say shetook 3/5 of her money, and she
+put it into the high interestbank account, which adds
+10% to the value.So that's how much she
+originally put into highinterest banking account.She placed the rest of her
+inheritance plus $500 in thestock market.So how much was that?So she placed the rest
+of her inheritance.So she put 3/5 of it in the high
+interest bank account.What's left over?What's going to be the 2/5?2/5 of her money she is
+going to invest in thestock market, right?You combine 3/5 plus 2/5,
+you have all of themoney that she inherited.But she didn't put
+just the 2/5.She put the rest of her
+inheritance, which is the 2/5m, plus $500, in the stock
+market, but lost 20%.So this is how much she put in,
+and this is how much sheends up with.So put in is right there,
+and then ends up with.So on the checking accounts,
+it added 10% of its value.So she started with 3/5 of her
+money, and it added another10% of that.So plus, let's say, 0.10
+times the amount ofmoney she put in.Times 3/5 of her money.This is how much she
+ends up with.Her original amount that she put
+into the account plus 10%of the original amount.It grew by 10%.It added 10% of the value.Now in the stock market, she
+started with 2/5 m plus 500,but she lost 20%
+on that money.So she loses 0.20 for 20%,
+times 2/5 m plus 500.That's how much she loses
+on the market.She loses 20% of this
+amount of money.Now at the end it says, if the
+two accounts end up with theexact same amount of
+money in them, howmuch did she inherit?So this and this are going to
+end up being equal, and we'llhave to solve for m.So let's do that.We get 3/5 m plus-- Well, let's
+see, this is the samething as 1/10, right?Let me write that way.So 1/10 times 3/5 is 3/50.Plus 3/50 m is equal to-- I just
+multiplied the 1/10 times3/5 --is equal to 2/5 m-- I
+want to do it in that samecolor, in the orange --is
+equal to 2/5 m plus 500.And then 0.2 is the same
+thing as 1/5, right?0.2-- let me write it over here
+--is equal to 20/100,which is equal to 1/5.So we can rewrite this
+right here as 1/5.So 2/5 m plus 500 minus
+1/5 times 2/5 plus5 2/5 m plus 500.So that's a hairy problem, but
+well take it step by step andsee that it's not so bad.So right here, let's add
+3/5 of somethingplus 3/50 of something.Well, 3/5 is the same thing
+as 30/50, right?If I multiply the numerator
+and the denominator by 10.And now we can add this.30/50 plus 3/50 is 33/50 m is
+equal to-- and let's justsimplify this a little
+bit --2/5 m plus 500.Distribute the negative 1/5,
+so you get negative 2/25 m,and then negative 1/5 times
+500 is minus 100.Let's simplify this even more.The left-hand side is still 33
+over 50 m is equal to-- Andnow we have we have these
+coefficients on our m terms,right here.Those are our m terms.So you could view it as
+2/5 minus 2/25 m.that takes care of that
+term and that term.I just factored the m out.And then you have the
+500 minus 100.So that's plus 400.Now, let's see.2/5, if we multiplied the
+numerator and denominator by5, this becomes 10/25.Right?So our whole equation is now
+33/50 m is equal to-- what is10 minus 2?So that's 8/25 m plus 400.We're getting close!We're getting close.Now let's get both
+m terms onto theleft-hand side of the equation.So let's subtract 8/25
+m from both sides.Did that, so that the right-hand
+side cancels outs.So our right-hand side
+is just equal to 400.And then our left-hand side
+is 33/50 minus 8 over 25.So it's equal to 33 over
+50 minus 8 over 25.That's the same thing as minus
+16 over 50, right?I just multiply the numerator
+and denominator by 2.m is equal to 400.We're almost there!This is a nice, meaty problem.Almost there.And then 33 minus
+16 is 17, right?So we're left with 17/50
+m is equal to 400.And now we can multiply
+both sides timesthe inverse of 17/50.So 50/17 times 50/17.These cancel out, and you get
+m is equal to-- and I'll getthe calculator out for this.m is equal to 400 times
+50 divided by17 is equal to $1,176.47.That's how much Lydia
+started out with.Hopefully you found that fun.

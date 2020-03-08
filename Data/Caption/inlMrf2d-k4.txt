@@ -1,0 +1,93 @@
+ In everyday language, we
+know what a kite means.It's these flimsy things
+that we take to the beachto fly in the wind
+with our families.But you could imagine
+mathematicianshave looked at the general
+shape of these kites,or at least the way
+they're drawn in cartoons,and say, well, that's
+an interesting shapein its own right.Let's also make this
+a mathematical term.This is a shape
+like a parallelogramor like a rhombus.It's just another
+type of quadrilateral.But in order for it to be used
+in mathematics in a useful way,we have to define it a
+little bit more precisely.So let's see if we can
+come up with a coupleof interesting definitions
+of what a kite couldbe or a couple of interesting
+ways to construct a kite.Well, one way that you
+could think about a kiteis it looks like it
+has two pairs of sidesthat are congruent
+to each other.So, for example, it looks
+like this side and this sideneed to be congruent
+to each other.So let's make that a constraint.And they touch each other.They have a shared
+common endpoint.So you have one pair
+of congruent sidesthat's adjacent to each other.They have a common endpoint.And then you have
+another pair of sidesthat are congruent
+to each other. And they are adjacent.They share a common endpoint.So one definition that
+you could make for a kiteis that you have two
+pairs of congruent sides,where the congruent
+sides are adjacent. And you might say, well,
+what's the other alternative?If the congruent
+sides aren't adjacent,what else could they be?Well, the congruent sides
+could be opposite each other.And what happens if
+you were to do that?So if these two
+sides are congruent,but they didn't have
+a common endpoint,we're still dealing
+with a quadrilateral.What would it look like?Well, you would have
+one congruent site here,and that would be congruent
+to this side right over here. And then you would have a
+congruent side right over herethat is congruent to this side.This would be a
+situation where youhave two pairs of
+congruent sides,but they're not adjacent.They don't have any common
+endpoints with each other.Each side in the
+congruent side pair,they're opposite to each other.So here, once again,
+we get a quadrilateral.We still get four sides.A kite is a quadrilateral.This is a quadrilateral.But this isn't a kite.This right over here
+is a parallelogram,and we've seen that
+multiple times before.But kites can also
+be constructedin other interesting ways.You might see that what looks
+right here, that these twodiagonals of this kite
+are perpendicular.And that indeed-- and
+I'm not going to proveit here-- is a
+property of a kite. These two lines,
+these two diagonals,intersect at a 90-degree angle.The other thing we
+know about kitesis that one of these lines is
+bisecting the other of the two.So you could actually
+construct a kite that way.You could start with
+a line, and then youcould construct a
+perpendicular bisectorof that line,
+another segment thatbisects it at a 90-degree angle.So here, there you go.So that bisects
+it, so that meansthat this segment is
+equal to this segment.We split it in two.And then if you connect the
+endpoints of the segments,you should get a kite.And you will indeed get a kite.So it would look
+something like this.And once again, this
+segment is congruentto this adjacent
+segment, and this segmentis congruent to this
+adjacent segment.But what would happen if
+these two diagonals areboth perpendicular
+bisectors of each other?So what would happen
+in this scenario,where-- let me draw one segment.And then I'm going to
+make another segment,but they're going
+to be perpendicularbisectors of each other.So let's do that.So now they're both
+perpendicular bisectorsof each other.So this segment is
+equal to this segment,and this segment is
+equal to this segment.Well, now, once again,
+you still have a kite,but now you're also
+satisfying the constraintfor another type of
+quadrilateral that we've seen.So now you're satisfying
+the constraint.All your sides are equal.All of your sides are parallel.You're now dealing with
+a rhombus, which is alsoa special type of parallelogram.And then if you were
+to go even further,where these two diagonals
+have the exact same lengthand they're both perpendicular
+bisectors of each other,so you have both the
+exact same length.I'll try to draw it
+as cleanly as I can.So they're both the
+exact same length,and they're both perpendicular
+bisectors of each other.So each of these halves would
+be the same length as well.Then you have a subset of--
+I guess I could say-- rhombi,and you get to a square. So one way of thinking
+about it is any squareis also a rhombus. And any rhombus is also going
+to satisfy your constraintsfor being a kite.But there's a
+bunch of kites thatdon't satisfy your constraints
+of being a rhombus or a square.A kite is just two
+pairs of congruent sidesthat are adjacent to each
+other, and they're usuallypretty easy to spot out
+because they look like kites. 

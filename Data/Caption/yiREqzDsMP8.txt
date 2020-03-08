@@ -1,0 +1,69 @@
+Hi! Welcome to Math Antics.In this video, we¡¯re going to learn about special 
+kinds of polygons called Quadrilaterals.Quadrilateral is just a fancy math word for
+a polygon that has exactly 4 sides and 4 angles¡­like this one.You should recognize this shape
+of course... it¡¯s a square.And a square  is a special kind of quadrilateral.It¡¯s a quadrilateral because it has 4 sides,
+and it¡¯s special becauseall 4 of those sides are exactly the same length, 
+and all 4 of it¡¯s angles are exactly the same size.In fact, they¡¯re all right angles.Notice also that a square is formed by two
+pairs of parallel sides.These two opposite sides are parallel,and these two opposite sides are parallel.We¡¯ll see why that¡¯s important in a few minutes.Okay, so squares are an important type of
+quadrilateral, but we¡¯re going to make somechanges to this square to see what other types
+of quadrilaterals there are.The two things that we can change 
+are the sides and the angles.Let¡¯s start by changing the sides. 
+Let¡¯s stretch our square in one direction so thatone pair of sides is now longer than the other pair.This is what we call a rectangle.A rectangle is a quadrilateral that still
+has 4 equal angles (notice that when we stretchedthe square, the angles didn¡¯t change at all)but it does NOT have 4 equal sides.Again notice that just like a square, a rectangle is made from two pairs of parallel sides.Alright, so that¡¯s a rectangle. But going
+back to our square... what if instead of changingthe sides, we had just changed the angles...
+like this.Ah... what we have now is called a rhombus.
+A rhombus is a quadrilateral thatstill has 4 equal sides,but it does NOT have 4 equal
+angles.And once again, just like the square and rectangle,the rhombus is made from two pairs of parallel sides.Okay... going back once more to our square...
+what if we try changing BOTH the sides AND the angles.Here¡¯s what we end up with...
+and we call it, a parallelogram.It¡¯s called a parallelogram because, even
+though it¡¯s sides are not all equal,and it¡¯s angles are not all equal, it¡¯s still
+made from two pairs of parallel sides.Get it?... Parallel... Parallelogram!Now wait a second... if that¡¯s the definition
+of a parallelogram... ¡°a quadrilateral that¡¯smade from two pairs of parallel sides¡±,
+then wouldn¡¯t all these other shapes beparallelograms too?Exactly!All of these shapes are parallelograms, just
+like they are all quadrilaterals.It¡¯s just that we have special names for them if their angles are all equal (a rectangle)or if their sides are all equal (a rhombus)or if both their sides and their angles 
+are all equal (a square).Okay then... if all the quadrilaterals we¡¯ve
+seen so far are examples of parallelograms,what¡¯s an example that¡¯s NOT a parallelogram?
+Well, to see one, let¡¯s start over with our square again...But this time, we¡¯re going to change
+it by moving just one of its vertices¡­ like so.Now, ONE of the pairs of sides is still parallel,
+but the OTHER is not.And a quadrilateral that has only ONE pair of parallel sides is called... a trapezoid.Well actually, this is where classifying Quadrilaterals
+gets a little messy.That¡¯s because this sort of shape is called a trapezoid in America, but it¡¯s called a trapezium in other countrieslike the U.K.Trapezoid.Trapezium.                   .Trapezoid !!Trapeeeezium.                     .It¡¯s a trapezoid !!!!![sigh][...ahhh]                    .At least they both start with the word ¡°trap¡±
+so it¡¯s not TOO confusing... yet.Okay, so this quadrilateral is a trapezoid (or trapezium) because it has only one pair of parallel sides,and the other sides are NOT parallel.Here are a couple more examples of quadrilaterals 
+that have only one set of parallel sides.Alright then... what about quadrilaterals
+that have NO parallel sides at all? Like this one.These opposite sides are not parallel
+and these opposite sides aren¡¯t parallel either.So what do we call this kind of polygon?Ah... now here¡¯s the really confusing part...
+in America, this is sometimes called a trapezium.But isn¡¯t that what they call a quadrilateral
+with only one pair of parallel sides in the U.K.?Yep. Unfortunately, the same word is used to describe two different things in two different countries.Trapezium.                    .Trapezium.Trapeeezium.                      .Trapezium !!Trapeeeeeeeezium.                 .Trapezium !!!!!!!Well... at least they both like Football.But to keep things clear at Math Antics, we¡¯re
+not going to call a quadrilateral that hasno parallel sides a trapezium. We don¡¯t
+think it needs a special name,so we¡¯re just going to call it a quadrilateral.So to summarize, any polygon that has exactly
+four sides is called a quadrilateral.And if it has no parallel sides, we still just
+call it a quadrilateral.But if it has one, and only one, pair of parallel
+sides, we call it a trapezoid (or a trapezium).Or, if it has two pairs of parallel sides,
+we call it a parallelogram.And you¡¯ve already seen that there are 
+several types of parallelogramscalled rectangles, rhombuses and squares.Alright, so that¡¯s the basics of classifying quadrilaterals.There¡¯s a few other special types of quadrilaterals, 
+but we¡¯ve learned the most important ones.But... there's one more really important thing you need to know about quadrilaterals.You need to know that the sum of the angles of a quadrilateral is always 360 degrees.Now that¡¯s pretty obvious for a square or
+a rectangle. Those shapes have 4 right angles.And since we know that a right angle is 90
+degrees... 4 times 90 gives us 360.But to see that it¡¯s also true for ANY quadrilateral,
+let¡¯s have a look at these 4 different examples.Watch what happens when we draw 
+a line on each of them 
+between a pair of opposite vertices.Each of the quadrilaterals got divided into two triangles.In the "Triangles" video, we learned that the
+sum of the angles of a triangle is always 180 degrees.So it¡¯s not too hard to see
+that, since the angles of a quadrilateralform 2 triangles, the sum of those angleswould be 2 times 180 degrees, which is 360.Knowing that the angles of a quadrilateral
+add up to 360 degreescan help you solve problems like this one.For this quadrilateral, we¡¯re told what 3 of the angles arebut the fourth one is unknown.To find the unknown angle, all we have to do isadd up the three angles that we DO know,and then subtract that from the total, which
+we now know is 360 degrees.So, 100 + 80 + 60 = 240and then 360 - 240 = 120.So the unknown angle is 120 degrees.Let¡¯s look at one more unknown angle problem
+that¡¯s a little tricky.This problem asks us to find the unknown angle 'A' 
+in a parallelogram.But... it looks like they only told us what ONE of the angles is and the other 3 are unknown.So how can we possibly figure this one out?To solve this problem, we need to know an
+important fact about parallelograms.Because parallelograms are always made from pairs of parallel sides, that means they also formpairs of equal angles. It¡¯s the opposite
+angles that form these pairs.For example, in this parallelogram, the angles
+A and C are equal because they¡¯re on opposite corners,and the angles B and D are equal
+because they¡¯re on opposite corners.Now remember, this is ONLY true for parallelograms.
+This won¡¯t work for things like trapezoids.So in our problem, even though we¡¯re only
+given the measure of one angle,since we know it¡¯s a parallelogram, that¡¯s all we need 
+to figure out ALL the other angles.First of all, we know that angle B must also
+be 50 degrees, becausethese opposite angles MUST be equal.Next, we know that the other two angles (A and C) 
+must also be equal,so if we can figure out how many degrees are left over (or still unknown),we can just divide that amount equally between A and CWell... the total of all the angles is 360.
+So, if we subtract the angles that we know...50 + 50 = 100and 360 - 100 = 260.We know that A and C must each be 
+HALF of 260 degrees.And 260 divided by 2 is 130,so angle A must be 130 degrees.Okay, that¡¯s all for this video. We¡¯ve
+learned the basics of how to classify quadrilaterals,and we learned that a quadrilateral¡¯s angles
+add up to 360 degrees.Remember, getting good at math takes practice,
+so be sure to work the exercises for this section.As always, thanks for watching Math Antics, 
+and I¡¯ll see ya next time.Learn more at www.mathantics.com.

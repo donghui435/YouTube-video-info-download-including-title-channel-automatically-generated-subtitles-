@@ -1,0 +1,40 @@
+ Hi there! Today on Math Antics we're starting a new subject where we're going to learn the basicsof a special kind of math called Geometry.Geometry is the study of things like lines, shapes, angles, distances and things like that.In this video, we're going to focus on
+three of the most basic elements (or parts) of Geometry.They are points, lines and planes.Alright, we're gonna start with points because they're about the simplest thing you can imagine in Geometry. What's a point? Let me draw some for you. So these are points.They're just little tiny dots in space.But they do a really important job in Geometry...They help us describe specific locations in space,like the end of the line,or the corner of a square,or the center of a circle.But they won't really help that much
+unless we name thembecause if I say, "Hey look at that point
+over there!"It's kind of hard to tell which one I'm talking about.I mean, they all look the same.So what names should we give these points?Well let's see¡­ hmm¡­ How about Archimedes,and... uh¡­ Beauregard, that'd be good.Umm¡­ maybe Charlemagne?How about Daphne and Einstein¡­ let's see...Fred¡­ and¡­Gwynevere, Hiawatha and¡­ Icarus!Perfect!You know, on second thought, those names are kind of long and complicated.Why don't we just use the first letters
+a each name instead?There, now if I say... "Look at point A" or "Look at point B", you
+know exactly what I'm talking about.In fact, let's do that. Let's just talk
+about 'point A' and 'point B' for a minute.If you start at point A and go to point B, taking the shortest distance possible,you'd have gone in a straight line.A line is the next most basic element of Geometry.We name a line by the points that it goes
+through.For example, we would call this 'line AB',because its end-points (where it starts and stops) are points A and BBut, technically, this isn't really a 'line'¡­
+it's a 'line-segment'."What's the difference?" you ask. That's a good question.A line-segment has a beginning and an end. It starts at one point in space, and it ends at another.A line, on the other hand, just keeps on going......in either direction forever. just like the number-line keeps on going forever.Well, at least we imagine that it goes on forever.We can actually draw a line that goes on
+forever, so here's what we do instead.To draw a line instead of a line-segment,you just go past the end points a little bit, and you put an arrow on both ends of the line to show that keeps on going.So this is line-segment AB and this is line CD.Now there's one more special type of
+line that we need to talk about,and it's basically a combination of a
+line-segment and a line.We call it a 'ray'.Rays have beginning points, but no ending points. They just keep on going forever...but only in one direction. 
+So we only put an arrow on the end that keeps going.There, we call this one, ray EFIn Geometry, each of these three types of lineshas a shorthand way of writing it.Instead of writing "line-segment AB" you can just write "AB" with a line over the top.And instead of writing "line CD", you can write "CD" with a double arrow line over them, 
+like this.And finally, instead of writing "ray EF",you can just write "EF", 
+with a single arrow line over them, like so.Okay, so now you know about points.And you know that you can 
+form a line between any two points.The next thing we're
+gonna learn about is planes.No!  Not the kind of planes that you fly in.Now to help you understand 
+how planes in Geometry work,Let's go back and look at all those points we had at the beginning of the video.It looks like all the points are the
+same depth on your computer screen, right?and if they were, 
+we'd say that they're all in the same 'plane'.That's because your computer screen is a plane.It's a flat surface like a window, 
+or sheet of paper, or a tabletop.A plane (or flat surface) is what we call a
+two-dimensional objectbecause there's two dimensions that you
+can move in.You can go up and down, or you can go left and right.A line, on the other hand, is a one-dimensional object.If you're on a line, like 'line AB',there's only
+one dimension that you can travel in. Sure, you can go forwards or backwards along that line,but it still has only one dimension. You can't get to point Cwithout going off of line ABBut if you're on a plane (a two-dimensional object), then you can get to point C,because point C is on the same plane as points A and B.All three of them are on that flat two-dimensional surfacewhich is your computer screen.Cool! So that means that if I want to get to point D,I can do that too because it's on the
+same plane as A, B and C. Right?Alright, I have a confession to make.I tricked you.Point D really isn't in the same plane
+as a computer screen.It just looks like it from the position
+you're viewing it from.Watch what happens if I start rotating the screen space a little bit.Ah ha! Now you can see that the points
+are actually scattered all over the place in space.Point D is actually in front of the plane 
+that A, B and C were in.along with some of the other points. and the rest of the points are actually behind the plane that A, B and C are in.What we have here is a three-dimensional spaceor "3D" space for short. In a three-dimensional space, 
+there's three dimensions you can move in.left to right, up and down, and in and outIf we're on the plane that contains points A, B and C,we can't get to point D unless we leave that plane by traveling in that third dimension.A three-dimensional space like this is
+often called a 'volume',but we'll talk all about 3D volumes in another video.For now, let's get back to talking about planes.Earlier in the video, we learned that you can make a line by connecting any two points, right?Well, in order to make a plane, it turns
+out that you need to have three points.Like our three points A,B and C.If you just connect A and B, you get a line.But if you connect A, B and C, you get a¡­. a¡­....a triangle?!Now you're probably thinking, "Wait! I thought we were supposed to get a plane, not a triangle."Well, because it is a flat surface, 
+a triangle is a lot like a plane,but it has three edges.It stops and doesn't keep on going forever.When we were talking about lines, do you remember how a line segment had end points,but a true line kept on going forever?Well, it's kind of the same way with triangles and planes.You can't think of a triangle as 
+a smaller part (or a segment) of a plane.but the plane itself keeps on going forever. So, three points is all it takes to define a plane.and in a space we've been looking at, we
+already have plane ABC.So let's try making some other planes
+with the rest of the points.We can choose any three point that we want to.  
+Let's join D, E and F.We can see the triangle they form.And if we extend that flat triangle, 
+we can see the plane that it defines.Let's try one more so the rest of the
+points don't feel left out.Let's join G, H and I. There, they form this triangle. ...a flat surface that forms this plane if we extend it in every direction.So, now you know about 'planes', 'lines' and 'points'....three basic elements of Geometry. There's a lot more geometry ahead in upcoming videos, so stay tuned.And, you can check out the exercises for the section.They're pretty easy, and they'll help you 
+remember what you've learned.Thanks for watching! And I'll see you next time.Learn more at www.mathatnics.com.

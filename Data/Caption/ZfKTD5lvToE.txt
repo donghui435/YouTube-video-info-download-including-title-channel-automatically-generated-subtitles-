@@ -1,0 +1,43 @@
+BRADY HARAN: So we're going to
+talk about the number 8,128.And it's a famous type of number
+called perfect number.Now, this was the largest
+perfect number known inantiquity, or for
+very long time.But what is a perfect number?The smallest perfect number
+is the number six.So let's look at
+the number six.Now what does it mean?What divides into six?Well one divides into six.That's always true.Two divides into six.And three divides into six.Now, six does divide as well,
+but for what we're going todo, we're going to ignore
+the number itself.So ignore six.But if we add up the numbers
+that divide six--one, two, and three-- add them
+together, and we get thenumber six.We get the number itself.So this is a perfect number
+because the divisors add up tothe number itself.It's not too small, and
+it's not too big.It's just right.It's perfect.And in antiquity, they
+were given thisrare, perfect property.So the next one, after
+6, is the number 28.Let's write that down.28.So what divides 28?Add these together, and
+you get the number 28.It's the second perfect
+number.The third perfect number after
+that, bit of a gap after that,the third perfect
+number is 496.Let's look at the divisors
+of this.And we've got 1.Quite a few of these.2, 62, 124, 248.We're running off the edge.We add all this together in
+the same way as before.We get 496 again.It's perfect.Now, there's only one perfect
+number between 1 and 10.That's the number 6.There's only one perfect number
+between 10 and 100.That's 28.There's only one perfect number
+between 100 and 1,000--496.And there is only one perfect
+number between 1,000 and10,000, and that is 8,128.Let's try it out then, OK?1, 2, 4, 8, 2,032, and 4,064.Add those together in the same
+way, and you will get 8,128.Today, even with our computers
+that can compute massivenumbers, we have only found
+47 perfect numbers.That is all.Four were known to the
+ancient Greeks.Still today, 21st century,
+47 we've got.There may be more.There may not be.We don't know if there's
+an infinitemany of these numbers.And that's an open question.You'd think that that's
+something wewould know by now.Are there infinitely many of
+these or aren't there?We don't know the answer
+to that yet.MALE SPEAKER 2: What's the
+biggest perfect number?BRADY HARAN: So far?I wouldn't know that.Let's find out the largest
+perfect number.Well, Wolfram Alpha says, do
+you mean largest integer?There's no largest integer.So that's helpful.Interestingly, we don't know
+if there are odd perfectnumbers either.All the perfect numbers we
+have found are even.That's another question
+we don't know.The largest known perfect
+number is, apparently,1,791,000 digits long.Don't ask me to say it.We could be here
+'til next week.But that is the full thing.Nearly 2 million digits long.I could be scrolling through
+this for quite some time.

@@ -1,0 +1,141 @@
+Welcome to another Mathologer video. The
+shoelace formula is a super simple wayto calculate the exact area inside any
+convoluted curve made up of straightline segments, like my cat head curve
+over there. Even the great mathematicianCarl Friedrich Gauss was impressed by
+this formula and mentioned it in hiswritings. The formula was certainly not
+invented by him, however it's often alsoreferred to as Gauss's area formula,
+probably because a lot of people firstlearned about it from Gauss (and not
+because someone calculated Gauss's areawith it :) In today's video I'll show you
+how and why this formula works. Thevisual proof I'll show you is just as
+pretty as the formula itself and alongthe way I can promise you a couple of
+very satisfying AHA moments to make yourday. I've got a special treat for you at theend of the video: a simple way to morph
+the shoelace formula into a very famousand very powerful integral formula for
+calculating the area enclosed by reallycomplicated curvy curves, like for
+example this deltoid rolling curve here.Now obviously we call this crazy
+formula the shoelace formula because itreminds us of the usual crisscross way
+of lacing shoes. Now let's make sense ofthe shoelace formula and use it to
+calculate the orange area. I start byfilling in the coordinates of the blue
+points. Take one of these points and moveits coordinates to the right. Now we
+traverse the curve in thecounterclockwise direction and do the
+same for the other blue points we comeacross. Here, there, there, there. Now we're
+back at the point we started from andinclude its coordinates one more time at
+the end of our list. Now draw in thecrosses. Okay this green segment stands
+for the product of the two numbers atits ends. So 4 times 1 equals 4.This red segment stands for minus theproduct of the number at its two ends.
+So 4 times 0 equals0. Minus that is - 0. Oh, well obviously
+the "minus" is not important here but it willbe later. Green again. So 0 times 5
+equals 0. Red again, we need tocalculate minus the product, so 1 times - 2
+equals -2. Minus that, and so on. So we get twoproducts for every cross, one taken
+positive and one negative. Now adding upall the numbers gives 110. Okay, almost
+there. The formula tells us to divide by two.So half of 110 is 55, and that's the area
+of my cat head. Really pretty and supersimple to use. And this works for any
+closed curve in the xy-plane no matterhow complicated. The only thing you have
+to make sure of is that the curve doesnot intersect itself like this fish
+curve here. And it will become clear lateron why you have to be careful in this
+respect. Okay now for the reallyinteresting bit, the explanation why the
+shoelace formula works. It turns out thatthe individual crosses in the formula
+correspond to these triangles whichcover the whole shape. Note that all
+these triangles have the point (0,0) incommon. Okay, so the area of the first trianglehere is just 1/2 times the first cross.
+So, again, the first cross is equal to 4times 1 minus 4 times 0 equals 4, and
+half that is 2. And it's actually easy tocheck that this is true using the good
+old 1/2 base times height area formulafor triangles. Now the area of the
+second triangle is 1/2 times the secondcross, and so on. But why is the area of
+one of these triangles equal to 1/2times the corresponding cross? Here's a
+nice, really really nice visual argumentdue to the famous mathematician Solomon Golomb. What we want to convinceourselves of is this. So let's calculate
+the area of this trianglefrom scratch. Actually what we'll do is
+to calculate the area of thisparallelogram here whose area is double
+that of the triangle. Okay let's startwith the special rectangle here. Then the
+coordinates translate into the sidelengths of these two triangles. First (a,b)
+turns into these two side lengths, andthen (c,d) into these. Color in the
+remainder of the rectangle and shiftthe green triangles like this, and like
+that,Now do you see the second small
+rectangle materializing? Right there. Thetwo triangles overlap in the dark
+green area and so we can pull thecolored bits apart so that they fill
+exactly the parallelogram and the littlerectangle. Since we started out with the
+colored bits filling a large rectanglethis means that "large rectangle area"
+equals "parallelogram area" plus "smallrectangle area". But now the areas of the
+rectangles are  ad  and  bc.  That's almostit.Now, without any words... Pure magic,
+right? And, of course, all of you who arefamiliar with vectors and matrices will
+realize that another way of expressingwhat we just proved is the mega famous
+result from elementary linear algebrathat the area of the parallelogram spanned
+by the two vectors (a,b) and (c,d)  is equalto the determinant of the 2 x 2 matrix
+a,b,c,d. Anyway, back to the shoeless formula.At this point we just need to divide by
+2 to get the area of the triangle andthat's it, right? That completes the proof
+that the shoeless formula will always work,right? Well, not quite. We are still missing one very importantvery magical step. Let's have another
+look at my cat hat, but let's shift it sothat the point (0,0) is no longer inside
+and again move around the curve andhighlight the triangles whose area the
+shoeless formula adds. This time let'sstart here. As we move around the curve
+in the counterclockwise direction thegreen radius which chases us 
+also rotates around (0,0) in thecounterclockwise direction. Something
+does not look right here. The yellowtriangles are sticking out of the cat
+head and at this point the combined areaof the triangle is larger than that of
+the cat head and should get even largeras we keep going. However, whereas up to now the radius has been rotating in thecounterclockwise direction, at this point
+it starts rotating in the clockwisedirection and this change in sweeping
+direction has the effect that theshoeless formula subtracts the areas of
+the blue triangles. And this means thatthe area calculated by the shoelace
+formula will be the total area of theyellow triangles minus that of the blue
+triangles which is exactly the area ofour cat head again. The same sort of
+nifty canceling of areas makes sure thatno matter how convoluted a closed curve
+is as long as it doesn't intersectitself the shoelace formula will always
+give the correct area. Here's an animatedcomplicated example in which I
+dynamically update what area theshoelace formula has arrived at at
+the different points of the radiuschanging sweeping direction.Real mathematical magic, isn't it?
+It's also easy to see why reversing thesweeping direction leads to negative
+area. Let's see.Sweeping in the counterclockwise
+direction we first come across (a,b) andrecord it, followed by (c,d). When we sweep clockwisethe order in which we come across (a,b)
+and (c,d) is reversed and this leads tothese changes in the formulas. And the
+last swap obviously leads to the numberturning into it's negative. And that's
+really it. Now you know how the shoelaceformula does what it does. In these
+videos we keep encountering really fancycurves like this cardioid in a coffee
+cup in the "Mandelbrot and times tables"video or this deltoid rolling curve
+whose area actually already played aquite important role in the video on the
+Kakeya needle problem. At first glance itlooks like we won't be able to use the
+shoelace formula to calculate the areaof one of these curves because they are
+not made up from line segments. Well youcan definitely approximate the area by
+calculating the area of a straight lineapproximation like this, with those blue
+points on the curve. And by increasingthe number of points we can get as close
+to the true area as we wish. In fact, bytaking this process to the limit in the
+usual calculus way, we can turn theshoelace formula into a famous integral
+formula for calculating the exact areaenclosed by complicated curves like the
+deltoid. Here's how you do this. I'vetried to make sure that even if you've
+never studied calculus you'll be able toget something out of this. Well we'll see,
+fingers crossed :) A curve like this isoften given in parametric form. For
+example this is a parametrizations ofthis deltoid. Here x(t) and y(t) are the
+coordinates of a moving point thattraces the curve as the parameter t
+changes from, in this case 0 to 2 pi. Let'shave a look. So here's the position of the point at t=0.And once it gets going the
+slider up there tells you what t we areup to. Right now we'll translate all this
+into the language of calculus. Let's stopthe point somewhere along its journey. A
+little bit further along we find asecond point. A tiny, tiny little bit
+further on is usually expressed in termsof infinitesimal displacements in x and
+y. It's a bit lazy to do it this way butmathematicians are a bit lazy and love
+doing this because it captures theintuition perfectly and in the end can
+be justified in a rigorous way. Anywayjust add dx and dy to the coordinates of
+our first point to get the coordinatesof our second point. Now, of course, these
+displacements are not independent ofeach other. The connection is most easily
+established in terms of the derivatives ofthe coordinate functions. So the
+derivative of the x coordinate withrespect to the parameter t is dx/dt
+which I write at x'(t) andsimilarly for the y coordinate function.
+Solving for dx and dy gives this and thisthen links both dx and dy to an
+increment dt of the parameter t that'schanging, right?Now we substitute like this and now we're ready to calculatethe area of our infinitesimal triangle as before.1/2 times a cross. And this evaluates to
+this expression here. And this we canwrite in a slightly more compact form
+like that. Okay now what we have to do isto add all these infinitely many
+infinitesimal areas and as usual incalculus this is done with one of those
+magical integrals. The little circletwirling in the counterclockwise
+directionsays that we're supposed to integrate
+around the curve exactly once in thecounterclockwise direction.
+Well let's see: for our deltoid we havethis parameterization here. We've already
+seen that a full trace is accomplished byhaving t run from 0
+ to 2 pi. This means that in thisspecial case our integral can be written
+like this. Now evaluating and simplifyingthe expression in the brackets gives
+this integral here, which can be brokenup into two parts. Maths students won't be
+surprised that the trig(onometric)  integral on theright evaluates to 0 which then means
+that the area where after is equal to thisbaby integral which of course is equal
+to 2 pi. Now the little rolling circlethat is used to produce our deltoid is of
+radius 1 and is therefore of area pi.This means that the area of the deltoid
+is exactly double the area of therolling circle. Neat isn't it? Okay, up for a couple ofchallenges? Then explain in the comments
+what the number stands for that theshoeless formula or the integral formula
+produce in the case of self intersectingcurves like these here. Another thing worth
+pondering is how the argument for ourtriangle formula has to be adapted to
+account for the blue points ending up indifferent quadrants, for example, like
+this. And that's it for today. I hope youenjoyed this video and as usual let me
+know how well these explanations workedfor you. Actually since I mentioned the Kakeya video and fish,I did end up turning my Kakeya fish
+into a t-shirt. What do you think? Welland that's really it for today.

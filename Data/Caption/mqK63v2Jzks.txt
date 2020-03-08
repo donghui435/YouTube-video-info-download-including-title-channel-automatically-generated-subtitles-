@@ -1,0 +1,119 @@
+PHIL MORIARTY: Right I've got
+my trusty guitar on my back.Last few months I've been
+working on a special musicalcollaboration related to a veryimportant number in nature.We're about to head off down
+the road to meet thiscollaborator for the very
+first time, and I'm veryexcited about it.We're at the studio of Mr.
+Dave Brown, here--DAVE BROWN: Hi!PHIL MORIARTY: Yes, with his
+trademark "hi," who's a verytalented musician, producer.So we're writing a song, a math
+metal song about phi.Math metal's a genre which
+is very sort ofmathematically-based
+riffs, I guess.Very, very syncopated,
+very technical.And after we filmed a video on
+pi for Numberphile, a fewmonths, Dave got in touch and
+was keen to collaborate and toreally take that idea
+and push it further.And so what we've done is we've
+based a song around tothe number phi, based the
+rhythms, based the melody-- ifyou can call it that--based the lyrics, all around
+phi, the number phi.DAVE BROWN: First riff I've
+got in the song--it's a nice clean one.[MUSIC PLAYS]DAVE BROWN: Before we punch
+you in the face.And that's derived from a
+riff Phil came up with--as you can see here, quite
+conveniently--from the different
+digits of phi.PHIL MORIARTY: What we also want
+to do as well as mappingthe digits of phi on to the
+melodies, on to the riffs, andon to the rhythms, is also
+somehow embed the geometry ofphi in the song.And the way we're gonna do that
+is we're going to takethe guitar string, length of the
+guitar string, and we'regoing to pick out the note which
+defines, or the positionon the string which defines the
+golden ratio, the note ofthe golden ratio, as it were.And so what we're doing is--this is a guitar string,
+from here to here.The fundamental definition
+of the golden ratiois you've got AB.So you've got a length A and
+you've got a length B here.So A plus B over A is equal
+to A over B, andthat's equal to phi.What we're going to do now is
+use your wonderful goldenratio calipers--where have they gone--to define where that note is.It's going to be a note that's
+not going to match up exactlywith to where-- though
+it's not too far--where we have a fret
+on the guitar.It's just slightly below
+the 17th fret.And then what we're going to do
+is we're going to overdubon top of that, or maybe build
+it up-- we'll see.As Dave suggested, what
+we're going to do isthen build this up.So we'll go from that, just
+below the 17th fret.Then we're going to choose
+another note, which as you cansee is just around about where
+the screws in the pickup are.And then we're going to
+subdivide that down again,each time building up and each
+time defining the note of thegolden ratio geometrically.DAVE BROWN: OK.So this next riff, I thought
+it'd be quite cool if we tookthe number of chugs that a
+guitar plays-- technical term,a chug is when the guitar
+goes chnnh.Sounds like-- it's
+onomatopoeic.And we took a number of
+them and put a gap inbetween each one.And if you count the number of
+chugs between each gap, youactually get the number phi,
+which is quite cool.So take a listen.[RIFF PLAYS]So there was one chug, six
+chugs, one chug, eight--yeah, you get the idea.PHIL MORIARTY: So these are
+gold nanoparticles, twonanometers across, in water.We're not going to really
+use the nanoparticles.What we are going to use
+is the vial that thenanoparticles are in.But of course, it's gold.It's the golden ratio, so
+we thought it was apt.Well, I thought it was apt.[MUSIC PLAYING]DAVE BROWN: Next up, we get to a
+riff that's kind of like thepi video that you guys did,
+where Phil mapped the digitsof pi onto a scale.We did that with phi onto the
+B-flat harmonic minor scale.I'm not really good
+at musical tech.I do it by ear.Could I get him shouting
+into the mic?I need to get a level,
+unfortunately.I'll give you some volume
+so you can do it, but.PHIL MORIARTY: [SHOUTS]DAVE BROWN: (SHOUTING)
+Real but uncountable!PHIL MORIARTY: I've done
+this for a long, longtime, over 20 years.So I was in a band while
+I was a student.While I was a post-graduate
+as well.(SHOUTING) Irrational.DAVE BROWN: I did
+A-level maths.I got a C. I blame my teacher.I'm more of a musician now.I have a YouTube channel
+called Boy in a Band.You can search for that.It'll probably be in
+the description.I'll make sure Brady
+puts it there.BRADY: I will even put it--
+it'll be just on this--just there.DAVE BROWN: Oh, there we go.How about that?BRADY: Cool.DAVE BROWN: But, yes.I make music of varying
+styles.Lots of electronic music,
+but I'm horrendouslyinto metal as well.I just used horrendously
+twice.I hope that's OK.(SHOUTING) Emerge from
+the equation!Spirals out of control!PHIL MORIARTY: One, six, one
+eight, oh, three, three, nine,eight, eight, seven, four--It's been a hell of
+a lot of fun.And I'm really happy
+with the song.I think we've done some very
+interesting things.We've gone beyond--people talk about math metal,
+but math metal, those riffssound complicated, but they're
+not really mapped onto maths.In this case, we've actually
+gone beyond that.And there's only one other
+band, to the best of myknowledge, that has attempted
+anything like this before, andthat's a band called
+After the Burial.(SINGING) The proportion
+is divine.DAVE BROWN: So phi is 1 plus the
+square root of 5 over 2.So we decided to be a bit
+clever, and we have got 1 inthis by the open string on the
+guitar, representing that.And the other notes being played
+by the guitar are thedigits of square root of 5.And then over 2, we go into
+half-time drums partwaythrough this, which I thought
+was quite clever, so.[METAL MUSIC PLAYING]BRADY: That's quite
+clever, isn't it?DAVE BROWN: Yeah.BRADY: You pleased with it?DAVE BROWN: Yeah.PHIL MORIARTY: Some
+people mightnot consider it beautiful.I think the way that the maths
+are embedded throughout thesong, yeah, has its own
+bizarre beauty about.Yes.[MUSIC  PLAYING]DAVE BROWN: And we do
+a similar thing forthe outro as well.[RIFF PLAYS]The 1 there is that [HUM]top note.Then we've got the chugs.You remember what chugs are?Doing square root of 5.And again, half-time drums.PHIL MORIARTY: Leibniz was a
+very famous mathematician,developed calculus independently
+of Newton.And he has this wonderful quote,
+which is that music isthe human mind counting
+when it doesn'tknow that it's counting.And that's great.There are these fundamental
+links between numbers, betweenmaths, to music.And it's great to actually embed
+those so tightly as wedo in this song.BRADY: Well hopefully, by now,
+you're all dying to hear thefinished song.I know I am.I haven't actually got the
+final copy from Dave yet.We're going to upload
+it here on theNumberphile channel on Friday.If you're watching this video
+after Friday, I'll have thelink below the video,
+and you'll be ableto find it, of course.Also below the video in the
+description, I'll have a linkto Dave's channel.You really should
+check it out.He's a super-talented guy.And I'll also have some
+information under the videoabout these golden mean
+calipers, which were sent tous from New Zealand.They're lots of fun, and I'm
+sure you're all going to havesome questions about them.And we'll be using them in some
+future videos we've gotcoming about the golden ratio
+on Numberphile in the weeksand months to come.But for now, we'll hear
+the song on Friday.[MUSIC PLAYING]

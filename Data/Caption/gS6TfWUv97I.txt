@@ -1,0 +1,66 @@
+I'm going to do a couple
+of lattice multiplicationexamples in this video.And in the next one we'll try
+to understand why it worked.Let's say we're trying to
+multiply 27 times 48.What you do is you
+write down your 27.The 2 and the 7 are going to
+get separate columns and youwrite your 48 down the
+right-hand side, and thenyou draw a lattice.This is why it's called
+lattice multiplication.So the 2 is going to
+get its own column.The 7 is going to
+get its own column.The 4 is going to get its
+own row and the 8 isgoing to get its own row.Now the fun thing about lattice
+multiplication is you get to doall of your multiplication at
+one time and then you canfinish up the problem
+with all your addition.You don't have to keep
+switching gears bycarrying and all of that.Although there is carrying,
+but it's all while you'redoing the addition step.So we're almost done
+with our lattice.We actually have to draw
+these diagonals here.We'll understand in the
+next video why thesediagonals even work.Just like that.And now we're ready
+to multiply.7 times 4 is 28.7 times 4 is equal to 28.So you write down a 2 and
+an 8 just like that.2 times 4 is equal to 8.So you write down a
+0, 8 just like that.Then you have 7 times 8.7 times 8 is equal to 56.So we write down a 5 and a 6.And then finally, 2
+times 8 is equal to 16.You write down a 1 and
+a 6 just like that.And we're done all
+of our multiplying.Now we're ready to add.So what you do is you go
+down these diagonalsthat I drew here.So this first diagonal, which
+is really the 1's diagonal, youjust have a 6 sitting here.So you write a 6
+just like that.Then we move over to
+the next diagonal.This diagonal with the
+6, 5, and 8 in it.That's our 10's diagonal.So 8 plus 5 is 13.13 plus 6 is 19.So you write your 9 right here
+in the 10's place and now youcarry the 1 in 19 up there into
+the 100's place because thisisn't just 19, it's
+actually 190.It's nineteen 10's.Anyway, you carry your 1.You have 1 plus 2 is 3.3 plus 8 is 11.11 plus 1 is 12.You write the 2 in your 100's
+place and you carry the 1into your 1,000's place.1 plus 0 is 1, so you just
+have a 1 in your 1,000'splace just like that.And you get our answer.27 times 48 is equal to 1,296/
+Let's do a harder problem.One that requires more digits,
+just to show that this'llwork for any problem.Let's say we had 5,479 times--
+let's do a three-digit number.Times 787.So just like we did in the last
+time, we make four columns.One for the 5, the 4,
+the 7, and the 9.We'lll have 5,479
+and then times 787.So they each get their own row.787.Looks like that.Then we have to
+draw our lattice.Draw the lattice.Each of these guys get
+their own column.Draw the columns
+just like that.And then each one of these
+characters got their own row.One row for the 7, one
+row for the 8, and onerow for this other 7.Then we have to draw
+the diagonals.Draw it like that.One diagonal, two diagonals,
+so three diagonals,four diagonals.I think you get the idea
+and than we have justone, two more diagonals.We're ready to multiply now.So it's 9 times 7.I won't do it on the side here.We know our times tables.9 times 7 is 63.7 times 7 is 49.4 times 7 is 28.5 times 7 is 35.Let me switch callers
+arbitrarily.9 times 8 is 72.7 times 8 is 56.4 times 8 is 32.5 times 8 is 40.I'll switch colors again.9 times 7-- we saw that before.It's 63.7 times 7 is 49.4 times 7 is 28.And then 5 times 7 is 35.We're done all of
+our multiplying.Now we can switch our
+brains into addition mode.Let me find a nice suitable
+color for addition.Maybe a pink will
+do for addition.So we start at our 1's place.Just have a 3 there, so you
+write the 3 in your 1's place.You go to the 10's place.2 plus 6 is 8.8 plus 9 is 17.Write the 7 in the 10's
+place, carry the 1into the 100's place.I wrote a 1 really small here.1 plus 3 is 4.4 plus 7 is 11.11 plus 6 is 17.17 plus 4 is 21.21 plus 8 is 29.Write the 9 in the 100's
+place and carry the 2.2 plus 6 is 8.8 plus 9 is 17.17 plus 5 is 22.22 plus 2 is 24.24 plus 2 is 26.26 plus 5 is 31.Carry the 3.3 plus 4 is 7.7 plus 8 is 15.15 plus 3 is 18.18 plus 0 is 18.18 plus 3 is 21.Write the 1, carry the 2.2 plus 2 is 4.4 plus 5 is 9.9 plus 4 is 13.Write the 3, carry the 1.1 plus 3 is 4.And we're done.That easy.Well, there's two
+advantages here.One is we got to do all of
+our multiplication at once.And then we got to do all
+of our addition at once.The other advantage is it's
+kind of neat and clean.When you just do it the
+traditional way with carryingand number places, it
+takes up a lot of space.But notice, we did our whole
+problem in a nice, neatand clean area like that
+and we got our answer.Our answer is 4,311,973.There you go.Now in the next video we're
+going to try to understandwhy this worked.

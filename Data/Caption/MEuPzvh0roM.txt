@@ -1,0 +1,44 @@
+Write the following
+numbers as complex numbers.And just as a little
+bit of a review,a complex number
+is a number thathas a real part or
+an imaginary part.Let me make that
+clear-- has a real partand an imaginary part.I'm going to write some
+variables here-- a plus bi,where a is real and b is real.This is a complex number.This part right over
+here is the real part.That is the real
+part of the number.And this part right
+over here is imaginary.And why is it imaginary?Because it is a
+scaled-up versionof this special number,
+the imaginary unit.It's the special number i.It's scaled up by
+b in this case.And you may or may not
+already be familiar.I know it's kind
+of a wacky thing.But the definition of
+i says that i squaredis equal to negative 1.Hey, we didn't have any
+numbers before whereif we took the square,
+we get negative 1.Now if you take i squared,
+you get negative 1.So what's neat about
+imaginary numbersis that their
+squares are negative.And what's useful
+about them is itallows us to solve
+a bunch of equationsthat we couldn't have
+solved if you're onlylooking for real solutions.That has all sorts of
+implications in engineering,especially, and other things
+like physics and all the rest.So right now, you
+just really haveto go with this definition.You just have to go with
+this definition and this one.And as we do more
+numbers, and especiallyonce you see a lot more
+engineering applications,hopefully you'll
+realize the value of ior the value of
+imaginary numbers.So going back to the problem--
+write the following numbersas complex.So this number right
+here, this is justa plain, vanilla negative 21.It just looks like
+a real number to me.Well, how do I write
+it as a complex number?Well, I write it
+as a combinationof a real and an
+imaginary number.So I could just write
+this as negative 21--that's the real
+part-- plus 0 times i.0 times i is 0, so it's still
+just going to be negative 21.We have no imaginary
+part, really.So this is just the
+complex version of it--very straightforward.Same thing down here.7i is an imaginary number.There's no real part to this.So we could call this-- the
+real part here is just 0.So this is 0 plus 7i.

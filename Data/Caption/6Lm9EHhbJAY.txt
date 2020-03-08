@@ -1,0 +1,88 @@
+This is the straight edge, except... this is marked.So Euclid's straight edge is
+just a straight edge. It's not a ruler...And this is a compass...
+And you can use it to draw circles.Straight edge can do the following:if you have two points in the plane that you have previously somehow constructed or were given to youthen you can put the straight edge there
+and connect them by this fine straight line.And the way to imagine it is that the straight line
+is infinitely long...and the paper is infinitely big.- So you can't do a line of twenty centimeters...?- Well... sort of. So that's a very good question.Hum... if you're given a line of one centimeter...
+by... you know... by god...then you can do a line of twenty centimeters,
+because you can draw one long line...And then here is my line of one cm given by god.And then I can use the compass... to measure the 1cm.And then I can pick a starting point on my infinitely long line.And then I can put this 1 cm there twenty times.For now I'll just do it three times.So one of the central questions that people
+have been interested in for a very long time isexactly what can of lengths you can construct
+if you're given a line segment of one centimeter,or one inch... or one unit...Today when you start learning mathematics
+- even when you're two years old or three years old -you always start with numbers... But for Euclid
+and people in his time, it was the opposite.They thought about Geometry
+as being the basis of everything.And they thought about shapes, points, lines,
+triangles, being the fundamental objects.And they thought of numbers only
+as something that arise from the Geometry.So the questions that they naturally ask
+were a little bit different.So first, I'll show you a few things that are possible.How about... I give you a line segment of some length...and ask you to construct a perpendicular bisector...meaning a line that's perpendicular to this line segment and cuts it in two equal pieces.'Have to open this compass quite wide
+because I drew this long line segment.So I draw one circle arc... So I do two circle arcs...The important part is that the width of the... the radius of the circle... so the width of the compass was the samewhen I do it from the left and when I do it from the right.And then... take the straight edge and just connect
+the two points where those arcs intersect.and then they will intersect because I opened
+the compass wide enough to be wider than half.And then this line is a perpendicular bisector of that.So why is that... I won't show you... maybe won't show you all the proofs, but I will show you this one.If you connect all of these points... 
+then what is this shape?Well, all of these red lines are the radius of the circle, and... those are all the same...They are all the same length because I kept the compass the same width the whole time.And so, this shape is what's called the rhombus.One of the properties of the rhombus is that the two diagonals are perpendicular to each otherand cut each other in half.Another thing you can do... This is some angle - we don't know how big it is.We can't measure it, because we
+don't have an angle-measuring device.But, whatever it is, I can bisector it - meaning I can construct a line which is right in the middle.So how do we do that? We take the compass, open it to whatever width - it doesn't matter.Draw a circle arc... and then, from where the circle arc intersects those two lines, we drawanother two circle arcs... and these two have
+to be with the same radius as each other.And then, where those two intersect, we draw a line.And that line will bisect the angle. And again...So... let me show you one last trick that's possible.So suppose you are given a unit square.
+And I tell you that every side is of length 1.And I ask whether you can 'double the square' - meaning construct a square which is twice the area of the square.Okay, so how will that go...?Well... what we want is a square that has twice the area.Now what's the area of this square?- One. - One, because you get the area of the square
+by just multiplying the side lengths.So the area of this is one.So if this has twice the area, then the area of this is 2.And that means that...we know that x squared is 2.And so we know that x is the square root of 2.So, how do we construct
+the square that's double the size?It comes down to having to construct
+lines segments of lengths square root 2...And this is where Euclid's kind of question
+starts to look more like your kind of question..Uh, can you do a line segment of length 20.Now his quite kind of question - can you do a square that's twice as big - comes down to a questionwhich is our kind of question
+- can you do a line segment which is of length root 2.- Can you do a line that's root-2 long?- Yes! So, how do you do that? You draw a line...Okay, now we want a line perpendicular to it
+- pretty much anywhere.And one way we know how to do that is
+we can construct perpendicular bisectors.So if I just pick two points
+ - doesn't matter at all where they are -and then I construct a perpendicular bisector to that little line segment, that will be a perpendicular line.And then we forget about those points.What happens if I take my compass...So I'm given this unit segment.
+That's the key; I know what length-1 is.And then if I know what length-1 is,
+what happens, if I put length-1 here...and the length-1 here... I'll mark those...This is 1... This is 1.And you guess what's next...- Yeah, you can do a hypotenuse.
+- Exactly.So this is a hypotenuse and you can use the pythagorean theorem... So this is c...Then c-squared equals 1-squared plus 1-squared.
+So c-squared equals 2. And so c equals the root of 2...To finish the job, well... you would have to
+make a square that has this as a side length.So... Let's just make it a bit longer... We want perpendicular to it here and perpendicular to it here.And you know how to do perpendiculars...You draw a circle arc... you draw another circle arc... ok?And then you'll believe me that I can
+do that on the other side as well. - Yes.We have now three sides of the square.
+We just have to measure the side lengths.So put this...in here... This is the length root-2.So I measure it on that side... and then I measure it
+on that side... and 'have a square.- Well done! ... Job done! - Yeah.So you can double a square...A question that you can try figuring out
+is how to triple a square...Uh... so uh...  it's very similar to this,
+but it involves a little bit of extra trickery...It's a fun problem to think about.What's the first thing I showed you?
+It's uh... how to bisect a segment.So... instead of asking how to bisect a segment,
+I could ask... can you trisect a segment...?So can you cut a segment into three equal parts,
+as opposed to two equal parts?The answer to this is still yes...
+And it's actually pretty simple.I won't like... do all the perpendiculars properly, cause now you believe me that I can construct perpendiculars.So I'll just do it the shortcut way...So open up your compass to any length that you want.Put a... another line, which starts at the same point as the line segments,but what the angle is doesn't matter whatsoever.Put your compass at the end, and measure this...whatever length - doesn't matter - one time...two times... three times.So now on this other side, I have constructed
+a line segment which is trisected by this line.And then I connect these two ends.And then from this point draw a parallel to this red line.Now I haven't thaught you how to draw a parallel,
+but a parallel is what's perpendicular to a perpendicular.So what you would do... is you would draw a perpendicular to that red line... here...And then you would construct a perpendicular from this point to that... hum, and that would be parallel.And then another one... from over here.And magic! Where it intersects, 'trisects that origin only.So the next thing - next natural question -,
+I showed you how to bisect an angle...Can you trisect an angle?So, I give you some angle - you dont know what the measure is cause you don't have any measuring device -Can you come up with a construction which would result in two lines which divide that angle in three equal parts?- Based on everything you showed me so far,
+I would have said yes...!- Well... Euclid couldn't... And then, for about two thousand years people thought about this problem...Before I tell you the answer
+let me give you another problem.So I told you that you can triple a square.That's one kind of generalization
+of the problem of doubling the square.Hum, it's going up in the ratio
+by which you want to multiply...What you could also try - going up in dimension...So a square is a 2-dimensional thing.So instead of doubling a square,
+you can ask about doubling a cube...!So what does that mean? Well...
+You're given a unit cube...You need a cube whose sides are all length 1.And... what you want to try to figure out is how to construct another cube which has twice the volume.Now what's the volume of the unit cube?
+- One.- One, because you get the volume of a cube
+by multiplying this side-length, this side-length,and this side-length, which are all the same
+because it's a cube. So that's 1 times 1 times 1 is 1.So if you doubled it, then the
+volume of the new one would be 2.So we don't know what the side-length is,
+but we can figure it out.If the side-length is y, then I know that the volume - which is 2 - is y times y times y... so it's y-cubed.To get y, we have to get the cube root.
+So y equals the cube root of 2.- Can we do a cube root of 2? Can you do a cube root using a compass and a straight edge?- Well, who knows? Euclid couldn't. And then people thought about it for two thousand years.- So both of these problems Euclid couldn't crack...?- Both of them Euclid couldn't crack. People were very curious about them, and many many smart people.And then, in the early eighteen hundreds
+came along this ingenious guy called Gallois.He died at age nineteen in a duel. But before that
+he essentially revolutionized algebra...!- Before he was nineteen?!
+- Before he was nineteen, yeah...!
+- Waw...- So this theory - Gallois' theory that he came up with,
+is now... if you're in any math program in universityyou're thaught this in year... say fourth year of undergraduate or first year of graduate studies.- I hope they also teach you not to have duels!- So that gave people the tools
+to eventually practise problems.And they were... well, not solved...
+but it was proven in the eighteen thirtiesthat both of these are impossible...And the guy who proved
+both of these is called Pierre Wantzel.And you can see why they were so much harder,because, when something is solvable,
+all you need to do is come up with a solution.These solutions still are tricky,
+but they are not that hard.But to solve that something is impossible... that's
+- to prove that something is impossible - that's hard,because you can't... you know, saying that I thought about it for ten years and couldn't do it is not a proof;maybe you're just not smart enough...!So you have to come up with something explicit
+- that proves that they are absolutely impossible.And what it came down to is exaclty your kind of question, i.e. what kind of length you constructif you're given the unit segment.So I, for example, show'd you how to do a square root-2.I showed you how to do 3. I showed you how to do 1/3.It turns out that you can do all numbers
+that just involve fractions and square roots,and additions and subtractions.But there's a problem with cube roots...!So what this guy proved is that
+you will never be able to do cube roots.And that can also be used to crack this problem, because trisecting an angle somehowcomes down to cube roots through trigonometry.- So cube roots are the problem.
+- Cube roots are the big problem.- But, the same question arises:
+how do you prove you can't do a cube root...?!How do you prove that you can't do cube roots?
+That's a very good question!'What do you use to translate from geometry
+to numbers?' is the main question.And the answer is analytic geometry, which you probably encountered in high school - so coordinates...You always start out with the unit segment - somehow
+the unit segment is always given to you -to begin with.
+And then you want to construct other stuff.You can translate everything to the question...if you start out with the unit segment,
+you can construct a coordinate system,that has unit segment as length on the x-axis.And then which points can you construct
+from there, starting from there...?- So cube roots are like an island you can get to...?
+- Exactly! So the question is...you can think about... instead of which points
+exactly you can construct, you can ask...what are the coordinates
+of the points that you can construct.And each basic step - I told you what the basic steps are... It's like drawing a line between two points ordrawing a circle... How our news points pour in...They are the intersections of lines
+or intersections of circles.And you might remember from high school that when solve for the coordinates of intersecting things,this comes down to solving equations.And all of those equations will come from
+equations of lines and equations of circles,which, uh... - also you might remember from high school, or from calculus if you ever took calculus -an equation of a line is a linear equation,
+and an equation of a circle is a quadratic equation.So when you solve those,
+you're never going to get cube roots...

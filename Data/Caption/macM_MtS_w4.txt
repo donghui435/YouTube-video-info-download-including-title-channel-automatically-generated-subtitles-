@@ -1,0 +1,66 @@
+Today we are going to be talking about a problem in logicand how in solving that problem,Alan Turing almost inadvertently
+invented the modern digital computer.So we start back at the beginning of the
+20th century, where mathematicians hadposed this problem - in logic we're
+interested in finding "Do these premisesentail this conclusion?" So premises are
+the bits you start off with in an argumentthey are your -- the bits you know at the
+beginning or your assumptions and theconclusion is the bit you want to
+establish the bit that you reason towith your argument and we want to know
+is there a test that will tell usyes for sure these premises do or don'tentail this conclusion. Is there an
+automatic way of finding out whetherthey do or whether they don't?So that's the problem, it's called the
+decision problem.The mathematicians wanted to find out "Is
+there an answer to the decision problemfor first order logic?"that's the kind of logic you learn in
+philosophy or mathematics at universityso lots of mathematicians were trying to
+work out is first order logic decidablethat is can we automatically test
+whether the premises entail theconclusionAlan Turing was one of the first to
+discover that first order logic isn'tdecidable. To prove thisit's really difficult conceptually
+because you have to be able to show nopossible program can give you the answer
+but how do you do that how do you showsomething about every possible programyou can't run through every program one
+by onebut Turing came up with a brilliant
+solutionhis idea goes something like thissuppose we have a program and let's just
+draw it as a black boxit's going to take some inputs and it's
+going to give us some outputsour program is going to solve some
+problem a problem like "Do the premisesentail the conclusion" we ask it a
+question and it will give us an answeryes or nonow here's another question we can ask
+let's look at all of those possibleprograms and we're just thinking of them
+as black boxes at the moment we mightwant to know is this program given a
+certain input going to give us an answeror is it going to trundle on forever and
+never give us an answer that is is itgoing to halt or is it not going to halteventually so think about your computer
+running you want it to give you ananswer of whether it's a good answer or
+a bad answerit's better than no answer. No answer
+would mean the computer trundles aroundforever and ever in a loop and you would
+just never know whether it's going tofinish today tomorrow or neverso halting is good so there's another
+question we can ask given some programand some inputwill it ever halt? Now it turns out that
+our logical problem"Do these premises entail this conclusion?"
+is very similar to this halting problemin fact if we can solve the logical
+problem then we can solve the haltingproblemwill this program halt on this input so
+the clever part of Turing's proof isto show that it's impossible for any
+machine however clever it is to solvethe halting problem that is to tell us
+whether a given machine with a giveninput will halt or not - and here's how
+he did itlet's suppose we've got a machine or a
+program that solves the problem for usit solves the halting problem don't
+worry about how it works let's justthink of it as a black box taking the
+description of a machine and an inputand giving us an answeryes it will halt or no it won't halt
+just suppose that's possiblecall that machine "h" for the halting
+problem - if you give me that machineI can transform it into a different
+machine like thisI stick some extra bits on it so that if
+it gives me a yes answerI make it loop forever without ever
+stoppingif it gives me a no answer on the other
+handand it's going to halt straight away
+let's call that big machinethe whole thing "h+" now here's another
+question we can ask what happens if Ifeed the whole machine into itself so
+i'm going to put h+ in here and h+in hereso the question I'm now asking is I'm
+feeding h+ into itself so i'm asking thequestion "Does h+ halt given input h+?"
+and here's where it all goes wrongbecause if h plus does haltwe get a yes answer but then it loops
+foreverso it doesn't halt on the other hand if
+it doesn't haltwe get a no answer but then it halts so
+if it does halt then it doesn't haltbut if it doesn't halt then it does
+halt. Either way we get a contradictionit's a paradox but what that shows is we
+started off assuming that we can solvethe problemwe've ended up with a paradox so our
+assumption was badit turns out there's no possible machineno possible program that solves the
+halting problemthe really clever bit about Turing's
+idea is it doesn't matter what kind ofprogram our machine is. It doesn't matter
+whether it's an abstract algorithmwhether it's a real computer, a physical
+computerit doesn't matter what it is we've prove
+that no such program as possibleTuring as part of his argument had to
+say a little bit about what's going onin these black boxes //DFB: and the idea is
+that every card represents an instructionin the Turing machine

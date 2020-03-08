@@ -1,0 +1,49 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.In the last lecture, we explored
+the dawn of number systems.These early number systems were concerned
+only with numbers used to count objects.In mathematics, we call these counting numbers
+the "natural numbers".The smallest natural number is 1and there is no limit
+to the largest natural number.As we also saw in the previous lecturethere are many number systems which could
+be invented to represent natural numbers.For instance, the Romans used
+a natural number systemwhich by today's standards
+seems quite complicated.In the Roman system,
+the symbols I, V, X, L, C, D, and Mrepresent the quantities
+1, 5, 10, 50, 100, 500, and 1000.The quantities 2 and 3
+are represented by two or three I's.The quantities 6, 7, and 8
+are represented by the symbol for five, Vfollowed by one, two, or three I's.And the quantities 4 and 9are represented by the symbols for 5 or 10,
+V and X, preceded by an I.The numbers 10 through 100
+follow the same patternexcept that the symbols X, L, and C
+are used to represent 10, 50, and 100.The same pattern is used for
+the numbers 100 through 1000.using the symbols C, D, and M
+to represent 100, 500, and 1000.In addition, the symbol M
+may be repeated up to three timesto represent 1000, 2000, or 3000.These groups of numerals can be combinedto form any number up to 3999.For example, this number is written asthree-thousandplus nine-hundredplus ninetyplus nine.The Romans rarely needed numbers
+larger than this.When they did, they used the standard symbols
+with a bar over themto indicate a value 1000 times greater.At first look, it seems like
+it would be very difficultto do calculations using Roman numerals.For instance, take the following
+simple addition problem.Using Roman numerals, this same problem
+looks quite complicated.However, the Roman number system
+is actually not all that different from oursif you think of groups of Roman symbolsbeing the equivalent to our
+single numeric symbols.If we arrange the symbols into columns of
+ones, tens, and hundredsthe two number systems
+look a little more similar.The first difference that is apparentis that the Roman number system
+had no symbol for zero.An even more important differenceis that our modern number system
+uses the same symbolto represent different values
+depending on its position in the number.For instance, in this problem, the number "2"
+represents 2, 20, and 200depending upon which column the "2" is in.On the other hand, in the Roman system,
+2, 20, and 200are represented by different symbols.The important difference between the Roman
+number system and our modern systemis that in the Roman systemthe position of a symbol within a number
+doesn't determine the value.Since symbols do not have to
+fall into particular columnszeros are not needed as a column placeholder.Our modern number system is an example of
+"positional notation".In positional notation, the same symbol
+represents different quantitiesdepending on its position in the number.For example, the symbol "1" can represent
+1, 10, 100, 1000, and so on.Consequently, the numbers 10, 100, and 1000require zeros as column place holders
+following the one.The Roman number system is an example of
+"sign-value notation".Sign-value notations
+do not require a symbol for zerosince different quantities
+such as 1, 10, 100, and 1000each have unique symbols whose value
+does not depend on their position in the number.The natural number system used today,
+with which most everyone is familiaris called the "decimal" or "base-10"
+number system.In the next lecture
+we will explore these numbersas well as other natural number systems using
+other bases such as binary, octal, and hexadecimalwhich are often used when working with
+digital computers.

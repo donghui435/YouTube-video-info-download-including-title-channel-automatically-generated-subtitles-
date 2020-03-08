@@ -1,0 +1,130 @@
+So you're me and
+you're in math classand-- triangles, triangles,
+triangles-- I don't know.The teacher keeps
+saying words, and you'resupposed to be doing
+something with trigons,whatever those are.But you're bored and--
+triangles, triangles,triangles.Sure you could draw your
+triangles separately,but then they get lonely.They're happiest when
+snuggled up togetherinto a triangle party.Everybody knows
+triangles love parties.Sometimes they get together and
+do these triangle congo lines.If you keep adding new
+triangles on the same side,it gets all curvy and spirally.Or you can alternate and
+it goes pretty straight.In fact, since all the
+sides of the triangleare supposed to
+be straight lines,and since they're
+all lying on topof some previous straight
+line, then this whole linewould have to be straight if
+these were actually triangles.Since it's not, it's proof that
+these aren't quite triangles.Maybe they've been
+partying a little too hard,but hey, at least
+you're not doing math.Speaking of which,
+the teacher is stillgoing on about types
+of trigons, and you'resupposed to be taking notes.But you're more
+interesting in typesof triangles, which you
+already know all about.There are fat triangles,
+and pointy triangles,and perfect
+triangles, and cheeseslice triangles which are
+a kind of pointy trianglebut are symmetric like a
+slice of cheese or cake.Super pointy triangles are fun
+to stack into triangle stacks.You can put all the points
+facing one direction,but the stack starts
+to wobble too muchtowards that direction.So it's good to put some facing
+the other direction before yougo too far.You'll notice pretty quickly,
+that the skinnier the triangle,the less wobble it
+adds to the stack.To compensate for
+a big wobble, youcan put just one not
+so skinny trianglethat's pointing the other way.Or maybe you want to
+wobble, because youhave to navigate your triangle
+stack around your notes.In which case you can even
+alternate back and forthas long as you make the
+triangles point towards whereyou want to go, a
+little less skinny.The easy part about
+triangle stacks,is that there's really only
+one part of the triangle that'simportant, as far as
+the stack is concerned.And that's the pointy point.The other two angles can be fat
+and skinny, or skinny and fat,or both the same if
+it's a cheese slice,and it doesn't change
+the rest of the stack.Unless the top angle
+is really wide,because then you'll
+get two skinny points,and which side should
+you continue to stack on?Both?Also, instead of
+thinking fat and skinny,you should probably
+create code wordsthat won't set off your
+teacher's mind readingalarms for non-math
+related thoughts.So you pick two words off
+the board, obtuse and acute,which by sheer
+coincidence I'm sure, justhappen to mean fat
+angle and skinny angle.Of course, those are
+also kinds of triangles.Which doesn't make much
+sense, because the obtuser oneangle of a triangle is, the
+more acute the other two get.Yet, if you make
+an acute trianglewith the same perimeter,
+it has more area,which seems like
+an obtuse quality.And then, can you still
+call an obtuse equilateraltriangle a cheese or
+cake-slice triangle,because these look
+more like [INAUDIBLE].Point is, triangle
+terminology is tricky,but at least you're not
+paying attention to the stuffthe teacher is saying about
+trigonometric functions.You'd rather think about
+the functions of triangles.And you already
+know some of those.There are sines, and cosines,
+but enough of this tangent.The thing to pay attention to is
+what affects your triangle how.If you start drawing the next
+triangle on your trianglestack this way, by
+this point, you alreadyknow what the full
+triangle would have to be.Because you just continue
+this edge until itmeets this invisible line,
+and then fill the rest in.In fact, you can make an
+entire triangle stack justby piling on triangle parts
+and adding the points laterto see what happens.There's some possible
+problems though.If you start a
+triangle like this,you can see that it's never
+going to close, no matterhow far you extend the lines.Since this triangle
+isn't real, let'scall it a Bermuda Triangle.This happens when
+two angles togetherare already more
+than 180 degrees.And since all the
+angles in a triangleadd up to 180--
+which, by the way,you can test by ripping one
+up and putting the threepoints into a line-- that
+means that if these aretwo 120 degree
+angles of a triangle,the third angle is off
+somewhere being negative 60.Of course, you have no problem
+being a Bermuda Triangleon a sphere, were angles
+always add up to more than 180,just the third point
+might be off in Australia.Which is fine, unless you're
+afraid your triangle mightget eaten by sea monsters.Anyway, stacking triangles
+into a curve is nice,and you probably want
+to make a spiral.But if you're not careful,
+it'll crash into itself.So you'd better think
+about your angles.Though, if you do it just right,
+instead of a crash disaster,you'll get a wreath thing.Or you can get a
+different triangle circleby starting with a polygon,
+extending the sides in onedirection, and then
+triangling around it,to get this sort
+of aperture shape.And then you should
+probably add more triangles,triangles, triangles--One last game.Start with some
+sort of asterisk,then go around a triangle it up.Shade out from the
+obtusest angles,and it'll look pretty neat.You can then extend it with
+another layer of triangles,and another, and if you
+shade the inner partsof these triangles,
+it's guaranteedto be an awesome triangle party.And there's lots of other
+kinds of triangle parties justwaiting to happen.Ah, the triangle.So simple, yet so beautiful.The essence of
+two-dimensionality,the fundamental object
+of Euclidean geometry,the three points
+that define a plane.You can have your
+fancy complex shapes,they're just made
+up of triangles.Triangles.Dissect a square into triangles,
+make symmetric arrangements,some reminiscent of spherical
+and hyperbolic geometry.Triangles branches into
+binary fractal trees.Numbers increasing exponentially
+with each iterationto infinity.Triangles, with the
+right proportionbeing a golden spiral of perfect
+right isosceles triangles.Put equilateral triangles
+on the middle thirdof the outside edges of
+equilateral trianglesto infinity, and
+get a snow flakewith the boundary
+of the Koch Curve.An infinitely long perimeter,
+continuous yet nowheredifferentiable.With a fractional dimension
+of log four over log three,and-- uh oh, teacher's
+walking around,better pretend to be doing math.

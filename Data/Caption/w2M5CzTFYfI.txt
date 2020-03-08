@@ -1,0 +1,103 @@
+Throughout your
+mathematical life,you will find situations where
+you will need to round numbers.And you might be
+saying, well why?What situations might that be?Well, these would
+be situations whereyou're trying to get
+an estimate on things.Where you're trying to--
+maybe you have a measurementand you want it to be a little
+bit less exact to simplifythings.Or you don't trust how
+exact the measurement is.So here we're going to actually
+think about what rounding is.And we're going to round each of
+these numbers, 36, 34, 35, 26,and 12.We're going to round each
+of them to the nearest 10.And I'll give you a
+hint of what that means.That essentially says take
+each of these numbers,and find the multiple of
+10 that it is closest to.So what are multiples of 10?Well, 10 times 0
+is 0, 10 times 1is 10, 20, 30, 40, 50,
+60, so on and so forth.So I encourage you
+to pause this video,and just based on what I just
+told you, what is the nearestmultiple of 10 to
+each of these numbers?Try to think about that.Well, to think about it a
+little bit deeper, let'sactually put a number line here.I'll put two number
+lines over here.So we've got some
+number lines here.And let's think about
+where these pointswould sit on this number line.So this first number,
+36, where does itsit on this number line?Well, it's between 30 and 40.And this little blue mark
+is 35, it's halfway between.So 36 is going to be a
+little higher than that.So 36 is going to
+be right over here.And if we zoom in
+between 30 and 40.So if we say that this
+is 30, and this is 40,where is 36 going to be?So once again, this is 35.36 is one notch above that.So 36 is going to
+be right over here.So if we want to round to the
+nearest 10, to the nearestmultiple of 10, what are
+the two possibilities here?Well, I could take 36
+and I could round upto the multiple of 10
+above it, which is 40.So I could round up to
+40, or I could round downto the multiple of 10
+below it, which is 30.And so I need to figure
+out which of these numbersis it closer to.Well, when you just look at
+that, even just eyeballing it,you can see it.But you could also say 36
+is only four away from 40,and it's six away from
+30, it's closer to 40.So we are going to round up.We are going to round up to 40.This is literally
+called rounding up.Now let's try some of
+these other numbers.What about 34?And I encourage you
+to pause the video.Think about what
+number you wouldget if you were to try to
+round it up or round it down,and then which one it
+is actually closer to.Well, 34 is right over
+here on this number line,where we zoom in, 34
+is right over here.And we have two options.The multiple of
+10 above 34-- letme do those same colors-- the
+multiple of 10 above 34 is 40.Multiple of 10 below
+34, again, is 30.Now, which one is it closer to?Well it's only four away from
+30, and six away from 40,so it's closer to 30.So we are going to
+round down to 30.And notice we went to 30.You might say, hey,
+when we rounded itup the 10's place increased
+from 3 to 4, from 30 to 40.Maybe when we round
+down, the 10's placewill decrease from
+30 to 20, but no, 30is the multiple of 10 below 34.So when you round
+down, you just go--you keep the multiple of 10,
+but the ones place becomes a 0.Now let's try a really
+interesting one.Let's think about rounding the
+number 35 to the nearest 10.And first, before we
+even try to do it,let's think about
+the two options.Well, we've already seen it.35 is sitting right over here.On this number line, that
+is 35, and once again wehave two options.35, we can round it up to 40,
+or we could round it down to 30.And I encourage you to pause
+the video and think about this.Well this one is a
+little bit of a conundrumbecause it's five away
+from both elements.It's five away from 40,
+and five away from 30.So the mathematical
+community hasdecided to define
+what to do in the casewhere you have a 5
+in the ones place.If you have five or more in the
+ones place, you will round up.This is just a rule.Five or more in the ones
+place, you round up.So 35, you round up to 40.Notice, a 6 in the ones
+place was five or more.So if you're rounding to the
+nearest 10, you round up to 40.A 4 in the ones place is not 5
+or greater, so we rounded down.And so this gives
+a pretty good cluefor these other two numbers.Let's try-- let's see
+what happens with 26.26, what are the two options?What is a multiple
+of 10 above 26,and what is a multiple
+of 10 below 26.?Well, the multiple
+of 10 above 26 is 30,and the multiple of
+10 below 26 is 20.So if we round up, we go to 30.If we round down, we go to 20.Well, if we're rounding
+to the nearest 10,we look at the 10's place.That's what we're
+going to round--we're going to round
+to the nearest 10--but then we look
+at the ones place.The ones place is
+going to decide it.And we see here this
+is 5 or greater.Or you could say this is
+greater than or equal to 5.So we round up.26 rounded to the nearest
+10, we round up to 30.Now what about 12?And I think you're
+getting the hang of this.Well let's think about the
+multiple of 10 above 12.So we could either
+round up to 20.So 12 is sitting
+right around here.We either round up to 20
+or we round down to 10.Well, if we're going to
+round to the nearest 10,we have to look
+at the ones place.We have to look at the
+ones place right over here.This is less than 5.Since it's less than
+five, we round down,which makes sense because
+it's also closer to 10than it is to 20.So we round down, and
+rounding 12 to the nearest 10,you actually get 10.

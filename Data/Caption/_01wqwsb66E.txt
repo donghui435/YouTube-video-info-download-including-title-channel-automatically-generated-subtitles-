@@ -1,0 +1,57 @@
+Find the greatest common
+factor of these monomials.Now, the greatest common
+factor of anythingis the largest factor
+that's divisible into both.If we're talking about just
+pure numbers, into both numbers,or in this case,
+into both monomials.Now, we have to be
+a little bit carefulwhen we talk about
+greatest in the contextof algebraic
+expressions like this.Because it's greatest
+from the point of viewthat it includes the most
+factors of each of thesemonomials.It's not necessarily the
+greatest possible numberbecause maybe some
+of these variablescould take on
+negative values, maybethey're taking on
+values less than 1.So if you square
+it, it's actuallygoing to become
+a smaller number.But I think without getting
+too much into the weeds there,I think if we just kind of
+run through the process of it,you'll understand it
+a little bit better.So to find the
+greatest common factor,let's just essentially
+break down eachof these numbers
+into what we couldcall their prime factorization.But it's kind of a combination
+of the prime factorizationof the numeric
+parts of the number,plus essentially
+the factorizationof the variable parts.If we were to
+write 10cd squared,we can rewrite
+that as the productof the prime factors of 10.The prime factorization
+of 10 is just 2 times 5.Those are both prime numbers.So 10 can be broken
+down as 2 times 5.c can only be broken down by c.We don't know anything else
+that c can be broken into.So 2 times 5 times c.But then the d squared can
+be rewritten as d times d.This is what I mean by writing
+this monomial essentiallyas the product of
+its constituents.For the numeric part of
+it, it's the constituentsof the prime factors.And for the rest
+of it, we're justkind of expanding
+out the exponents.Now, let's do that for 25c
+to the third d squared.So 25 right here,
+that's 5 times 5.So this is equal to 5 times 5.And then c to the third,
+that's times c times c times c.And then d squared,
+times d squared.d squared is times d times d.So what's their greatest
+common factor in this context?Well, they both
+have at least one 5.Then they both have at
+least one c over here.So let's just take up one
+of the c's right over there.And then they both have two d's.So the greatest common factor
+in this context, the greatestcommon factor of
+these two monomialsis going to be the factors
+that they have in common.So it's going to be equal to
+this 5 times-- we only have onec in common, times--
+and we have twod's in common, times d times d.So this is equal to 5cd squared.And so 5d squared, we can kind
+of view it as the greatest.But I'll put that
+in quotes dependingon whether c is
+negative or positiveand d is greater
+than or less than 0.But this is the greatest common
+factor of these two monomials.It's divisible
+into both of them,and it uses the most
+factors possible.

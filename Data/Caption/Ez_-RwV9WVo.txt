@@ -1,0 +1,97 @@
+Let's say I have the point
+3 comma negative 4.So that would be 1, 2,
+3, and then down 4.1, 2, 3, 4.So that's 3 comma negative 4.And I also had the
+point 6 comma 1.So 1, 2, 3, 4, 5, 6 comma 1.So just like that.6 comma 1.In the last video, we figured
+out that we could just use thePythagorean theorem if we
+wanted to figure out thedistance between these
+two points.We just drew a triangle there
+and realized that this was thehypotenuse.In this video, we're going to
+try to figure out what is thecoordinate of the point that
+is exactly halfway betweenthis point and that point?So this right here is kind of
+the distance, the line thatconnects them.Now what is the coordinate of
+the point that is exactlyhalfway in between the two?What is this coordinate
+right here?It's something comma
+something.And to do that-- let me draw
+it really big here.Because I think you're going to
+find out that it's actuallypretty straightforward.At first it seems like a
+really tough problem.Gee, let me use the distance
+formula with some variables.But you're going to see, it's
+actually one of the simplestthings you'll learn in
+algebra and geometry.So let's say that this is
+my triangle right there.This right here is the
+point 6 comma 1.This down here is the point
+3 comma negative 4.And we're looking for the point
+that is smack dab inbetween those two points.What are its coordinates?It seems very hard at first. But
+it's easy when you thinkabout it in terms of just the
+x and the y coordinates.What's this guy's x-coordinate
+going to be?This line out here represents
+x is equal to 6.This over here-- let me do it
+in a little darker color--this over here represents
+x is equal to 6.This over here represents
+x is equal to 3.What will this guy's
+x-coordinate be?Well, his x-coordinate is
+going to be smack dab inbetween the two x-coordinates.This is x is equal to 3, this
+is x is equal to 6.He's going to be right
+in between.This distance is going to be
+equal to that distance.His x-coordinate is going
+to be right in betweenthe 3 and the 6.So what do we call the number
+that's right in betweenthe 3 and the 6?Well we could call that the
+midpoint, or we could call itthe mean, or the average,
+or however you wantto talk about it.We just want to know, what's
+the average of 3 and 6?So to figure out this point,
+the point halfway between 3and 6, you literally just figure
+out, 3 plus 6 over 2.Which is equal to 4.5.So this x-coordinate
+is going to be 4.5.Let me draw that
+on this graph.1, 2, 3, 4.5.And you see, it's smack
+dab in between.That's its x-coordinate.Now, by the exact same logic,
+this guy's y-coordinate isgoing to be smack dab between y
+is equal to negative 4 and yis equal to 1.So it's going to be right
+in between those.So this is the x right there.The y-coordinate is going to be
+right in between y is equalto negative 4 and
+y is equal to 1.So you just take the average.1 plus negative 4 over 2.That's equal to negative 3
+over 2 or you could saynegative 1.5.So you go down 1.5.It is literally right there.So just like that.You literally take the average
+of the x's, take the averageof the y's, or maybe I should
+say the mean to be a littlebit more specific.A mean of only two points.And you will get the midpoint
+of those two points.The point that's equidistant
+from both of them.It's the midpoint of the line
+that connects them.So the coordinates are 4.5
+comma negative 1.5.Let's do a couple
+more of these.These, actually, you're going
+to find are very, verystraightforward.But just to visualize
+it, let me graph it.Let's say I have the point
+4, negative 5.So 1, 2, 3, 4.And then go down 5.1, 2, 3, 4, 5.So that's 4, negative 5.And I have the point
+8 comma 2.So 1, 2, 3, 4, 5,
+6, 7, 8 comma 2.8 comma 2.So what is the coordinate
+of the midpointof these two points?The point that is smack
+dab in between them?Well, we just average the
+x's, average the y's.So the midpoint is going to be--
+the x values are 8 and 4.It's going to be 8
+plus 4 over 2.And the y value is going to be--
+well, we have a 2 and anegative 5.So you get 2 plus negative
+5 over 2.And what is this equal to?This is 12 over 2, which is 6
+comma 2 minus 5 is negative 3.Negative 3 over 2
+is negative 1.5.So that right there
+is the midpoint.You literally just average the
+x's and average the y's, orfind their means.So let's graph it,
+just to make sureit looks like midpoint.6, negative 5.1, 2, 3, 4, 5, 6.Negative 1.5.Negative 1, negative 1.5.Yep, looks pretty good.It looks like it's equidistant
+from this point andthat point up there.Now that's all you
+have to remember.Average the x, or take the mean
+of the x, or find the xthat's right in between
+the two.Average the y's.You've got the midpoint.What I'm going to show you now
+is what's in many textbooks.They'll write, oh, if I have
+the point x1 y1, and then Ihave the point-- actually, I'll
+just stick it in yellow.It's kind of painful to switch
+colors all the time-- and thenI have the point x2 y2, many
+books will give you somethingcalled the midpoint formula.Which once again, I think is
+kind of silly to memorize.Just remember, you
+just average.Find the x in between, find
+the y in between.So midpoint formula.What they'll really say is the
+midpoint-- so maybe we'll saythe midpoint x-- or maybe
+I'll call it this way.I'm just making up notation.The x midpoint and the y
+midpoint is going to be equalto-- and they'll give you this
+formula. x1 plus x2 over 2,and then y1 plus y2 over 2.And it looks like something
+you have to memorize.But all you have to
+say is, look.That's just the average,
+or the mean,of these two numbers.I'm adding the two together,
+dividing by two, adding thesetwo together, dividing by two.And then I get the midpoint.That's all the midpoint
+formula is.

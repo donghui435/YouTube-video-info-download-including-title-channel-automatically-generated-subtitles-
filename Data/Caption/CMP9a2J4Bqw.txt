@@ -1,0 +1,106 @@
+DR. .JAMES GRIME: So today we're
+going to talk about oneof the great unsolved problems
+in mathematics that went backto the Ancient Greeks, thousands
+of years ago, whichwas eventually solved in 1882.And the problem is called
+squaring the circle.And you may have even heard of
+the problem as a metaphor forsomething that's impossible
+to do.The question is, can you make a
+square with the same area asthe circle?Now you have to understand
+the rules.In Ancient Greece they
+didn't have algebra.So they could only
+construct numbersusing lines and circles.So you could only make things
+using a straight edge--like a ruler, but not a
+measured ruler, just astraight edge--and a compass.So lines and circles,
+those are the rules.Those are the rules the Ancient
+Greeks had to work by.Using those rules, can you
+construct a square with thesame area as the circle?Let's have a look at
+what you can dowith rules and compasses.You can add numbers.Here's a line, and
+it has length a.And I add another line
+of length b.And the whole thing
+is a plus b.So you can add numbers togetherquite easily with lines.You can subtract numbers,
+as well.If I start with b, and then I
+mark off a length, which I'mgoing to call a, then this
+bit here, that's goingto be b minus a.We can multiply.If I draw a little triangle
+here, this has length 1.And this has length a.I'm going to scale
+up the triangle.I scale it up, so now this has
+length b, the big triangle haslength b, then this has been
+scaled up as well, so thatthis has a length a times b.You divide.Same idea, but it's the
+reverse of that.If I took a bigger triangle, if
+that has a length of b, andthe long edge here has a length
+of a, if I scale itdown so now this has a length
+of 1, then this has beenscaled down as well.And you scale it down so
+it has a length ofa divided by b.So you can divide by scaling
+triangles as well.And there's one more
+thing you can do.If I draw a line here,
+this is a.I'm going to add 1 to it.That's 1.I'm then going to draw
+a semicircle.And this length, here, is
+the square root of a.And that's all you can do.That is it.With a ruler and a compass, you
+can add, multiply, divide,subtract, workout square
+roots, and that is it.That is all you can do.The numbers you make using
+those rules are calledconstructible all numbers.So all those numbers are
+just repeated useof those few rules.If we had a circle--let's this make this easy.Let's say this circle
+has a radius of 1.The area of the circle is pi
+times the radius squared.And the radius squared,
+that's 1.So the area of the circle
+is just pi.So I want a square with
+the same area.I want a square now that
+has an area of pi.And you may be ahead of me here,
+because a square has anarea of pi, the lengths of the
+sides are the square root ofpiNow it's at the square
+root of pi.We can do square roots.That's allowed.So there's nothing yet to say
+that we can't do this.So what's the problem?Well we know that pi
+is irrational.Actually, that wasn't
+easy to work out.We only worked that out
+quite recently.By quite recently I mean 1761.But being irrational
+is not enough.There are constructible numbers
+that are irrational.You can make the square root
+of 2 quite easily.And you can make the square
+root of the square rootof 2, and so on.So being irrational is not
+enough to say thatthis can't be done.If I'm allowed to make this
+a bit more general, if I'mallowed to use other roots,
+like cube roots, or fifthroots, or nth roots, if I'm
+allowed to add those in aswell, the numbers that you can
+make using those rules arecalled algebraic numbers.That's just a bit more
+general, same idea.And it turns out that they were
+able to prove that pi wasnot an algebraic number.And if it's not an algebraic
+number, then it's definitelynot a constructible number.Now this is what I like.The word for a number that is
+not algebraic is called atranscendental number, which
+is a fantastic word.Now to prove something is
+transcendental is really hard.In fact, mathematicians had
+shown that transcendentalnumbers existed seven years
+before they even found anexample of a transcendental
+number.So you have to imagine in those
+seven years, people weresaying to the mathematicians,
+show me a transcendentalnumber, come on, show me a
+transcendental number.But it was a really
+hard thing to do.Eventually they found a
+few examples of this.But we still have to wait until
+we were able to provethat pi itself was
+transcendental.And then that was
+done in 1882.Once we've shown that, we've
+shown that pi is notconstructible.And that is a proof that you
+cannot square the circle.BRADY: Can you only not square
+this circle given theparameters of these rules
+in this game?Could a computer square
+a circle?DR. .JAMES GRIME: You can make
+a square with sides that havelength root pi.Absolutely.So to the modern day people,
+with our tools of algebra--algebra is fantastic.People complain about algebra,
+and having tolearn algebra at school.But if we didn't have algebra,
+we would be doing maths likethe Ancient Greeks did maths.I promise you, that would
+be much, much worse.Your textbooks would
+be ridiculous.They'd be very wordy.Algebra is an amazing, powerful
+tool in mathematics.It's not there to cause
+you problems.It's there for a reason.It's brilliant.So this is easy to make a square
+with the area of pi.But using the Greek rules,
+straight lines and circles,it's impossible to do.BRADY: You say it's easy
+to make a squarewith the area of pi.But because pi has this nature
+where the digits continue, andwe can't even get to the exact
+figure, surely you can't makea square that's exactly pi.Because you don't even
+know what pi is.Or you can do it, can you?DR. .JAMES GRIME: You can do
+it and you're treading onsomething called Zeno's Paradox
+there, which we'reabout to do next.BRADY: OK.So for a second video in a row
+we're going to tell peoplethey have to wait to
+find out more?DR. .JAMES GRIME: If that's the
+way you want to play it,Brady, that's your choice.This is Brady's decision.He's stringing you along here.The representatives
+actually passed itunanimously, 67 to 0.They passed it.Now this is the weird bit.On the same day that they
+were passing the bill--

@@ -1,0 +1,66 @@
+e to the pi i equals negative 1is one of the most famous equations in
+math, but it's also one of the mostconfusing.Those watching this video likely fall
+into one of three categories1) you know what each term means, but the statement as a whole seems nonsensical,2) you were lucky enough to see what this
+means and some long formulae explaining why itworks in a calculus class,but it still feels like black magic, or
+3) it's not entirely clear with theterms themselves are.Those in this last category might be in the best position to understand the explanationI'm about to givesince it doesn't require any calculus or
+advanced math, but will instead require anopen-minded to reframing how we think about numbers.Once we do this, it will become clear
+what the question means,why it's true and most importantly why it
+makes intuitive sense.First let's get one thing straight,what we we write as e to the x is not repeated multiplicationthat would only make sense when x is a
+number that we can count 1, 2, 3 and so on,and even then you'd have to define the
+number the number e first.  To understand what thisfunction actually does,we first need to learn how to think
+about numbers as actions.We are first taught to think about numbers
+as counting things, and addition andmultiplication are thought of with respect
+counting.However is more thinking becomes tricky
+when we talk about fractional amounts,very tricky when we talk about
+irrational amounts, and downright nonsensicalwhen we introduce things like the square
+root of -1.Instead we should think of each number as
+simultaneously being three thingsa point on an infinitely extending line,
+an action which slides that line along itself,in which case we call it an "adder", and an action which stretches the linein which case we call it a "multiplier".
+When you think about numbers as adders,you could imagine adding it with all
+numbers as points on the lineall at once.  But instead, forget that
+you already know anything about additionso that we can reframe how you think
+about it.Thing of adders purely as sliding the line
+with the following rule:You slide until the point corresponding
+to zero ends up where the point correspondingwith the adder itself startedWhen you successively applied two adders, the effect will be the same as just applying some other adder.This is how we define their sum.  Likewise,forget the you already know anything
+about multiplication, and think of amultiplier purely as a way to stretch
+the line.Now the rule is to fix zero in place,
+and bring the point corresponding withone, to where the point corresponding with the multiplier itself started off,keeping everything evenly spaced as you
+do so.  Just as with adderswe can now redefine multiplication
+as the successive applicationof two different actions.  The life's ambition of e to the xis to transform adders into multipliers, and to do so is naturally as possible.For instance, if you take two adders,
+successfully apply them,then pump the resulting sum through the
+function, it is the same as first puttingeach adder through the function separately,then successively applying the two multipliers you get.  More succinctly,e to the x plus y equals e to the
+x time e to the y.If e to the x was thought it as
+repeated multiplication, this propertywould be a consequence.but really it goes the other way around. You should think this property is defininge to the x, and the fact that the
+special case and counting numbers hasanything to do with repeated
+multiplicationis a consequence the property.Multiple functions satisfy this property,but when you try to define one explicitly,
+one stands out as being the most natural,and we express it with this infinite sum. By the way,the number e is just to find to be the
+value of this function at one.The numbers is not nearly as special as the function as a whole, and the convention towrite this function as e to the xis a vestige of its relationship with
+repeated multiplication.The other less natural function
+satisfying this propertyare the exponentials with different
+bases.  Now the expression "e to the pi i"at least seems to have some meaning,but you shouldn't think about this infinite sum when trying to make sense of it.You only need to think about turning adders into multipliers. You see,we can also play this game a sliding and
+stretching in the 2d plane,and this is what complex numbers are.
+Each numbers simultaneously a point onthe planean adder, which slides the plane so
+that the point for 0lands on the point for the number, and
+multiplayer which fixes zero in placeand brings the point for one to the
+point for the number while keepingeverything evenly spaced.This can now include rotating along with
+some stretching and shrinking.All the actions of the real numbers still apply, sliding side to side and stretching,but now we have a whole host of new
+actions.For instance, take this point here. We call
+it "i".  As an adder,it slides the plane up, and as a multiplier, it turns it a quarter of the way aroundSince multiplying it by itself gives -1,
+which is to sayapplying this action twice is the same as
+the action of -1as a multiplier,it is the square root of -1.  All adding is
+some combination of sliding sidewaysand sliding up or down, and all
+multiplication is some combination ofstretching and rotating.Since we already know that e to the
+x turns slide side to side into stretches,the most natural thing you might expect
+his for to turn this new dimension of adders,slides up and down, directly into the new
+dimension of multipliers,rotations.  In terms points on the
+plane, this would mean e to the x takespoints on this vertical linewhich correspond to adders that slide the
+plane up and down, and puts them on thecircle with radius onewhich corresponds with the multipliers
+that rotate the plane.  The most natural wayyou could imagine doing thisis to wrap the line around the circle
+without stretching your squishing itwhich would mean it takes a length of
+two pi to go completely around the circle,since by definition this is the ratio the
+circumference of a circle to its radius.This means going up pi would translate to
+going exactly half way around the circle.When in doubt, if there's a natural way
+to do things,this is exactly what e to the x will
+do, and this case is no exception.If you want to see a full justification for
+why e to the x behaves this way,see this additional video here.  So there
+you have it,this function e to the x take the adder pi i to the multiplayer -1.

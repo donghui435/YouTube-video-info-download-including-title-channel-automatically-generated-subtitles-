@@ -1,0 +1,39 @@
+So you might have been wondering, "How do
+I use the different quotient with fractions?"Well, the simple answer is, the same way you'd
+use it with any other type of function.But there is one small trick I'll show you
+that'll make finding the difference quotientfor a rational function a whole lot easier.So now we know that this is the formula for
+the difference quotient.With any difference quotient problem, we really
+only need two pieces: f of x plus h, and fof x.This second term, f of x, is just the function
+itself that we're given.This first term, f of x plus h, is whatever
+we get when we replace x with x plus h inour original function.And regardless of the type of function we
+start with, whether it's a fraction or not,we're still just looking for f of x plus h
+and f of x.But let's do an example where we find the
+difference quotient for a fraction, like thefunction 3 over x minus 2.Starting with the difference quotient formula,
+we can replace f of x with 3 over x minus2, since f of x is always just the original
+function that we've been given.Now all we need is f of x plus h.So we'll replace x with x plus h everywhere
+in our original function, and we'll get fof x plus h is equal to 3 over x plus h minus
+2.Now we can plug this into the difference quotient
+formula for f of x plus h.Up to this point, this is exactly what we'd
+do for any kind of function, regardless ofwhether or not the function is a fraction.But here's where the trick comes in.Once you get to this point, you need to start
+simplifying the difference quotient, but you'vegot what we'll call the "little fractions"
+inside the "bigger fraction".It can be confusing to simplify fractions
+within fractions, but here's the trick todo it one easy step.You want to find a common denominator for
+the little fractions.So the denominator of the first little fraction
+is x plus h minus 2, and the denominator ofthis second little fraction is x minus 2.The easiest way to find a common denominator
+is just to multiply these together.Don't feel like you need to multiply this
+out; the vast majority of the time it reallywon't help you at all.Once you have this common denominator, you'll
+want to multiply both the numerator and denominatorof the big fraction by that value.You can do that, of course, because when the
+numerator and denominator are equal, the fractionis equal to 1, so we're really just multiplying
+by 1, which of course doesn't change the value.So now we just need to do some distribution.When we multiply the common denominator by
+3 over x plus h minus 2, it'll cancel outthe x plus h minus 2, leaving us with just
+3 times x minus 2.When we multiply the common denominator by
+the 3 over x minus 2, it'll cancel out thex minus 2, leaving us with just 3 times x
+plus h minus 2.And in the denominator we get h multiplied
+by the common denominator.And just like that, you've eliminated the
+little fractions in one easy step.Now we can simplify the numerator by multiplying
+everything out, and then canceling terms.Finally, we'll cancel out the h from the numerator
+and denominator.That'll be our final answer, and that's how
+you use the difference quotient with fractions.Could you use some extra help with math?Click the button to head over to CalculusExpert.com.It's where I've collected and organized all
+of my best resources, including exclusivevideos, notes, quizzes, and even formula sheets.It's the perfect resource, whether you're
+struggling, or if you want to take your learningfurther, of even if you just want to save
+yourself some time studying.So check it out, because I know it'll help.

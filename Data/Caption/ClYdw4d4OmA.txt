@@ -1,0 +1,136 @@
+In this video we're going
+to talk a little bit aboutorder of operations.And I want you to pay close
+attention because reallyeverything else that you're
+going to do in mathematicsis going to be based on you
+having a solid groundingin order of operations.So what do we even mean when
+we say order of operations?So let me give you an example.The whole point is so that we
+have one way to interpreta mathematical statement.So let's say I have the
+mathematical statement7 plus 3 times 5.Now if we didn't all agree on
+order of operations, therewould be two ways of
+interpreting this statement.You could just read it left to
+right, so you could say well,let me just take 7 plus 3, you
+could say 7 plus 3 and thenmultiply that times 5.And 7 plus 3 is 10, and then
+you multiply that by 5.10 times 5, it
+would get you 50.So that's one way you would
+interpret it if we didn't agreeon an order of operations.Maybe it's a natural way.You just go left to right.Another way you could interpret
+it you say, I like to domultiplication before
+I do addition.So you might interpret it as --
+I'll try to color code it --7 plus -- and you do
+the 3 times 5 first.7 plus 3 times 5, which would
+be 7 plus 3 times 5 is15, and 7 plus 15 is 22.So notice, we interpreted
+this statement intwo different ways.This was just straight left
+to right doing additionthen the multiplication.This way we did the
+multiplication first then theaddition, we got two different
+answers, and that's just notcool in mathematics.If this was part of some effort
+to send something to the moonbecause two people interpreted
+it a different way or anotherone computer interpreted one
+way and another computerinterpreted it another way, the
+satellite might go to mars.So this is just completely
+unacceptable, and that's whywe have to have an agreed
+upon order of operations.An agreed upon way to
+interpret this statement.So the agreed upon order of
+operations is to do parenthesesfirst -- let me write it over
+here -- then do exponents.If you don't know what
+exponents are don't worryabout it right now.In this video we're not going
+to have any exponents in ourexamples, so you don't
+really have to worry aboutthem for this video.Then you do multiplication --
+I'll just right mult, short formultiplication -- then you do
+multiplication and divisionnext, they kind of have the
+same level of priority.And then finally you do
+addition and subtraction.So what does this order of
+operations -- let me labelit -- this right here,
+that is the agreed uponorder of operations.If we follow these order of
+operations we should alwaysget to the same answer
+for a given statement.So what does this tell us?What is the best way to
+interpret this up here?Well we have no parentheses --
+parentheses look like that.Those little curly
+things around numbers.We don't have any
+parentheses here.I'll do some examples that
+do have parentheses.We don't have any
+exponents here.But we do have some
+multiplication and divisionor we actually just have
+some multiplication.So we'll order of operations,
+do the multiplicationand division first.So it says do the
+multiplication first.That's a multiplication.So it says do this
+operation first.It gets priority over
+addition or subtraction.So if we do this first we
+get the 3 times 5, which is15, and then we add the 7.The addition or subtraction --
+I'll do it here, addition,we just have addition.Just like that.So we do the multiplication
+first, get 15, thenadd the 7, 22.So based upon the agreed order
+of operations, this righthere is the correct answer.The correct way to
+interpret this statement.Let's do another example.I think it'll make things a
+little bit more clear, andI'll do the example in pink.So let's say I have 7 plus 3 --
+I'll put some parentheses there-- times 4 divided by
+2 minus 5 times 6.So there's all sorts of crazy
+things here, but if you justfollow the order of operations
+you'll simplify it in a veryclean way and hopefully we'll
+all get the same answer.So let's just follow the
+order of operations.The first thing we have to
+do is look for parentheses.Are there parentheses here?Yes, there are.There's parentheses
+around the 7 plus 3.So it says let's do that first.So 7 plus 3 is 10.So this we can simplify,
+just looking at thisorder operations, to
+10 times all of that.Let me copy and paste
+that so I don't haveto keep re-writing it.So that simplifies to
+10 times all of that.We did our parentheses first.Then what do we do?There are no more parentheses
+in this expression.Then we should do exponents.I don't see any exponents here,
+and if you're curious whatexponents look like, an
+exponent would looklike 7 squared.You'd see these little small
+numbers up in the top right.We don't have any exponents
+here so we don't haveto worry about it.Then it says to do
+multiplication anddivision next.So where do we see
+multiplication?We have a multiplication,
+a division, amultiplication again.Now, when you have multiple
+operations at the same level,when our order of operations,
+multiplication and divisionare the same level, then
+you do left to right.So in this situation you're
+going to multiply by 4and then divide by 2.You won't multiply
+by 4 divided by 2.Then we'll do the 5 times
+6 before we do thesubtraction right here.So let's figure
+out what this is.So we'll do this
+multiplication first.We could simultaneously do this
+multiplication because it'snot going to change things.But I'll do things
+one step at a time.So the next step we're going
+to do is this 10 times 4.10 times 4 is 40.10 times 4 is 40, then you
+have 40 divided by 2 and itsimplifies to that right there.Remember, multiplication and
+division, they're at the exactsame level so we're going
+to do it left to right.You could also express this as
+multiplying by 1/2 and then itwouldn't matter the order.But for simplicity,
+multiplication and divisiongo left to right.So then you have 40 divided
+by 2 minus 5 times 6.So, division, you just
+have one division here,you want to do that.You have this division and you
+have this multiplication,they're not together so you
+can actually kind of dothem simultaneously.And to make it clear that you
+do this before you do thesubtraction because
+multiplication and divisiontake priority over addition and
+subtraction, we could putparentheses around them to say
+look, we're going to do thatand that first before I do that
+subtraction, becausemultiplication and
+division have priority.So 40 divided by 2 is 20.We're going to have that minus
+sign, minus 5 times 6 is 30.20 minus 30 is equal
+to negative 10.And that is the correct
+interpretation of that.So I want to make something
+very, very, very clear.If you have things at the same
+level, so if you have 1 plus2 minus 3 plus 4 minus 1.So addition and subtraction are
+all the same level in order ofoperations, you should
+go left to right.So you should interpret this as
+1 plus 2 is 3, so this is thesame thing as 3 minus
+3 plus 4 minus 1.Then you do 3 minus 3
+is 0 plus 4 minus 1.Or this is the same thing
+as 4 minus 1, which isthe same thing as 3.You just go left to right.Same thing if you have
+multiplication and division,they're at the same level.So if you have 4 times 2
+divided by 3 times 2,you do 4 times 2 is 8
+divided by 3 times 2.And you say 8 divided by 3 is,
+well, we got a fraction there.It would be 8/3.So this would be 8/3 times 2.And then 8/3 times to
+is equal to 16 over 3.That's how you interpret it.You don't do this
+multiplication first or dividethe 2 by that and all of that.Now the one time where you can
+be loosey-goosey with order ofoperations, if you have all
+addition or all multiplication.So if you have 1 plus 5 plus 7
+plus 3 plus 2, it does notmatter what order you do it in.You can do the 2 plus 3, you
+can go from the right to theleft, you can go from the
+left to the right, you couldstart some place in between.If it's only all addition.And the same thing is true if
+you have all multiplication.It's 1 times 5 times
+7 times 3 times 2.It does not matter what
+order you're doing it.But it's only with all
+multiplication or all addition.If there was some division
+in here, if there's somesubtraction in here, you're
+best off just goingleft to right.

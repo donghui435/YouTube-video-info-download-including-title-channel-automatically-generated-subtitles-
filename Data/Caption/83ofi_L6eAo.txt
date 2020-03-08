@@ -1,0 +1,161 @@
+PHIL MORIARTY: We're talking
+about something called tau,which is equal to 2 pi.So there's been a huge amount of
+debate and discussion aboutthis right across
+the internet.There's even a Tau Manifesto.So one of the real advocates
+of tau versus pi is ViHart,and I really recommend you
+go and visit her videos.Brady might put the link in
+somewhere-- maybe down here orup there or over there--
+somewhere.For some people, it's
+not an issue.And initially, my response
+was what are peoplearguing about this?This is total nonsense, because
+if you want to usetau, then you just go tau--I'll repeat it-- tau is equal
+to 2 pi, and then proceed.It's more than that though,
+because, with maths and withphysics, what you want to strive
+for all the time isclarity, particularly when
+you're teaching this stuff.It's far too easy, if you've
+been teaching this for 15years like I have, not to be
+able to put yourself in themindset who's doing this
+right from the start.And so if you're got
+schoolchildren who are comingto trigonometry, who are coming
+to angles, who arecoming to pi and circles and
+circumferences and radius forthe first time, you do not
+want to confuse them.You want to minimize
+the confusion.And moreover, in maths and in
+physics, a really importantproperty is symmetry.And you want to try and have
+the most elegant, concisedescription of something.Here's my very wonky circle.And let's put our
+center there.And that's our radius r.And from there to there,
+you all know, I hope--let's do it in a different
+color--is d.And we define pi, very simply,
+as the ratio of thecircumference to the diameter.And this holds true
+for any circle,regardless of its size.Pi crops up in very many
+different ways.And the first thing we've got
+to think about is how wedefine angle.So let's draw another
+circle on this verycrumply brown paper.If we start here at this point
+and we move around and comeback to the same point, that's
+how many degrees, Brady?BRADY HARAN: 360.PHIL MORIARTY: 360 degrees.So there's a much more natural
+way of defining an angle.Let's take a circle again.Here's our radius.We're going to call
+that r again.And let's say that, instead of
+walking all the way around, weinstead walk a distance
+r along here.So that's r as well.And we call angles,
+conventionally, in physics--you can call it whatever you
+like, but conventionally, wedenote it by theta.That angle, when this arc length
+is equal to the radius,is equal to 1 radian.OK.So that's a much more natural
+definition, because here,we're basing it on
+just fundamentalproperties of the circle.Instead of going, well, that's
+360 degrees, we're saying thatwhen we go around a certain arc
+length which is equal tothe radius, that's a radian.Now, the question is, how many
+radians do we get if we go allthe way around the circle?How many radians does
+that turn out to be?Well, it turns out to
+be 2 pi radians.And the reason is--because you remember that
+the circumferencelength is 2 pi r.All right?So 2 pi radians.Here's where the debate
+kicks in.Some, particularly
+Bob Palais--I hope I've pronounced
+that right.It all stems from
+this wonderfulpaper, "Pi is Wrong"--Bob Palais.What he argued--well, isn't this rather
+confusing?So you go around one turn, and
+instead of being pi radians,it's 2 pi radians.I have a daughter who's
+nine and anotherdaughter who's six.And my daughter who's nine is
+starting to look at shapes andstarting to look at angles,
+doing basic geometry.And I can see how this is going
+to be a big problem.I'm looking around
+for the paper.And what we're going to do now
+is we're going to look at anumber of different angles.So we define angles
+counterclockwise.So we go that way rather
+than that way.Quite why we do that,
+I have no idea.It's convention.Here's where it gets
+interesting.0 radians--exactly the same.We go around a quarter
+of the circle.That angle is not pi over 4.It's pi over 2.That's already confusing.We go around the circle
+a bit more.Instead at of being pi over 2,
+because we've gone half wayaround, it's pi.And here, it's 1 and 1/2 pi--3 pi over 2--and here, it's 2 pi.A natural unit is one turn.A natural unit is you
+go around once.And yet, when you go around
+once, that's 2 pi.Now, I think that's confusing,
+not just at a basic elementarylevel, but that use of 2 pi
+instead of pi or instead ofsomething which represents one
+turn, which represents onerevolution--well, let's just
+redefine that.Let's say that tau
+is equal to 2 pi.One turn is equal to 2 pi.And let's just put the
+pi thing to one side.So that's one turn.So we start off with 0.How far have we gone?Well, we've gone a quarter
+way around.We've done a quarter
+of a revolution.That's tau over 4--much more natural.This is tau over 2.Because we've gone halfway
+around, it's natural.What's this one, Brady?BRADY HARAN: That's going
+to be 3/4 of tau.PHIL MORIARTY: Exactly.And this one's going to be tau,
+and then 2 tau and 3 tauand 4 tau and 5 tau.And that's much more natural.And of course, any professional
+physicist ormathematician or scientist is
+going to go, well, it'sstraightforward.If I want to use that, I just
+write that and I continue myequation, my analysis.I continue my derivation
+using tau.But that's not the point.It's not about the professional
+physicists.It's about teaching
+this stuff.2 pi appears throughout physics,
+all the way from thevery large scale, all
+the way rightdown to quantum mechanics.And I'll get on to quantum
+mechanics in a sec.Let me show you a simple
+demo, first of all.Mass on a spring--we let that bob up and down, it
+performs something which isthe bane of so many first year
+undergraduates' lives inphysics, which is called
+simple harmonic motion.It goes up and down.What describes that?Oh, we call it circular
+motion.And what describes that
+is a sine wave.And the period of that motion,
+again, is 2 pi.In terms of how atoms vibrate,
+atoms vibrateall the time in molecules.We describe that in terms
+of an angular frequency.We describe in terms of a
+frequency, but often, we usesomething called omega, which is
+an angular frequency, whichis 2 pi times f.And this is where it gets
+really, really interesting,because even as physicists, we
+even extract out that factorof 2 pi, because we
+have somethingcalled Planck's constant.It's a fundamental constant
+that crops up throughoutquantum mechanics.And we actually redefine it.And we have got something
+called h-bar.And h-bar is equal
+to h over 2 pi.And one of the reasons this 2
+pi factor crops up time andtime again throughout physics
+is that when we get down tothe quantum level, matter
+behaves like a wave.It's got oscillatory motion
+associated with it.It moves back and forth
+with a period.We can describe that in terms
+of waves, which havea period of 2 pi.It crops up absolutely
+everywhere.Here's my favorite equation.That is called Fourier
+transform.And as you'll see, you've
+got 2 pi here.But, not only do you
+have 2 pi there--that's an omega, which is 2 pi
+f-- you've got a 2 pi factorand there's another
+omega up here.What that does--BRADY HARAN: That's got
+2 pis everywhere.PHIL MORIARTY: That's got 2
+pis absolutely everywhere.Now, what we could do--and you can just replace this
+instead of having 1 over root2 pi, have 1 over tau here,
+have 1 over root tau.That's not the point.I really don't think
+that's the point.If you go to the various
+websites--where are they?The tau manifesto and
+the pi manifesto--and they have this game
+where they bat eachother back and forth.Look, this equation's more
+simple if you put tau and thisequation's more simple
+if you put pi in.That's not the point.It's about the fundamental
+teaching of this.For professionals physicists,
+we're notgoing to change this.I really do not think we are
+going to change this.If you open up any textbook,
+there's a 2 pi.2 pi there, actually.There's one already
+earlier on.So open a book up at random.You're very, very likely in a
+first-year physics textbook orin any physics textbook
+to come across a 2 pi.We are not going to change
+these textbooks.That's not the point.The point is when you're
+teaching this stuff, tau is abetter representation,
+is a better concept.The idea that you do one turn
+and that's tau, as opposed to2 pi radians.That's just a much better
+way of explaining it.BRADY HARAN: If no one's going
+to change, why are we eventalking about it?Are just we just saying this is
+what we should have done?PHIL MORIARTY: Yes, it is what
+we should have done.Euler, I think, possibly had an
+opportunity to change thishundreds of years ago.We should have done it.We haven't done it.Perhaps we could, from this
+point onwards, think aboutwriting textbooks and at
+least mention tau.I think what we need
+to do is you can--perhaps in a textbook like this,
+throughout it's going totalk about 2 pi.But we could say right at the
+start that there is thisconcept of tau--many students find
+it very helpful--and introduce it.And perhaps, then, there
+will be a gradualevolution towards tau.I doubt it.I really doubt it, but it might
+be nice to think so.-You've got to keep in your
+mind when you're doingcalculations--and actually, if you're a
+seasoned mathematician--PHIL MORIARTY: --the sampling
+and the effects and frequencyshifting to get it into
+the right pitch.But I'll play you Vi's vocals
+again, because they are reallyquite neat, if I can
+find the channel.-And also, that 1/2's here,
+because the half tells yousomething.-This works out just as nicely.

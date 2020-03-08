@@ -1,0 +1,19 @@
+Miranda's Maid Service charges
+$280 to clean 8 offices.What is the company's price for
+cleaning a single office?So they charge $280 to
+clean 8 offices.So it's $280 per every
+8 offices.And then we can simplify this.We could see, well,
+are both of themdivisible by a common factor?And this one looks like
+it is divisible by 8.200 is divisible by
+8, and then 80 isdivisible by 8 as well.So let's divide both the
+numerator and thedenominator by 8.And if we do that, 8 goes
+into 28 three times.3 times 8 is 24.Subtract.You have 4 left over.8 minus 4 is 4.Bring down this 0.8 goes into 40 exactly
+five times.5 times 8 is 40, and you
+have no remainder.So when you divide 280
+by 8, you get 35.And if you divide 8
+by 8, you get 1.So this rate simplifies to, this
+price per office, I guesswe could call it, simplifies
+to $35 for every 1 office,which we could also write as 35
+over 1 dollars per office,which is the exact same thing
+as $35 per office.And we're done.That is the company's
+price for cleaning asingle office: $35.

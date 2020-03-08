@@ -1,0 +1,64 @@
+Male Voice: What I want
+to do in this videois talk a little bit
+about compounding interestand then have a little bit of a discussionof a way to quickly, kind
+of an approximate way,to figure out how quickly
+something compounds.Then we'll actually see how goodof an approximation this really is.Just as a review, let's say I'm runningsome type of a bank and I tell you that Iam offering 10% interest
+that compounds annually.That's usually not the
+case in a real bank;you would probably compound continuously,but I'm just going to
+keep it a simple example,compounding annually.
+There are other videoson compounding continuously.
+This makes the matha little simpler. All that
+means is that let's saytoday you deposit $100
+in that bank account.If we wait one year,
+and you just keep thatin the bank account, then
+you'll have your $100plus 10% on your $100 deposit.10% of 100 is going to be another $10.After a year you're going to have $110.You can just say I added 10% to the 100.After two years, or a year
+after that first year,after two years, you're going to get 10%not just on the $100,
+you're going to get 10%on the $110. 10% on 110 is you're goingto get another $11, so 10% on 110 is $11,so you're going to get 110 ...That was, you can imagine,
+your deposit enteringyour second year, then
+you get plus 10% on that,not 10% on your initial deposit.That's why we say it compounds.You get interest on the
+interest from previous years.So 110 plus now $11. Every year the amountof interest we're getting, if
+we don't withdraw anything,goes up. Now we have $121.I could just keep doing
+that. The general wayto figure out how much you
+have after let's say n yearsis you multiply it. I'll use
+a little bit of algebra here.Let's say this is my original
+deposit, or my principle,however you want to
+view it. After x years,so after one year you
+would just multiply it ...To get to this number right
+here you multiply it by 1.1.Actually, let me do it this way.I don't want to be too abstract.Just to get the math here,
+to get to this numberright here, we just multiplied that numberright there is 100 times 1
+plus 10%, or you could say 1.1.This number right here is going to be,this 110 times 1.1 again.
+It's this, it's the 100times 1.1 which was
+this number right there.Now we're going to multiply
+that times 1.1 again.Remember, where does the 1.1 come from?1.1 is the same thing as
+100% plus another 10%.That's what we're getting.
+We have 100% of ouroriginal deposit plus another 10%,so we're multiplying by 1.1.Here, we're doing that twice.We multiply it by 1.1 twice.After three years, how
+much money do we have?It's going to be, after
+three years, we're goingto have 100 times 1.1 to the
+3rd power, after n years.We're getting a little abstract here.We're going to have 100
+times 1.1 to the nth power.You can imagine this is
+not easy to calculate.This was all the situation
+where we're dealing with 10%.If we were dealing in a
+world with let's say it's 7%.Let's say this is a
+different reality here.We have 7% compounding annual interest.Then after one year we
+would have 100 times,instead of 1.1, it would be 100% plus 7%,or 1.07. Let's go to 3 years.After 3 years, I could do 2 in between,it would be 100 times
+1.07 to the 3rd power,or 1.07 times itself
+3 times. After n yearsit would be 1.07 to the nth power.I think you get the
+sense here that althoughthe idea's reasonably
+simple, to actually calculatecompounding interest is
+actually pretty difficult.Even more, let's say I were to ask youhow long does it take
+to double your money?If you were to just use
+this math right here,you'd have to say, gee, to double my moneyI would have to start with
+$100. I'm going to multiplythat times, let's say whatever, let's sayit's a 10% interest, 1.1
+or 1.10 depending on howyou want to view it, to
+the x is equal to ...Well, I'm going to double my money so it'sgoing to have to equal to $200.Now I'm going to have to solve for xand I'm going to have to
+do some logarithms here.You can divide both sides by 100.You get 1.1 to the x is equal to 2.I just divided both sides by 100.Then you could take the
+logarithm of both sidesbase 1.1, and you get x. I'm showing youthat this is complicated on purpose.I know this is confusing. There's multiplevideos on how to solve these.You get x is equal to log base 1.1 of 2.Most of us cannot do this in our heads.Although the idea's simple, how long willit take for me to double
+my money, to actuallysolve it to get the exact answer, is notan easy thing to do. You
+can just keep, if you havea simple calculator, you
+can keep incrementingthe number of years until you
+get a number that's close,but no straightforward way to do it.This is with 10%. If
+we're doing it with 9.3%,it just becomes even more difficult.What I'm going to do in the next videois I'm going to explain something calledthe Rule of 72, which
+is an approximate wayto figure out how long,
+to answer this question,how long does it take
+to double your money?We'll see how good of
+an approximation it isin that next video.

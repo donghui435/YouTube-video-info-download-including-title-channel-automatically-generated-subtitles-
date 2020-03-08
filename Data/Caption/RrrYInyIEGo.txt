@@ -1,0 +1,72 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.We have seen that sets of real numbers
+can be visualized using the number line.A line is a 1-dimensional objectand the number line represents real numbers
+as points in this 1-dimensional space.Every real number corresponds to a
+single point in this space and vice versa.In the previous lecture we discussed the
+operation of creating a "Cartesian product".In this lecture, we will see
+how the Cartesian productallows us to construct mathematical objectswhich correspond to points
+in two or more dimensions.As we saw in the last lecture,
+the Cartesian product of two sets A and Bis formed by pairing one element
+from each set to form ordered pairs.The collection of ordered pairs formed by
+the Cartesian product forms a new set.This set contains ordered pairs representing
+every possible combination of elementswhere the first element is from set Aand the second element is from set B.The Cartesian product is written using a symbol
+which looks like a multiplication symbol.We can display the ordered pairs
+of this Cartesian product in a gridto form a simple
+2-dimensional coordinate system.By specifying the colors of each elementwe can locate any horizontal and vertical
+position within the grid.It is not necessary for each operand of a
+Cartesian product to be a different set.For instance, we can form the Cartesian product
+of set A with itself.This can be written as
+the Cartesian product of A and Aor "A squared".Just as before, we can locate any horizontal
+and vertical position within the gridby specifying the colors of each element.Or, if instead of set A containing colored
+squares, set A contained numberswe could locate any position in the grid
+by specifying the numerical valueof the first and second elements
+of an ordered pair.Set A does not have to be
+a finite set of numbers.We can also create Cartesian products
+of infinite sets.For instance, set A could be
+the set of integers Z.Forming a Cartesian product
+of the set of integers with itselfcreates an infinite set of ordered pairs
+"Z-squared"whose elements are every possible combination
+of two integers.Of course, we would need
+an infinitely large gridto represent all the ordered pairs in Z-squared.Instead of writing every ordered paireach ordered pair can be represented
+by its position in the grideach pair corresponding to a unique point.We can locate the positions of these points
+using a pair of number lines.For each ordered pair, the first element corresponds
+to a position on the horizontal number lineand the second element corresponds
+to a position on the vertical number line.The points formed by the Cartesian product
+of the set of integers with itselfform an infinite grid of points
+spaced one unit apart.Now, if instead of using
+the set of integers Zwe form the Cartesian product
+of the set of real numbers R with itselfwe create a continuum of points
+which completely fill the plane.Then every ordered pair of two real numberscorresponds to a unique point
+in this 2-dimensional space.This system for visualizing
+ordered pairs of real numbers as pointsis called the "Cartesian coordinate system".And the elements of an ordered pair
+which corresponds to a pointare called the "coordinates" of the point.The ideas which led to this system were developed
+by Rene Descartes in his book "La Geometrie".La Geometrie, published in 1637united algebra and geometry
+into a single subject "analytic geometry"which describes geometric shapes
+by algebraic equations.Likewise, algebraic equations
+can be visualized as geometric shapes.This is possible because, as we will soon seealgebraic equations define sets of pointswhich when viewed in the Cartesian
+coordinate system, appear as shapes.The perpendicular number lines in the Cartesian
+coordinate system are referred to as "axes".The horizontal and vertical axes
+are often called the x-axis and y-axis.Sometimes these two axes are referred to as
+the "abscissa" and the "ordinate".The point where the axes meet
+represents the number zero on each axis.This is called the "origin"
+of the coordinate system.The origin corresponds to
+the ordered pair (0,0).The infinite plane containing the x and y axes
+is referred to as the "Cartesian plane"or the "xy-plane".The axes divide the xy-plane into four regions
+called "quadrants".These are numbered from the first to fourthstarting with the upper right quadrant
+and continuing counter-clockwise.The quadrants are usually denoted
+with Roman numerals.Many mathematicians prefer to draw
+number lines and axeswith arrows pointing towards
+the positive direction onlyindicating the direction of increasing value.We have seen that the number line
+corresponds to the set of real numbers R.So forming the Cartesian product
+of the set of real number with itselfis equivalent to forming the Cartesian product
+of the number line with itselfto form the Cartesian plane.And just as the number line
+consists of a continuum of pointsresiding in 1-dimensional spacewhere each point corresponds to
+a unique real numberthe Cartesian plane consists of a continuum
+of points residing in 2-dimensional spacewhere each point corresponds to a unique
+ordered pair of real numbers.Using a 2-dimensional
+Cartesian coordinate systemwe can graphically display sets of ordered
+pairs as groups of points in this space.Later we will see how algebraic equations
+can describe infinite sets of pointswhich when viewed in this system
+appear as shapes in two dimensions.In the next lecture we will see how a 3-dimensional
+Cartesian coordinate system can be constructedwhich will allow us to visualize sets of
+ordered triples in three dimensions.

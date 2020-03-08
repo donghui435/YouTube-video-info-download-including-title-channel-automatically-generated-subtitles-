@@ -1,0 +1,51 @@
+Introduction to Geometry (Level 3)
+In this video we are going to practicedenoting and naming angles by using various
+points located on a geometric figure. Let¡¯sgo ahead and jump straight into the first
+example.Using the following figure find the following.
+Name angle OPR in all other possible ways.The following figure is a type of quadrilateral
+since it is formed by 4 sides as oppose toa triangle which is formed by 3 sides. We
+will study quadrilaterals in a much latervideo for now the problem is asking us to
+name angle OPR in all other possible ways.Lets first figure out where angle OPR is located
+on the figure, so we first locate point Oand move towards point P and then we move
+towards point R, from the way the angle isdenoted we know that the vertex of the angle
+is located at point P and is formed by raysPO and PR, the angle in question would be the following the highlighted angle. Now you might be temptedto use vertex P and name this angle as, angle
+P. Unfortunately, this would be incorrectsince point P is also the vertex of another
+angle specifically this one, so we can¡¯tname angle OPR as angle P since this point
+is also the vertex of another angle, thiswould be confusing to someone who is trying to locate
+angle OPR, in an effort to avoid any confusionwe need to name this angle in other ways.
+One alternative way we can name this angleis by reversing the order of the points and
+name it as angle RPO making sure we denotethe vertex P in the middle. Yet another way
+to name this angle is by using point S sinceit is located in same line containing points
+P and O, so we can name this angle as angle SPRor angle RPS making sure we denote the vertex
+P in the middle. Notice that the figure doesnot use numbers to label the angles as a result
+we are essentially done coverinig all thepossible ways to name this particular angle.
+Alright let¡¯s try the next example.What is the vertex of angle TOS.
+Remember the vertex of an angle when denotedin this particular way is represented by the
+middle letter; in this case the vertex ofthis angle is point O. In the figure to the
+left this is the location where rays OT andOS intersect you can also think about a vertex
+as the intersection of these two rays. Usingset notation we can denote them as Ray OT
+intersected with Ray OS. Wewill cover problems involving set notation
+in a later video. Now let¡¯s move along tothe next example.
+How many angles have as its vertex point R?First let¡¯s locate point R, point R is located
+on the bottom right corner of the figure.Notice that this point is the vertex of three
+distinct angles the first angle can be namedas: angle PRO or angle ORP or angle PRT or
+angle TRP the second angle can be named asangle ORS or angle SRO or angle SRT or angle
+TRS the third and final angle can be namedas: angle PRS or angle SRP so in total there
+are 3 angles that have point R as its vertex.Alright let¡¯s try the next example.
+Name angle TSP in all other possible ways.Ok let¡¯s first identify what angle the problem
+is referring to, so let¡¯s start at pointT and move towards point S and then move towards
+point P. So this is the angle referenced bythe problem. One way we can name this angle
+is by switching the direction of the pointsand name it as: angle PST, in addition we can also
+use point O to name this angle since itslocated on the same line that contains point
+P and S, using this point we name this angleas: angle OST or angle TSO, once again since this figure does not use numbers to label its angles these areessentially all the possible ways to name
+angle TSP. Alright Let¡¯s try the final example.How many triangles are there in the figure?
+At first glance it seems that there are 4triangles in the figure, they include the
+triangle on the left which can be named astriangle TOP, the triangle on the right which
+can be named as triangle SOR, the triangleon the top which can be named as triangle
+TOS and the triangle on the bottom which canbe named as triangle POR. It turns out that
+there are actually other triangles that areformed by these 4 smaller triangles, the first
+one can be named as triangle PTS the nextone can be named as triangle TRS, another
+one can be named as triangle SRP and the lastone can be named as triangle RPT. So there
+a total of 8 triangles in this figure.Alright in our next video we will continue
+denoting and naming more challenging anglesby using the points located on a geometric
+figure.

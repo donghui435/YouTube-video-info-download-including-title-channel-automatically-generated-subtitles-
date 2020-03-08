@@ -1,0 +1,57 @@
+We are asked to find the
+cube root of negative 512.Or another way to think about
+it is if I have some number,and it is equal to the
+cube root of negative 512,this just means that
+if I take that numberand I raise it to the third
+power, then I get negative 512.And if it doesn't jump out
+at you immediately whatthis is the cube
+of, or what we haveto raise to the third
+power to get negative 512,the best thing to do is to just
+do a prime factorization of it.And before we do a prime
+factorization of itto see which of these factors
+show up at least three times,let's at least think about the
+negative part a little bit.So negative 512, that's
+the same thing-- solet me rewrite the
+expression-- thisis the same thing as the cube
+root of negative 1 times 512,which is the same thing as
+the cube root of negative 1times the cube root of 512.And this one's pretty
+straightforward to answer.What number, when I raise
+it to the third power,do I get negative 1?Well, I get negative 1.This right here is negative 1.Negative 1 to the third power
+is equal to negative 1 timesnegative 1 times negative 1,
+which is equal to negative 1.So the cube root of
+negative 1 is negative 1.So it becomes negative 1
+times this business righthere, times the
+cube root of 512.And let's think
+what this might be.So let's do the
+prime factorization.So 512 is 2 times 256.256 is 2 times 128.128 is 2 times 64.We already see a 2 three times.64 is 2 times 32.32 is 2 times 16.We're getting a
+lot of twos here.16 is 2 times 8.8 is 2 times 4.And 4 is 2 times 2.So we got a lot of twos.So essentially, if
+you multiply 2 one,two, three, four, five, six,
+seven, eight, nine times,you're going to get 512, or
+2 to the ninth power is 512.And that by itself
+should give youa clue of what the cube root is.But another way
+to think about itis, can we find-- there's
+definitely three twos here.But can we find
+three groups of twos,or we could also find--
+let me look at it this way.We can find three groups
+of two twos over here.So that's 2 times 2 is 4.2 times 2 is 4.So definitely 4 multiplied
+by itself three timesis divisible into this.But even better,
+it looks like wecan get three groups
+of three twos.So one group, two
+groups, and three groups.So each of these groups, 2
+times 2 times 2, that's 8.That is 8.This is 2 times 2 times 2.That's 8.And this is also
+2 times 2 times 2.So that's 8.So we could write 512 as being
+equal to 8 times 8 times 8.And so we can rewrite
+this expression rightover here as the cube
+root of 8 times 8 times 8.So this is equal to
+negative 1, or I could justput a negative sign
+here, negative 1 timesthe cube root of
+8 times 8 times 8.So we're asking our question.What number can we multiply
+by itself three times,or to the third
+power, to get 512,which is the same thing
+as 8 times 8 times 8?Well, clearly this is 8.So the answer, this
+part right over here,is just going to simplify to 8.And so our answer to this,
+the cube root of negative 512,is negative 8.And we are done.And you could verify this.Multiply negative 8
+times itself three times.Well, let's just do it.Negative 8 times negative
+8 times negative 8.Negative 8 times negative
+8 is positive 64.You multiply that times negative
+8, you get negative 512.

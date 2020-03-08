@@ -1,0 +1,42 @@
+Voiceover:We've got a triangle here wherewe know two of the angles
+and one of the sides.And what I claim, is that I
+can figure out everything elseabout this triangle just
+with this information.You give me two angles and a side,and I can figure out what the othertwo sides are going to be.And I can, of course,
+figure out the third angle.So, let's try to figure that out.And the way that we're going to do it,we're going to use something
+called the Law of Sines.In a future video, I will
+prove the Law of Sines.But here, I am just going to show you howwe can actually apply it.And it's a fairly straightforward idea.The Law of Sines just tells usthat the ratio between
+the sine of an angle,and the side opposite to it,is going to be constant for any
+of the angles in a triangle.So for example, for this
+triangle right over here.This is a 30 degree angle,This is a 45 degree angle.They have to add up to 180.So this right over here
+has to be a, let's see,it's going to be 180 minus 45 minus 30.That's 180 minus 75, so
+this is going to equal105 degree angle, right over here.And so applying the Law of Sines,actually let me label the different sides.Let's call this side right over here,side A or has length A.And let's call this side,
+right over here, has length B.So the Law of Sines tells usthat the ratio between
+the sine of an angle,and that the opposite side is going to beconstant through this triangle.So it tells us that sine of
+this angle, sine of 30 degreesover the length of the side opposite,is going to be equal to
+sine of a 105 degrees,over the length of the
+side opposite to it.Which is going to be equal
+to sine of 45 degrees.equal to the length of the side opposite.So sine of 45 degrees over B.And so if we wanted to figure out A,we could solve this
+equation right over here.And if we wanted to solve for B,we could just set this equal
+to that right over there.So let's solve each of these.So what is the sine of 30 degrees?Well, you might just remember
+it from your unit circlesor from even 30, 60, 90
+triangles and that's 1/2.And if you don't remember it,you can use a calculator to verify that.I have already verified thatthis is in degree mode, so it's 0.5.So this is going to be
+equal to 1/2 over two.So another way of thinking about it,that's going to be equal to 1/4,this piece is equal to 1/4is equal to sine of a 105 degrees over A.Let me write this, this is equal tosine of 105 degrees over A.And actually, we could also say,since we could actually
+do both at the same time,that this is equal to that.That 1/4 is equal to sine
+of 45 degrees over B.Actually, sine of 45 degrees
+is another one of thosethat is easy to jump out of unit circles.You might remember it's
+square of two over two.Let's just write, that's
+square root of two over two.And you can use a calculator,but you'll get some decimal
+value right over there.But either case, in
+either of these equations,let's solve for A then let's solve for B.So one thing we could do is we couldtake the reciprocal of both
+sides of this equation.The reciprocal of 1/4 is four.And the reciprocal of this right-hand sideis A over the sine of 105 degrees.And then to solve for A,
+we could just multiplyboth sides times the
+sine of a 105 degrees.So we get four times the sine
+of 105 degrees is equal to A.Let's get our calculator out,so four times the sine of 105 gives us,it's approximately equal to,let's just round to the
+nearest 100th, 3.86.So A is approximately equal to 3.86.Which looks about right if this is two,and I have made my angles appropriately,that looks like about 3.86.Let's figure out what B is.We could once again take the reciprocal ofboth sides of this and we getfour is equal to B over
+square root of two over two,we could multiply both sides timessquare root of two over two.And we would get B is equal tofour times the square
+root of two over two.Come to think of it, B is four timesthe sine of 45 degrees.Let's figure out what that is.If we wanted actual numerical value,we could just write this
+as two square roots of two.But let's actually
+figure out what that is.Two square roots of two is equal to 2.83.So B is approximately equal to 2.83.So [I'm] be clear, this
+four divided by two istwo square roots of two, which is 2.8.Which is approximately equal to 2.83if we round to the nearest 100th, 2.83,which also seems pretty reasonable here.So the key of the Law of Cosines isif you have two angles and a side,you're able to figure out
+everything else about it.Or if you actually had
+two sides and an angle,you also would be able to figure outeverything else about the triangle.

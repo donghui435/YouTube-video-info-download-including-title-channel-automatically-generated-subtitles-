@@ -1,0 +1,141 @@
+I think the best way to start this video is with a puzzle,a smaller version of what you perhaps saw in the thumbnail.We'll build up to that one later.Now, start with two nails, or two thumbtacks, that are in a wall.And what I want you to do is hang a picture off of those two nails.And when you do this, you're allowed to loop the wire around the nails in any way that you like,and then tie both loose ends of your string or wire to your picture, and as long as it hangs, you're good.Now, the only stipulation is, if you remove either nail, the picture should fall.So if you remove the first nail while leaving the second alone, the picture should fall.Or if you remove the second nail while leaving the first alone, the picture should fall.I should say this is not a trick question in any way, it is completely possible to do this,and I really want you to actually try it.So find two nails or two thumbtacks that are in a wall,or work it out with pencil and paper if you don't feel like getting up or if that's more your style.Now, surprisingly, there are actually infinitely many answers here that work.I'm gonna share with you the simplest one.So, go around the first nail clockwise,Then go around the second nail also clockwise,Then go back to the first nail and loop around it counterclockwise,then the second nail, again, counterclockwise.And if you do this you'll notice that the picture hangs.But if you remove either the first nail or the second nailThe picture falls down.Now the real question is: How did I know that that would work?And it turns out there is an incredibly beautiful mathematical explanation behind all this.And I am extraordinarily excited to share it with you guys.However, I should say that if you found the two nail version of the problem too easyYou may be excited to hear that there is an arbitrarily many nail version of the problem.So you can imagine putting a million nails in a wall.Then there is some way to loop a string around all one million of these nails so thata picture hangs off of it, but if you remove any one of these nailsThe whole thing collapses and the picture falls down.So if you found the 2 nail version of this problem too easy,maybe you can pause the video and work on that one.In the meantime, however, I will explain to everyone else what is going on here.What I'm going to do is call moving around the first nail clockwise 'a',and moving around the second nail clockwise 'b'.This is just so that I don't have to keep
+saying move around the first nailclockwise move around the second now you know whatever over and over and over again.Also I'm going to call moving around the first nail counterclockwise 1/a
+or a inverse and similarly moving aroundthe second nail counterclockwise will be
+1/b or b inverse.Finally I'm going to call the configuration where I do nothing at all where I don'twrap around any nail and the picture just simply falls down, 1. Why am I doing this wellI'm hoping to create some kind of
+analogy between this stuff andmultiplying numbers and it's worth
+reiterating that this is just ananalogy. However initially it does kind of
+seem to work I mean think about it, ifyou do a followed by 1/a, you get
+a 1 and the picture falls down. Similarlyif you do 1/a followed by a, you
+get a 1 and the picture falls down andsame thing with the bs you know b
+followed by 1/bor 1/b followed by b both give you a 1 and the
+picture falls down. So at least initially,our intuition does seem to agree with
+our notation which is pretty coolwith our new lingo in place I want to go
+back to the solution that I gave to theoriginal problem. So if you remember
+first I went around the first nailclockwise so that's an a then around the
+second nail clockwise so b then aroundthe first nail counterclockwise so 1/a followed by a 1/b. Now on onelevel it should be clear why this
+solution works because if I get rid ofthe first nail that's the same thing as
+getting rid of any term involving an aso I'm left with a b times 1/b
+which is a 1 and the picture falls down.Similarly if I get rid of the second
+nail that's the same thing as gettingrid of all the bs so I'm left with an a
+times 1/a which gives a 1 and onceagain the picture falls down so that is
+super awesome. However, clearly there issomething fishy going on here because
+this does not explain why thisconfiguration allows the picture to hang
+in the first placeif this really were like number
+multiplication everything would cancelout right at the start and the picture
+would not hang at all, but clearly itdoes, so even though this might look like
+number multiplication, something is verydifferent and just to give what I'm
+talking about a name, numbermultiplication is commutative which
+means the order in which you multiplythe numbers does not affect the answer,
+but that is not what is going on here.Notice that if you do b a 1/a 1/b, everything cancels just as youwould expect any picture falls down.
+However because in my solution I did a b1/a 1/b, I just switched that
+order in the beginning, the picture seemsto hang though it seems as though a will
+only cancelwith 1/a if they are right next
+to each other and b will only cancelwith 1/b also if they are right
+next to each other, so what we aredealing with here is clearly very much
+not commutative. The order in which I dothings definitely matters. In keeping
+with standard mathematical convention,I'm going to stop writing 1/a and 1/b and replace them with a inverseand b inverse, and the reason I'm doing
+this in part is just to prevent thattemptation to just cancel the 1/a
+wherever I may see them and if yourewrite the original solution of the
+problem in this way it becomes a b ainverse b inverse and actually this
+little doohickey has a special name inmathematics, it is called the commutator
+and commutators are an incrediblyimportant idea in mathematics. Actually,
+I'd be remiss not to mention that wehave secretly sort of stepped into the
+ubiquitous and vastly importantoverarching branch of mathematics called
+group theory. Now obviously I can'treally do justice to group theory in like a 10 minute YouTube video...a decade-long YouTube video would not be
+enough um so what I'm going to leave youwith is a: 1, how these ideas come up in
+more exciting and interesting contextsother than just, you know looping strings
+around nails, and then number 2, I want totalk about what makes this example
+particularly interesting, like why thestring around the nail example is
+particularly exciting, and the number 3, Iwant to tell you about how to use these
+ideas to solve the version of theproblem where you have, I don't know, like
+a million nails on the wall.As I mentioned before, if a b were the
+same as b a, the commutator would justturn into one.
+so the triviality of the commutatorallows you to test whether the order in
+which you do a and b matters. Let me giveyou two examples of places where this
+comes up that are not very technical. So,take a Rubik's Cube and let's say
+rotating this side by 90 degrees is aand rotating this side by 90 degrees is
+b, then notice if you do a b that is notthe same as doing b a so you get a
+different cube depending on which of aand b you do first and once again this
+can also be seen by noticing that doinga b a inverse b inverse, does not return
+you to the original cube. Here's one moreexample so take this hexagon, and I want
+you to think about all of the rigidmotions you can perform on this hexagon,
+so that after you perform them you havethe same outline as you did at the start.
+So one example would be rotating by say60 degrees. If you rotate by 60 degrees
+then at the end of that rotation youhave the same outline as you did at the
+start. Another example would be flippingalong this vertical axis. Say flipping
+along this vertical axis is a androtating by 60 degrees is b, then once
+again a b is not the same as b a anddoing a b a inverse b inverse does not to
+return you to the original hexagon, andof course, depending on your taste, there
+are lots of other more advanced placesthat these ideas come up.Now, non commutativity is of course very
+interesting and I hope I've convincedyou that it's a widely occurring
+phenomenon that is very useful tounderstand, but there's a lot more than
+just non commutativity which makes theexample with the string and the nails
+particularly interesting, and I'm goingto try and illustrate this to you by
+contrasting with the other two examplesthat I showed you before. So if you
+remember in the case of the hexagon, Icalled flipping along this axis a and
+rotating by 60 degrees b.Now let's say I do a then b then a again then b again.
+Notice I return back to the original.Now what's interesting about this is I've
+found a way to return back to theoriginal without doing any backtracking,
+it's not like I did a and then abackwards to get back to the original, no,
+this is definitely more interesting than that.If I were being more systematic
+about this if I took the same attitudethat an explorer might have, and I, let's
+say I were trying to draw a map let'ssay I start at this location and then
+from this location I figure out whatdoing a does and what doing b does, and
+then I do the same thing from thislocation I figure out we're doing a does
+and then what b does.Notice however that doing a and b from here doesn't actually take me anywhere new, it doesn't bring meto a new state that I haven't been to
+already, so doing a takes me back hereand doing b takes me back here, and
+similarly doing a from here just takesme back to the original so what I found
+in my map is an honest-to-goodness looplike a way to go from one back to one
+without doing any backtracking.If I were to finish this map, by the way, this is
+what the whole picture would look likeand as you can see there are lots of
+loops in it.These maps, as I'm calling them, are
+actually called Cayley graphs, if youwant to look them up further. What a
+Cayley graph is, is you know, you pick aset of moves that you're interested in
+in this case the moves I picked were aand b, and you just draw a map of, you
+know, all the places, all the differentstates that your moves can take you, and
+in this case this is what that map looks like.You may be interested to hear that
+the Cayley graph of a Rubik's Cubehas loops as well, so let's say this is a, this is b, and this is c,then if I do abc abc abc abc,notice that I am back to the
+original cube, so this is once again aninteresting way to get back to the
+original without any backtracking.Of course, I can't show you the full Cayley
+graph of a rubik's cube because thereare 43 quintillion different states that
+a rubik's cube can take, which may seemlike a lot until you realize that for
+our humble situation with the two nailsand the string looping around it, the
+Cayley graph is actually infinite, andwhat's more, there are no loops in it.So let's say this is 1 and these arrowsrepresent a b a inverse and b inverse,
+then this is what the Cayley graph looks like,and as you can see it has this
+beautiful fractal structure, which allowsus to get a sense of the shape of it
+despite its infinite nature and it'samazing to see all of this beautiful
+mathematics hidden inside just two nailsand a string. Unfortunately, I can't prove to you that this Cayley graph is correct,the mathematics is beyond the scope of
+this video. However, one practicalimplication is that pretty much however
+you wrap your string around your nails,the picture is guaranteed to hang. I mean
+think about it let's say you did a b a bthen a 7 times then b inverse 12 times
+then a 6 more times say, you areguaranteed that you will not have
+accidentally made it back to one becausethere are no loops in the Cayley graph.
+The only way you could get back to 1 isif you did a bunch of stuff and then you
+did the same stuff backwards which wouldof course cause everything to cancel.Let's start with three nails, and just asbefore I'm going to call going around
+them clockwise a b and c, and goingaround them counterclockwise is a
+inverse b inverse and c inverse.Now the trick here is to shove commutators inside other commutators.What we know is that a b a inverse b inverse
+will turn into one if you get rid of theas or the bs, but unfortunately this
+combination does not involve any cs, sowhat I'm going to do to rectify this is
+replace the b with the commutator of band c, and b inverse with the commutator
+of c and b.Why? Well first notice thatthese two commutators are actually
+inverses of each other,so when I get rid of the as, they wind
+up next to each other and every thingcancels. Also, getting rid of either the
+bs or the cs causes these newcommutators to go away, which once
+again causes every thing to cancel. So nowwe have a ten move combination that
+involves all three nails and it shouldwork, and indeed if you try removing any
+of the nails, it actually falls, which Ifind extremely satisfying, and you know
+you can keep doing something similar ifyou want to increase the number of nails.
+So for four nails you could replace awith the commutator of a and d, and a
+inverse with the commutator of d and a.Now let's actually do this for five nails, so
+I guess I'll replace d with thecommutator of d and e and, d inverse with
+the commutator of e and d, which is a 28move combination and though I needed a
+heavier picture for this one,it was still pure satisfaction.All right I just got done 
+editing the video and first upI wanted to say thank you so much to all
+of my new subscribers.Another thing I wanted to say was that I recorded a lot
+of material for this video that wound upnot making it in,  just stuff on how to do
+large-scale demonstrations as well asbig physics simulations with lots of
+nails, but unfortunately that stuffdidn't really fit in with the tone of
+the video, and it also made it way waytoo long, so maybe I'll revisit that
+stuff on another day if I can figure outa more engaging way to tell those
+stories, and I think that's it for me sodon't forget to subscribe if you haven't
+already, and peace! :)

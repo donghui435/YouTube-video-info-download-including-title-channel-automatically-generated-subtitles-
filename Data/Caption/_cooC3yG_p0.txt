@@ -1,0 +1,110 @@
+What I want to do in this
+video is familiarize ourselveswith a very common
+class of sequences.And this is
+arithmetic sequences.And they are usually
+pretty easy to spot.They are sequences where each
+term is a fixed number largerthan the term before it.So my goal here is to figure
+out which of these sequencesare arithmetic sequences.And then just so that
+we have some practicewith some of the
+sequence notation,I want to define them
+either as explicit functionsof the term you're looking for,
+the index you're looking at,or as recursive definitions.So first, given that
+an arithmetic sequenceis one where each successive
+term is a fixed amount largerthan the previous one, which of
+these are arithmetic sequences?Well let's look at this
+first one right over here.To go from negative 5 to
+negative 3, we had to add 2.Then to go from negative 3 to
+negative 1, you have to add 2.Then to go from negative
+1 to 1, you had to add 2.So this is clearly an
+arithmetic sequence.We're adding the same
+amount every time.And there are several ways that
+we could define the sequence.We could say it's a sub n.And you don't always
+have to use k.This time I'll use n
+to denote our index.From n equals 1 to infinity
+with-- and there's two wayswe could define it.We could either
+define it explicitly,or we could define
+it recursively.So if we wanted to
+define it explicitly,we could write a sub n is equal
+to whatever the first term is.In this case, our first
+term is negative 5.It's equal to negative
+5 plus-- we'regoing to add 2 one less
+times than the term we're at.So for the second
+term, we add 2 once.For the third term,
+we add 2 twice.For the fourth term,
+from our base term,we added 2 three times.So we're going to add 2.We're going to add positive
+2 one less than the indexthat we're looking
+at-- n minus 1 times.So this is an
+explicit definitionof this arithmetic sequence.If I wanted to write
+it recursively,I could say a sub 1 is
+equal to negative 5.And then each successive term,
+for a sub 2 and greater--so I could say a sub n is equal
+to a sub n minus 1 plus 3.Each term is equal to the
+previous term-- oh, not 3--plus 2.So this is for n is
+greater than or equal to 2.So either of these
+are completelylegitimate ways of defining
+the arithmetic sequencethat we have here.We can either define
+it explicitly,or we could define
+it recursively.Now let's look at this sequence.Is this one arithmetic?Well, we're going from 100.We add 7.107 to 114, we're adding 7.114 to 121, we are adding 7.So this is indeed an
+arithmetic sequence.So just to be
+clear, this is one,and this is one right over here.And we could write that this
+is the sequence a sub n,n going from 1 to infinity
+of-- and we could justsay a sub n, if we want
+to define it explicitly,is equal to 100 plus
+we're adding 7 every time.And then each term-- the
+second term we added 7 once.Third term-- we add 7 twice.So for the nth term, we're
+going to add 7 n minus 1 times.So this is an explicit
+definition of it,but we could also
+do it recursively.So just to be clear, this is
+one definition where we write itlike this, or we
+could write a sub n,from n equals 1 to infinity.And in either case
+I should write with.And if I want to
+define it recursively,I could say a sub
+1 is equal to 100.And then, for anything larger
+than 1, for any index above 1,a sub n is equal to the
+previous term plus 7.And so we're done.This is another
+way of defining it.So in general, if you
+wanted a generalizable wayto spot or define an
+arithmetic sequence,you could say an
+arithmetic sequenceis going to be of the form
+a sub n-- if we're talkingabout an infinite one--
+from n equals 1 to infinity.If you want to
+define it explicitly,you could say a sub n is
+equal to some constant, whichwould essentially
+the first term.It would be some
+constant plus some numberthat your incrementing--
+or I guessthis could be a negative
+number, or decrementingby-- times n minus 1.So this is one way to define
+an arithmetic sequence.In this case, d was 2.In this case, d is 7.That's how much you're
+adding by each time.And in this case, k is negative
+5, and in this case, k is 100.The other way, if you
+wanted to the rightthe recursive way of defining an
+arithmetic sequence generally,you could say a sub
+1 is equal to k,and then a sub n is
+equal to a sub n minus 1.A given term is equal
+to the previous termplus d for n greater
+than or equal to 2.So once again, this is explicit.This is the recursive
+way of defining it.And we would just
+write with there.Now the last question I have
+is is this one right over herean arithmetic sequence?Well, let's check it out.We start at 1.Then we add 2.Then we add 3.So this is an immediate
+giveaway that this is notan arithmetic sequence.Now we are adding 4.We're adding a different
+amount every time.So this, first of all,
+this is not arithmetic.This is not an
+arithmetic sequence.But how could we define
+this, since we'retrying to define our sequences?Let's say we wanted to
+define it recursively.So we could say, this is
+equal to a sub n, wheren is starting at 1 and
+it's going to infinity,with-- we'll say our base
+case-- a sub 1 is equal to 1.And then for n is 2
+or greater, a sub nis going to be equal to what?So a sub 2 is the previous
+term plus 2. a sub 3is the previous
+term plus 3. a sub 4is the previous term plus 4.So it's going to be the
+previous term plus whateveryour index is.So this looks close,
+but notice here we'rechanging the amount
+that we're addingbased on what our index is.We're adding the amount of
+index to the previous term.And so this is for n is
+greater than or equal to 2.Well for an arithmetic
+sequence, we'readding the same
+amount regardlessof what our index is.Here we're adding
+the index itself.So this one is not
+arithmetic, but it'san interesting
+sequence nonetheless.

@@ -1,0 +1,47 @@
+- In earlier mathematics
+that you may have done,you probably got familiar
+with the idea of a factor.So for example, let me just pickan arbitrary number, the number 12.We could say that the
+number 12 is the product ofsay two and six; two
+times six is equal to 12.So because if you take the product oftwo and six, you get 12, we could saythat two is a factor of
+12, we could also saythat six is a factor of 12.You take the product of
+these things and you get 12!You could even say that
+this is 12 in factored form.People don't really talk that waybut you could think of it that way.We broke 12 into the things
+that we could use to multiply.And you probably remember
+from earlier mathematicsthe notion of prime factorization,where you break it up into
+all of the prime factors.So in that case you could break the sixinto a two and a three, and you havetwo times two times three is equal to 12.And you'd say, "Well, this would be 12"in prime factored form or the
+prime factorization of 12,"so these are the prime factors.And so the general idea,
+this notion of a factoris things that you can multiply togetherto get your original thing.Or if you're talking about factored form,you're essentially taking the
+number and you're breakingit up into the things
+that when you multiplythem together, you get
+your original number.What we're going to do now is extendthis idea into the algebraic domain.So if we start with an expression,let's say the expression istwo plus four X,can we break this up into the productof two either numbers or two expressionsor the product of a
+number and an expression?Well, one thing that might jump out at youis we can write this astwo times one plus two X.And you can verify if you likethat this does indeed
+equal two plus four X.We're just going to distribute the two.Two times one is two, two times two Xis equal to four X, so plus four X.So in our algebra brains, this will oftenbe reviewed as or referred to asthis expression factored
+or in a factored form.Sometimes people would say thatwe have factored out the two.You could just as easily say thatyou have factored out a one plus two X.You have broken this thing
+up into two of its factors.So let's do a couple of examplesof this and then we'll
+think about, you know,I just told you that we
+could write it this waybut how do you actually figure that out?So let's do another one.Let's say that you had, I don't know,let's say you had, six, let
+me just in a different color,let's say you had six Xsix X plus three,no, let's write itsix X plus 30, that's interesting.So one way to think about it iscan we break up each of these termsso that they have a common factor?Well, this one over here,
+six X literally representssix times X, and then 30,
+if I want to break outa six, 30 is divisible
+by six, so I could writethis as six times five,30 is the same thing as six times five.And when you write it this way,you see, "Hey, I can factor out a six!"Essentially, this is the reverseof the distributive property!So I'm essentially undoing
+the distributive property,taking out the six, and you
+are going to end up with,so if you take out the six,
+you end up with six times,so if you take out the six here,you have an X, and you take outthe six here, you have plus five.So six X plus 30, if you factor it,we could write it as
+six times X plus five.And you can verify with
+the distributive property.If you distribute this six, you getsix X + five times six or six X + 30.Let's do something that's a little bitmore interesting where we mightwant to factor out a fraction.So let's say we had the situation ...Let me get a new color here.So let's say we had1/2 minus 3/2,minus 3/2 X.How could we write this in a, I guessyou could say, in a factored form,or if we wanted to factor out something?I encourage you to pause the videoand try to figure it out,
+and I'll give you a hint.See if you can factor out 1/2.Let's write it that way.If we're trying to factor out 1/2,we can write this first term as1/2 times one and this second onewe could write as minus 1/2 times three X.That's what this is,
+3/2 X is the same thingas three X divided by
+two or 1/2 times three X.And then here we can see
+that we can just factorout the 1/2 and you're going to get1/2 times one minus three X.Another way you could
+have thought about it is,"Hey, look, both of these are products"involving 1/2," and
+that's a little bit moreconfusing when you're
+dealing with a fraction here.But one way to think about it is,I can divide out a 1/2
+from each of these terms.So if I divide out a 1/2 from this,1/2 divided by 1/2 is one.And if I take 3/2 and divide it by 1/2,that's going to be
+three, and so I took outa 1/2, that's another
+way to think about it.I don't know if that confuses you moreor it confuses you less, but hopefullythis gives you the sense of
+what factoring an expression is.I'll do another example,
+where we're even usingmore abstract things, so
+I could say, "AX plus AY."How could we write this in factored form?Well, both of these terms have productsof A in it, so I could write
+this as A times X plus Y.And sometimes you'll hear people say,"You have factored out the A,"and you can verify it if
+you multiply this out again.If you distribute the A,
+you'd be left with AX plus AY.

@@ -1,0 +1,192 @@
+I've already made videos on the
+arcsine and the arctangent, so
+I've already made videos on the
+arcsine and the arctangent, soI've already made videos on the
+arcsine and the arctangent, so
+I've already made videos on the
+arcsine and the arctangent, so
+I've already made videos on the
+arcsine and the arctangent, so
+I've already made videos on the
+arcsine and the arctangent, so
+I've already made videos on the
+arcsine and the arctangent, soto kind of complete the
+trifecta, I might as well makea video on the arccosine.And just like the other inverse
+trigonometric functions, thearccosine is kind of the
+same thought process.If I were to tell you the arc,
+no, I'm doing cosine, if ourtell you that arccosine
+of x is equal to theta.This is an equivalent statement
+to saying that the inversecosine of x is equal to theta.These are just two different
+ways of writing theexact same thing.And as soon as I see either an
+arc- anything, or an inversetrig function in general, my
+brain immediatelyrearranges this.My brain immediately says, this
+is saying that if I take thecosine of some angle theta,
+that I'm going to get x.Or that same statement up here.Either of these should
+boil down to this.If I say, you know, what is the
+inverse cosine of x, my brainsays, what angle can I take
+the cosine of to get x?So with that said, let's
+try it out on an example.Let's say that I have the arc,
+I'm told, no, two c's there,I'm told to evaluate the
+arccosine of minus 1/2.My brain, you know, let's say
+that this is going to be equalto, it's going to be
+equal to some angle.And this is equivalent to
+saying that the cosine ofmy mystery angle is
+equal to minus 1/2.And as soon as you put it in
+this way, at least for mybrain, it becomes a lot
+easier to process.So let's draw our unit circle
+and see if we can makesome headway here.So that's my, let me see if I
+can draw a little straighter.Maybe I could actually draw,
+put rulers here, and if I puta ruler here, maybe I can
+draw a straight line.Let me see.No, that's too hard.OK, so that is my y-axis,
+that is my x-axis.Not the most neatly drawn
+axes ever, but it'll do.Let me draw my unit circle.Looks more like a unit ellipse,
+but you get the idea.And the cosine of an angle as
+defined on the unit circledefinition is the x-value
+on the unit circle.So if we have some angle,
+the x-value is going tobe equal a minus 1/2.So we got a minus
+1/2 right here.And so the angle that we have
+to solve for, our theta, is theangle that when we intersect
+the unit circle, thex-value is minus 1/2.So let me see, this is
+the angle that we'retrying to figure out.This is theta that we
+need to determine.So how can we do that?So this is minus
+1/2 right here.Let's figure out these
+different angles.And the way I like to think
+about it is, I like to figureout this angle right here.And if I know that angle, I can
+just subtract that from 180degrees to get this light blue
+angle that's kind of thesolution to our problem.So let me make this triangle
+a little bit bigger.So that triangle, let
+me do it like this.That triangle looks
+something like this.Where this distance
+right here is 1/2.That distance right
+there is 1/2.This distance right here is 1.Hopefully you recognize
+that this is going to bea 30, 60, 90 triangle.You could actually solve
+for this other side.You'll get the square
+root of 3 over 2.And to solve for that other
+side you just need to dothe Pythagorean theorem.Actually, let me just do that.Let me just call this, I don't
+know, just call this a.So you'd get a squared,
+plus 1/2 squared, whichis 1/4, which is equal to
+1 squared, which is 1.You get a squared is equal to
+3/4, or a is equal to thesquare root of 3 over 2.So you immediately know this
+is a 30, 60, 90 triangle.And you know that because the
+sides of a 30, 60, 90 triangle,if the hypotenuse is 1, are 1/2
+and square root of 3 over 2.And you also know that the side
+opposite the square root of3 over 2 side is 60 degrees.That's 60, this is 90.This is the right angle, and
+this is 30 right up there.But this is the one
+we care about.This angle right here we just
+figured out is 60 degrees.So what's this?What's the bigger angle
+that we care about?What is 60 degrees
+supplementary to?It's supplementary
+to 180 degrees.So the arccosine, or the
+inverse cosine, letme write that down.The arccosine of minus 1/2
+is equal to 120 degrees.Did I write 180 there?No, it's 180 minus the 60, this
+whole thing is 180, so this is,right here is, 120
+degrees, right?120 plus 60 is 180.Or, if we wanted to write that
+in radians, you just write 120degrees times pi radian per 180
+degrees, degrees cancel out.12 over 18 is 2/3, so it
+equals 2 pi over 3 radians.So this right here is equal
+to 2 pi over 3 radians.Now, just like we saw in the
+arcsine and the arctangentvideos, you probably say, hey,
+OK, if I have 2 pi over 3radians, that gives me
+a cosine of minus 1/2.And I can write that.
+cosine of 2 pi over 3is equal to minus 1/2.This gives you the same
+information as thisstatement up here.But I can just keep going
+around the unit circle.For example, I could, how
+about this point over here?Cosine of this angle, if I were
+to add, if I were to go thisfar, would also be minus 1/2.And then I could go 2 pi
+around and get back here.So there's a lot of values that
+if I take the cosine of thoseangles, I'll get
+this minus 1/2.So we have to
+restrict ourselves.We have to restrict the
+values that the arccosinefunction can take on.So we're essentially
+restricting it's range.We're restricting it's range.What we do is we restrict it's
+range to this upper hemisphere,the first and second quadrants.So if we say, if we make the
+statement that the arccosineof x is equal to theta,
+we're going to restrict ourrange, theta, to that top.So theta is going to be greater
+than or equal to 0 and lessthan or equal to 2 pi.Less, oh sorry, not 2 pi.Less than or equal
+to pi, right?Where this is also 0
+degrees, or 180 degrees.We're restricting ourselves
+to this part of thehemisphere right there.And so you can't do this, this
+is the only point where thecosine of the angle
+is equal minus 1/2.We can't take this angle
+because it's outsideof our range.And what are the
+valid values for x?Well any angle, if I take
+the cosine of it, it can bebetween minus 1 and plus 1.So x, the domain for the
+arccosine function, is goingto be x has to be less than
+or equal to 1 and greaterthan or equal to minus 1.And once again, let's
+just go check our work.Let's see if the value I got
+here, that the arccosine ofminus 1/2 really is 2 pi over
+3 as calculated by the TI-85. We turn it on.So i need to figure out the
+inverse cosine, which is thesame thing as the arccosine
+of minus 1/2, of minus 0.5.It gives me that decimal,
+that strange number.Let's see if that's the
+same thing as 2 pi over 3.2 times pi divided by
+3 is equal to, thatexact same number.So the calculator gave me
+the same value I got.But this is kind of a
+useless, well, it'snot a useless number.It's a valid, that
+is the answer.But it doesn't, it's not
+a nice clean answer.I didn't know that this
+is 2 pi over 3 radians.And so when we did it using
+the unit circle, we wereable to get that answer.So hopefully, actually let
+me ask you, let me justfinish this up with an
+interesting question.And this applies
+to all of them.If I were to ask you, you know,
+say I were to take thearccosine of x, and then I were
+to take the cosine of that,what is this going
+to be equal to?Well, this statement right here
+can be said, well, let's saythat the arccosine of x is
+equal to theta, that means thatthe cosine of theta is
+equal to x, right?So if the arccosine of x
+is equal to theta, we canreplace this with theta.And then the cosine of theta,
+well the cosine of theta is x.So this whole thing
+is going to be x.Hopefully I didn't get
+confuse you there, right?I'm saying look, arccosine
+of x, just call that theta.Now, by definition, this
+means that the cosineof theta is equal to x.These are equivalent
+statements.These are completely equivalent
+statements right here.So if we put a theta right
+there, we take the cosine oftheta, it has to be equal to x.Now let me ask you a bonus,
+slightly trickier question.What if I were to ask you,
+and this is true for anyx that you put in here.This is true for any x, any
+value between negative 1 and 1including those two endpoints,
+this is going to be true.Now what if I were ask you
+what the arccosine ofthe cosine of theta is?What is this going
+to be equal to?My answer is, it
+depends on the theta.So, if theta is in the, if
+theta is in the range, if thetais between, if theta is between
+0 and pi, so it's in our valida range for, kind of, our range
+for the product of thearccosine, then this
+will be equal to theta.If this is true for theta.But what if we take some
+theta out of that range?Let's try it out.Let's take, so let me do one
+with theta in that range.Let's take the arccosine of
+the cosine of, let's just doone of them that we know.Let's take the cosine
+of, let's stick withcosine of 2 pi over 3. Cosine of 2 pi over 3 radians,
+that's the same thing asthe arccosine of minus 1/2.Cosine of 2 pi over
+3 is minus 1/2.We just saw that in the
+earlier part of this video.And then we solved this.We said, oh, this is
+equal to 1 pi over 3.So for in the range of thetas
+between 0 and pi it worked.And that's because the
+arccosine function canonly produce values
+between 0 and pi.But what if I were to ask you,
+what is the arccosine of thecosine of, I don't
+know, of 3 pi.So if I were to draw the unit
+circle here, let me draw theunit circle, a real quick one.And that's my axes.What's 3 pi?2 pi is if I go around once.And then I go around another
+pi, so I end up right here.So I've gone around 1 1/2
+times the unit circle.So this is 3 pi.What's the x-coordinate here?It's minus 1.So cosine of 3 pi
+is minus 1, right?So what's arccosine of minus 1?Arccosine of minus 1.Well remember, the range, or
+the set of values, thatarccosine can evaluate to is
+in this upper hemisphere.It's between, this can
+only be between pi and 0.So arccosine of negative 1
+is just going to be pi.So this is going to be pi.Arccosine of negative, this
+is negative 1, arccosineof negative 1 is pi.And that's a reasonable
+statement, because thedifference between 3 pi and pi
+is just going around the unitcircle a couple of times.And so you get an equivalent,
+it's kind of, you're at theequivalent point on
+the unit circle.So I just thought I would
+throw those two at you.This one, I mean this
+is a useful one.Well, actually, let
+me write it up here.This one is a useful one.The cosine of the arccosine of
+x is always going to be x.I could also do that with sine.The sine of the arcsine of
+x is also going to be x.And these are just useful
+things to, you shouldn't justmemorize them, because
+obviously you might memorize itthe wrong way, but you should
+just think a little bit aboutit, and you'll never forget It.

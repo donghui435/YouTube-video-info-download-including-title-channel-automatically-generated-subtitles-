@@ -1,0 +1,31 @@
+- [Voiceover] What I
+want to do in this videois get some practice, or
+become familiar with whatdifferent angle measures in
+radians actually represent.And to get our familiarity,we're gonna start with a ray
+that starts at the origin,and moves along, and...Not moves, and points
+along the positive X axis.We're gonna start with this magenta ray,and we're gonna rotate
+it around the origincounterclockwise by
+different angle measures.And think about what
+quadrant do we fall intoif we start with this and we
+were to rotate counterclockwiseby three pi over five radians?And then, if we start with this,and we were to rotate counterclockwiseby two pi over seven radians?Or, if we were to start with this,and then rotate counterclockwise
+by three radians?We encourage you to pause
+the video and think about,starting with this,if we were to rotate
+counterclockwise by each of these,what quadrant are we going to end up in?Assume you've paused the video,and you've tried it out on your own,so let's try this first
+one, three pi over five.Three pi over five, so
+we're gonna start rotating.If we go straight up,if we rotate it, essentially,if you want to think in degrees,if you rotate it
+counterclockwise 90 degrees,that is going to get us to pi over two.That would have beena counterclockwise rotation
+of pi over two radians.Now is three pi over five
+greater or less than that?Well, three pi over five,three pi over fiveis greater than,or I guess another way I can say it is,three pi over six is less
+than three pi over five.You make the denominator smaller,making the fraction larger.Three pi over six is the
+same thing as pi over two.So, let me write it this way.Pi over two is less
+than three pi over five.It's definitely past this.We're gonna go past this.Does that get us all the way over here?If we were to go, essentially,be pointed in the opposite direction.Instead of being pointed to
+the right, making a full,I guess you could say 180 degree
+counterclockwise rotation,that would be pi radians.That would be pi radians.But this thing is less than pi.Pi would be five pi over five.This is less than pi radians.We are going to sit,we are going to sit someplace,someplace, and I'm just estimating it.We are gonna sit someplace like that.And so we are going to sit
+in the second quadrant.Let's think about two pi seven.Two pi over seven, do we
+even get past pi over two?Pi over two here would
+be 3.5 pi over seven.We don't even get to pi over two.We're gonna end up,we're gonna end up someplace,someplace over here.This thing is, it's greater than zero,so we're gonna definitely
+start moving counterclockwise,but we're not even gonna get to...This thing is less than pi over two.This is gonna throw us
+in the first quadrant.What about three radians?One way to think about it is,three is a little bit less than pi.Right? Three is less than pibut it's greater than pi over two.How do we know that?Well, pi is approximately 3.14159and it just keeps going on and on forever.So, three is definitely closer to thatthan it is to half of that.It's going to be between
+pi over two, and pi.It's gonna be, if we start
+with this magenta ray,we rotate counterclockwise
+by three radians,we are gonna get...Actually, it's probably gonna be,it's gonna look something,it's gonna be something like this.But for the sake of this exercise,we have gotten ourselves, once again,into the second quadrant.

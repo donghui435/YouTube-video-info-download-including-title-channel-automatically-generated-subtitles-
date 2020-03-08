@@ -1,0 +1,67 @@
+We're asked to convert these
+linear equations intoslope-intercept form and then
+graph them on a singlecoordinate plane.We have our coordinate
+plane over here.And just as a bit of a review,
+slope-intercept form is a formy is equal to mx plus b,
+where m is the slopeand b is the intercept.That's why it's called
+slope-intercept form.So we just have to algebraically
+manipulate theseequations into this form.So let's start with line A,
+so start with a line A.So line A, it's in standard form
+right now, it's 4x plus2y is equal to negative 8.The first thing I'd like to do
+is get rid of this 4x from theleft-hand side, and the best way
+to do that is to subtract4x from both sides
+of this equation.So let me subtract 4x
+from both sides.The left hand side of the
+equation, these two 4x'scancel out, and I'm just left
+with 2y is equal to.And on the right-hand side I
+have negative 4x minus is 8,or negative 8 minus 4, however
+you want to do it.Now we're almost at
+slope-intercept form.We just have to get rid of this
+2, and the best way to dothat that I can think of is
+divide both sides of thisequation by 2.So let's divide both
+sides by 2.So we divide the left-hand side
+by 2 and then divide theright-hand side by 2.You have to divide
+every term by 2.And then we are left with y is
+equal to negative 4 divided by2 is negative 2x.Negative 8 divided by
+2 is negative 4,negative 2x minus 4.So this is line A, let me
+graph it right now.So line A, its y-intercept
+is negative 4.So the point 0, negative
+4 on this graph.If x is equal to 0, y is going
+to be equal to negative 4, youcan just substitute
+that in the graph.So 0, 1, 2, 3, 4.That's the point
+0, negative 4.That's the y-intercept
+for line A.And then the slope
+is negative 2x.So that means that if I change
+x by positive 1 that y goesdown by negative 2.So let's do that.So if I go over one in the
+positive direction, I have togo down 2, that's what a
+negative slope's going to do,negative 2 slope.If I go over 2, I'm going
+to have to go down 4.If I go back negative 1, so
+if I go in the x directionnegative 1, that means in the y
+direction I go positive two,because two divided by negative
+one is still negativetwo, so I go over here.If I go back 2, I'm
+going to go up 4.Let me just do that.Back 2 and then up 4.So this line is going
+to look like this.Do my best to draw it,
+that's a decent job.That is line A right there.All right, let's do line B.So line B, they say 4x is equal
+to negative 8, and youmight be saying hey, how do I
+get that into slope-interceptform, I don't see a y.And the answer is you won't be
+able to because you this can'tbe put into slope-intercept
+form, but we can simplify it.So let's divide both sides
+of this equation by 4.So you divide both sides
+of this equation by 4.And you get x is equal
+to negative 2.So this just means, I don't care
+what your y is, x is justalways going to be equal
+to negative 2.So x is equal to negative 2 is
+right there, negative 1,negative 2, and x is just always
+going to be equal tonegative 2 in both directions.And this is the x-axis,
+that's the y-axis, Iforgot to label them.Now let's do this last
+character, 2y is equal tonegative eight.So line C, we have 2y is
+equal to negative 8.We can divide both sides of this
+equation by 2, and we gety is equal to negative 4.So you might say hey, Sal, that
+doesn't look like thisform, slope-intercept
+form, but it is.It's just that the slope is 0.We can rewrite this as y is
+equal to 0x minus 4, where they-intercept is negative
+4 and the slope is 0.So if you move an arbitrary
+amount in the x direction, they is not going to change,
+it's just going tostay at negative 4.Let me do a little bit neater.y is just going to stay
+at negative 4.Or you can just interpret it as
+y is equal to negative 4 nomatter what x is.So then we are done.

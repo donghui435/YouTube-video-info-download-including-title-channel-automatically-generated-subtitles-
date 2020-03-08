@@ -1,0 +1,141 @@
+Welcome to another Mathologer video.Liouville's number the monster up thereconsists of infinitely many isolatedislands of 1s at the 1! th, 2! th,3! th, etc. digits withexploding gaps of zeros between them. AsI promised you at the end of the lastvideo, today's mission is to show you anice visual way of seeing that thisnumber is transcendental. I'm prettyconvinced that as far as transcendence proofsfor specific numbers goes, what I've puttogether here is as simple and asaccessible as it will ever get. Still, ifyou make it to the end and understandall my arguments I think you can bepretty proud of yourself since not eventhat many professional mathematiciansknow any transcendence proofs. And, if youmake it to the end, I've got a specialtreat for you. I'll show you how you canuse Liouville's number as a template to makea clone of the real numbers within thereal numbers. This clone is made up oftranscendental numbers like this strangecousin of Pi, but perhaps the craziestthing about this clone is that althoughit is as large at the set of realnumbers itself, it is of measure 0. Thismeans that in a sense it takes up nospace within the real numbers. For thoseof you in the know this set is closelyrelated to Cantor sets.What's a transcendental number again?Well for a detailed introduction justwatch the last video. So here just realquick: the transcendental numbers aredefined in terms of what they are NOT.They are NOT among the real numbers thatyou encounter when you're doingclassical algebra, like the integers, therational numbers, any of the real numbersthat can be written as rooty expressionslike these, or any of the real numbersthat pop up as solutions to polynomialequations with integer coefficients likethese. This last set of numbers is called thealgebraic numbers and includes all theother types of numbers that I mentionedbefore: integers, rationals and rootynumbers. Anyway, we call a real numbertranscendental if it is not algebraic,if it is not a solution of apolynomial equation with integercoefficients. Liouville's number or Liouville'sconstant was shown to be transcendentalin 1851 by the great Frenchmathematician Joseph Liouville. It was one ofthe first numbers shown to betranscendental and Liouville's  proof of this factis probably the easiest transcendenceproof for any specific number. Liouville'sproof is accessible to anybody who hashad some exposure to proofs atuniversity level real analysis and I haveconcluded links to the original Frenchpaper and a modern version of the proofin English in the description. But sincemany of you would struggle with any ofthe proofs in these papers or intextbooks, I've tried to come up with analternative way of seeing thetranscendence of Liouville's  number that can beunderstood and hopefully also enjoyed byanybody who watches these sorts of mathsvideos, including all Mathologer fans whoare still in high school. I'm stillworking on the primary school versionbut and I am probably never going to get there.Okay, Liouville's number, lots and lots of0s and 1s and the 1s  are the 1! th,2! th, 3! th, etc.digits. Just a quick reminder,  1!is equal to 1, 2!  is 1 times 2 isequal to 2, 3! is 1 times 2times 3 is equal to 6, 4! is 24.Then 120, 720, 5040, etc. a sequence ofnumbers that grows rapidly which meansthat the stretches of zeros betweenconsecutive 1s get longer and longerextremely quickly. Okay, here then is myproof that Liouville's number istranscendental. Let me know in thecomments whether this proof works foryou. When dealing with a complicatednumber like piapproximate value often suffice or are atleast a good place to start. To get suchan approximation we often chop off thedecimal expansion at some point.Now let's approximate the number pisquared with the squares of thesetruncations.Then these approximations for pi squaredwill be spot-onto a certain digit and may be good enoughfor some application we have in mind.However from some point on theseapproximations or go off target. Forexample, the last approximation downthere coincides with pi squared in onlythe first four digits and the remainingdigits that you can see here are wrong.Liouville's number L behaves quitedifferent in this respect. But to startwith the only distinguishabletruncations are those that cut offafter the 1s and these are the firstfour of these truncations of L. Nowsquaring gives these numbers here and incontrast to what we had before all thedigits of the squared truncations seem tobe correct. And looks are not deceiving,this is actually always true and thereason for this is not too hard to pindown. It's because all the nonzero digitsof Liouville'snumber are spaced further and furtherapart and those further down the linesimply don't play any role in producingthe earlier digits of the square of ournumber. For the moment I'll gloss over thetechnical details but I'll return tothem after I've finishedoutlining the proof. Anyway, what happensif you raise L to a different power, say5? Well then, as you can see, while theapproximations are still definitely damngood, things are no longer spot onfor all digits. Here, for example, one digitis wrong and here three but if you lookclosely you'll find that the nextapproximation is spot on again, alldigits are correct. And actually thingswill be spot on from this truncation on.So, all digits of truncation L_5^5, L_6^5,and so on will be correct. In fact,something similar will be true for allpowers. S,o as we've seen, all squaredtruncations are spot on. The same turnsout to be the case for the cubed ones,fourth powers too, fifth powers we'vealready seen that all digits are spot-onfrom a certain truncation on. Same thingfor sixth powers, except this happens alittle bit later, and so on, for allpowers. Now,if instead of just power
+we look at any polynomial with positiveinteger coefficients: all pluses no minuses up there, right? So, if instead of just powersof the number L we're approximating a
+polynomial like this, evaluated at thenumber L, then we find that all the
+digits of our approximations will becorrect from some truncation onwards. In
+particular, in the case of thispolynomial all digits will be correct
+from L_2 onward. We're getting prettyclose to the punchline. Remember what we
+have to demonstrate is that L does notsolve any equation like this. To get the
+proof going we first move all thenegative terms to the right side. Now
+this results in two of those specialpolynomials that only have positive
+terms, one on the left and one on theright side of the equals sign. Now let's
+assume that L actually is a solution ofthis polynomial equation. This means that
+the number on the left of the equals signis actually equal to the number on the
+right. I'll call this number the numberat the top. Let's see what numbers we
+get on the left and right when we replace Lby one of its truncations. Let's start
+with L_1 and work our way up. Obviouslythe higher the truncation the better
+approximations for the number at the topwill get on the left and on the right
+but we also know that in addition tothis all digits of these approximations
+will be correct from some truncation on.For the sake of argument, let's say that
+this is the case from L_5 onward. Whatthis means is that now the first digit
+of the approximation on the left is equalto the first digit of the approximation
+on the right, the second digit on theleft is equal to the second digit on the
+right, and so on, for a while, until.... Wellyou'd expect one of the two sides to run
+out of nonzero digits and the other sideto keep on going before it stops. Alright and maybe that's exactly what willhappen. However, surprisingly, and we'll see whywhen we go all technical,
+at this point our assumption that Lsolves the equation also implies that,
+starting with a possibly highertruncation, let's say L_6, we will always
+run out of nonzero digits at the sametime in both approximations. So this
+means that our two approximations are infact equal from this truncation onward
+and this means that just like L itself L_6and all the following infinitely many
+truncations are also solutions to ourpolynomial equation. But infinitely many
+different solutions are impossiblebecause a polynomial equation can only
+have as many solutions as its degree. Forexample, our degree 6 polynomial can have
+at most 6 solutions and so theassumption that our number L solves a polynomial equation with integercoefficients leads to the absolutely
+impossible conclusion that thispolynomial has infinitely many solutions.
+And this means that our assumption thatL solves an equation like this was wrong
+in the first place and that means that Lis a transcendental number. Very neat
+proof by contradiction, right? Of coursewhat I did not show you is that all the
+approximations will eventually be spot onno matter what polynomial equation we're
+dealing with. Okay,  let's have a closerlook. The different 1s in our number Lstand for different powers of 10.
+For example, the first one stands for 10to the minus 1, the second for 10 to the
+minus 2, the third for 10 to the minus 6,and so on. And the number L is just the sum of these powers of 10. Now we started bypondering L squared so let's have a look
+at how we would calculate this number.Actually before we do that, let's
+calculate the square of the secondtruncation. Okay, so here we have to
+multiply every term at the top withevery one at the bottom and then add up.
+So 10 to the minus 1 times 10 to theminus 1 is 10 to the minus 2, 10 to the
+minus 1 times 10 to the minus 2 is 10 tothe minus 3. This times that
+that, 10 to the minus 3 again. This timesthat 10 to the minus 4. Add up everything
+to get the square we are after. For L squaredwe have to multiply again every term at
+the top with every one at the bottom andthen add up. Hmm, might take a while, right? So 10 ^ -1times 10 ^ -1 is  10 ^ -2, minus 1 minus 2 minus 3,minus 1 minus 6 minus 7, and so on. Minus
+2 minus 1 minus 3, minus 2 minus 2 minus4, and so on. And so on. Now why are the
+digits of the square truncation correct?Well, its rightmost digit 1 comes from
+multiplying the rightmost term of thetruncation with itself. For the other
+terms to interfere with the digits ofthe square truncation, one of the terms
+outside the box at the top multipliedwith one of the terms at the bottom
+should be at least as big as10 ^ -4. But the largest number we can
+make this way is 10 ^ -6 times10 ^ -1 which is 10 ^ -7, a lot smaller than e10 ^ -4. Okay so there's no danger here.
+What about these critical numbers forthe next truncation. Also no danger and
+to gap between the exponents minus 12and minus 25 is larger than before, so
+even less danger. One more. The gap hasincreased even further. Now it's a
+one-liner to show that this trendcontinues and I actually leave it to you
+to sort out the details, and, well,actually you only get partial credit if
+it takes you more than one line. Let'shave a look at all this for the fourth
+truncation of the fifth power of L.That's the next thing we looked at, right?
+As I said before, all digits are correctfor this fourth truncation. Let's double
+check this: yes, the green 124 is largerthan the yellow 120. Tick! Again, I
+leave it to you to fill in the detailsto show that this will also be the case
+for the higher truncations. Remember thatthere were problems with the lower trunations. Let's see where these show uphere. Okay  the order has flipped, the 30 is nowlarger than the 28 and so there will be
+wrong digits in the approximation. Onestep down there's also trouble with the
+green terms interfering with the digitsof the power of the second truncation.
+Okay so here are the first digits of Lsquared. I just like to highlight again
+the gap between the yellow lowest termsof the squared truncations together with
+the corresponding worst-case-scenariogreen terms. As we've already observed this gap is increasing. In fact, it will getarbitrarily large. And the same is true
+for all the other powers once the gapstarts appearing from some truncation onward. For those of you who did thoseone-line calculations earlier on will
+already have convinced yourself of thisfact. What about polynomials
+with positive integer coefficients. Well,they're built from powers. Take, for
+example, L squared plus L. Highlight thesecond truncation. First note that the
+corresponding green digits are basicallyaligned. That's because the top one
+essentially comes about from multiplyingthe bottom one by 10 ^ -1 that's a shift of one position. Anywaythis relative alignment will always be
+the same as we move to the right. Also, aswe move towards the right, the gap of
+zeros in front of the green digits getsas large as you wish. Given this gap of
+zeros, it is clear that when we add up L_3and L_3 squared none of the green digits or beyond willadd to the sum within L squared, and so
+the digits of the approximation will allbe correct. But what happens if the
+individual powers in the polynomial aremultiplied by non-trivial positive constants. For example, let's multiply the linear termby something huge, say 10. The overall
+effect of this changed term are it'snonzero islands possibly growing and the
+greens shifting tothe left. This may lead to the overall gaps
+in front of the greens shrinking or evenvanishing for really large coefficients
+like googleplex however since the gapsgrow unlimited in size they will
+eventually absorb the shrinkage and gapswill always be present from a certain
+point on. And this means that no matterwhat polynomial we're dealing with, all
+our approximations will be spot-on froma certain truncation onward. Almost there.
+In the final part of the proof we assumedthat L solves a polynomial equation
+like the one up there. I claim that thisimplies that from a certain point onward
+all truncations also solve this equationwhich then gives the contradiction. Well,
+as just now, we can see that from acertain truncation, say L_5 onward, we have the usual common gap of zeros for allthe terms in this equation. But then for
+the identity on the left to be true,which is our assumption, the sum of the
+two approximations on the top must beequal to the sum of the two at the
+bottom, which is exactly what we neededto convince ourselves of. Anyway that's
+basically it. Of course I could stillfill in all the nitty-gritty
+calculations, for example about the evergrowing gaps but if you've made it up to
+here I'm sure you'll be able to fill inthose details yourself. Here are a couple of
+super cool facts that can be shown inthe same way. First even when interpreted
+as base 2, 3, 4, etc., Liouville'smonster will always be a transcendental
+number. Second even when we replace theones by other digits we get a
+transcendental number as long asinfinitely many of these digits are
+nonzero. Now adding an integer to atranscendental number gives a number
+that is still transcendental. Maybesomeone prove this in the comments. So
+adding 5 to the transcendentalnumber up there give a new transcendental number: five point one two zero,zero, zero, and so on. Here's a fun idea then. Let's take a realnumber like pi and use its digits to
+create a new number like this. Wellit is super-tough to prove that pi is
+transcendental whereas proving thetranscendence of this weird clone is not
+any harder then what I've showed youearlier. Ok, next trick. Let's do the same forevery real number. What this does is
+create a clone of the set of realnumbers within the set of real numbers.
+It consists entirely of transcendentalnumbers. Even the clones of the algebraic
+numbers are transcendental. We just haveto be a little bit careful here when we
+translate a number that features aterminating decimal expansion like for
+example the number 1.23.Using that terminating decimal expansion
+would also result in a clone with aterminating decimal expansion and any
+number like this is rational andtherefore not transcendental. Of course
+that is easily fixed because every numberwith a terminating decimal expansion has
+a second decimal expansion with aninfinite tail of nines for example 1.23 is equal to1.2999..., and so
+on. Using this alternative decimalexpansion which features infinitely many
+nonzero digits will then give atranscendental clone. Well one mini
+problem remains: the number 0 cannotbe massaged in this way to give a
+transcendental number. But, okay, as ithappens, quite often 0 is a little
+exception here, big deal. Anyway, we nowhave got a clone of the real numbers
+within the real numbers consisting oftranscendental numbers. Of course, since
+it is a clone, there is a one-to-onecorrespondence between it and the
+original set. In other words, just likethe real numbers the clone is an
+uncountably infinite set. But, of course,in addition all its elements are easy
+transcendentals super cool, right? However,this uncountably infinite set also has
+the paradoxical property of havingmeasure zero. So although it is as large
+as the whole set of real numbers, it isso well hidden within that in a sense
+it's not even there. To really be able toappreciate this paradoxical set you
+should watch the previous video where Ialso give a little intro to how you can
+assign a length or measure to a subsetof the real numbers,
+or you could head over to InfiniteSeries where Kelsey is also discussing
+these sorts of sets at the moment. I'vealso prepared a proof of the fact that
+the clone has measured zero but I thinkthis video is already getting quite long
+and so I'll put this proof on Mathologer 2sometime in the next couple of days.
+Okay, let's finish here. I hope you allunderstood and enjoyed this video. But, as
+usual, please let me know what worked foryou and what didn't and if you are
+struggling with anything just ask. Andthat's it for today.
+[Music]

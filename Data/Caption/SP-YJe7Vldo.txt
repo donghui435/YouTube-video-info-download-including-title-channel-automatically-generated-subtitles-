@@ -1,0 +1,30 @@
+Voiceover:Most of your mathematical livesyou've been studying real numbers.Real numbers include
+things like zero, and one,and zero point three
+repeating, and pi, and e,and I could keep listing real numbers.These are the numbers that you'rekind of familiar with.Then we explored something interesting.We explored the notion of what ifthere was a number that if I squared itI would get negative one.We defined that thing
+that if we squared itwe got negative one, we
+defined that thing as i.So we defined a whole new class of numberswhich you could really view as multiplesof the imaginary unit.So imaginary numbers
+would be i and negative i,and pi times i, and e times i.This might raise another
+interesting question.What if I combined
+imaginary and real numbers?What if I had numbers
+that were essentiallysums or differences of
+real or imaginary numbers?For example, let's say
+that I had the number.Let's say I call it z,and z tends to be the most used variablewhen we're talking aboutwhat I'm about to talk
+about, complex numbers.Let's say that z is equal to,is equal to the real number five plusthe imaginary number three times i.So this thing right over herewe have a real number
+plus an imaginary number.You might be tempted to
+add these two things,but you can't.They won't make any sense.These are kind of going in different,we'll think about it visually in a second,but you can't simplify this anymore.You can't add this real numberto this imaginary number.A number like this, let me make it clear,that's real and this is
+imaginary, imaginary.A number like this we
+call a complex number,a complex number.It has a real part and an imaginary part.Sometimes you'll see notation like this,or someone will say what's the real part?What's the real part of
+our complex number, z?Well, that would be the
+five right over there.Then they might say,"Well, what's the imaginary part?"What's the imaginary part
+of our complex number, z?And then typically the
+way that this functionis defined they really want to knowwhat multiple of i is this imaginary partright over here.In this case it is going to
+be, it is going to be three.We can visualize this.We can visualize this in two dimensions.Instead of having the traditionaltwo-dimensional Cartesian planewith real numbers on the horizontaland the vertical axis,what we do to plot complex numbersis we on the vertical axis we plotthe imaginary part, so
+that's the imaginary part.On the horizontal axis
+we plot the real part.We plot the real part just like that.We plot the real part.For example, z right over herewhich is five plus three i,the real part is five so we would goone, two, three, four, five.That's five right over there.The imaginary part is three.One, two, three, and so
+on the complex plane,on the complex plane we would visualizethat number right over here.This right over here is how wewould visualize z on the complex plane.It's five, positive five
+in the real direction,positive three in the imaginary direction.We could plot other complex numbers.Let's say we have the complex number awhich is equal to let's
+say it's negative twoplus i.Where would I plot that?Well, the real part is negative two,negative two,and the imaginary part is going to beyou could imagine this as plus one iso we go one up.It's going to be right over there.That right over there
+is our complex number.Our complex number a
+would be at that pointof the complex,complex, let me write that,that point of the complex plane.Let me just do one more.Let's say you had a complex number bwhich is going to be,let's say it is, let's say
+it's four minus three i.Where would we plot that?Well, one, two, three, four,and then let's see minus one, two, three.Our negative three gets
+us right over there.That right over there would bethe complex number b.

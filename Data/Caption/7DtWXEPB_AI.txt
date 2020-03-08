@@ -1,0 +1,33 @@
+Find the range and the
+mid-range of the following setsof numbers.So what the range tells us is
+essentially how spread apartthese numbers are, and
+the way you calculate itis that you just
+take the differencebetween the largest
+of these numbersand the smallest
+of these numbers.And so if we look at the
+largest of these numbers,I'll circle it in magenta,
+it looks like it is 94.94 is larger than
+every other numberhere, so that's the
+largest of the numbers.And from that, we
+want to subtractthe smallest of the numbers.And the smallest of the numbers
+in our set right over hereis 65.So you want to
+subtract 65 from 94.And this is equal to-- Let's
+see, if this was 95 minus 65,it would be 30.94 is one less than
+that, so it is 29.So the larger this number is,
+that means the more spread out.The larger the difference
+between the largestand the smallest number.The smaller this is, that means
+the tighter the range, justto use the word itself, of
+the numbers actually are.So that's the range.The mid-range is
+one way of thinkingto some degree of kind of
+central tendency, so mid-range.And what you do
+with the mid-rangeis you take the average of the
+largest number and the smallestnumber.So here we took the difference.That's the range.The mid-range would be the
+average of these two numbers.So it would be 94 plus 65.And when I talk
+about average, I'mtalking about the
+arithmetic mean over 2.So this is going to be what?90 plus 60 is 150.150, 4 plus 5 is 159.159 divided by 2 is equal
+to-- 150 divided by 2 is 75.9 divided by 2 is 4 and 1/2.So this would be 79.5.So it's one kind
+of way of thinkingabout the middle
+of these numbers.Another way is obviously
+the arithmetic mean,where you actually take
+the arithmetic meanof everything here.Obviously, you could
+also look at thingslike the median and the mode.So range and mid-range.

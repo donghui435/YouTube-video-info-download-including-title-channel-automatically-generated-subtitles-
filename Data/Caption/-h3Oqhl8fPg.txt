@@ -1,0 +1,73 @@
+We now have the general
+tools to really tackle anymultiplication problems.So in this video I'm just going
+to do a ton of examples.So let's start off with--
+and I'll start in yellow.Let's start off
+with 32 times 18.Say 8 times 2 is 16.Well, I'll do it in our head
+this time because you alwaysdon't have all this
+space to work with.So 8 times 2 is 16.Put the 1 up there.8 times 3 is 24.24 plus 1 is 25.So 8 times 32 was 256.Now we're going to have to
+multiply this 1, which isreally a 10, times 32.I'll underline it
+with the orange.1 times 2-- oh, we have
+to be very careful here.1 times 2 is 2.So you might say hey, let
+me stick a 2 down there.Remember, this isn't a 1.This is a 10, so we have
+to stick a 0 thereto remember that.So 10 times 2 is 20.Or you say 1 times 2 is 2, but
+you're putting it in the 2'splace, so you still get 20.So 10 times 2 is 20.It works out.Then 1 times 3.And we have to be very careful.Let's get rid of what
+we had from before.1 times 3 is 3.There's nothing to add
+here, so you just get a 3.And so you get 10
+times 32 is 320.This 1 right here, that's a 10.10 plus 8 is 18.So now we just add
+up the two numbers.You add them up.6 plus 0 is 6.5 plus 2 is 7.2 plus 3 is 5.Let's keep going.Let's do 99 times 88.So a big number.8 times 9 is 72.Stick the 7 up there.And then you have
+8 times 9 again.8 times 9 is 72, but now
+you have the 7 up here.So 72 plus 7 is 79.Fair enough.Now we're done with this.Let's just delete it just so
+that we don't get confusedin our next step.In our next we're going to
+multiply this 8 now times 99.But this 8 is an 80.So let's stick a 0 down there.8 times 9 is 72.Stick a 7 up there.Then 8 times 9 is 72.Plus 7 is 79.2 plus 0 is 2.Let me switch colors.9 plus 2 is 11.Carry the 1.1 plus 7 is 8.8 plus 9 is 17.Carry the 1.1 plus 7 is 8.8,712.Let's keep going.Can't do enough of these.All right, 53 times 78.I think you're getting
+the hang of it now.Let's multiply 8
+times 53 first.So 8 times 3 is 24.Stick the 2 up there.8 times 5 is 40.40 plus 2 is 42.Now we're going to have to
+deal with that 7 rightthere, which is really a 70.So we got to remember
+to put the 0 there.7 times 3, and let's
+get rid of this.Don't want to get confused.7 times 3 is 21.Put the 1 there and
+put the 2 up here.7 times 5 is 35.Plus 2 is 37.Now we're ready to add.4 plus 0 is 4.2 plus 1 is 3.4 plus 7 is 11.Carry the 1.1 plus 3 is 4.4,134.Let's up the stakes
+a little bit.So let's say I had
+796 times 58.Let's mix it up well.All right, so first we're just
+going to multiply 8 times 796.And notice, I've thrown in
+an extra digit up here.So 8 times 6 is 48.Put the 4 up there.8 times 9 is 72.Plus 4 is 76.And then 8 times 7 is 56.56 plus 7 is 63.I'm sure I'll make a
+careless mistake at somepoint in this video.And the goal for you is to
+identify if and when I do.All right, now we're ready,
+so we can get rid ofthese guys up here.Now we can multiply this 5,
+which is in the 10's place.It's really a 50.Times this up here.Because it's a 50 we
+stick a 0 down there.5 times 6 is 30.Put the 0 there, put
+the 3 up there.5 times 9 is 45.Plus the 3 is 48.5 times 7 is 35.Plus 4 is 39.Now we're ready to add.8 plus 0 is 8.6 plus 0 is 6.3 plus 8 is 11.1 plus 6 is 7.7 plus 9 is 16.And then 1 plus 3 is 4.So 796 times 58 is 46,168.And that sounds about right
+because 796-- it's almost 800.You know, which
+is almost 1,000.So if we multiplied 1,000
+times 58 we'd get 58,000.But we're multiplying something
+a little bit smaller than 1,000times 58, so we're getting
+something a little bitsmaller than 58,000.So the number is in
+the correct ballpark.Now let's do one more here
+where I'm really goingto step up the stakes.Let's do 523 times-- I'm going
+to do a three-digit number now.Times 798.That's a big
+three-digit number.But it's the same
+exact process.And once you kind of see the
+pattern you say, hey, this'llapply to any number of digits
+times any number of digits.It'll just start taking you a
+long time and your chances ofmaking a careless mistake are
+going to go up, butit's the same idea.So we start with 8 times 523.8 times 3 is 24.Stick the 2 up there.Now 8 times 2 is 16.16 plus 2 is 18.Put the 1 up there.8 times 5 is 40.Plus 1 is 41.So 8 times 523 is 4,184.We're not done.We have to multiply times
+the 90 and by the 700.So let's do the 90 right there.So it's a 90, so we'll
+stick a 0 there.It's not a 9.And let's get rid of
+these guys right there.9 times 3 is 27.9 times 2 is 18.18 plus 2 is 20.And then we have
+9 times 5 is 45.45 plus 2 is 47.I don't want to
+write that thick.47.Let me make sure I did that
+one right, and let's justreview it a little bit.9 times 3 was 27.We wrote the 7 down here
+and put the 2 up there.9 times 2 is 18.We added 2 to that,
+so we wrote 20.Wrote the 0 down there
+and the 2 up there.The 9 times 5 was 45.Plus 2 is 47.You really have to make sure
+you don't make carelessmistakes with these.Then finally, we have to
+multiply the 7, which isreally a 700 times 523.When it was just an 8 we just
+started multiplying here.When it was a 90, when we
+were dealing with the 10'splace, we put a 0 there.Now that we're dealing with
+something that's in the100's, we're going to
+put two 0's there.And so you have 7-- and let's
+get rid of this stuff.That'll just mess us up.7 times 3 is 21.Put the 1 there.Stick the 2 up there.7 times 2 is 14.14 plus our 2 is 16.Put the 1 up there.7 times 5 is 35.Plus 1 is 36.And now we're ready to add.And hopefully we didn't make
+any careless mistakes.So 4 plus 0 plus 0.That's easy.That's 4.8 plus 7 plus 0.That's 15.Carry the 1.1 plus 1 plus 1 is 3.4 plus 7 plus 6.That's what's?4 plus 6 is 10.It's 17.And then we have 1 plus 4 is 5.5 plus 6 is 11.Carry the 1.1 plus 3 is 4.So 523 times 798 is 417,354.Now we can even
+check to make sure.And so this is the
+moment of truth.Let's see if we
+have-- let's see.523 times 798.There you go.Moment of truth.I don't have to
+re-record this video.It's 417,354.But we did it without the
+calculator, which isthe important point.

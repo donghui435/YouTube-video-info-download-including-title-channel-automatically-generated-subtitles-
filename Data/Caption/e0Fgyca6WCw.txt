@@ -1,0 +1,87 @@
+hi everyone today we're going to talk about
+how to find the dimensions of the cylinderthat minimize its surface area to complete
+this problem we'll draw a picture of the problemand write what we know identify optimization
+and constraint equations and then use thederivative of the optimization equation to
+find the dimensions let's take a look in thisparticular optimization problem we've been
+told that a cylindrical can must be made tohold one liter of oil and then we've been
+asked to find the dimensions of the can thatwill minimize the cost of the metal used to
+make it as with any optimization problem thefirst thing you want to do is draw a diagram
+of what you've been told and write down asmuch information as you can so we've drawn
+a diagram of the cylinder and we've indicatedr as the radius and h as the height of the
+cylinder we've also written down that oneliter is equal to a thousand cubic centimeters
+and that the area formula for a cylinder istwo pie r h plus two pie r squared we also
+know that the volume of a cylinder is pier squared h so really quickly in case you
+don't remember those remember that the areaformula is two pie r which is the circumference
+of the circle times h the height of the canso that gives you the outside or the material
+used to make the side and then pie r squaredis the area of the circle so that will give
+you the top and bottom you multiple by twoto account for the top and bottom together
+so when we simplify we get two pie r h plustwo pie r squared the formula for the volume
+is the area of the circle times the heightof the can so the area of the base times the
+height which will give us the total volumeof the can once we've written down all the
+information we've been given our next stepis to identify a constraint equation and an
+optimization equation so with any optimizationproblem like this you're always going to need
+an equation you can optimize but you'll alsoneed a constraint equation because we've been
+asked to minimize the cost of the metal thatmeans that we're going to be minimizing the
+surface area of the can because the metalis defined by the surface area so minimizing
+the surface area means that our optimizationequation will be the area equation so let's
+go ahead and say that this area equation herewill be our optimization equation our constraint
+equation is the equation that limits us sowe've been told that cylindrical can has to
+be made to hold one liter of oil that's theonly constraint we've been given so what the
+problem is asking is for us to optimize thearea the surface area minimize the cost of
+metal or minimize the cost of the surfacearea within the constraint or within the condition
+that the volume has to hold one liter or athousand cubic centimeters so this volume
+equation here will be our constraint equationour next step is to figure out how to reduce
+our optimization equation to just one variableso because we have in our optimization equation
+here both r for the radius and h we need toget rid of one of those the way that we're
+going to get rid of one of them is by solvingthe constraint equation for one of the other
+and then plugging in to the optimization equationso let's go ahead and solve our constraint
+equation our value equation for either r squaredor h in this case let's go ahead and solve
+it for h because that will be really easyto plug in to the area equation we just got
+h right here so the way that we'll do thatis just by plugging one thousand cubic centimeters
+in for volume we know that has to be the volumeand we'll set that equal to pie r squared
+h and we'll solve for h obviously to solvefor h we'll just divide both sides by pie
+r squared so we'll get one thousand dividedby pie r squared now that we've solved for
+h we can go ahead and plug that back intoour area equation so if we say area over here
+is equal to two pie r multiplied by h whichwe solved for as one thousand over pie r squared
+plus two pie r squared now we have our optimizationequation for surface area in the form of one
+variable r and now that we've got it in onevariable all we need to do is simplify take
+the derivative set the derivative equal tozero and solve for r and r should give us
+the radius of the can that minimizes the surfacearea so let's go ahead and simplify this first
+we'll see that we get pie to cancel here andwe'll get r to cancel from the numerator and
+the squared to cancel in the denominator sowe'll be left just two thousand divided by
+r plus two pie r squared let's go ahead nowwe need to take the derivative because we've
+simplified this as much as possible so let'sgo ahead and make this a little easier on
+ourselves we'll call this two thousand r tothe negative one remember we can move a variable
+from the denominator to the numerator justby changing the sign in the exponent from
+a positive to a negative so two thousand rto the negative one plus two pie r squared
+if you're not comfortable doing this you canobviously use quotient rule to figure this
+out so we're going to take the derivativea prime and we'll get negative two thousand
+r to the negative two plus four pie r andwhen we move this r to the negative two back
+to the denominator we'll get negative twothousand and actually let's go ahead and make
+that our second term so we don't lead withthe negative we'll get four pie r minus two
+thousand over r squared so that is our derivativeequation now we need to set this equal to
+zero and solve for r so if we set it equalto zero let's at the same time go ahead and
+find a common denominator in order to finda common denominator we're going to be multiplying
+this first term by r squared over r squaredand we'll get four pie r cubed we can combine
+the fractions minus two thousand all overr squared so now what we can see is that this
+right hand side here is going to be equalto zero whenever the numerator is equal to
+zero or if the denominator is undefined howeverif the denominator is undefined that means
+r is equal to zero and we know r can't beequal to zero because we're talking about
+a three dimensional here in real space andif r is equal to zero then the cylinder doesn't
+exist so we can almost just discount thatand we're really just looking at where the
+numerator is equal to zero so let's go aheadand factor out a four and we'll get four times
+pie r cubed minus five hundred obviously nowwe can see that the right hand side will equal
+zero only when pie r cubed minus five hundredis equal to zero so we can really just ignore
+the four or divide both sides by four andthat will go away and now if we add five hundred
+to both sides we'll get five hundred equalspie r cubed if we divide both sides by pie
+we'll get r cubed equals five hundred dividedby pie and if we solve for r by taking the
+cube root of both sides we'll get r equalsthe cube root of five hundred divided by pie
+we know now that this must be the radius thatminimizes the surface area of the can if we
+want to find the height as well we can justgo ahead and plug r into our height equation
+it's not very clean but we'll get one thousanddivided by pie times and now we have r squared
+here so we get the cube root of five hundreddivided by pie all squared that's really just
+going to give us one thousand divided by pietimes five hundred over pie to the two thirds
+power so these are the dimensions h here andr here that minimize the surface area and
+therefore minimize the cost of the metal usedto construct the can so I hope you found that
+video helpful if you did like this video downbelow and subscribe to notified of future
+videos

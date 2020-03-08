@@ -1,0 +1,94 @@
+Hey, Vsauce. Michael here. And the iTunes store contains 28 million different songs.Last.fm carries 45 million songs and the
+Gracenote database of artists, titles, andlabels contains 130 million different songs.
+That's a lot. If you were to listen to allof the songs in the Gracenote database one
+after the other in a giant playlist, it wouldtake you more than 1,200 years to complete.But since there are a finite number of tones
+our ears can distinguish and because it onlytakes a few notes in common for two musical
+ideas to sound similar, will we ever run outof new music?Will there ever be a day where every possible
+brief little melody has been written and recordedand we are left with nothing new to make?A good rule of thumb might be to say that
+if modern recording technology can't distinguishthe difference between two songs, well, neither
+could we. So, let's begin there, with digitaldownloads, MP3's, CD's, and a calculation
+made by Covered in Bees.Digital music is made out of "bits."
+Lots and lots of bits. But each individual bitexists in one of two states: a "0" or a "1."Now, what this means in that for any given,
+say, 5-minute-long audio file, the numberof possibilities, mathematically speaking,
+is enormous, but mind-blowingly finite.A compact disk, which samples music at 44.1
+kHz, is going to need about 211 million bitsto store one 5-minute song. And because a
+bit can exist in two states, either a "0"or a "1," the number of possible different
+ways to arrange those 211,000,000 bits is2 to the 211th million power.That value represents every single possible
+different 5-minute-long audio file. But howbig is that number?
+Well, let's put this in perspective.A single drop of water contains 6 sextillion
+atoms. 6 sextillion is 22 digits long. That'sa long number. But the total number of atoms
+that make up the entire earth is a numberthat is about 50 digits long. And estimations
+of the total number of hydrogen atoms in ouruniverse is a number that is 80 digits long.But "2 to the 211 millionth power," the number
+of possible, different 5-minute audio files, is a numberthat is 63 million digits long. It is a number
+larger than we can even pretend to understand.It contains every possible CD quality 5-minute
+audio file. Inside that amount is everythingfrom Beethoven's "5th" to Beck's "Loser" -
+it even contains a 5 minute conversation youhad with your parents when you were 3 years old.
+In fact, every one of them. It even containsevery possible conversation you didn't have
+with your parents when you were 3 years old.But, it is finite, not infinite. It's cool
+to think about, but it doesn't come very closeto answering the question of this video, which
+is "how many possible different songs canwe create and hear the difference between?"So, for that, we're going to need to narrow
+down our hunt.On Everything2, Ferrouslepidoptera made a
+calculation that involved some assumptionsthat I think helped narrow the field down
+in a really nice way.She took a look at the total number of possible
+different melodies you could create withinone octave, containing any or all of the intervals
+we divide octaves into. Of course, sound frequenciescan be divided much more granularly than that,
+but giving ourselves more notes might meanwe could make more technically different melodies,
+but they wouldn't necessarily sound any differentto our ears.Now, given a single measure containing any
+combination of whole, half, quarter, eighth,sixteenth or thirty-second notes, she calculated
+that there would be this many possible uniquemeasures, which is a smaller number than we
+had before, but, to put it in perspective,this is how many seconds old the universe is.Yerricde's calculation is even more specific.
+He stayed within one octave, but instead oflooking at a complete measure, he only considered
+the number of unique combinations of 8 notes.He also assumed that typical melodies, as
+we know them today, only contain about threedifferent types of note length. For instance, quarter, eighth and sixteenth or whole,half and quarter.To be sure, that will most likely not always
+be true. Musical tastes hundreds, thousandsof years from now will most assuredly be different,
+but given melodies as we know them today,across 8 notes, over 12 intervals, there are
+about 79 billion possible combinations.We're getting relatively small here. I mean,
+under this definition of melody, 100 songwriterscreating a brand new 8-note melody every second
+would exhaust every possible melody withinonly 248 years.But it's still a huge number, way bigger than
+the total number of songs that have been writtenthat we know about. So, you can quite safely
+say that, no, we will never run out of newmusic. But here's the rub. If that's the case,
+why are there so many commonalities betweensongs? Even across hundreds of years, how
+come so many songs kind of sound the same?I mean, if we have more possibilities than
+we could ever exhaust, why is "Twinkle TwinkleLittle Star," the "Alphabet Song," and "Baa,
+Baa, Black Sheep," all the same melody?"My Country Tis of Thee," and "God Save the
+Queen," interestingly enough, are the samesong."Love Me Tender," is exactly the same as the
+old American Civil War song "Aura Lea."And a seemingly uncountable number of songs
+merely sound like other songs. The SpongebobSquarepants theme has a very similar cadence
+to "Blow the Man Down."Soundsjustlike.com is a great resource for
+exploring this further. It'll show you twosongs and how they sort of sound alike.And when it comes to musical chords,
+it's almost as if there's no variety at all, aswas famously shown by The Axis of Awesome's
+"4 Chords." I've linked it in the description,it's worth a watch if you haven't seen it
+already. These guys sing more than 40 differentsongs using the same four chords...Even though the number of possible different
+melodies is gigantic, us humans tend to gravitatetowards certain patterns that we like more
+than others and we are influenced by whatcame before us. Kirby Ferguson has a fantastic
+series looking into this called "Everythingis a Remix." I've also linked that down in
+the description. The commonalities he showsare pretty crazy.Well, even when it comes to lyrics, to writing,
+even though, mathematically, there are morepossibilities than we could ever exhaust,
+we have gravitated towards a few. In fact,there's a form of poetic meter that is so
+common it's called "Common Meter."I've composed a verse using it to explain what it is.Line one contains eight syllables. The next
+contains just six. For emphasis: iambic stress.That's it, no other tricks.Here is a list of songs that are written in common
+meter, also known as "Balad Meter." The commonnessof common meter is the reason you can sing
+the Pokemon theme song to the tune of Gilligan'sIsland. Or House of the Rising Sun. Or Amazing
+Grace. You could also use almost any of EmilyDickinson's poetry. Sure, they're different
+melodies, but their lyrics are written inthe same meter.There's a great video on YouTube that I've
+linked below in the description that usescaptions to let you see just how these all
+fit together.Oh, and don't forget one of the greatest compositions
+taking advantage of common meter's commonness:Stairway to Gilligan's Island.And you know what? Our brains may also be
+keeping us from enjoying the entire mathematicalspace of available songs. For instance,
+research has shown that the way a song compresses,using software, can help us predict how enjoyable
+it will be. Too simple, too easy to compress,like, say, a rising scale, and the song doesn't
+challenge us - it's boring. But too complicated,say, white noise, and the file won't compress
+very much at all, and, likewise, we don'tseem to enjoy it. There's a magic zone where
+a file is compressible by a computer, andalso happens to be enjoyable by us.So, interestingly, even though mathematically
+speaking, there are so many possible uniquemelodies that we can safely say, there will
+always be room for new music, we don't seemto be wired to care. We enjoy certain patterns
+and melodies and calculating how many therecould be is a lot less interesting than how
+connected and similar all the ones that weenjoy are. It's as if we have more space than
+we need, more space than we could ever hopeto see all of, or visit all of, or know all
+of, but no matter what new place we go, ina general sense, new, popular music will always
+remind us a bit of home.And as always,thanks for watching.Fantastic, you're still here. If you want
+to hear music from people like you, from Vsaucers,go check out WeSauce. You can submit music,
+animation, short films, anything that you'remaking and putting on YouTube to us and we'll
+feature it on WeSauce. It's like a trailerfor what Vsaucers are doing.Speaking of which, Jake Chudnow, who does
+all of the music in these videos, has a brandnew song out over on his channel,
+which I highly suggest you go give a listen.

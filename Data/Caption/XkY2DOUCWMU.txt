@@ -1,0 +1,90 @@
+It is my experience that proofs involving matrices can be shortened by 50% if one throws matrices out.
+-- Emil ArtinHey everyone!Where we last left off, I showed what linear
+transformations look likeand how to represent them using matrices.This is worth a quick recap, because it's
+just really important.But of course, if this feels like more than
+just a recap, go back and watch the full video.Technically speaking, linear transformations
+are functions, with vectors as inputsand vectors as outputs.But I showed last time how we can think about
+them visually assmooshing around space in such a way the gridlines
+stay parallel and evenly spaced,and so that the origin remains fixed.The key take-away was thata linear transformation is completely determined,
+by where it takes the basis vectors of the spacewhich, for two dimensions, means i-hat and
+j-hat.This is because any other vector can be described
+as a linear combination of those basis vectors.A vector with coordinates (x, y)is x times i-hat + y times j-hat.After going through the transformationthis property, the grid lines remain parallel
+and evenly spaced,has a wonderful consequence.The place where your vector lands will be
+x times the transformed version of i-hat +y times the transformed version of j-hat.This means if you keep a record of the coordinates
+where i-hat landsand the coordinates where j-hat landsyou can compute that a vector which starts
+at (x, y),must land on x times the new coordinates of
+i-hat+ y times the new coordinates of j-hat.The convention is to record the coordinates
+of where i-hat and j-hat landas the columns of a matrixand to define this sum of the scaled versions
+of those columns by x and yto be matrix-vector multiplication.In this way,a matrix represents a specific linear transformationand multiplying a matrix by a vector is, what
+it means computationally,to apply that transformation to that vector.Alright, recap over.Onto the new stuff.Often-times you find yourself wanting to describe
+the effectof applying one transformation and then another.For example,maybe you want to describe what happens when
+you first rotate the plane 90¡ã counterclockwisethen apply a shear.The overall effect here, from start to finish,is another linear transformation,distinct from the rotation and the shear.This new linear transformation is commonly called the ¡°composition¡±of the two separate transformations we applied.And like any linear transformationit can be described with a matrix all of its
+own, by following i-hat and j-hat.In this example, the ultimate landing spot
+for i-hatafter both transformations is (1, 1).So let's make that the first column of the
+matrix.Likewise, j-hat ultimately ends up at the
+location (-1, 0),so we make that the second column of the matrix.This new matrix captures the overall effect
+of applying a rotation then a sheerbut as one single action, rather than two
+successive ones.Here's one way to think about that new matrix:if you were to take some vector and pump it
+through the rotation then the sheerthe long way to compute where it ends upis to, first, multiply it on the left by the
+rotation matrix;then, take whatever you get and multiply that
+on the left by the sheer matrix.This is, numerically speaking,what it means to apply a rotation then a sheer
+to a given vector.But, whatever you get should be the same as
+just applying this new composition matrixthat we just found, by
+that same vector,no matter what vector you chose,since this new matrix is supposed to capture
+the same overall effectas the rotation-then-sheer action.Based on how things are written down hereI think it's reasonable to call this new matrix,
+the ¡°product¡± of the original two matrices.Don't you?We can think about how to compute that product
+more generally in just a moment,but it's way too easy to get lost in the forest
+of numbers.Always remember, the multiplying two matrices
+like thishas the geometric meaning of applying one
+transformation then another.One thing that's kinda weird here, is that
+this has reading from right to left;you first apply the transformation represented
+by the matrix on the right.Then you apply the transformation represented
+by the matrix on the left.This stems from function notation,since we write functions on the left of variables,so every time you compose two functions, you
+always have to read it right to left.Good news for the Hebrew readers, bad news
+for the rest of us.Let's look at another example.Take the matrix with columns (1, 1) and (-2, 0)whose transformation looks like this,and let's call it M1.Next, take the matrix with columns (0, 1)
+and (2, 0)whose transformation looks like this,and let's call that guy M2.The total effect of applying M1 then M2gives us a new transformation.So let's find its matrix.But this time, let's see if we can do it without
+watching the animationsand instead, just using the numerical entries
+in each matrix.First, we need to figure out where i-hat goesafter applying M1 the new coordinates of i-hat,by definition, are given by that first column
+of M1,namely, (1, 1)to see what happens after applying M2multiply the matrix for M2 by that vector
+(1,1).Working it out, the way that I described last
+videoyou'll get the vector (2, 1).This will be the first column of the composition
+matrix.Likewise, to follow j-hatthe second column of M1 tells us the first
+lands on (-2, 0)then, when we apply M2 to that vectoryou can work out the matrix-vector product
+to get (0, -2)which becomes the second column of our composition
+matrix.Let me talk to that same process again, but
+this time,I'll show variable entries in each matrix,just to show that the same line of reasoning
+works for any matrices.This is more symbol heavy and will require
+some more room,but it should be pretty satisfying for anyone
+who has previously been taught matrix multiplicationthe more rote way.To follow where i-hat goesstart by looking at the first column of the
+matrix on the right,since this is where i-hat initially lands.Multiplying that column by the matrix on the
+left,is how you can tell where the intermediate
+version of i-hat ends up after applyingthe second transformation.So, the first column of the composition matrixwill always equal the left matrix times the
+first column of the right matrix.Likewise, j-hat will always initially land
+on the second column of the right matrix.So multiplying the left matrix by this second
+column will give its final locationand hence, that's the second column of the
+composition matrix.Notice, there's a lot of symbols hereand it's common to be taught this formula
+as something to memorizealong with a certain algorithmic process to
+kind of help remember it.But I really do think that before memorizing
+that processyou should get in the habit of thinking about
+what matrix multiplication really represents:applying one transformation after another.Trust me, this will give you a much better
+conceptual frameworkthat makes the properties of matrix multiplication
+much easier to understand.For example, here's a question:Does it matter what order we put the two matrices
+in when we multiply them?Well, let's think through a simple examplelike the one from earlier:Take a shear which fixes i-hat and smooshes
+j-hat over to the rightand a 90¡ã rotation.If you first do the shear then rotate,we can see that i-hat ends up at (0, 1)and j-hat ends up at (-1, 1)both are generally pointing close together.If you first rotate then do the sheari-hat ends up over at (1, 1)and j-hat is off on a different direction
+at (-1, 0)and they're pointing, you know, farther apart.The overall effect here is clearly differentso, evidently, order totally does matter.Notice, by thinking in terms of transformationsthat's the kind of thing that you can do in
+your head, by visualizing.No matrix multiplication necessary.I remember when I first took linear algebrathere's this one homework problem that asked
+us to prove that matrix multiplication isassociative.This means that if you have three matrices
+A, B and C,and you multiply them all together,it shouldn't matter if you first compute A
+times B then multiply the result by C,or if you first multiply B times C then multiply
+that result by A on the left.In other words, it doesn't matter where you
+put the parentheses.Now if you try to work through this numericallylike I did back then,it's horrible, just horrible, and unenlightening
+for that matter.But when you think about matrix multiplication
+as applying one transformation after another,this property is just trivial.Can you see why?What it's saying is that if you first apply
+C then B, then A,it's the same as applying C, then B then A.I mean, there's nothing to prove,you're just applying the same three things
+one after the other all in the same order.This might feel like cheating.But it's not!This is an honest-to-goodness proof that matrix
+multiplication is associative,and even better than that, it's a good explanation
+for why that property should be true.I really do encourage you to play around more
+with this ideaimagining two different transformationsthinking about what happens when you apply
+one after the otherand then working out the matrix product numerically.Trust me, this is the kind of play time that
+really makes the idea sink in.In the next video I'll start talking about
+extending these ideas beyond just two dimensions.See you then!

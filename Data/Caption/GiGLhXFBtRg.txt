@@ -1,0 +1,148 @@
+I want to do a quick refresher
+on medians of triangles,and also explore an interesting
+property of them thatwill be useful, I think,
+in future problems.So let me just draw an
+arbitrary triangle over here.Now that's good enough.Now a median of the
+triangle-- and we'llsee a triangle has
+three of them--is just a line that
+connects a vertexof the triangle with the
+midpoint of the opposite side.So the opposite side's midpoint
+looks right about there.This length is equal
+to that length.And so this is a median.Close enough.And of course, we
+have three vertices,so we'll have three medians.If we start at this
+vertex, we wantto go to the midpoint
+of the opposite side.It looks right about there.So this blue line right
+over here is another median.It's not a completely
+straight line,but I think you get the idea.Then we could also do it from
+this point right over here.Draw a line from this
+vertex to the midpointof the opposite side.Let's see, the midpoint of
+the opposite side is there.And we draw a line.Each of these-- I could draw
+a straighter line than that.Let me draw it.There.Well, I think you get the idea.These are all medians
+of this triangle.And what's neat about medians
+is that all three medians alwaysintersect in one point.And that by itself is
+a pretty neat property.And that one point
+that they intersect inis called the centroid.And if this was actually
+a physical triangle,let's say you made
+it out of iron,and if you were to toss it--
+well, even before you toss it,the centroid would actually
+be the center of mass.So let's say this
+is an iron triangle.Let's say that this right
+here is an iron triangle thathas its centroid
+right over here,then this iron
+triangle's center of masswould be where the
+centroid is, assumingit has a uniform density.And if you were to throw
+that iron triangle,it would rotate
+around this point.Assuming that it had
+some rotational motion,it would rotate
+around that centroid,or around the center of mass.But anyway, the
+point of this videois not to focus on physics
+and throwing iron triangles.The point here is I want to show
+you a neat property of medians.And the property is that
+if you pick any median,the distance from the centroid
+to the midpoint of the oppositeside-- so this
+distance-- is goingto be half of this distance.So if this distance
+right here is a,then this distance
+right here is 2a.Or another way to think
+about it is this distanceis 2/3 of the length
+of the entire median,and this distance
+right here is 1/3of the length of
+the entire median.And let's just prove
+it for ourselvesjust so you don't have
+to take things on faith.And to do that, I'll draw
+an arbitrary triangle.I'll do a
+two-dimensional triangle,and I'll do it in
+three dimensionsbecause at least in
+my mind, it makesthe math a little bit easier.In general, whenever you
+have an n-dimensional figureand you embed it in
+n plus 1 dimensions,it makes the math a
+little bit easier.The actual tetrahedron
+problem that we did,you could actually embed
+it in four dimensionsand it would make
+the math easier.It's just much
+harder to visualize,so I didn't do it that way.But let's just have
+an arbitrary triangle.And let's say it has
+a vertex and there,a vertex there,
+and a vertex there.So I'm not making any
+assumptions about the triangle.I'm not saying it's isosceles,
+or equilateral or anything.It's just an arbitrary triangle.And so let's say this
+coordinate right over hereis-- I'll call this the x-axis.So, this is the x-axis,
+the y-axis, and the z-axis.I know some of y'all are used
+to swapping these two axes,but it doesn't
+make a difference.So let's call this coordinate
+right here a, 0, 0.So it's a along the x-axis.Let's call this
+coordinate 0, b, 0.And let's call this
+coordinate up here, 0, 0, c.And if you connect
+the points, you'regoing to have a
+triangle just like that.Now, the centroid of a triangle,
+especially in three dimensions.The centroid of a
+triangle is justgoing to be the average of the
+coordinates of the vertices.Or the coordinate
+of the centroidhere is just going
+to be the averageof the coordinates
+of the vertices.So this coordinate
+right over hereis going to be-- so
+for the x-coordinate,we have 0 plus 0 plus a.So we have three coordinates.They add up to a, and
+we have to divide by 3.So it's a over 3.The y-coordinate is
+going to b plus 0 plus 0.They add up to b, but
+we have three of them,so the average is b over 3.And then same thing-- we
+do it for the z-coordinate.The average is going
+to be c, is c over 3.And I'm not proving
+it to you right here.You could verify
+it for yourself.But it's going to
+be the average,that if you were to figure
+out what this line is,this line is, and this line is,
+this centroid, or this centerof mass of this triangle,
+if it had some mass,is just the average
+of these coordinates.Now, what we want to do
+is use this information.Let's just use this
+coordinate right hereand then compare just
+using the distance formula.Let's compare this distance up
+here in orange to this distancedown here in yellow.And remember, this
+point right over here--this is the median of this
+bottom side right over here.It's just going to be the
+average of these two points.And so the x-coordinate--
+0 plus a over 2is going to be a over 2.b plus 0 over 2 is
+going to be b over 2.And then it has
+no z-coordinates,so it's just going to be 0.0 plus 0 over 2 is 0.So we know the coordinates
+for this point that pointand that point.So we can calculate
+the yellow distanceand we can calculate
+the orange distance.So let's calculate
+the orange distance.So that is going to be equal
+to the square root of--and we just take the
+difference of eachof these points squared.So it's a over 3
+minus 0 squared.So that's going to
+be a squared over 9,plus b over 3 minus 0 squared.So that's b squared over 9.Plus c over 3 minus c,
+which is negative 2/3.And we want to square that.So we're going to have
+positive 4 over 9c squared.Did I do that right? c over 3,
+so 1/3 minus 1 is negative 2/3.So this is negative 2/3 c.You square it.You're going to
+get 4/9 c squared.So that's the orange distance.Now, let's calculate--
+and if we want to do it,we can express
+this-- let me expressit a little bit
+simpler than this.This is the same thing as the
+square root of a squared plus bsquared plus 4c squared over
+the square root of 9, whichis just equal to 3.Now let's do the same thing
+with the yellow distance.So it's going to be equal
+to the square root of-- soif we have a over
+2 minus a over 3.So 1/2 minus 1/3-- that's the
+same thing as 3/6 minus 2/6,so it's 1/6 a.1/6 a squared is
+a squared over 36.b over 2 minus b
+over 3 is b over 6.You square it.You get plus b squared over 36.And then finally you have
+0 minus c over 3 squared.That's going to be
+c squared over 9.But just so we get a common
+denominator, c squared over 9is the same thing as
+plus 4c squared over 36.And we can rewrite this as the
+square root of a squared plus bsquared plus 4c squared over 6.So you can see,
+this distance righthere, if you multiply this
+orange distance by 1/2,you're going to get-- so if you
+multiply the orange distanceby 1/2 or if you divide it by
+2, you get the yellow distance.So this is always going to
+be twice the distance as thisbecause we did this in the
+most general possible way.We assumed nothing
+about this triangle.So remember that little
+property that the centroid,the intersection of the
+medians-- the intersectionhappens 2/3 away from the vertex
+or 1/3 the length of the medianaway from the midpoint
+of the opposite side.And we can use that
+property in-- well,we'lll probably use it
+in a bunch of problems.But anyway, hopefully you
+found that interesting.

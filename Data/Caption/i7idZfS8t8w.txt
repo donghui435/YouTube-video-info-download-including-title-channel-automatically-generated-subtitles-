@@ -1,0 +1,203 @@
+ In this video, I'm going to
+expose you to what is maybeone of at least the top five
+most useful formulas inmathematics.And if you've seen many of my
+videos, you know that I'm nota big fan of memorizing
+things.But I will recommend you
+memorize it with the caveatthat you also remember how to
+prove it, because I don't wantyou to just remember
+things and not knowwhere they came from.But with that said, let me
+show you what I'm talkingabout: it's the quadratic
+formula.And as you might guess, it is to
+solve for the roots, or thezeroes of quadratic equations.So let's speak in very general
+terms and I'llshow you some examples.So let's say I have an equation
+of the form axsquared plus bx plus
+c is equal to 0.You should recognize this.This is a quadratic equation
+where a, b and c are-- Well, ais the coefficient on the x
+squared term or the seconddegree term, b is the
+coefficient on the x term andthen c, is, you could imagine,
+the coefficient on the x tothe zero term, or it's
+the constant term.Now, given that you have a
+general quadratic equationlike this, the quadratic formula
+tells us that thesolutions to this equation are
+x is equal to negative b plusor minus the square root of
+b squared minus 4ac, allof that over 2a.And I know it seems crazy and
+convoluted and hard for you tomemorize right now, but as you
+get a lot more practice you'llsee that it actually is a pretty
+reasonable formula tostick in your brain someplace.And you might say, gee, this is
+a wacky formula, where didit come from?And in the next video I'm
+going to show youwhere it came from.But I want you to get used to
+using it first. But it reallyjust came from completing
+the square on thisequation right there.If you complete the square here,
+you're actually going toget this solution and that
+is the quadraticformula, right there.So let's apply it to some
+problems. Let's start off withsomething that we could have
+factored just to verify thatit's giving us the
+same answer.So let's say we have x
+squared plus 4x minus21 is equal to 0.So in this situation-- let me
+do that in a different color--a is equal to 1, right?The coefficient on the
+x squared term is 1. b is equal to 4, the coefficient
+on the x-term.And then c is equal
+to negative 21,the constant term.And let's just plug it in the
+formula, so what do we get?We get x, this tells us that
+x is going to be equal tonegative b.Negative b is negative 4-- I put
+the negative sign in frontof that --negative b
+plus or minus thesquare root of b squared.b squared is 16, right?4 squared is 16, minus 4 times
+a, which is 1, times c, whichis negative 21.So we can put a 21 out there
+and that negative sign willcancel out just like that with
+that-- Since this is the firsttime we're doing it, let me
+not skip too many steps.So negative 21, just so you
+can see how it fit in, andthen all of that over 2a.a is 1, so all of that over 2.So what does this simplify, or
+hopefully it simplifies?So we get x is equal to negative
+4 plus or minus thesquare root of-- Let's see we
+have a negative times anegative, that's going to
+give us a positive.And we had 16 plus, let's see
+this is 6, 4 times 1 is 4times 21 is 84.16 plus 84 is 100.That's nice.That's a nice perfect square.All of that over 2, and so this
+is going to be equal tonegative 4 plus or
+minus 10 over 2.We could just divide both of
+these terms by 2 right now.So this is equal to negative 4
+divided by 2 is negative 2plus or minus 10 divided
+by 2 is 5.So that tells us that x could be
+equal to negative 2 plus 5,which is 3, or x could be equal
+to negative 2 minus 5,which is negative 7.So the quadratic formula
+seems to have given usan answer for this.You can verify just by
+substituting back in thatthese do work, or you could even
+just try to factor thisright here.You say what two numbers when
+you take their product, youget negative 21 and when you
+take their sum you getpositive 4?So you'd get x plus 7
+times x minus 3 isequal to negative 21.Notice 7 times negative 3 is
+negative 21, 7 minus 3 ispositive 4.You would get x plus-- sorry
+it's not negative --21 isequal to 0.There should be a 0 there.So you get x plus 7 is equal
+to 0, or x minus3 is equal to 0.X could be equal to negative
+7 or x could be equal to 3.So it definitely gives us the
+same answer as factoring, soyou might say, hey why bother
+with this crazy mess?And the reason we want to bother
+with this crazy mess isit'll also work for problems
+that are hard to factor.And let's do a couple of
+those, let's do somehard-to-factor problems
+right now.So let's scroll down to get
+some fresh real estate.Let's rewrite the formula again,
+just in case we haven'thad it memorized yet. x is going
+to be equal to negativeb plus or minus the square root
+of b squared minus 4ac,all of that over 2a.I'll supply this to
+another problem.Let's say we have the equation
+3x squared plus 6x is equal tonegative 10.Well, the first thing we want
+to do is get it in the formwhere all of our terms or on the
+left-hand side, so let'sadd 10 to both sides
+of this equation.We get 3x squared plus the
+6x plus 10 is equal to 0.And now we can use a
+quadratic formula.So let's apply it here.So a is equal to 3.That is a, this is b and
+this right here is c.So the quadratic formula
+tells us thesolutions to this equation.The roots of this quadratic
+function, I guesswe could call it.x is going to be equal
+to negative b.b is 6, so negative 6
+plus or minus thesquare root of b squared.b is 6, so we get 6 squared
+minus 4 times a, which is 3times c, which is 10.Let's stretch out the radical
+little bit, all of that over 2times a, 2 times 3.So we get x is equal to negative
+6 plus or minus thesquare root of 36 minus-- this
+is interesting --minus 4 times3 times 10.So this is minus-- 4
+times 3 times 10.So this is minus 120.All of that over 6.So this is interesting, you
+might already realize why it'sinteresting.What is this going
+to simplify to?36 minus 120 is what?That's 84.We make this into a 10,
+this will become an11, this is a 4.It is 84, so this is going to be
+equal to negative 6 plus orminus the square root of-- But
+not positive 84, that's ifit's 120 minus 36.We have 36 minus 120.It's going to be negative
+84 all of that 6.So you might say, gee,
+this is crazy.What a this silly quadratic
+formula you'reintroducing me to, Sal?It's worthless.It just gives me a square root
+of a negative number.It's not giving me an answer.And the reason why it's not
+giving you an answer, at leastan answer that you might want,
+is because this will have noreal solutions. In the future, we're going to
+introduce something called animaginary number, which is a
+square root of a negativenumber, and then we can actually
+express this in termsof those numbers.So this actually does have
+solutions, but they involveimaginary numbers.So this actually has no real
+solutions, we're taking thesquare root of a negative
+number.So the b squared with the b
+squared minus 4ac, if thisterm right here is negative,
+then you're not going to haveany real solutions.And let's verify that
+for ourselves.Let's get our graphic calculator
+out and let's graphthis equation right here.So, let's get the graphs that y
+is equal to-- that's what Ihad there before --3x squared
+plus 6x plus 10.So that's the equation and we're
+going to see where itintersects the x-axis.Where does it equal 0?So let me graph it. Notice, this thing just comes
+down and then goes back up.Its vertex is sitting here
+above the x-axis and it'supward-opening.It never intersects
+the x-axis.So at no point will this
+expression, will thisfunction, equal 0.At no point will y equal
+0 on this graph.So once again, the quadratic
+formula seems to be working.Let's do one more example,
+you can never seeenough examples here.And I want to do ones that are,
+you know, maybe not soobvious to factor.So let's say we get negative 3x
+squared plus 12x plus 1 isequal to 0.Now let's try to do it just
+having the quadratic formulain our brain.So the x's that satisfy this
+equation are going to benegative b.This is b So negative b is
+negative 12 plus or minus thesquare root of b squared, of
+144, that's b squared minus 4times a, which is negative 3
+times c, which is 1, all ofthat over 2 times a, over
+2 times negative 3.So all of that over negative 6,
+this is going to be equalto negative 12 plus or
+minus the square rootof-- What is this?It's a negative times a negative
+so they cancel out.So I have 144 plus 12, so
+that is 156, right?144 plus 12, all of that
+over negative 6.Now, I suspect we can
+simplify this 156.We could maybe bring
+some things outof the radical sign.So let's attempt to do that.So let's do a prime
+factorization of 156.Sometimes, this is the hardest
+part, simplifying the radical.So 156 is the same thing
+as 2 times 78.78 is the same thing
+as 2 times what?That's 2 times 39.So the square root of 156 is
+equal to the square root of 2times 2 times 39 or we could say
+that's the square root of2 times 2 times the
+square root of 39.And this, obviously, is just
+going to be the square root of4 or this is the square root
+of 2 times 2 is just 2.2 square roots of 39, if I
+did that properly, let'ssee, 4 times 39.Yeah, it looks like
+it's right.So this up here will simplify to
+negative 12 plus or minus 2times the square root of 39, all
+of that over negative 6.Now we can divide the numerator
+and the denominatormaybe by 2.So this will be equal to
+negative 6 plus or minus thesquare root of 39
+over negative 3.Or we could separate these
+two terms out.We could say this is equal to
+negative 6 over negative 3plus or minus the square root
+of 39 over negative 3.Now, this is just a 2
+right here, right?These cancel out, 6 divided
+by 3 is 2, so we get 2.And now notice, if this is plus
+and we use this minussign, the plus will become
+negative and the negative willbecome positive.But it still doesn't
+matter, right?We could say minus or plus,
+that's the same thing as plusor minus the square root
+of 39 nine over 3.I think that's about as simple
+as we can get this answered.I want to make a very clear
+point of what Idid that last step.I did not forget about
+this negative sign.I just said it doesn't matter.It's going to turn the positive
+into the negative;it's going to turn the negative
+into the positive.Let me rewrite this.So this right here can be
+rewritten as 2 plus the squareroot of 39 over negative 3 or 2
+minus the square root of 39over negative 3, right?That's what the plus or minus
+means, it could be this orthat or both of them, really.Now in this situation, this
+negative 3 will turn into 2minus the square root
+of 39 over 3, right?I'm just taking this
+negative out.Here the negative and the
+negative will become apositive, and you get 2
+plus the square rootof 39 over 3, right?A negative times a negative
+is a positive.So once again, you have
+2 plus or minus thesquare of 39 over 3.2 plus or minus the square
+root of 39 over 3 aresolutions to this equation
+right there.Let verify.I'm just curious what the
+graph looks like.So let's just look at it.Let me clear this.Where is the clear button?So we have negative 3 three
+squared plus 12x plus 1 andlet's graph it.Let's see where it intersects
+the x-axis.It goes up there and then
+back down again.So 2 plus or minus the square,
+you see-- The square root of39 is going to be a little
+bit more than 6, right?Because 36 is 6 squared.So it's going be a little bit
+more than 6, so this is goingto be a little bit
+more than 2.A little bit more than 6 divided
+by 2 is a little bitmore than 2.So you're going to get one value
+that's a little bit morethan 4 and then another value
+that should be a little bitless than 1.And that looks like the case,
+you have 1, 2, 3, 4.You have a value that's pretty
+close to 4, and then you haveanother value that is a little
+bit-- It looks close to 0 butmaybe a little bit
+less than that.So anyway, hopefully you found
+this application of thequadratic formula helpful. 

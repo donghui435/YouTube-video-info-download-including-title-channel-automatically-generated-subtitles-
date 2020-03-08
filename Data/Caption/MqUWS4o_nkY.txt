@@ -1,0 +1,51 @@
+So, I got a lot of messages and comments from
+people after the video about Cantor's DiagonalProof suggesting the following:If you can take an infinite list of rational
+numbers, and prove it can't ever contain allrational numbers because you take one key
+digit from each number and make a new realnumber that's different in every key digit
+and is therefore not on the list no matterwhat the list is, why can't you reverse this
+process, try to make a list of whole numbers,and prove that there's more whole numbers
+than whole numbers by going on the other diagonal,a reverse-Cantor?I kind of like this line of thinking.On the one hand, it's a mathematical way of
+thinking.If a proof seems to prove one thing is weird,
+you should probably test it to see if it proveseverything is weird, and if everything ends
+up weird you might have a flaw in your premiseor your thinking or maybe everything actually
+is weird.On the other hand, I don't like this line
+of thinking because it reminds me of the slipperyslope fallacy.That's the one where you're like, well, if
+that argument works for this case, then whywouldn't it work for this more general case,
+and who knows where it will stop, so we'dbetter not allow it in the first place!And that's not actually a logical or mathematical
+argument if you don't prove it actually doesapply to the more general case.So can you do the reverse cantor?Does this argument actually apply?If you take one digit from each number on
+your infinite list of all whole numbers, andchange them all, shouldn't you get something
+that can't be on the list, thus proving thelist is incomplete?Well, you do get something not on the list,
+so, that part of the reasoning is correct.Let's try it out: for every list item, we
+have a decimal place with a number in it.There's as many list items as decimal places,
+and there's an infinite number of each.That means that this number we're constructing
+will have infinite digits going out to theleft, all of which conflict with the corresponding
+list number's nth decimal place.Now, the list of all whole numbers is infinite
+and includes arbitrarily large numbers approachinginfinity, but no real number, no counting
+number, no whole number is actually infinite.They all stop somewhere.They all end up with infinite zeroes at some
+point.But this number we're constructing doesn't
+stop, it has to have infinite digits goingout to the left in order to conflict with
+every number in every decimal place.No infinite zeroes.So no, it's not on the list, but it's also
+not a badly-named-so-called real number.Real numbers can have infinite digits going
+out to the right, any combination of digitsgoing out to the right infinitely, no last
+digit, .9repeating actually exactly equals1 and pi never ends or repeats and any random
+roll of infinite dice is a number differentfrom the same number with one digit randomly
+changed, that's how many digits there are,etcetera, which is why the proof does work
+for reals, it's all in the decimals, the inbetween,but real numbers can't have infinite digits
+going out to the left, the counting numbersapproach infinity but they don't get there
+and they certainly don't go past it, so thereverse-cantor is not a problem.But it is interesting to think about what
+it might mean to extend the real numbers toinclude ones that do have infinite digits
+to the left.I mentioned P-adic numbers in a video about
+Kinds of Infinity, and p-adics have infinitedigits going to the left but they don't work
+the same way as reals so this doesn't actuallyrepresent an infinite number.But what if you could represent infinite numbers
+like this?You'd run into some difficult questions.How do you define them?Is this number bigger or smaller than this
+number?You can't compare the leftmost digit, because
+there is no leftmost digit.Are they all equal, simply infinity?How do you add them?If you do it the normal way, isn't it weird
+that adding ...5555555 to ...555555 is ....000,there's no leftmost digit for the 1 to get
+carried to so it's just gone, which is thesame as if you subtracted them.I think it probably all devolves from there,
+because if ...55555 = -...5555 then add ...555550to both sides to get 5=-5 and from there you
+break all of mathematics for all numbers,so you definitely can't do arithmetic the
+obvious way, if at all. or maybe .....000is an infinitely large number that's different
+from just plain 0, which is a nice concept,if you can find a way to make it work.Like, if you want ....000 to be different
+from 0, you might be in trouble if ....0000+ ....55555 is the same as 0 + .....5555.But maybe this is a special case that you
+can avoid the same way you have to avoid dividingby zero for algebra to work.I dunno.You can play with that if you want, I'm going
+to bed.

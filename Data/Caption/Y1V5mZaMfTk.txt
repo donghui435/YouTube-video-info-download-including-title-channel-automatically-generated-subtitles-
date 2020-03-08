@@ -1,0 +1,25 @@
+Write 7/8 as a decimal.And so the main
+realization here isthat 7/8 is the same
+thing as 7 divided by 8,which is the same thing
+as 7 divided by 8.These are all different ways
+of writing the same thing.So let's actually
+divide 8 into 7.And I'll do it down here just
+so I have some more real estateto work with.I'm going to divide 8 into 7.And I'm going to add
+a decimal point here,just because we know
+that this value isgoing to be less than 1.7/8 is less than 1.We're going to have
+some digits to the rightof the decimal point.And let me put the decimal
+point right up here,right above the
+decimal point in 7.And then we start dividing.And now this really turns
+into a long division problem.And we just have to make sure we
+keep track of the decimal sign.So 8 goes into-- it
+doesn't go into 7 at all,but it does go into 70.So 8 goes into 70 eight times.So it goes into 70 eight times.8 times 8 is 64.And then you subtract.70 minus 64 is 6.And then bring down
+another 0 because we stillhave a remainder.We want to get to the point
+that we have no remainders.Assuming that this thing
+doesn't repeat forever.And there's other ways
+we can deal with that.8 goes into 60?Well, let's see.It doesn't go into it eight
+times because that's 64.8 goes into 60 seven times.7 times 8 is 56.And then we subtract again.60 minus 56 is 4.And now, we can bring down
+another 0 right over here.And 8 goes into 40?Well, it goes into 40
+exactly five times.5 times 8 is 40.And we have nothing.We have nothing left over.And so we're done.7 divided by 8 or 7/8 is
+equal to 7 divided by 8,which is equal to 0.875.But I'll put a leading 0 here
+just so it makes it clearthat this is where
+the decimal is.0.875.And we are done.

@@ -1,0 +1,52 @@
+ Write the prime factorization
+of 75.Write your answer using
+exponential notation.So we have a couple of
+interesting things here.Prime factorization, and they
+say exponential notation.We'll worry about the
+exponential notation later.So the first thing we have to
+worry about is what is even aprime number?And just as a refresher, a
+prime number is a numberthat's only divisible by itself
+and one, so examples ofprime numbers-- let me write
+some numbers down.Prime, not prime. So 2 is a prime number.It's only divisible
+by 1 and 2.3 is another prime number.Now, 4 is not prime,
+because this isdivisible by 1, 2 and 4.We could keep going.5, well, 5 is only divisible
+by 1 and 5, so 5 is prime.6 is not prime, because it's
+divisible by 2 and 3.I think you get the
+general idea.You move to 7, 7 is prime.It's only divisible
+by 1 and 7.8 is not prime.9 you might be tempted to say
+is prime, but remember, it'salso divisible by 3,
+so 9 is not prime.Prime is not the same thing
+as odd numbers.Then if you move to 10,
+10 is also not prime,divisible by 2 and 5.11, it's only divisible
+by 1 and 11, so 11 isthen a prime number.And we could keep going
+on like this.People have written computer
+programs looking for thehighest prime and all of that.So now that we know what
+a prime is, a primefactorization is breaking up
+a number, like 75, into aproduct of prime numbers.So let's try to do that.So we're going to start with
+75, and I'm going to do itusing what we call a
+factorization tree.So we first try to find just the
+smallest prime number thatwill go into 75.Now, the smallest prime
+number is 2.Does 2 go into 75?Well, 75 is an odd number, or
+the number in the ones place,this 5, is an odd number.5 is not divisible by 2, so
+2 will not go into 75.So then we could try 3.Does 3 go into 75?Well, 7 plus 5 is 12.12 is divisible by 3, so
+3 will go into it.So 75 is 3 times
+something else.And if you've ever dealt with
+change, you know that if youhave three quarters, you have
+75 cents, or if you have 3times 25, you have 75.So this is 3 times 25.And you can multiply this out
+if you don't believe me.Multiple out 3 times 25.Now, is 25 divisible by--
+you can give up on 2.If 75 wasn't divisible by 2,
+25's not going to be divisibleby 2 either.But maybe 25 is divisible
+by 3 again.So if you take the digits
+2 plus 5, you get 7.7 is not divisible by 3, so 25
+will not be divisible by 3.So we keep moving up: 5.Is 25 divisible by 5?Well, sure.It's 5 times 5.So 25 is 5 times 5.And we're done with our prime
+factorization because now wehave all prime numbers here.So we can write that 75
+is 3 times 5 times 5.So 75 is equal to 3
+times 5 times 5.We can say it's 3 times 25.25 is 5 times 5.3 times 25, 25 is 5 times 5.So this is a prime
+factorization, but they wantus to write our answer using
+exponential notation.So that just means, if we have
+repeated primes, we can writethose as an exponent.So what is 5 times 5?5 times 5 is 5 multiplied
+by itself two times.This is the same thing as
+5 to the second power.So if we want to write our
+answer using exponentialnotation, we could say this is
+equal to 3 times 5 to thesecond power, which is the
+same thing as 5 times 5. 

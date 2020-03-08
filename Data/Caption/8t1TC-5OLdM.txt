@@ -1,0 +1,95 @@
+JAMES GRIME: 0.That's our friend.Yes.To a mathematician
+this is a number.But it wasn't always obvious.ROGER BOWLEY: Math existed to do
+financial transactions, tosell sheep, to buy copper
+things, whatever.And you would use coins.And there would be values
+to the coins.So you would say this
+costs 5 pounds 20shillings, or whatever.You don't do any trading
+with the number 0.I've got no sheep here.Oh, I'm gonna buy no sheep,
+I'll give you no pounds.It doesn't make any sense.So there was no need
+for shopkeepers toinvent the number 0.JAMES GRIME: They had
+the idea of 5 cows.But the idea of 5,
+not so much.The idea of 5-ness they didn't
+quite understand.So a number like 0, which
+is the absence of--well, whatever, cows,
+whatever it was--made no sense to them.I'm going ask Brady
+a question.See if I can catch him out.Brady, is 0 an even number?BRADY HARAN: I think
+the answer is no.But it feels like it is
+because it is round.JAMES GRIME: So this
+is an interesting--OK, let me ask another
+question.Is 16 an even number?BRADY HARAN: Yes.JAMES GRIME: Yes.So people have studied this.People have a delayed
+reaction.People are not sure whether
+0 is an even number.Now I can tell you that 0,categorically, is an even number.It will follow every definition
+of an even number.ROGER BOWLEY: So there was an
+Indian called Brahmagupta whoinvented the idea of nothing not
+being nothing but existingas an abstract quantity
+in the mathematics.Well, then it goes
+to North Africa.And there's a guy called
+Al Qasimi.And he writes a book about the
+art of Hindu mathematics andreckoning by Hindu
+mathematics.And that spreads through North
+Africa to Spain and so forth.And it becomes, they think,
+Arabic numbers.So you have all the
+numbers plus 0.That was fine.Until 1200 when Leonardo of
+Pisa, also known as Fibonacci,translates this book.It's a wonderful idea.But this is in the period
+of the Crusades.So people think these are Arabic
+numbers, not Hindunumbers because it's come
+from North Africa.So the Catholic church objects
+to this because there areCrusades going on and this
+is the work of the enemy.So in Florence, for example,
+they banned the use of thisArabic number 0.And it was thought to be
+the work of the devil.BRADY HARAN: Because my
+definition of an even numberis something that can
+be divided by 2.JAMES GRIME: So Brady's just
+told me an even number is anumber that can be
+divided by 2.Well, 0 can be divided by 2.0 divided by 2 is 0.In fact, in that sense, it
+is the most even number.In ancient times they had this
+idea of things being singlyeven or doubly even.So 12 would be doubly even
+because you can divide by 2and then 2 again.Well, by that sense, 0 can be
+divided by 2 and 2 and 2 and2-- it is the most
+even number.The correct definition of
+an even number is it'sa multiple of 2.Something times 2.Something times 2.Well, it is.There's no problem with that.It's 0 times 2.Great.Brady said it had to
+be divisible by 2.Well, that works.0 divide by 2 is 0.OK, so it fits between
+two odd numbers.That might be a definition
+for even.Let's do that.There's 0.And over here that's 1.Over here that's minus 1.And then you get 2 over
+here, minus 2.Perfectly fits.There are some rules
+for numbers.Some arithmetic rules.Two even numbers, if you add two
+even numbers together, youget an even number.Well, that works.0 plus 4 is 4, an even
+number again.That's what we want.We're saying 0 is even.It follows every definition.In fact, if it wasn't even, then
+it would break our rulesof arithmetic, which would
+be a disaster.It is true to say that 0 is
+neither positive or negative.It sits here between the
+positive numbers and thenegative numbers.So it is neither positive
+or negative.ROGER BOWLEY: The discovery of
+0 was the most importantadvance in mathematics of all,
+because it made mathematicscapable of being understood
+by everybody.Everybody could do
+this mathematics.JAMES GRIME: The Babylonians,
+the Greeks, they had the ideaof a space.So there was a difference
+between 26, 2and 6, and 206, 2-0-6.They had a space there.They didn't use the symbol
+0, but they had a space.It was more like a
+punctuation mark.So the Babylonians would
+understand the differencebetween 26 and 206.But instead of using the symbol
+for 0, they would justhave a space.However, if they wanted
+to write 260, 260 waswritten like this.And to us, that looks like 26.To them and in context,
+that would make sense.But they didn't have this
+idea of 0 by itself.In the 9th century, the
+first instance--or the first recorded
+instance of 0--was found.It was actually found by a
+gardener keeping track of thenumber of flowers that his
+garden would produce.And he used the number 50 as
+we would recognize it.5, 0.After that point, they started
+to experiment with 0.What could it do?If you add 0, it makes
+no difference.If you times by 0, you get 0.Dividing by 0--that caused them some problems
+as it still does today.ROGER BOWLEY: In this sense,
+the mathematical sense, thenumber 0 does not
+mean nothing.It means a quantity which you
+can manipulate in themathematics.And so it's better to call
+it 0 rather than nothing.Nothing is when you're
+counting.There's nothing there.0 is the abstract mathematical
+quantity.CGP GREY: I'm CGP Grey and
+my favorite number is 0.I like 0 because it's not
+an obvious number.You can have counting systems
+where there's one thing, twothings, three things,
+four things.But mathematics existed for a
+long time without having a 0as part of it.So it's a number, but
+it also isn'tanything in and of itself.

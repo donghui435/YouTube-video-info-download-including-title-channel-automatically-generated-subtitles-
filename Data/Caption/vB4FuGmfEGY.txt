@@ -1,0 +1,63 @@
+Find the probability of
+rolling doubles on twosix-sided dice, numbered
+from 1 to 6.So let's just think about it.Let's think about all of the
+outcomes, all of the possibleoutcomes, and then what fraction
+of those outcomesrepresent us getting doubles.We want to roll doubles.So let's make a little table
+here that'll give us all ofour outcomes.You have 6 outcomes on the first
+dice, or the first die Ishould say.So 1, 2, 3, 4, 5, 6.So let's call this
+the first die.And then the second die,
+there are 6 outcomes.So 1, 2, 3, 4, 5, 6.This is the second die.So all of the different possible
+outcomes are going tobe some-- you're going to get an
+outcome-- so you could geta 3 over here.And then when you get a 3 on the
+second die, you might havegotten a 1, 2, 3, 4, 5,
+or 6 on the first die.Or you might have gotten a 5 on
+the first die and then youcould get a 1, 2 3, 4, 5,
+or 6 on the second die.So if I draw a grid here.If I were to draw a grid here,
+let me do my best to draw aquick grid.Just draw it really fast. So
+let me just draw this gridright here.Each cell of this grid, each
+box in this grid, wouldrepresent an outcome.All of the possible outcomes.Let me finish drawing it.So there you go.And so just to get an
+understanding of what I meanby it represents an outcome.This cell right here would
+represent getting a 4 on yourfirst die and a 2 on
+your second die.That's the outcome
+it represents.It's one of the potential
+outcomes.Now how many total outcomes
+are there?Well you could look at the
+area of this right here.The area of this is going
+to be 6 times 6.You have 36 possible outcomes.So 36 possible outcomes.And it makes sense.You can think about
+the first die.There's 6 outcomes.And then for each of those 6
+outcomes, you have 6 possibleoutcomes for the second die.So 6 times 6.Or you can think of in
+this grid, it hasexactly 36 cells in it.Now what are the outcomes that
+satisfy our conditions?That entail us getting
+doubles?What are the outcomes there?Well we could get a 1.If we get a 1 on the first die,
+we have to get a 1 on thesecond die.If we get a 2 on the first die,
+we have to get a 2 on thesecond die.If we get a 3 on the first die,
+we have to get a 3 on thesecond die.I think you see where
+this is going.4 and 4.5 and 5.And then 6 and 6.So how many of these outcomes
+involve us getting double?Well, it's 1, 2, 3,
+4, 5, 6 outcomes.So there's 6 outcomes
+with doubles.So if someone asks
+you, what's theprobability of getting doubles?The probability of getting
+doubles when you rolled twosix-sided dice, numbered
+from 1 to 6.It's going to be equal to the
+number of outcomes that giveus doubles-- so it's going to
+be equal to 6-- over thenumber of the total number
+of possible outcomes.Over 36.And 6 over 36 is 1/6.Now I made sure that you kind of
+understood that look, theseare all the possible outcomes.And 6 of them satisfy.So 6 of the 36.So there's a 1/6 probability
+of rolling doubles.But another way you could have
+thought about it is, you knowwhat, let's just roll
+the first die.It's going to have some
+number on it, right?The first die is going to
+have some number on it.Now in order for me to have
+doubles, the second die has tohave that same exact number
+on it, right?So I don't care what
+the first die is.It could be a 3, it could
+be a 4, it could be a 5.I don't know what that is.But after I've rolled that first
+die, in order to getdoubles, what the second die
+roll is-- they might be almostsimultaneous-- but what the
+second die rolls matters.And so whatever number I have
+on the first die, there's a1/6 chance that the second die
+is going to have that samenumber on it.So that's another way
+of reasoning thatyou have a 1/6 chance.The first die does anything it
+wants, but there's only a 1 in6 chance that the second die
+is going to have the samething as the first die.Either way, you get to
+the same 1/6 answer.

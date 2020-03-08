@@ -1,0 +1,143 @@
+STEVE MOULD: This is
+Benford's Law.And it's about numbers, but it's
+about the leading digit.For example, you could look at
+the populations of all thecountries in the world and
+look at the leadingdigits of all those.So for example, if it was 1,269,
+then the leading digitin that case is the one.Benford's Law works on a
+distribution of numbers ifthat distribution spans quite
+a few orders of magnitude.And the brilliant thing about
+populations of countries isthat it actually goes from
+tens up to billions.If you were to think about
+that, OK, what are thedistribution of leading
+digits.So some of the populations will
+start with the one, somewill start with two, three,
+four, five, six,seven, eight, or nine.And so there are nine possible
+leading digits.And you might imagine that each
+one of those possibleleading digits are equally
+likely to appear.So that's one in nine--11%.And if I was to plot that on a
+graph, you might expect thatto fluctuate around 11%.So it's going to go like that.So what actually happens is
+that a third of the time,that's up here.A third of the time the
+number you choose willstart with a one.And it will hardly ever
+start with a nine.So nine is down here--tiny number.And then you get this
+brilliant curve thatgoes up like that.Isn't that crazy?BRADY HARAN: I know you talk
+about this sometimes in talksand things you do.What's the reaction to
+that normally whenyou tell people this?STEVE MOULD: The reaction?The noise is sort
+of like this--ohh.And there's a certain
+amount of disbeliefsometimes as well.And the way we do it actually
+in the show is that we getpeople to tweet numbers to us.So we're collecting numbers, and
+I try to give them ideas.So maybe like, take the distance
+from the venue towhere they live and convert that
+into some strange units.Or something like that.The interesting thing is, like I
+was saying, it works so longas the distribution you're
+choosing from spans loads oforders of magnitude.But if you're picking numbers
+from lots of differentdistributions, the individual
+distributions don't have tospan lots of orders
+of magnitude.The meta-distribution of
+individual things picked fromdifferent distributions follows
+Benford's Law anyway.So it works brilliantly well.BRADY HARAN: What clump
+of numbers willthis not work for?STEVE MOULD: Human
+height in meters.So humans are between one
+meter and three meters.So it doesn't work for that.You get a massive load
+around there.And no one's nine meters tall.Anything that has that short
+distribution, itdoesn't work for.But it does work for several
+distributions put togetherthat don't necessarily
+individually follow the rule.So I did it for populations.I did it for areas of countriesin kilometers squared.If you take one number and
+convert it to loads ofdifferent units, that
+will tend to followBenford's Law as well.You can do it for the
+Financial Times.Look at all the numbers
+on the front cover ofthe Financial Times.They will tend to follow
+Benford's Law as well.BRADY HARAN: Just a quick
+interjection--you can also apply this to the
+number of times you watchNumberphile videos or leave
+comments underneath.More information at the
+end of the video.STEVE MOULD: So the explanation
+is to do withscale invariance, which
+I'm just gettingmy head around now.But there are a couple
+of intuitive ways ofunderstanding it.One of them is to use the
+idea of a raffle.To begin with, it's a
+very small raffle.So there are only two tickets
+in this raffle.What are the chances of the
+winning ticket in this rafflehaving a leading digit of one?Well, that's this one.So it's one in two.It's 50%.But then if you increase the
+size of the raffle, so thereare now three tickets in the
+raffle, the chance now are onein three or about 33%.If you add a fourth ticket, then
+the probability of theleading digit of the winning
+ticket being a one is now 25%,and then 20%, and so on and so
+on until you have a rafflewith nine tickets in it.And then the probability of the
+winning ticket having aleading digit of one
+is one in nine.It's 11%, which was the
+intuitive thingthat you might think.But then you add your
+tenth ticket.And now there are two tickets
+that start with a one.So now the probability
+is 2 in 10 or 1 in 5.So it would go back up to 20%.The probability will go up, and
+up, and up as you add moretickets that start with a one.And once you have a raffle with
+19 tickets in it, you'reup to something like 58%.And then you add the
+20th ticket.And so the probability
+goes down again.So the probability of the
+winning ticket having aleading digit of one will go
+down, and down, and downthrough the 20s.It will go down through the
+40s, down through the 50s,60s, 70s, 80s, 90s, until you
+add the hundredth ticket.And then the probability will
+start to go up again.And then the probability will go
+up, and up, and up, all theway through the 100s.And then you get to the 200s,
+and it goes down, and down,and down through all the 200s,
+300s, 400s, 500s, 600s, 700s,800s, 900s.And you'll be back to
+11% again then.Then you add the thousandth
+ticket.And the probability will
+start to go up again.So the probability goes up,
+and up, and up through thethousands and then down through
+the 2000s, 3000s,blah, blah, blah.And then you get to 10,000
+and it goes up.And so basically the probability
+of the winningticket having any digit of one
+fluctuates as the size of theraffle increases.And so this is a log scale of
+the raffle increasing in size.So you might have a 10, 100,
+1,000, 10,000, and so on.And then this is the probability
+here of having aleading digit of one.It goes like that.What Frank Benford realized was
+that if you pick a numberfrom a distribution that spans
+loads of orders of magnitude,or if you pick a number from
+the world and you don'tnecessarily know what the
+distribution is in advance,then it's like picking a ticket
+from a raffle when youdon't know the size
+of the raffle.So you have to take the average
+of this wiggly line,which is what he did.So that's the average there.And it's around 30%.There's a formula for it, which
+is the probability ofpicking a number with a
+particular leading digit of dis equal to log to base 10
+of 1 plus 1/d, like that.And so that's how you do it.And if you plug one into
+there, then it'slog base 10 of two.And it ends up being
+about 30%.The beauty is that you can
+do it in any base.So this doesn't have
+to be base 10.It could be base five, base 16,
+whatever you want to do.You can apply Benford's Law
+to different bases.This is a formula that a
+forensic accountant would useas a tax formula of something
+like that.If you're making up numbers in
+your accounts and the numbersyou make up don't follow
+Benford's Law, then that's aclue that you might
+be cheating.So this is a formula you need to
+remember if you're going tocheat on your tax return.BRADY HARAN: A lot of things
+that mathematically inclinedpeople like yourself tell me
+when I hear about them seemcounter-intuitive.And then you cleverly explain
+why it works the way it works.This is one of the few things
+that when I've heard about it,this just seems logical to me.When someone says one will come
+up more often, to me thatjust seems like, of course
+that would happen.STEVE MOULD: Yes.Funny isn't it?Some people are like you.I would say you're in the
+minority of people that go,well, yeah.And I wonder if there is another
+intuitive way oflooking at it that you've tapped
+into, which is that ifyou imagine something like
+the NASDAQ index orsomething like that--and I don't know what the NASDAQ
+index is size-wise--but imagine that the NASDAQ
+index is at 1,000.To change that to 2,000, you'd
+have to double it.So the NASDAQ index would have
+to increase by 100% to getfrom something that starts with
+a one to something thatstarts with a two.So that's quite a big change.But if the NASDAQ index was
+on 9,000 and you wanted toincrease it to 10,000, then
+that's an 11% increase.So it's hardly anything.So basically, you don't really
+hang around the nines.As things are growing and
+shrinking, you don't hangaround, whereas you do
+hang around the ones.And maybe that's intuitive
+to you.So you're like, yeah
+obviously.BRADY HARAN: If you'd like to
+see even more about Benford'sLaw, we've done a bit of a
+statistical analysis to findout whether or not your viewing
+habits and the numberof times you comment on
+Numberphile videos isfollowing the Benford curve.The link is below this video
+or here on the screen.So why don't you check it out?

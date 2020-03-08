@@ -1,0 +1,44 @@
+We're asked to rewrite
+the expression 7times open parentheses 5
+plus 11 close parenthesesas the sum of 35 and
+another whole number.So really what they're
+asking us to dois just apply the
+distributive property.We have 7 times the
+quantity 5 plus 11.Now this is easy to calculate.You could just say 5 plus 11 is
+16 and then 16 times 7 is what?That's 70 plus 42
+which would be 112.But that's not what
+they're asking us to do.They're not saying
+just calculate this.They're saying
+express this as a sumof 35 and another whole number.So let's apply the
+distributive propertyand let's see if we
+can get a sum of 35and another whole number.So 7 times 5 plus 11, that's
+the same thing as 7 times 5plus 7 times 11.And you can see with
+this expression editorright over here,
+it tells you-- itputs it kind of the
+nice math formattingfor what it looks
+like for the computer.So if we're distributing
+the 7 over the 5 and the 11,it's 7 times 5 plus 7 times 11.Well, 7 times 5 is 35.And 7 times 11 is 77.Now, have we done what
+they're asking us?They said rewrite
+this expressionas the sum of 35 and
+another whole number.Well, we've done that.We've written it as a sum of
+35 and another whole numberand we were able to do it using
+the distributive property.So let's check to make sure
+that we got the right answer.Yes, we did.Let's do one more of these.Rewrite the expression 12 plus
+75 in the following form--a times 4 plus c where a and
+c represent whole numbers.Now this might look
+complex, but they're reallyasking us to factor
+out an a-- factoringout an a out of this
+expression right over here.Seeing how much
+we can factor outso that one of these
+two numbers becomes a 4.So let's think about
+how to do that.If we look at these two numbers,
+the greatest common divisorof 12 and 75 looks like it is 3.Both of them are divisible by 3.So you can write 12.12 is the same
+thing as 3 times 4.And 75 is the same
+thing as 3 times 25.Now what we could do is we could
+essentially factor out the 3.So this is where you could say
+we're undistributing the 3.So that's the same thing.3 times 4 plus 3
+times 25, that'sthe same thing as
+3 times 4 plus 25.And it looks like we've
+actually put it in the formthat they want us to put
+it in, where 3 is a and 4is right there.It's 4.And then c is 25.So we've put it
+in the right form.Let's check our answer.We got it right.

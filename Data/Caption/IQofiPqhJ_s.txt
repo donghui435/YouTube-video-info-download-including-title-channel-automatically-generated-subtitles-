@@ -1,0 +1,70 @@
+ DR JAMES GRIME: We did a video.I'd done it some time ago
+about Mersenne primes.And offhandedly, just
+off the cuff, I saidthat 1 wasn't a prime.Now, if I'm honest, we
+don't say 1 is prime.There's a special
+reason for that.And we noticed that some people
+in the comments said,well, I think I've heard of this
+before, but why is that?Why isn't 1 a prime?So what is a prime number?Let's think of the definition.You probably know
+the definition.A prime number is a number that
+can only be divided by 1and itself.So the prime numbers are
+2, 3, 5, 7, 11, 13.You know these numbers.So it sounds like 1 should
+be a prime number, right?It fits the definition
+of the prime number.You can divide by 1, and
+you can divide byitself, which is 1.And historically, it was
+considered a prime number.So if you're thinking, hmm, it
+sounds like it should be.Well, that's what they
+used to think.That's what mathematicians
+used to think as well.But in the end, they
+had to exclude itfrom the prime numbers.Oh poor old 1, 1 is the
+loneliest number, theloneliest number
+you'll ever do.So it's excluded for a reason.There's a really important
+theorem in mathematics.It's called the Fundamental
+Theorem of Arithmetic.Now, it says that every positive
+whole number can bewritten as a product by
+multiplying prime numbers.So here it is.I didn't want to write it
+out, so here it is.Every positive whole number, or
+integer, if you like, canbe written as a unique
+product of primes.So you can tell this is an
+important theorem because ithas a name.And you can tell it's a very
+important theorem because ithas a pompous name.So what this means is prime
+numbers are our atoms, likeatoms in chemistry.They can be used to make other
+numbers by multiplying theseprimes together.So for example, 15
+is 3 times 5.3 and 5 are prime.And you can make 15 from
+multiplying primes together.But there's a very important
+word here in this theorem.Look at this word, unique.Now that's not just there
+for decoration.Every word is important,
+unique.It has to be a unique product.There's only one way to do it.Now we know, of course, that
+15 is also 5 times 3.We don't mind that,
+that's allowed.We don't mind that.What we don't like is that
+15 is 1 times 3 times 5.Not only that, but it's also
+1 times 1 times 3 times 5.And it's 1 times 1 times 1 times
+3 times 5, and so on.If 1 was a prime, then we
+wouldn't have a unique way ofwriting 15 as a product
+of prime numbers.So what this meant was, when
+they used to think it wasprime, they had to keepexcluding 1 from your theorems.You would have to keep saying,
+take all the prime numbers,except for 1.And we just got tired
+of doing that.So we just decided to exclude 1
+from our definition of primeto begin with.So 1 isn't a prime number.It isn't considered a composite
+number, where youmake the other numbers
+from primes.No, it has a category all of
+its own, where it sits, alllonely by itself.BRADY HARAN: But why does
+this mean 1's not prime?Maybe it's just a
+stupid theorem.Maybe the theorem's no good.Why does the theorem
+beat number 1 out?DR JAMES GRIME: We have a choice.We have a choice to include
+it in that categoryif we wanted to.Prime's just a word, it's
+just a category.And it's more useful for us to
+say, take this list, which isthe list of all the primes.And it doesn't have 1 on it.It's more useful to say,
+take this list.And that list is 2, 3, 5,
+7, 11, blah, blah, blah.BRADY HARAN: Looking at that
+theorem, doesn't that meanthat 1 isn't a whole number
+because 1, surely 1 can't bemade as a unique product
+of primes?DR JAMES GRIME: OK.Well, let's have a look.Let's take--I'll start with 16.16 is a product of primes
+because it's 2 times 2times 2 times 2.It's four primes.8 is a product of primes.It's 2 times 2 times 2.So I've just divided
+by 2 there.4 is a product of two primes.The number 2, the prime number
+2, is a product of just oneprime number.And then if I divide by 2 again,
+I get 1, which is theproduct of zero prime numbers.It's called an empty product.So we've got a product of 4
+primes, 3 primes, 2 primes,continue the pattern, 1
+prime, and 0 primes.It's 1, and it's not 0.It's 1, it's called
+an empty product. Oh, that won't be it
+for the number 1.We'll be hearing from the number
+1 again soon, I'm sure. 

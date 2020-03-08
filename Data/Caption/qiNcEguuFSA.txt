@@ -1,0 +1,125 @@
+A problem worthy of attack proves its
+worth by fighting back.And that's what Fermat's last theorem was
+doing, it was fighting back.So we are talking about Fermat's last theorem I
+suppose the place to start is with Fermat,Pierre de Fermat,he was a 17th-century
+mathematician living and working inFrance - not working as a mathematicianbut working as a judge. Every evening he'd go
+home - and math was his hobby -one evening he was looking at an
+equationwhich looks a bit like Pythagoras'
+equation which I suppose isX squared plus Y squared equals Z
+squared.And he was looking for whole number
+solutions to that equation, and there arelots, you know there's 3 squared plus4 squared, 5 squared. So that's a
+whole number solution tox^2 + y^2 = z^2.
+Now Fermat asked himself the question:"What if I change this equation so
+instead of it being x squared,what about if it's x cubed or x to
+the fourth power? Are there solutions to that equation? So
+in general we're talking aboutx^n + y^n = z^nx^n + y^n = z^nwhere n is bigger than 2. Does that
+equationhave any whole number solution?" He
+thought about it for a whileand couldn't find any whole number
+solutions, and then he went one stepfurther:not only could he not find any whole
+number solutions,he believed he found an argument, he
+beleived he found a proofthat showed without any doubt
+whatsoeverthere were no whole number solutions. So
+this is kinda weird,because we have one equation
+x^2 + y^2 = z^2that has not just one solution, it
+actually has an infinite numberof solutions.And then we have an infinite number of
+equations: x^3 + y^3 = z^3,x^4 + y^4 = z^4,an infinite number of equations which
+apparently have no solutions.And Fermat discovered it's proof, and he
+wrotein the margin of a book he was reading
+that evening, called the Arithmetica by Diophantus,he wrote in the margin in his book, he
+wrote: I have a truly marvelous proofwhich this margin is too narrow to
+contain.Hanc marginis exiguitas non caperet
+in Latin.In other words: "I know how to prove that
+this equation has no solutions,but I don't have the space to write it
+down." And then he drops dead.It very much was a secret proof which he
+never wrote down,and after his death his son, Samuel Cl¨¦mantI think, rediscovered this book which had
+this marginal note:I have a truly marvelous proof -
+demonstrationem mirabilem - which these margins are too narrow to
+contain. In fact the book is full ofthese little annoying notes: "I can prove
+this but I gotta go to feed the cat, I can provethis but I gotta go and wash my hair."So Fermat was quite annoying in this
+respect.So his son published a new version of the
+book- the Arithmetica by Diophantus - 
+the book with all of Fermat's littlenotes printed in the text. And people
+would look at these notes,and they were: "Fermat
+said he can prove this, let's try!"And one by one people rediscovered the
+missing proofs.And every case where Fermat said
+"I have a proof", he was right, there was aproof,except in this one example here.Fermat's last theorem is called Fermat's
+last theorem because it was the last one thatanybody could actually find the proof for.
+And of course because it's the last one thatanyone can proveit's the most precious one, it's the one
+that's the most desirable.And the more that people try, the more
+they fail, the more wonderful it becomes.And this goes on for decades, it goes
+on for centuries.Right through to the 20th century were
+people desperateto rediscover what Fermat's proof might
+have been.[Brady]Is that they have widely-held that he
+had done it or had he disclaimed, likewas he telling the truth? [Singh]I think by the
+time we get to 20th century it's quite clear that this is an incredibly
+complex problem. Itssimple to jot down in a few scribbles
+what the question is, it's easy todescribe the problem.The proof is clearly profoundand probably beyond Fermat's reach to
+be honest.Some people say Fermat was just fooling
+around, that it was just a trick,that he left something in his book that he knew 
+would trouble subsequent generations -I think that's the least likely.Some people say that he did have a
+genuine proofand it's beautiful, it's elegant and it's
+17th century,and we could kinda rediscover that
+proof but we're just not quite clever enough.I think that's possible but unlikely.I think the most likely explanation is Fermatthought he had a proof. Because he was working
+on his ownand because he didn't show this proof to
+anybody elsenobody could tell him: "Ow, there is a mistake
+there, that line 3has got something wrong with it." And
+that's very likely because we know thatsubsequent generations of mathematiciansthought they'd found a proof and then
+they publish it and people would tearit apart and find the error.So what we're looking for is not Fermat's
+proof - which was probably flawed - but we're
+looking for some kind of proof to see wheter Fermat was right all along?
+It has a happy ending.And it starts with a ten-year-old child,a child called Andrew Wiles, who was reading a
+book one day -he's growing up in Cambridge, he wents to
+the library, he got a book called The lastproblem by E.T. Bell.And the book is all about
+Fermat's last theorem.And little Andrew Wiles, age 10,decided that he was going to rediscover the
+missing proof.Because a bright ten-year-old can
+understand the problem. A bright ten-year-olddoesn't realize what they're letting
+themselves in for, but that's another story. And he
+tried, he talked about, to theschool teachers about the problem,he talked to his A-level teachers about the
+problem, he goes to university talked to hisundergraduate lecturers about the problem.He has a PhD and still this problem is
+obsessing him.I think he was about in his late 30's by
+this time he was a Princeton professor -there was something called the
+Taniyama-Shimura conjecture whichI kinda think we don't really
+want to get into at the moment -which had been proposed in the 50's. So a 
+conjecture is an idea thatwe don't know whether it's true or not,
+but somebody is putting it on the table. Somebodyproved that there was a link between
+these two conjectures.It is much as: if you could prove most of
+the Taniyama-Shimura conjectureyou would get Fermat's last theorem for free.
+So somehow Fermat's last theorem is embedded inthis other conjecture.And Andrew Wiles' childhood passion, his
+childhood obsession is reignitedbecause he thinks the Taniyama-Shimura
+conjecture is worth a go.You know he thinks he can get his teeth
+into that. But it's stilla crazy thing to try and do and so
+because it was such an absurd and ambitious challenge, Wiles didn't tell anybody
+about it.He worked on in complete secrecy,he started not attending committee
+meetings, he started going to his officeless and less, he started tofocus on this problem. Once again:not because it was the Taniyama-Shimura
+conjecture but because it would give himFermat's last theorem for free.And for 7 years he worked in complete
+secrecyand at the end of 7 years he
+suddenly realizedthat he had Taniyama-Shimura and
+if he had Taniyama-Shimura,he had a proof of Fermat's last theorem. He went
+to Cambridge, he presented his proof on ablack board,it was a three-part lecture, the world
+cheered, he was the front page of the New York Times, he wason CNN he was everywhere. But the
+sting in the taleis that in any mathematical proof you
+have to have it checked.You have to have it refereed and published, and
+when he went through the checking process somebody found a mistake. Wiles assumed
+that he could fix it,but the more he tried to unravel this
+problem the worse it became.And it became a huge embarrassment, you know
+you've been loathed(?) as the greatestmathematician of the 20th century,you are a hero figure and now you have to
+admit you made a mistake.And it took a whole year, but at the end
+of that yearAndrew Wiles working with a chap(?)
+called Richard Taylormanaged to fix the proof. I think
+it's a bit like the Terminator film, I often talk about,
+you know when you just think you'veslained the monster when you've killed
+the Terminator it comes back to life andyou have to fight in one last time.
+And somebody, one mathematician I thinkPete Hinesonce wrote: "A problem worthy of attackproves its worth by fighting back." And
+that's what Fermat's last theorem was doing,it was fighting back,but Wiles proved that he was too good. And of
+course what Wiles provedis that Fermat was right, this equationx^n + y^n = z^n, n bigger than 2,has no whole number solutions and that's
+the end of the story.[Brady]If you'd like to see a bit more from
+this interview with Simon, I've got someextra footage,I'll put a link in the description. Simon's
+also got a book about Fermat's lasttheorem, that's excellent, I recommend that,links below, and just this week he's got
+a new book out -funny about that - it's all about
+mathematics in the Simpsons and I thinkanyone who likes Numberphile is gonna
+love this one.I'll put a link below, but he's also done an
+interview with meabout Fermat's last theorem in the
+Simpsons,which I think you'll all enjoy and I'll put
+that on to Numberphile really soon.But in the meantime, lots of links below
+I'll put a link to the Wiles paper,a few other bits and pieces that I want
+you to see, so have a good look.

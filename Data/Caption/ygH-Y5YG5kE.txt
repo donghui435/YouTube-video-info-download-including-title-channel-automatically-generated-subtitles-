@@ -1,0 +1,40 @@
+Hi guys! I'm Nancy.
+And today we're going to talk about how tofind the vertex of a parabola.
+So the first thing you'll need to know isif you've been given the standard form of
+the parabola, or the vertex form of the parabola.Say that you've been given the standard form
+of the equation of a parabola. Such as Y equals-2X squared plus 4X plus 1.
+Now that is the standard form, which in generallooks like Y equals A X squared plus B X plus
+C.So in your case, your A is -2, your B is 4
+and your C is 1.Now for the vertex, all you need to remember
+is the formula -B over 2A.It's really all you need. -B over 2A.
+So in this problem, -B over 2A is equal to-4 over 2 times -2. Which turns out to be
+-1 over -1, or just positive 1.OK, so what trips people up in finding the
+vertex is that they don't know the equation.So if you can remember -B over 2A, then you're
+set. That will give you the vertex.So all you need to do is remember the formula
+-B divided by 2A.So now you have 1, which is your X coordinate
+in your vertex pair. So you're halfway there.That was actually the hard part.
+And all you have to do is take that 1, thatX, and plug it in for X and plug it in for
+X in your original equation.So here that means, Y = -2 times 1 squared
+plus 4 times 1 plus 1.And that simplifies to -2 plus 4 plus 1, which
+equals 3.So now you know that the Y coordinate in your
+vertex is 3.So your vertex is the point 1, 3.
+OK, so now we're gonna look at the vertexform, which is great cause it's super easy!
+As if you needed another form.But this one is actually a lot easier, because
+if you're given this form, you can literallypull the vertex coordinates straight from
+the equation.The vertex form in general looks like Y equals
+A times X minus H squared plus K.And all you need to know is that H, K is your
+vertex.So it really is just pattern matching. You
+want to match H and K to the numbers thatyou were given.
+If it was minus H in the general equation,and minus 1 in your example, then you H equals
+1. And your K equals 3.So the vertex for this problem would be H,
+K or 1, 3.And that's it.
+So sometimes the signs are a bit more confusing,so I'm going to show your another one.
+So remember the vertex form looks like this.So if you are given an equation
+that instead has an X plus a numberinside the square,
+all you'll need to do is rewrite it so thatit's in the X minus form.
+So we would have 2 times X minus a negative 3.Since minus a negative is the same as plus -- plus 3.So now you can see to match it to the vertex
+form, H has to be -3.So the vertex in this case would have an X
+value of -3.And a Y value that is K.
+Which is simply positive 4.So our point, our vertex, is -3, 4.
+OK guys, so I hope that helped you figuredout how to find the vertex of a parabola.
+If you like this video, click 'Like' and letme know!

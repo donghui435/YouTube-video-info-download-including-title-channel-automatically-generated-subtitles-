@@ -1,0 +1,33 @@
+Find the domain
+of f of x is equalto the principal square
+root of 2x minus 8.So the domain of
+a function is justthe set of all of the possible
+valid inputs into the function,or all of the possible
+values for whichthe function is defined.And when we look at how the
+function is defined, rightover here, as the square root,
+the principal square root of 2xminus 8, it's only
+going to be definedwhen it's taking the
+principal square rootof a non-negative number.And so 2x minus
+8, it's only goingto be defined when 2x minus 8
+is greater than or equal to 0.It can be 0, because then you
+just take the square root of 0is 0.It can be positive.But if this was negative,
+then all of a sudden,this principle square root
+function, which we're assumingis just the plain vanilla
+one for real numbers,it would not be defined.So this function definition is
+only defined when 2x minus 8is greater than or equal to 0.And then we could
+say if 2x minus 8has to be greater
+than or equal to 0,we can solve this
+inequality to seewhat it's saying about
+what x has to be.So if we add 8 to both
+sides of this inequality,you get-- so let me just
+add 8 to both sides.These 8's cancel out.You get 2x is greater
+than or equal to 8.0 plus 8 is 8.And then you divide
+both sides by 2.Since 2 is a
+positive number, youdon't have to swap
+the inequality.So you divide both sides by 2.And you get x needs to be
+greater than or equal to 4.So the domain here is the
+set of all real numbers thatare greater than
+or equal to 4. xhas to be greater
+than or equal to 4.Or another way of saying
+it is this functionis defined when x is
+greater than or equal to 4.And we're done.

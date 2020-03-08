@@ -1,0 +1,136 @@
+In the last video, I showed you
+that if someone were to walkup to you and ask you what
+is the arcsine-- Whoops.--arcsine of x?And so this is going to be
+equal to who knows what.This is just the same thing
+as saying that the sine ofsome angle is equal to x.And we solved it in a couple
+of cases in the last example.So using the same pattern--
+Let me show you this.I could have also rewritten
+this as the inverse sineof x is equal to what.These are equivalent
+statements.Two ways of writing the
+inverse sine function.This is more-- This is the
+inverse sine function.You're not taking this to
+the negative 1 power.You're just saying the sine of
+what-- So what question mark--What angle is equal to x?And we did this in
+the last video.So by the same pattern, if I
+were to walk up to you on thestreet and I were to say the
+tangent of-- the inversetangent of x is equal to what?You should immediately in your
+head say, oh he's just askingme-- He's just saying the
+tangent of some angleis equal to x.And I just need to figure
+out what that angle is.So let's do an example.So let's say I were walk
+up to you on the street.There's a lot of a walking
+up on a lot of streets.I would write -- And I were
+to say you what is thearctangent of minus 1?Or I could have equivalently
+asked you, what is theinverse tangent of minus 1?These are equivalent questions.And what you should do is you
+should, in your head-- If youdon't have this memorized, you
+should draw the unit circle.Actually let me just do a
+refresher of what tangentis even asking us.The tangent of theta-- this is
+just the straight-up, vanilla,non-inverse function tangent
+--that's equal to the sine oftheta over the cosine of theta.And the sine of theta is the
+y-value on the unit function--on the unit circle.And the cosine of
+theta is the x-value.And so if you draw a line--
+Let me draw a littleunit circle here.So if I have a unit
+circle like that.And let's say I'm
+at some angle.Let's say that's
+my angle theta.And this is my y-- my
+coordinates x, y.We know already that
+the y-value, this isthe sine of theta.Let me scroll over here.Sine of theta.And we already know that this
+x-value is the cosine of theta.So what's the tangent
+going to be?It's going to be this distance
+divided by this distance.Or from your algebra I, this
+might ring a bell, becausewe're starting at the origin
+from the point 0, 0.This is our change in y
+over our change in x.Or it's our rise over run.Or you can kind of view the
+tangent of theta, or it reallyis, as the slope of this line.The slope.So you could write slope is
+equal to the tangent of theta.So let's just bear that in mind
+when we go to our example.If I'm asking you-- and I'll
+rewrite it here --what is theinverse tangent of minus 1?And I'll keep rewriting it.Or the arctangent of minus 1?I'm saying what angle gives
+me a slope of minus 1on the unit circle?So let's draw the unit circle.Let's draw the unit
+circle like that.Then I have my axes like that.And I want a slope of minus 1.A slope of minus 1
+looks like this.If it was like that, it
+would be slope of plus 1.So what angle is this?So in order to have a slope
+of minus 1, this distance isthe same as this distance.And you might already recognize
+that this is a right angle.So these angles have
+to be the same.So this has to be a
+45 45 90 triangle.This is an isosceles triangle.These two have to add up to 90
+and they have to be the same.So this is 45 45 90.And if you know your 45 45 90--
+Actually, you don't even haveto know the sides of it.In the previous video, we
+saw that this is goingto be-- Right here.This distance is going to be
+square root of 2 over 2.So this coordinate in the
+y-direction is minussquare root of 2 over 2.And then this coordinate right
+here on the x-direction issquare root of 2 over 2 because
+this length rightthere is that.So the square root of 2 over 2
+squared plus the square root of2 over 2 squared is
+equal to 1 squared.But the important thing
+to realize is this isa 45 45 90 triangle.So this angle right here is--
+Well if you're just looking atthe triangle by itself, you
+would say that this isa 45 degree angle.But since we're going clockwise
+below the x-axis, we'll callthis a minus 45 degree angle.So the tangent of minus 40--
+Let me write that down.So if I'm in degrees.And that tends to
+be how I think.So I could write the tangent of
+minus 45 degrees it equals thisnegative value-- minus square
+root of 2 over 2 over squareroot of 2 over 2, which
+is equal to minus 1.Or I could write the arctangent
+of minus 1 is equalto minus 45 degrees.Now if we're dealing with
+radians, we just have toconvert this to radians.So we multiply that times--
+We get pi radians forevery 180 degrees.The degrees cancel out.So you have a 45 over 180.This goes four times.So this is equal to-- you
+have the minus sign--minus pi over 4 radians.So the arctangent of minus 1 is
+equal to minus pi over 4 or theinverse tangent of minus 1 is
+also equal to minus pi over 4.Now you could say, look.If I'm at minus pi
+over 4, that's there.That's fine.This gives me a value of
+minus 1 because the slopeof this line is minus 1.But I can keep going
+around the unit circle.I could add 2 pi to this.Maybe I could add 2 pi to this
+and that would also give me--If I took the tangent of that
+angle, it would alsogive me minus 1.Or I could add 2 pi again and
+it'll, again, give me minus 1.In fact I could go to
+this point right here.And the tangent would also
+give me minus 1 becausethe slope is right there.And like I said in the sine--
+in the inverse sine video, youcan't have a function that
+has a 1 to many mapping.You can't-- Tangent inverse
+of x can't map to a bunchof different values.It can't map to
+minus pi over 4.It can't map to 3-- what it
+would be? --3 pi over 4.I don't know.It would be-- I'll just
+say 2 pi minus pi over 4.Or 4 pi minus pi.It can't map to all of
+these different things.So I have to constrict
+the range on theinverse tan function.And we'll restrict it very
+similarly to the way werestricted the sine--
+the inverse sine range.We're going to restrict it to
+the first and fourth quadrants.So the answer to your inverse
+tangent is always going to besomething in these quadrants.But it can't be this
+point and that point.Because a tangent function
+becomes undefined at pi over2 and at minus pi ever 2.Because your slope
+goes vertical.You start dividing--
+Your change in x is 0.You're dividing-- Your
+cosine of theta goes to 0.So if you divide by
+that, it's undefined.So your range-- So if I--
+Let me write this down.So if I have an inverse tangent
+of x, I'm going to-- Well,what are all the values that
+the tangent can take on?So if I have the tangent of
+theta is equal to x, what areall the different values
+that x could take on?These are all the possible
+values for the slope.And that slope can
+take on anything.So x could be anywhere
+between minus infinityand positive infinity.x could pretty much
+take on any value.But what about theta?Well I just said it.Theta, you can only go
+from minus pi over 2 allthe way to pi over 2.And you can't even include pi
+over 2 or minus pi over 2because then you'd be vertical.So then you say your--
+So if I'm just dealingwith vanilla tangent.Not the inverse.The domain-- Well the domain of
+tangent can go multiple timesaround, so let me not
+make that statement.But if I want to do inverse
+tangent so I don't havea 1 to many mapping.I want to cross
+out all of these.I'm going to restrict theta, or
+my range, to be greater thanthe minus pi over 2 and less
+than positive pi over 2.And so if I restrict my range
+to this right here and Iexclude that point
+and that point.Then I can only get one answer.When I say tangent of what
+gives me a slope of minus 1?And that's the question
+I'm asking right there.There's only one answer.Because if I keep-- This
+one falls out of it.And obviously as I go around
+and around, those fall out ofthat valid range for theta
+that I was giving you.And then just to kind of
+make sure we did it right.Our answer was pi over 4.Let's see if we get that
+when we use our calculator.So the inverse tangent of
+minus 1 is equal to that.Let's see if that's the same
+thing as minus pi over 4.Minus pi over 4 is
+equal to that.So it is minus pi over 4.But it was good that we solved
+it without a calculator becauseit's hard to recognize
+this as minus pi over 4.

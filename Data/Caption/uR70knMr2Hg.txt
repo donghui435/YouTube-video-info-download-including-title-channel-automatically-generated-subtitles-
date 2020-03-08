@@ -1,0 +1,46 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U.So far we have seen how to define a seteither by listing its membersor by using set-builder notationto state the properties that
+every element of the set must satisfy.We also described several types of relations
+that can exist between sets.In this lecture, we will describe several
+operations which can be performed on setssuch as intersections and unionsand see how these relations and operations
+can be visualized graphicallyby using what is called a Venn Diagram.In a Venn diagram, sets are usually represented
+by circles or other types of enclosed areas.The interior of the circle
+represents all the elements of the setwhile the exterior represents any elements
+that are not members of the set.For instance, let's say that we have two sets,
+A and B.Drawing the sets so that they don't overlapimplies that the two sets contain
+completely different elements.In this case, we say that the two sets
+are "disjoint".Disjoint sets have no elements in common.If the two circles overlapthis indicates that there are one or more
+elements common to both sets.The intersecting area represents elements
+that are members of both A and B.This collection of common elements is called
+the "intersection" of sets A and B.We denote set intersection by a symbol
+which looks like an inverted U.This collection of common elements
+forms a new set.For example, if set A contains the elements
+1, 2, and 3and set B contains 2, 3 and 4then the elements which A and B have in common
+are 2 and 3and this intersection forms a new set
+containing the elements 2 and 3.Two disjoint sets have no elements in common
+so their intersection forms the empty set.Forming the intersection of two sets
+is a binary set operationin the same way that forming the sum
+of two numbersis a binary numerical operation.The result of this set operation
+is another setjust as the result of this numerical operation
+is another number.Using set-builder notationwe can write the definition of
+an intersection of two sets formally asThe intersection of sets A and Bis the set of all elements xsuch thatx is a member of Aand x is a member of B.Another important set operation
+is the "union" of sets.The union of two sets A and Bincludes all elements which are members
+of either A or B.If sets A and B have any elements in commonthen these elements
+which are members of both setsare only included once in the union.For example, if set A contains the elements
+1, 2, and 3and set B contains 2, 3 and 4then the elements which are members
+of A or B are 1, 2, 3, and 4.This union forms a new set
+containing the elements 1, 2, 3, and 4.Notice that even though 2 and 3
+are members of both sets A and B2 and 3 are only listed once
+when we write the union.Using set-builder notationwe can write the definition of
+the union of two sets formally asThe union of sets A and Bis the set of all elements xsuch thatx is a member of Aor x is a member of B.Subsets and supersets can also be represented
+using Venn Diagrams.In a Venn Diagram, a subset is typically shown
+as a smaller region within the larger superset.For instance, in this diagram
+set A is a subset of Band set B is a superset of A.If we use a Venn diagramto illustrate the relations between the sets
+of numbers we have studied in pre-algebrait might look like this.Remember that in a Venn diagramalthough sets are usually represented
+by circles or ovalsthey can be illustrated by any type of
+enclosed area.This diagram shows
+that the set of natural numbersis a subset of the set of whole numberswhich is a subset of the set of rational numbers.The union of the set of rational numbersand the set of irrational numbersforms the set of real numbers.So far we have seen
+how various relations between setsas well as set operations
+such as intersections and unionscan be represented using Venn Diagrams.In the next lecture
+we will see how Venn Diagramscan be used to visualize
+more complex operations.

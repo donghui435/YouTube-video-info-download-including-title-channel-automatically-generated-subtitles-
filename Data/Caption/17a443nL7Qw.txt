@@ -1,0 +1,34 @@
+Solve for x plus 8 is
+less than or equal to 6and graph the solution.So we have x plus 8 is
+less than or equal to 6.So let's solve this
+inequality for x.And the easiest way to isolate
+an x on-- let's isolateon the left-hand side
+since it's alreadythere-- is to just
+get rid of this 8.And the best way to get
+rid of this positive 8is to subtract 8 from both
+sides So let's subtract 8from both sides.That won't change the
+direction of the inequality.So the left-hand side--
+x plus 8 minus 8.And you're just left with an x.The right-hand side-- 6
+minus 8 is negative 2.And we still have the
+less than or equal.So we solved the inequality.We have x is less than
+or equal to negative 2.So let's draw that
+on a number line.So that's my number line.Let's stick 0 over here.Maybe if we go 1,
+and then we couldgo negative 1,
+negative 2, negative 3.And we could keep
+going to the left.And we want all of
+the x's that areless than or equal
+to negative 2.Since it can be
+equal to negative 2,we'll put a filled-in line
+right here at negative 2,and all of the values
+less than that.If it was just less than, if
+there wasn't the equal sign,we would have an open dot.But since this is
+less than or equal to,we've closed this dot.And then we want all of
+the values below that.And you could just sample a
+few and verify for yourselfthat they work.Based on this,
+negative 3 should work.And if you took negative
+3-- negative 3 plus 8is 5, which is definitely
+less than 6, so that works.And negative 1 shouldn't work.It's not included in
+this set over here.So let's try that out.Negative 1 plus 8 is 7, which
+is definitely not less than 6.So just sampling
+some points, it seemslike we've got the
+right solution.

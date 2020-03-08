@@ -1,0 +1,78 @@
+>> Professor Perez: Hey!This is Professor Perez again.Today we're going to look an
+introduction to the distributive property.Of course, we've got to get Charlie out here.He better be ready!Hey, Charlie, you ready to go?>> Charlie: Ya...>> Professor Perez: All right, here we go.Right here.Introduction to the distributive property.So, what the distributive property
+is, is what we're going to do,is we're going to distribute a number across an
+addition or a subtraction using multiplication.Let me give you an example here.2 times 5 plus 3.Notice the 5 plus 3 is in parenthesis.Before we get to the distributive property,what we could do is add the
+two numbers in the parenthesis.You'll see when we get to
+the Order of Operations,that that is what we're supposed to do first.Okay, that's coming up soon.So watch. We take what's in
+the parenthesis, 5 plus 3.What's 5 plus 3, Charlie?>> Charlie: 8.>> Professor Perez: 8.Don't forget we have a 2.Now what's the operation, Charlie?It's 2 outside of a parenthesis.There is no operation written
+down, so it's assumed to be what?>> Charlie: Multiplication.>> Professor Perez: Multiplication.And so, 2 times 8 is what, Charlie?>> Charlie: 16.>> Professor Perez: 16, same as 8 times 2.Now, same problem, but now we're going
+to demonstrate the distributive property.Notice there's a 2 outside the parenthesisthat 2 outside the parenthesis
+means you've got to multiply.But, you don't have to add what's in the
+parenthesis first, you can add 5 plus 3,but what we're going to do is
+we're going to distribute the 2to the 5 and to the 3 by multiplication.Watch, Charlie.We first start with 2 times 5.So we'll bring that down.We did 2 times 5.And now, in the parenthesis our operation
+was addition, so we'll bring that downand now we take the 2 and multiply
+to the 3 and that's 2 times 3.Notice the 2 was distributed to each the 5
+and to the 3 and operation is multiplication.And now, what's 2 times 5, Charlie?>> Charlie: 10.>> Professor Perez: 10, same as 5 times 2.And what's 2 times 3?>> Charlie: 6.>> Professor Perez: 6, same as 3 times 2.And anyway, what's 10 plus 6, Charlie?>> Charlie: 16.>> Professor Perez: 16 and notice
+the two answers are exactly the same.16. Now, of course, most of
+you are probably saying, "Well,I'm just going to do the parenthesis first."Yeah, but you can't do that
+all the time, you'll see.Because I know you're asking, "When am I
+ever going to use the distributive property?"Well, you'll see very soon.Now, same problem, Charlie.2 times 5 plus 3.Now somebody mentioned this technique to
+me so I'm going to go ahead and show it.2 times 5 plus 3 basically means you have
+two 5 plus 3's a being added together,which is true, okay?And 5 plus 3 plus 5 plus 3, you
+can add in any order you want.Remember adding numbers?You can add in any order you
+want and we can just reorder itas 5 plus 5 plus 3 plus 3 which is 10 plus 6.Which is again, 16.Another way of looking at what's 2 times 5
+plus 3 in parenthesis, which is fine, okay?Now, here's the example we haven't
+discussed variables yet in this class,but we're going to demonstrate it right
+now with this distributive property.Now, you cannot add x plus 3 in the parenthesis.Some people think that x plus 3 is 3x.No it's not 3x.It is 3x if you want to repeat
+this class, Charlie.>> Charlie: What?Huh?>> Professor Perez: Okay, x plus 3,
+you cannot add those two together.3x actually means 3 times
+x, we'll get to those later.But, x plus 3 you can't add.So, are you stuck?No. You can apply the distributive property.You can distribute the 2
+to both the x and to the 3.So, 2 times x is written 2x.2x means 2 times x. And our
+operation is additionin the parenthesis so we'll bring that down.And we'll take 2 times 3 which is what, Charlie?>> Charlie: 6.>> Professor Perez: 6, okay.You cannon add 2x plus 6
+and that is your answer.So, you took 2 times the parenthesis x plus 3,and applied the distributive property
+and then end up with 2x plus 6.So, we'll be dealing with that a little
+later in the semester and you'll be dealingwith that a lot in Beginning
+Algebra which is the next class.Okay, now, let's look at a
+subtraction in the parenthesis, Charlie.Let's do the parenthesis first.What's 7 subtract 3?>> Charlie: 4.>> Professor Perez: 4 and you're
+multiplying by 2 which does give you 8 okay?Now let's apply the distributive property.What do you, Charlie?Distribute 2 times 7 is...okay...and your
+operation is subtraction so bring that down.And then what?>> Charlie: 2 times 3.>> Professor Perez: Okay,
+2 times 3, that's right.All right, now, we did 2
+times 7 is what, Charlie?>> Charlie: 14.>> Professor Perez: Okay, bring
+down your subtraction, 2 times 3 is?>> Charlie: 6.>> Professor Perez: 6, and what's 14 subtract 6?>> Charlie: 8.>> Professor Perez: 8, same answer, okay.Now we'll go to this next one.Here we're going to distributive
+across a subtraction and an addition.Same process.We take 2 times 7, bring down your
+operation which is a subtraction,and then we have 2 times 3
+which is...going to be 6.Bring down our addition and
+then we have 2 times 2, right?Okay, so let's do 2 times 7 is what, Charlie?>> Charlie: 14.>> Professor Perez: Subtract 2 times 3>> Charlie: 6.>> Professor Perez: Add 2 times 2.>> Charlie: 4.>> Professor Perez: Very nice, okay.Now remember, you've got to work left to right.14 subtract 6 is what, Charlie?>> Charlie: 8?>> Professor Perez: 8.We've still got to add the 4 and what do we get?>> Charlie: 12.>> Professor Perez: Very
+nice there, Charlie, yes.Now, the problem could have
+been...uh...the answer could have been gottenby first doing the operations
+in the parenthesis.7 subtract 3 is 4, and 4 plus
+2 is 6, and 2 times 6 is 12.Yes, that would be faster, but we're tryingto demonstrate the distributive
+property, how it can be used.Okay, well, let's do 2 times 43.Well, let's think about how do we do this.Well, first, let's break the
+43 in the expanded form, okay?2 times 40 plus 3 and if we distribute
+the 2 through, what's 2 times 40, Charlie?>> Charlie: 80.>> Professor Perez: 80.And we have an addition, and 2 times 3 is?>> Charlie: 6.>> Professor Perez: 6 and that gives you 86.So this is another way of looking at 2 times 43.Well, a lot of us tend to want
+to use this vertical format.What you are soon going to see is this
+vertical format, the reason it works,is because you're using the
+distributive property.It's exactly what you're doing, watch.43 times 2.The first thing you are taught
+to do is do what, Charlie?>> Charlie: 2 times 3.>> Professor Perez: 2 times 3 which is 6, yes.See? It's the distributive property.2 multiplied by 3.And then you take the what?>> Charlie: 2 times 4.>> Professor Perez: Go diagonally and go 2
+times 4, which is 8 and you bring it down.Notice you put the 8 in the tens
+place because you have 8 tens,which is actually 80 and
+so 86 is just 80 plus 6.That's your vertical format.Watch, let's do a more complicated one.Let's do 6 times 134.Don't get scared!What we're going to do is
+write 134 in expanded form.In expanded form Charlie, what's 134?>> Charlie: 100 plus...>> Professor Perez: That's right.100 plus 30 plus 4, okay, now,
+apply the distributive property.What do we get, Charlie?What do we do first?>> Charlie: 6 times 100.>> Professor Perez: 6 times 100 is 600.Bring down our operation.What's next?>> Charlie: 6 times 30.>> Professor Perez: 6 times
+30 which is what, Charlie?>> Charlie: 180.>> Professor Perez: 180, because 6
+times 3 is 18 and 6 times 30 is 180.Okay, Charlie, 6 times 4 is what?>> Charlie: 24.>> Professor Perez: 24, okay.So we work left to right, 600 plus
+180 is 780 plus 24 which is 804.that is the answer.Now, Let's do the vertical format.Now, we're going to a vertical
+format without carrying over.You'll see what I mean.Watch, we first start with 6
+times 4 which is what, Charlie?>> Charlie: 24.>> Professor Perez: 24, that's
+the distributive property.And then we do 6 times 3 which is 18.Now notice, the 3 was in the tens place, so
+the 18, the 8 is written in the tens placeand we bring down a place holder, 180.And then we go 6 times 1 which is 6.It's in the hundreds place, we have 6
+hundreds and we put in our place holders thereand you add them all together and
+the first column is what, Charlie?>> Charlie: 4.>> Professor Perez: 4.Okay, and then we have the 2 and 8 is 10.Put your 0, carry your 1,
+and 1 plus 1 plus 6 is 8.It's 804. That's without the carry over.Well, let's finish this lecture
+by doing the carry over here.Okay, here we go Charlie, pay attention.6 times 4 is 24.Put the 4, carry the 2.6 times 3 is 18, right?Add the 2, is 20, put your 0 down, carry
+the 2, and 6 times 1 is 6 plus 2 is 804.So there you go.That's the vertical format.But these vertical formats are using the
+distributive property, so there you go.That's your introduction to
+the distributive property.So, we're going to work on
+multiplication more, in the future, anyway,keep up with your homework and
+we'll see you all again soon.
+ 

@@ -1,0 +1,81 @@
+Which of the
+following names can beused to describe the
+geometric shape below?So the first name in
+question is a quadrilateral.And a quadrilateral is
+literally any closed shapethat has four sides.And this is definitely a closed
+shape that has four sides.So it is definitely
+a quadrilateral.Next, we have to think about
+whether it is a parallelogram.A parallelogram
+is a quadrilateralthat has two pairs of parallel
+sides, where in each pairthey're opposite sides.And in this case, if you
+look at this side over here,it forms a 90-degree
+angle with this line.And this side over here
+also forms a 90-degree anglewith this line over here.So these two sides are parallel.And then you could make
+the exact same argumentfor the other two sides.This line up here forms a
+90-degree angle with this side.And so does this side.It forms a 90-degree angle
+with this line right over here.They form the same
+angle with this line.They're parallel.So this side is parallel to
+that side right over there.So this is definitely
+also a parallelogram.Next, we ask about a trapezoid.Now, trapezoid is interesting.Sometimes a trapezoid is defined
+as any quadrilateral havingat least one pair
+of parallel sides.Sometimes it's defined
+as having only onepair of parallel sides.So let me write this down.Trapezoid, there's
+a debate here.It's not completely settled.Some people say at least
+one pair of parallel sides.That's one definition,
+one possible definition.The other one is at exactly
+one pair of parallel sides.How we answer this question
+depends on which definitionfor trapezoid we pick.Now, the one that
+people most refer tois actually this
+one right over here,exactly one pair
+of parallel sides.So when you think
+of a trapezoid,they think of something like
+this, where this side over hereis parallel to
+that side over hereand those two are not parallel.But sometimes you'll also
+see this at least onepair of parallel sides.And so this would
+include parallelograms.It would be inclusive
+of parallelogramsbecause parallelograms have
+two pairs of parallel sides.But I'm going to go with this
+definition right over here,exactly one pair
+of parallel sides.This has two pairs
+of parallel sidesso I will not call
+it a trapezoid.But it's always important to
+clarify what people are talkingabout because some
+people might saya trapezoid is at least
+one pair of parallel sides.And if we used that
+definition, then wewould call it a trapezoid.So it really depends on the
+definition that you're using.Now, let's go on to rhombus.So a rhombus is a quadrilateral
+where four of the sidesare congruent.So a rhombus will
+look like this.All four sides have
+the same length.They're not necessarily at
+right angles to each other.This figure over here,
+we have two pairsof a size that are
+the same length,but there's no
+information that tells usthat this side is
+equal to that sideor that this side is
+equal to that side.So we can't make the claim that
+this is necessarily a rhombus.We don't know for sure.If someone told us that this
+length is equal to that length,then things change.But for the sake
+of this one, we'renot going to go with a rhombus.A rectangle is essentially
+a parallelogramthat has four right angles.And we already established
+this is a parallelogram,and it also has four right
+angles-- one, two, three, four.So this is a rectangle.Another way to think
+about a rectangleis opposite sides
+have the same length,and you have four right angles.So this is definitely
+a rectangle.A square, a couple of way
+you can think about a square.You could view a square as a
+rhombus with four right angles.So if were to straighten it out
+a little bit, it's a rhombusso all the four
+sides are the same.And you have four right angles.That's one way to
+think about a square.Or you could view
+it as a rectanglewhere all four
+sides are congruent.But in either case, you have
+to have all four sides becongruent in order
+to be a square.And we already established we
+ruled out this being a rhombus,that all four sides here are
+not necessarily congruent.You have two pairs
+of congruent sides,but we don't know whether
+this side and this sideare congruent.So we cannot call this a square.So it's not a square,
+not a rhombus,not a trapezoid by the
+definition we picked,which is the less
+inclusive version whereyou say exactly one
+pair of parallel sides.It is a quadrilateral.It is a parallelogram.It is a rectangle.

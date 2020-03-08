@@ -1,0 +1,131 @@
+If I were to walk up to you on
+the street and say you, pleasetell me what-- so I didn't want
+to write that thick --pleasetell me what sine
+of pi over 4 is.And, obviously, we're assuming
+we're dealing in radians.You either have that memorized
+or you would draw theunit circle right there.That's not the best
+looking unit circle,but you get the idea.You'd go to pi over 4
+radians, which is thesame thing as 45 degrees.You would draw that
+unit radius out.And the sine is defined
+as a y-coordinateon the unit circle.So you would just want to
+know this value right here.And you would
+immediately say OK.This is a 45 degrees.Let me draw the triangle
+a little bit larger.The triangle looks like this.This is 45.That's 45.This is 90.And you can solve a
+45 45 90 triangle.The hypotenuse is 1.This is x.This is x.They're going to be
+the same values.This is an isosceles
+triangle, right?Their base angles are the same.So you say, look. x squared
+plus x squared is equal to 1squared, which is just 1.2x squared is equal to 1.x squared is equal to 1/2.x is equal to the square root
+of 1/2, which is one overthe square root of 2.I can put that in rational form
+by multiplying that by thesquare root of 2 over 2.And I get x is equal to the
+square root of 2 over 2.So the height here is
+square root of 2 over 2.And if you wanted to know
+this distance too, it wouldalso be the same thing.But we just cared
+about the height.Because the sine value,
+the sine of this, is justthis height right here.The y-coordinate.And we got that as the
+square root of 2 over 2.This is all review.We learned this in the
+unit circle video.But what if someone else--
+Let's say on another day, Icome up to you and I say you,
+please tell me what thearcsine of the square
+root of 2 over 2 is.What is the arcsine?And you're stumped.You're like I know what the
+sine of an angle is, but thisis some new trigonometric
+function that Sal has devised.And all you have to realize,
+when they have this word arc infront of it-- This is also
+sometimes referred toas the inverse sine.This could have just as easily
+been written as: what isthe inverse sine of the
+square root of 2 over 2?All this is asking is what
+angle would I have to take thesine of in order to get the
+value square root of 2 over 2.This is also asking what angle
+would I have to take the sineof in order to get square
+root of 2 over 2.I could rewrite either of
+these statements as sayingsquare-- Let me do it.I could rewrite either of these
+statements as saying sineof what is equal to the
+square root of 2 over 2.And this, I think, is a
+much easier questionfor you to answer.Sine of what is square
+root of 2 over 2?Well I just figured out that
+the sine of pi over 4 issquare root of 2 over 2.So, in this case, I know that
+the sine of pi over 4 is equalto square root of 2 over 2.So my question mark is
+equal to pi over 4.Or, I could have rewritten
+this as, the arcsine-- sorry--arcsine of the square root of
+2 over 2 is equal to pi over 4.Now you might say so, just as
+review, I'm giving you a valueand I'm saying give me an angle
+that gives me, when I take thesine of that angle that
+gives me that value.But you're like hey Sal.Look.Let me go over here.You're like, look
+pi over 2 worked.45 degrees worked.But I could just keep adding
+360 degrees or I couldkeep just adding 2 pi.And all of those would work
+because those would all getme to that same point of
+the unit circle, right?And you'd be correct.And so all of those values, you
+would think, would be validanswers for this, right?Because if you take the sine of
+any of those angles-- You couldjust keep adding 360 degrees.If you take the sine of any
+of them, you would getsquare root of 2 over 2.And that's a problem.You can't have a function where
+if I take the function-- Ican't have a function, f
+of x, where it maps tomultiple values, right?Where it maps to pi over 4, or
+it maps to pi over 4 plus 2pi or pi over 4 plus 4 pi.So in order for this to be a
+valid function-- In order forthe inverse sine function to
+be valid, I have torestrict its range.And the way that-- We'll
+just restrict its range tothe most natural place.So let's restrict its range.Actually, just as a
+side note, what's itsdomain restricted to?So if I'm taking the
+arcsine of something.So if I'm taking the arcsine of
+x, and I'm saying that that isequal to theta, what's the
+domain restricted to?What are the valid values of x?x could be equal to what?Well if I take the sine of
+any angle, I can only getvalues between 1 and
+negative 1, right?So x is going to be greater
+than or equal to negative 1 andthen less than or equal to 1.That's the domain.Now, in order to make this
+a valid function, I haveto restrict the range.The possible values.I have to restrict the range.Now for arcsine, the convention
+is to restrict it to thefirst and fourth quadrants.To restrict the possible angles
+to this area right herealong the unit circle.So theta is restricted to being
+less than or equal to pi over2 and then greater than or
+equal to minus pi over 2.So given that, we now
+understand what arcsine is.Let's do another problem.Clear out some space here.Let me do another arcsine.So let's say I were to ask you
+what the arcsine of minus thesquare root of 3 over 2 is.Now you might have
+that memorized.And say, I immediately know
+that sine of x, or sineof theta is square
+root of 3 over 2.And you'd be done.But I don't have
+that memorized.So let me just draw
+my unit circle.And when I'm dealing with
+arcsine, I just have todraw the first and fourth
+quadrants of my unit circle.That's the y-axis.That's my x-axis.x and y.And where am I?If the sine of something is
+minus square root of 3 over 2,that means the y-coordinate on
+the unit circle is minussquare root of 3 over 2.So it means we're
+right about there.So this is minus the
+square root of 3 over 2.This is where we are.Now what angle gives me that?Let's think about
+it a little bit.My y-coordinate is minus
+square root of 3 over 2.This is the angle.It's going to be a negative
+angle because we're goingbelow the x-axis in the
+clockwise direction.And to figure out-- Let me just
+draw a little triangle here.Let me pick a better
+color than that.That's a triangle.Let me do it in
+this blue color.So let me zoom up
+that triangle.Like that.This is theta.That's theta.And what's this
+length right here?Well that's the same as
+the y-height, I guesswe could call it.Which is square
+root of 3 over 2.It's a minus because
+we're going down.But let's just figure
+out this angle.And we know it's a
+negative angle.So when you see a square root
+of 3 over 2, hopefully yourecognize this is a
+30 60 90 triangle.The square root of 3 over 2.This side is 1/2.And then, of course,
+this side is 1.Because this is a unit circle.So its radius is 1.So in a 30 60 90 triangle, the
+side opposite to the squareroot of 3 over 2 is 60 degrees.This side over here
+is 30 degrees.So we know that our theta
+is-- This is 60 degrees.That's its magnitude.But it's going downwards.So it's minus 60 degrees.So theta is equal to
+minus 60 degrees.But if we're dealing
+in radians, that'snot good enough.So we can multiply that times
+100-- sorry --pi radiansfor every 180 degrees.Degrees cancel out.And we're left with
+theta is equal to minuspi over 3 radians.And so we can say-- We can now
+make the statements that thearcsine of minus square root
+of 3 over 2 is equal tominus pi over 3 radians.Or we could say the inverse
+sign of minus square rootof 3 over 2 is equal to
+minus pi over 3 radians.And to confirm this, let's
+just-- Let me get alittle calculator out.I put this in radian
+mode already.You can just check that.Per second mode.I'm in radian mode.So I know I'm going to get,
+hopefully, the right answer.And I want to figure
+out the inverse sign.So the inverse sine-- the
+second and the sine button--of the minus square
+root of 3 over 2.It equals minus 1.04.So it's telling me that this is
+equal to minus 1.04 radians.So pi over 3 must
+be equal to 1.04.Let's see if I can
+confirm that.So if I were to write minus pi
+divided by 3, what do I get?I get the exact same value.So my calculator gave me the
+exact same value, but it mighthave not been that helpful
+because my calculator doesn'ttell me that this is
+minus pi over 3.

@@ -1,0 +1,107 @@
+Let's write an arithmetic
+sequence in general terms.So we can start
+with some number a.And then we can
+keep adding d to it.And that number
+that we keep adding,which could be a positive
+or a negative number,we call our common difference.So the second term in our
+sequence will be a plus d.The third term in our
+sequence will be a plus 2d.So we keep adding d all
+the way to the n-th termin our sequence.And you already see here
+that in our first term,we added d zero times.Our second term,
+we added d once.In our third term,
+we added d twice.So you see, whatever the
+index of the term is,we're adding d one less
+than that many times.So if we go all the
+way to the n-th term,we're going to add d
+one less than n times.So it's going to be
+n minus 1 times d.Fair enough.And let me write that.This right over here
+is our n-th term.Now what I want to do
+is think about whatthe sum of this arithmetic
+sequence would be.And the sum of an
+arithmetic sequencewe call an arithmetic series.So let me write that in yellow.Color changing is
+sometimes difficult.So the arithmetic
+series is just the sumof an arithmetic sequence.So let's call my
+arithmetic series s sub n.And let's say it's going to
+be the sum of these terms,so it's going to be a plus
+d, plus a plus 2d, plus allthe way to adding the n-th term,
+which is a plus n minus 1 timesd.Now I'm going to
+do the same trickthat I did when I did the most
+basic arithmetic sequence.I'm going to add this
+to itself, but I'mgoing to swap the order
+in which I write this sum.So s sub n I can
+write as this, but I'mgoing to write it
+in reverse order.I'm going to write
+the last term first.So the n-th term is a
+plus n minus 1 times d.Then the second to
+last term is goingto be a plus n minus 2 times d.The third to last is going to
+be a plus n minus 3 times d.And we're going to
+go all the way downto the first term,
+which is just a.Now let's add these
+two equations.We are going to get, on the
+left hand side, s sub n plus ssub n.You're going to get
+2 times s sub n.Well, what's the sum of
+these two first termsright over here?I'm going to have a plus
+a plus n minus 1 times d.So it's going to be 2a
+plus n minus 1 times d.Now let's add both of
+these second terms.So if I were to add both
+of these second terms,what do I get it?I'm going to get 2a plus 2a.And what's d plus
+n minus 2 times d?So you could view
+it several ways.Let me write this over here.What is d plus n
+minus 2 times d?Well, this is just
+the same thingas 1d plus n minus 2 times d.And so you could just
+add the coefficients.So this is going to be n
+minus 2 plus 1 times d, whichis equal to n minus 1 times d.So the second term also becomes
+2a plus n minus 1 times d.Now let's add the third term.I'll do it in green.The third terms, I should say.And I think you're going
+to see a pattern here.It's 2a plus 2a.And if I have 2 plus n minus 3
+of something and then I add 2,I'm going to have n minus
+one of that something.So plus n minus 1 times d.And you're going to keep
+doing that all the wayuntil your n-th pair
+of terms, all the wayuntil you add these two
+characters over here, whichis just 2a plus n
+minus 1 times d.So you have this
+2a plus n minus 1 dbeing added over and over again.And how many times
+are you doing that?Well, you had n
+pairs of terms whenyou were adding
+these two equations.In each of them,
+you had n terms.This is the first term,
+this is the second term,this is the third term, all
+the way to the n-th term.So I can rewrite 2
+times the sum 2 timess sub n is going to be
+n times this quantity.It's going to be n times
+2a plus n minus 1 times d.And then if we want
+to solve for s sub n,you just divide both sides by 2.And you get s sub n is equal
+to, and we get ourselvesa little bit of
+a drum roll here,n times 2a plus n
+minus 1 times d.All of that over 2.Now, we've come up
+with a general formula,just a function of
+what our first term is,what our common difference
+is, and how many terms we'readding up.And so this is the generalized
+sum of an arithmetic sequence,which we call an
+arithmetic series.But now, let's ask
+ourselves this question.This is hard to remember.The n times 2a plus n
+minus 1 times d over 2.But in the last video, when I
+did a more concrete example,I said well, it looks like the
+sum of an arithmetic sequencecould be written as
+perhaps the averageof the first term a1 plus an.The average of the first
+term and the last termtimes the number of
+terms that you have.So is this actually the case?Do these two things gel?Because this is very
+easy to remember--the average of the first and
+the last terms multipliedby the number of terms
+you had and actually makesintuitive sense,
+because you're justincreasing by the same
+amount every time.So let's just average the
+first and the last termand then multiply times the
+number of terms we have.Well, all we have to do is
+rewrite this a little bitto see that it is indeed
+the exact same thing as thisover here.So all we have to do
+is break out the a.So let me rewrite it.So, this could be
+rewritten as s subn is equal to n times a plus
+a plus n minus 1 times d.I just broke up this
+2a into an a plus a.All of that over 2.And you see, based on how
+we defined this thing,our first term a1 is a.And then our last term, a sub
+n, is a plus n minus 1 times d.So this whole business
+right over herereally is the average of
+the first and last terms.I got my first term,
+adding it to my last term,dividing it by 2.And then I'm multiplying by
+the number of terms we have.And that's true for any
+arithmetic sequence,as we've just shown here.

@@ -1,0 +1,110 @@
+ We already know that
+2 to the fourth powercan be viewed as
+starting with a 1and then multiplying
+it by 2 four times.So let me do that.So times 2, times
+2, times 2, times 2.And that will give us, let's
+see, 2 times 2 is 4, 8, 16.So that will give us 16.Now I will ask you a more
+interesting question.What do you think 2 to
+the negative 4 power is?And I encourage you to pause
+the video and think about that.Well, you might be
+tempted to say, oh maybeit's negative 16 or
+something like that,but remember what the exponent
+operation is trying to do.One way of viewing it
+is this is telling ushow many times are we going to
+multiply 2 times negative 1?But here we're going to
+multiply negative 4 times.Well, what does negative
+traditionally mean?Negative traditionally
+means the opposite.So here this is how many times
+you're going to multiply.Maybe when we make it
+negative this says,how many times are
+we going to, startingwith the 1, how many times
+are we going to divide by 2?So let's think about
+that a little bit.So this could be
+viewed as 1 times,and we're going to
+divide by 2 four times.Well, dividing by 2 is the same
+thing as multiplying by 1/2.So we could say that
+this is 1 times 1/2,times-- let me just
+do it in one color.So 1 times 1/2, times
+1/2, times 1/2, times 1/2.Notice multiplying
+by 1/2 four timesis the exact same thing as
+dividing by 2 four times.And in this situation
+this would get you,well 1/2, well 1 times 1/2 half
+is just 1/2, times 1/2 is 1/4,times 1/2 is 1/8,
+times 1/2 is 1/16.And so you probably see
+the relationship here.If you're-- this is essentially
+you're starting with the 1and you're dividing
+by 2 four times.You could also say that 2-- I'm
+going to do the same colors-- 2to the negative 4 is
+the same thing as 1/2to the fourth power. Let me color code
+it nicely so yourealize what the
+negative is doing.So this negative
+right over here--let me do that in
+a better color,I'll do it in magenta,
+something that jumps out.So this negative
+right over here, thisis what's causing
+us to go one over.So 2 to the negative
+4 is the same thing,based on the way we've
+defined it just up right here,as reciprocal of 2 to
+the fourth, or 1 over 2to the fourth.And so you could view this as
+being 1/2 times 2 times 2 times2, if you just view
+2 to the fourthas taking four 2's
+and multiplying them.Or if you use this
+idea right over here,you could view it
+as starting with a 1and multiplying it
+by 2 four times.Either way, you are
+going to get 1/16. So let's do a few
+more examples of thisjust so that we make sure
+things are clear to us.So let's try 3 to the
+negative third power.So remember, whenever
+you see that negative,what my brain
+always does is say Ineed to take the
+reciprocal here.So this is going
+to be equal to, I'mgoing to highlight
+the negative again,this is going to be 1
+over 3 to the third power. Which would be equal to 1/3
+times 3 times 3, or 1 times3 times 3 times 3,
+is going to be 27.So this is going to be 1/27.Let's try another example,
+I'll do two or three more.So let's take a negative number
+to a negative exponent, justto see if we can
+confuse ourselves.So let's take the
+number negative 4,and let's take it-- I don't want
+my numbers to get too big toofast.So let's just take
+negative 2 and let'stake it to the negative 3 power.I'll make my negatives in
+magenta, negative 3 power. So at first this
+might be daunting,do the negatives cancel?And that will just be the
+remnants in your brainthat are trying to think
+of multiplying negatives.Do not apply that here.Remember, you see a
+negative exponent,that just means the reciprocal
+of the positive exponent.So 1 over negative 2
+to the third power,to the positive third power.And this is equal to 1
+over negative 2 timesnegative 2 times negative 2.Or you could view it as
+1 times negative 2 timesnegative 2 times
+negative 2, whichis going to give you 1 over
+negative 8 or negative 1/8.Let me scroll over
+a little bit, Idon't want to have to
+start squishing things.So this is equal
+to negative 1/8.Let's do one more example,
+just in an attemptto confuse ourselves.Let's take 5/8 and raise
+this to the negative 2 power.So once again, this negative,
+oh I got at a fractionis a negative here.Remember this just means 1
+over 5/8 to the second power.So this is just going
+to be the same thingas 1 over 5/8 squared,
+which is goingto be the same thing-- so this
+is going to be equal to-- I'mtrying to color code it, 1 over
+5/8 times 5/8, which is 25/64. 1 over 25/64 is just
+going to be 64/25. So another way to
+think about it is,you're going to take
+the reciprocal of thisand raise it to the
+positive exponent.So another way you could
+have thought about thisis 5/8 to the negative 2 power.Let me just take the
+reciprocal of this, 8/5and raise it to the
+positive 2 power.So all of these
+statements are equivalent.And that would have
+applied even whenyou're dealing with
+non-fractions as your baseright over here.So 2, you could say well this
+is going to be the same thing.2 to the negative
+4 is going to bethe same thing as
+taking my reciprocal.So this is going to
+be the same thingas taking the reciprocal
+of 2, which is 1/2and raising it to
+the positive 4 power. 

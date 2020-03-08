@@ -1,0 +1,26 @@
+Okay, here's a story that's not true.When I was a child I invented a machine.Not true.And all my machine was
+was a row of boxes.And these boxes would go as far to the left
+as ever I desired.Now, being a precocious child,
+I gave this machine a very strange name.I called it a two-one machine
+but in a funny backward way.But, I was a young child,
+I knew no different.Okay, great.So what you do with this machine
+is you put in dots.So I put in one dot.In fact, dots will always go in the right most box,
+I get zoom¡ªWell, I get one dot, it's not very exciting.However, put in a second dot in the machine,
+always the right most box, zoom¡ªThen something exciting happens
+because whenever there are two dots in a box,they explode, kaboom,and are replaced by one dot,
+one place to the left.Hence the name two-one machine.Get it?All right, so our two dots looks like this picturewhich I'm going to write as nothing, nothing,
+nothing, nothing, one dot, zero dots.So the code for two in a two-one machine
+is now one, zero.All right, here comes a third dot.Always in the right most box?
+Zoom.So what's the code for three?One, one.All right, four.I have a feeling putting in a fourth dot
+is going to be particularly exciting.Here goes.Here it comes, right most box.
+Zoom.Two dots in a box¡ªkapow!Dot.Ah! Again!
+Kaboom!Dot.Wow.So what's the code for four?Nothing, nothing, nothing,
+one dot, zero dot, zero dots.Bingo.Can you see what the code for five
+is going to be?Zoom.
+One, zero, one.How about six, can you see what the code
+for six is going to be?Zoom.
+Kapow!Dot.One, one, zero.Great.
+Your turn.Thirteen.What's the code for the number thirteen
+in a two-one machine?I've skipped some numbers,
+watch out.Okay, there's something to think about.Play with it for a while.We'll definitely give the answer away
+in a later video but try for yourself right now.Hours of fun to be had with a two-one machine.

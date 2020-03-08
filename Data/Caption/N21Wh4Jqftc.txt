@@ -1,0 +1,60 @@
+Let's figure out
+7/12 minus 6/13.And in order to be
+able to do this,we need to find a
+common denominator.We notice that they're not
+common right over here.Here, the denominator is 12.Here, it is 13.And the common
+denominator is goingto be the least common
+multiple of 12 and 13.And 12 and 13 share no
+common factors other than 1,so their least common
+multiple is actuallyjust going to be 12 times 13.Actually, I'm just
+going to leaveit written as 12 times 13.So let's first try to
+rewrite this right over here.And I'll do the
+denominator first.So 7/12.Instead of the
+denominator being 12,I'm going to write
+it as 12 times 13.Well, if we multiply the
+denominator by 13 in orderto not change the
+value of the fraction,we need to multiply
+the numerator times 13.So notice, all I
+did is I multipliedthe numerator and
+the denominatorby the same number that's
+equivalent to just multiplyingit by 13/13, or 1.And so this is still
+equivalent to 7/12.Similarly-- let me do this
+one in blue right over here--the common denominator,
+we want is 12 times 13.So here in the
+denominator, we multiply--let me now write
+it as 13 times 12.13 times 12.Well, if we multiply
+the denominator by 12,we have to multiply the
+numerator by 12 as well.So I'll write the
+numerator as 6 times 12.Notice, here we multiplied the
+numerator and the denominatorby 13.Here, we multiplied the
+numerator and the denominatorby 12.How did I know to
+multiply this by 12?Well, the common
+denominator is 13 times 12.So here, I multiplied
+the denominator by 12so I have do the
+numerator by 12.The common denominator
+here is 13 times 12.But here, I had to multiply
+it by 13 to get it,so I have to multiply the
+numerator by 13 as well.But now we are
+ready to subtract.You might say, hey, Sal.Hold on.Wait, what do these
+actually evaluate to?Well, maybe that's a good idea.Let's figure that out first .So this is equal to 7 times 13.Let's see, 7 times
+13 is 70 plus 21.It's 91 over 12 times 13.Let's see, I haven't
+memorized my 13 times tables.So we know that 12
+times 12 is 144.You put on one more
+12, you get to 156.156.So 91/156 is the exact
+same thing as 7/12.I just multiplied the numerator
+and denominator by 13.And from that we are going
+to subtract 6 times 12.6 times 12 is 72.72 over.Well, we already figured
+out what 12 times 13 isor what 13 times 12 is.It is 156.And now that we have
+a common denominator,we can rewrite this as being
+equal to 91 minus 72 over 156.I'll just write that in a
+neutral color, over 156.Let's see, if it was 92
+minus 72, it would be 20.That's 1 less, so it's
+going to be 19/156.So this is going to
+be equal to 19/156.And as far as I can
+tell, let's see.19 does not go into 156.Let me just make sure of that,
+that somehow, magically, 156isn't a multiple of 19
+so I could simplify this.So let's see, 19 is almost 20.So maybe, let's see
+if it will go 7 times.7 times 9 is 63.7 times 1 is 7.Plus 6 is 13.Let's see the difference here.Actually, I could have
+gone in one more time.So let's do it eight times.8 times 9 is 72.8 times 1 is 8.Plus 7 is 15.Yeah, you have a remainder here.So this doesn't go evenly.This isn't divisible by 19.And they don't share any
+other common factors,so we've simplified it
+about as much as we can.This is equal to 19/156.

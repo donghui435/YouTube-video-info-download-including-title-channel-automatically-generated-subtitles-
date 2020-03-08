@@ -1,0 +1,68 @@
+Create a graph of the
+linear equation 5x plus 2yis equal to 20.So the line is
+essentially the setof all coordinate,
+all x's and y's, thatsatisfy this relationship
+right over here.To make things simpler,
+what we're going to dois set up a table
+where we're goingto put a bunch of x values
+in and then figure outthe corresponding y value
+based on this relationship.But to make it a
+little bit simpler,I'm going to solve for y here.So it becomes easier to
+solve for y for any given x.So we have 5x plus
+2y is equal to 20.If we want to solve
+for y, let's justget rid of the 5x on
+the left-hand side.So let's subtract 5x from
+both sides of this equation.The left-hand side,
+these guys cancel out,so we get 2y is equal
+to the right hand side,you have 20 minus 5x.And then you can divide both
+sides of this equation by 2.So you divide both sides by 2.The left-hand side, we
+just have a y, and thenthe right-hand side, we
+could leave it that way.That actually would be a
+pretty straightforward wayto leave it, or we could
+call this 20 divided by 2is 10 minus 5x over 2
+or minus 5/2 times x.And so now using
+this, let's justcome up with a bunch
+of x values and seewhat the corresponding y values
+are, and then just plot them.So let me do this
+in a new color.So let me-- a slightly
+different shade of yellow.So we have x values,
+and then let'sthink about what
+the corresponding yvalue is going to be.So I'll start, well, I
+could start anywhere.I'll start at x is equal
+to 0, just because thattends to keep things
+pretty simple.If x is 0, then y is equal
+to 10 minus 5/2 times0, which is equal to
+5/2 times 0 is just a 0.So it's just 10 minus 0 or 10.So that gives us the coordinate,
+the point, 0 comma 10.When x is 0, y is 10.So x is 0.So it's going to be right here
+at the middle of the x-axis.And you go up 10 for
+the y-coordinate.1, 2, 3, 4, 5, 6, 7, 8, 9, 10.So it's right over here.So that's the point 0 comma 10.Let's do another point.Let's say that x is 2.I'm going to pick
+multiples of 2 herejust so that I get a
+nice clean answer here.So when x is 2, then y is
+equal to 10 minus 5/2 times 2,and the 2 in the
+denominator cancels outwith this 2 in the numerator.So it simplifies to
+10 minus 5, or just 5.So that tells us the point
+x equals 2, y is equal to 5,is on the line.So 2x is equal to 1,
+2 right over here.And then y is equal to 5.You go up 5.1, 2, 3, 4, 5, just like that.So that's the point 2, 5.And when you're drawing
+a line you actuallyjust need two points.If you have a ruler or
+any kind of straight edge,we could just connect
+these two points.And if we do it neatly,
+every point on that lineshould satisfy this
+relationship right here.Just so we get practice,
+I'll do more points.So let me do, let's say
+when x is equal to 4,then y is equal to
+10 minus 5/2 times 4.This is equal to 5/2 times 4.This is equal to 10, right?Because the 2, divide the
+denominator by 2 you get 1,divide the numerator by
+2 you get 2, or 4 over 2is the same thing as 2.So it becomes 2 times 5
+is 10, 10 minus 10 is 0.So the point 4 comma
+0 is on our line.So x is 1, 2, 3,
+4, and then y is 0.So we don't move up at
+all, so we have 4 comma 0.And I could keep going.I could try other points.You could do them if you
+like, but this is plenty.Just two of these would have
+been enough to draw the line.So let me just draw it.So I'll do it in white.So the line will look
+something like this.And I could keep going
+in both directions.So there you have it.That is the graph of
+our linear equation.Let me make my line
+a little bit bolder,just in case you found that
+first line hard to read.So let me make it a
+little bit bolder.And I think you get
+the general idea.

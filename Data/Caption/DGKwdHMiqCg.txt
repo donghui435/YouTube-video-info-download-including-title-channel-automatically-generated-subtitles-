@@ -1,0 +1,63 @@
+ Hi! Welcome to Math Antics. We're continuing our series on Geometry  and today we're going to learn about angles.In our last video, we learned about points and lines,and that's good because 
+we are going to need lines to make angles.So let's start with a couple of lines 
+that are in the same plane.We're only going to be dealing with 
+ two-dimensional geometry in this video. These lines are conveniently called 
+ Line AB and Line CD.Now the important thing to notice about these two lines is that they're pointing in exactly the same direction. So, even if we extended  them forever, they would never cross or even get closer together.When two lines are arranged like this, 
+we call them 'parallel'.You've probably heard the term 'parallel' before¡­ 
+like parallel parking, or a parallel universe,or parallel bars.Okay, so parallel lines are lines that will
+never cross, even if they go on forever...but what if I take one of our lines and 
+give it a little nudge?Now the lines aren't parallel anymore. 
+In fact, they cross at this point right here.Let's name it Point P. When lines cross at a point like this, 
+we say that they intersect,and we call the point an 'intersection'.And when lines intersect, they form 'angles'. You can think of the angles as the spaces, or shapes,that are formed between the intersecting lines. These intersecting lines form four angles: 1, 2, 3, 4.But instead of calling them angle 1, 2, 3 and 4, in Geometry, 
+we name them by the points used to make them.For example, this angle here can be called Angle DPB because if you trace along those points 
+(like connect the dots) they outline that angle.And this angle here... we can call that Angle APD,because connecting those dots forms angle.Now when naming angles, 
+there's a nice shorthand we can use. Instead of writing the word 'angle' over and over again,we can just use the angle symbol instead, 
+which looks like this.But there's an even simpler way to name angles.To learn that way, 
+let's erase all the points and letters on our linesexcept for the intersection point and this one point here.Now let's imagine that the line-segment between these two points can rotate around the point of intersection,just like a clock hand rotates 
+around the center of a clock. Let's also imagine that as we rotate the line segment,the point out at the end leaves a trail, 
+like if a pencil was attached to it.The trail (or path) that is left when we rotate the line-segment all the way around forms a circle.But if we only go part way around,
+then it forms part of a circle that we call an 'arc'.This arc can represent the angle
+that is formed when we rotate the segmentfrom one position to another, 
+like from this line to that line.And now, if we shrink down that arc so that
+it's close to the intersection point,and then put a letter by it, like the letter 'A',
+we have another way of showing an angle...Angle A.And we can do this with any angle,
+so the angle up here...we can also draw an arc and call it Angle B.So whenever you see a letter next to a little arc like this,it means that it's the name of the angle 
+formed by that arc.Alright then, so now we have a diagram that shows Angle A and Angle B,and you might notice that those angles 
+aren't the same size. B seems to be bigger than A.But what if we rotate one of our lines until
+the angles do look like they're the same size?Now our angles look kind of like a plus sign.
+Lines arranged like this are called 'perpendicular'.Perpendicular lines are lines that form square corners when they intersect.And these square corner angles have a special name in Geometry because they are really important.We call them 'right angles'.There is even a special symbol that we use to show when an angle is a right angle. Because they form square corners, we use a little square instead of 
+the arc that we use for the other angles.So whenever you see this symbol, 
+you know the angle you are looking at is a right angle,and that the lines that form it are perpendicular.Okay, now that you know what a right angle is, let's look at a simple one that's made from just two rays.What will happen if we take the ray pointing up and rotate it like the hand of a clocka little to the right¡­ a little bit clockwise?Well, we don't have a right angle any more
+because the rays are no longer perpendicular.Instead, we have an angle that is smaller
+(or less) than a right angle.Angles that are less than right angles 
+are called 'acute angles'.On the other hand, if we rotated our ray to
+the left instead of the right,we would get an angle that's bigger 
+or greater than a right angle. Angles that are greater than right angles 
+are called 'obtuse angles'.So, there are three main kinds of angles 
+that you need to know about. Right Angles, acute angles and obtuse angles.Well actually, there's one more type of 
+angle that's pretty important,but it's kind of a strange one. 
+It's called a 'straight angle'.A straight angle is just what we get when we rotate our rays so that they point in exactly opposite directions.The result looks just like a straight line, 
+which is why it's called a straight angle.Alright then, there's just a few more important geometry terms that we need to learn in this video. Let's look at our simple right angle
+again that's made from two rays.But this time, let's draw a third ray that
+cuts that right angle into two smaller parts.Now, because the angle that we divided up
+was a right angle, we know that the two new smaller angles 
+combine to form a right angle.And in geometry, any two angles that to form a right angle are called 'complementary angles'.And we can do the same thing with a straight angle. If we take a straight angle (made from two rays) and divide it with a third ray,
+two new smaller angles are formed.And those two angles combine to form a straight angle.
+We call these angles 'supplementary angles'.So, complementary angles 
+combine to form a right angle, and supplementary angles 
+combine to form a straight angle.Alright, that's all were going to learn about angles 
+in this video.And if you are new to Geometry, 
+it might seem like a lot,so let's do a quick review of 
+all the new geometry words we've learned.Lines that point in exactly the same direction will never cross and are called 'parallel' lines.When lines do cross, they cross at a point
+called an 'intersection'.Lines that intersect form 'angles'. You can
+think of angles as the spaces between the lines.Angles can be named by the points that
+form them... just like connect the dots.An 'arc' is a part of a circle. Arcs can be used to represent an angle between two intersecting lines.When intersecting lines form all exactly equal angles, the lines are 'perpendicular'.Perpendicular lines form 'right angles'. 
+Right angles are square corners, and we use a special square symbol 
+to show that an angle is a right angle.An angle that's smaller, or less than a right
+angle is called an 'acute angle'.An angle that's bigger, or greater than a
+right angle is called an 'obtuse angle'.A 'straight angle' is formed by two rays pointing
+in exactly opposite directions. A straight angle is really just a straight line.Two angles that combine to form a right angle
+are called 'complementary angles'.Two angles that combine to form a straight
+angle are called 'supplementary angles'.In our next geometry video, we're going to
+learn more about angles and how to measure them.Thanks for watching Math Antics, and I'll
+see you next time!Learn more at www.mathantics.com

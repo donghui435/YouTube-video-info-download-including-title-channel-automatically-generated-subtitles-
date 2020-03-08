@@ -1,0 +1,65 @@
+We're told that quadrilateral
+ABCD is a rhombus.And what they want us to
+prove is that their diagonalsare perpendicular, that
+AC is perpendicular to BD.Now let's think about everything
+we know about a rhombus.First of all, a rhombus
+is a special caseof a parallelogram.In a parallelogram, the
+opposite sides are parallel.So that side is
+parallel to that side.These two sides are parallel.And in a rhombus, not only are
+the opposite sides parallel--it's a parallelogram--
+but also, all of the sideshave equal length.So this side is equal
+to this side, whichis equal to that side,
+which is equal to that sideright over there.Now, there's other
+interesting thingswe know about the diagonals
+of a parallelogram, whichwe know all rhombi
+are parallelograms.The other way around is
+not necessarily true.We know that for any
+parallelogram-- and a rhombusis a parallelogram-- that the
+diagonals bisect each other.So for example, let me label
+this point in the center.Let me label it point E.We know that AE is
+going to be equal to EC.I'll put two slashes
+right over there.And we also know that EB
+is going to be equal to ED.So this is all of what
+we know when someone justsays that ABCD is a rhombus,
+based on other thingsthat we've proven to ourselves.Now we need to prove that
+AC is perpendicular to BD.So an interesting way to prove
+it-- and you can look at itjust by eyeballing it-- is if we
+can show that this triangle iscongruent to this triangle and
+that these two angles rightover here correspond
+to each other,then they have to be the same.And they'll be supplementary,
+and then they'll be 90 degrees.So let's just prove
+it to ourselves.So the first thing we see
+is we have a side, a side,and a side; a side,
+a side, and a side.So we can see that triangle--
+let me write it here.Let me [? do this ?]
+in a new color.We see that triangle ABE is
+congruent to triangle CBE.And we know that by
+side-side-side congruency.We have a side, a side,
+and a side; a side, a side,and a side.And then once we
+know that, we knowthat all the corresponding
+angles are congruent.And in particular, we
+know that angle AEBis going to be
+congruent to angle CEB.Because they are corresponding
+angles of congruent triangles.So this angle right
+over here is goingto be equal to that
+angle over there.And we also know that
+they are supplementary.Let me write it this way.They're congruent, and
+they are supplementary.These two are going to
+have the same measure,and they need to add
+up to 180 degrees.So if I have two things
+that are the same thingand they add up to 180 degrees,
+what does that tell me?So that tells me that
+the measure of angle AEBis equal to the measure
+of angle CEB, whichmust be equal to 90 degrees.They're the same measure,
+and they are supplementary.So this is a right angle, and
+then this is a right angle.And obviously, if
+this is a right angle,this angle down here
+is a vertical angle.That's going to
+be a right angle.If this is a right
+angle, this over hereis going to be a vertical angle.And you see the diagonals
+intersect at a 90-degree angle.So we've just proved--
+so this is interesting.A parallelogram, the
+diagonals bisect each other.For a rhombus, where
+all the sides are equal,we've shown that not only
+do they bisect each otherbut they're perpendicular
+bisectors of each other.

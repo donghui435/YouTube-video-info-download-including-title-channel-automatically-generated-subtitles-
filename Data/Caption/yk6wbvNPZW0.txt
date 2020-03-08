@@ -1,0 +1,170 @@
+Welcome to another Mathologer video. It's
+something that only a few experts amongyou will be aware of but pretty much
+every single Mathologer video featuresfresh maths, made up just for you. Every
+once in a while I even sneak in some ofmy own little theorems and proofs.
+Today's video is one of those videos.What I want to show you today are some
+new beautifully visual ways to prove theirrationality of some small integer
+roots like root 2, as well as some reallycool and closely related mathematical
+gems. And it's all based on what Iusually refer to as triangular squares.
+What the hell is a triangular square?Well, it's definitely not clickbait. Okay
+what I mean by triangular squares areequilateral triangles that are made up
+of mini equilateral triangles like thatone over there. Why triangular squares?
+Because the number of mini triangles isalways a square, namely the total width
+in terms of mini triangles squared. Inthis case the width of the big triangle
+is 5-mini triangles and I claim thereare exactly 5 squared equals 25 of these
+mini triangles. Okay, I've prepared areally nice animated proof that this is
+the case in general. Ready to be dazzled?Here we go. Okay, yeah and it's getting
+squarish there. And done! There 5 squared.This is an incredibly beautiful proof
+and if you don't agree then there'ssomething really, really really wrong
+with you and it's probably time toswitch to a non maths channel. Also
+hiding just around the corner there'ssome more beautiful stuff, too good to
+pass over and so let's just savour that toobefore we go all irrational.
+Note that the layers of a triangularsquare are consecutive odd numbers. So
+one yellow triangle in the first layer,three orange in the second layer, then 5,
+7 and 9. And so 1 plus 3 plus5 plus 7 plus 9, the sum of the
+first five odd numbers is five squared.Doing the same for general triangular
+squares  proves that the sumof the first N odd numbers is N squared.
+Also super beautiful isn't it? Anywayfor what follows you only need to
+remember that a triangular square ofwidth N contains N squared
+mini triangles. I now want to usetriangular squares to prove that the
+square root of 3 is irrational, thatis, that the number root 3 cannot be
+written as a fraction, as a ratio ofintegers. To prove this let's assume that
+it's in fact possible to express root3 as such a fraction. Okay and let's
+also assume that A and B are as small aspossible. Then squaring both sides andsimplifying gives this here. Okay but
+then of course 3B squared equals Asquared. That's the same as saying that B
+squared plus B squared plus B squaredequals A squared. So what does this mean? This means that if root 3 wasrational, then the equation X squared
+plus X squared plus X squared equals Ysquared would have positive integer
+solutions and that B squared plus Bsquared plus B squared equals A squared
+would be the smallest such solution. Butthis would also mean that combined the
+three green triangular squares of widthB would contain exactly the same number
+of mini triangles as the triangular squaregrid of width A on the right. And this
+would mean that all the mini greentriangles on the left would fit exactly
+into a large grid on the right. Andhere's a super stylish way to begin an
+attempt to fit them.Pretty :) Anyway this attempt results in
+three dark green triangle overlaps andan empty triangle patch in the middle.
+This patch and the overlaps would alsobe triangular squares, right? However
+since they are just enough mini greentriangles, the three dark green overlap
+triangles together must exactly fill thewhite triangular grid. But that's
+absolutely impossible! Why? Because wesupposedly started with the absolutely
+smallest way to express a square as thesum of three other squares, that one up
+there. And, of course, no solution can besmaller than the smallest one.
+Well we've played this game a couple oftimes already in the  last couple of videos so you should be okay with that. Now theonly way to resolve this contradiction
+is to conclude that the assumption westarted with, namely that root 3 is a
+fraction is false.In other words, root 3 is irrational,
+or equivalently, the equation X squaredplus X squared plus X squared equals Y
+squared has no solutions in positiveintegers. How slick is that? :) Now, using
+similarly stunning triangle choreographywe can also show that root 2, root 5 and
+root 6 are irrational. Now before I do thatlet me hammer the crux of our proof by
+contradiction just one more time. Okay, soroot 3 being a fraction is equivalent to
+there being three identical triangularsquares adding to another triangular
+square, right? And the contradictionhinges on us showing that if this was
+really possible for some triangularsquares, then the same would be possible
+using even smaller triangular squares.So, now let's see how to prove that root 2
+is irrational. Root 2 being a fractionis equivalent to there being TWO
+identical triangular squares adding toanother triangular square, like that. And
+to make the contradiction work we thensimply have to show that this equality
+implies another equality involving evensmaller triangular squares. And here's
+how we can capture those smallertriangular squares.Llet's chase them down.
+Okay...pretty, pretty, pretty, pretty, very nice. At
+this point the dark green overlap wouldbe exactly as large as the white empty
+area. Now let's shift the overlap down. Thiswould fill some of the empty area and
+create new overlaps. There two smallertriangular squares adding to another
+triangular square, which then unleashesthe contradiction and proves that root
+2 is irrational as well.Here's a little puzzle for you. We have
+to have a puzzle! And there will be more.Have another look at this picture here.
+Can you see an even easier way to arriveat a contradiction, that is, can you see
+two other small triangular squares thatadd to one large triangular square. It's
+really jumping out at me but see whetheryou can see it, too. Let me now show you
+the root five and six triangularchoreographies followed by some
+choreographies using actual squares andpentagons. First root 6 with 6
+triangular squares adding to anothertriangular square. Here we go. (Music playing)Beautiful you must agree. Two
+things before I move on.When using the root 5 and root 6
+choreographies to show the irrationalityof these numbers one actually also has
+to make sure that the various darkoverlaps in the animations always exist
+and are of the same size.I leave filling in the details as
+another puzzle for you. The root 5choreographies are particularly tricky
+to pin down. For example, in the pentagonroot 5 choreography it's not even clear
+where the squares are. Again considerfilling in the details as a puzzle, or
+check out the write-up in thedescription of the video. Longtime
+Mathologer fans may remember that in theearly days of the channel I did a video
+on proving that root 2 is irrationalusing the simple square choreography. In
+fact, it was this beautiful proof bymathematician Stanley Tennenbaum and 
+popularised by the great John Conwaythat started this whole line of
+investigation. A paper expanding on thisidea was authored by Stephen Miller and
+David Montague who discovered the root 3triangle and the root 5 pentagon
+choreographies. My contributions are thetriangular square root 2, 5 and 6
+choreographies and using triangularsquares to illustrate things. Anyway, all
+this is just the start of much morereally, really beautiful mathematics, such
+as: 1) nearest miss solutions to ourimpossible equations; 2) best rational
+approximations to our small integerroots; and 3) a really nice paradoxical
+insight about triangular numbers tofinish things off. Well let's go. Remember,
+by proving that root 3 is irrational wealso proved that the equation X squared
+plus X squared plus X squared equals = Ysquared has no positive integer
+solutions. This means that the threegreen triangular squares together and
+the white triangular square that I used toillustrate the proof actually cannot
+have the same number of mini triangles.In fact I chose the numbers on the left
+and right to be as close as possiblediffering by just 1, And so 15 and 26
+form what I want to call annearest miss solution to the equation X
+squared plus X squared plus X squaredequals Y squared, the next best thing to
+an integer solution. Among other thingsthis means that 26 over 15 is an
+extremely good approximation of root 3,sort of the root 3 counterpart of PI's
+22 over 7. Have a look. Pretty good, right?When we run our choreography, we start
+with this propeller formation here andafter our triangles finish their dance
+we end up with another propellerformation. Even better the new triangular
+squares correspond to another nearestmiss solution, that one down there. Let's
+unleash the choreography on this smallpropeller. Okay, there, yet another
+propeller and another nearest misssolution one, there. Now clearly something
+goes wrong if we try this one more timeand I'll leave it as yet another puzzle
+for you to figure out what but if wecan't go on forever in one direction,
+let's go the other way. Let's run thechoreography in reverse. Here we go. So
+everything going in reverse. Larger,even larger. Now we're back to where we
+started from. But why stop here? Let'sjust keep on going, right?Okay and now we are one step up. It's
+probably not so surprising and it's nothard to show that this new propeller
+also corresponds to a nearest-miss, likethis. Okay, so the numbers pan out like
+this here and you can check that this isreally true. In fact, it's not too hard to
+prove that if we keep on going we'llalways get nearest miss solutions and in
+fact, we get all nearest miss solutionsto our equation in this way. Anyway
+here's a list of the smallest of thesenearest miss solutions. Okay now if we take the ratios from top to bottom this willgive better and better approximations of
+root 3. Let's check this.So 2 over 1, 7 over 4, 26 over 15 and there
+I've highlighted how many digits we getcorrect. In fact the sequence of these fractionsconverges to root 3, so if we combine
+all our propellers containing all ofthese ratios into one large picture, in
+some sense this overall picture capturesroot 3, IS root 3. So this is root 3 have
+you ever seen root 3, this is it. Verypretty, right? And as you've probably
+already guessed everything I just saidabout root 3 can also be shown to work
+for the root 2, root 5, and root 6choreographies. Now just for fun, here's a
+picture of root 2 corresponding to theoriginal Tenenbaum choreography. Also
+super pretty right? Now there are somemore footnotes that I really should add:
+1) about a second type of nearest misssolution; 2)  about irrationality of integer
+roots in general; 3) Pell's equation; and 4) someinteresting connections with infinite
+continued fractions. For those of youinterested I'll put some footnotes in
+the description of this video.But for the finale of this video let me
+tell you about a freaky alternate numberreality to which our triangle
+choreographies can be applied, as well asa very paradoxical puzzle for you that
+pops up in this context. Have a look atthis. I call this a triangular triangle.
+Well nobody in the universe does thatexcept for me, but who's going to stop me,
+right, I'm the Mathologer :) Puzzle for you:Figure out the motivation behind this
+strange name. It's not hard. Anyway thenumber of hexagons in a triangular
+triangle of width N is called the Nthtriangular number (hint :) T_n. So T_1 is
+just 1, T_2 is 1 plus 2 equals 3, T_3 is 1plus 2 plus 3 equals 6, and so on. And so
+the nth triangular number T_n is justthe sum of the first n positive integers
+which, as many of you will know, is equalto n times n plus 1  over 2 so for
+example T_5 the number of hexagons inthis triangular triangle is equal to 15.
+Now, just like the integer squares, thetriangular numbers also feature prominently in number theory and a lot of famousmathematicians have proved theorems
+about them. For example, up there is oneof the most famous entries in Gauss's
+mathematical notebook. It says that everypositive integer is the sum of at most
+three triangular numbers. You can tellthat Gauss was really excited about
+having found a proof for this. Just havea look at the Eureka in really bold
+letters preceding the statement.Now important for us is the related
+fact that,unlike squares, there are instances where
+three times a triangular number equalsanother triangular number. Here's an
+example so T_20 plus T_20 plus T_20 isequal to T_35. Let's unleash our root
+3 choreography on this set-up andsee what happens.So, obviously, this propellor corresponds
+to a smaller triangular number sum thatalso works, this one here. T_5 plus T_5
+plus T_5 is equal toT_9. In fact,we can run the choreography forwards and
+backwards to generate all instances ofthree identical triangular numbers
+adding to another triangular number. Nowhere's my main puzzle for you. Forget
+about the other ones. If you just wantone, this is it: the smaller equation
+follows from the larger one, right, so whydoesn't this prove, just as in the case
+of triangular squares, that threeidentical triangular numbers cannot add
+to another triangular number?That's a tricky one, let's see whether
+anybody can figure it out. Anyway, that'sit for today.

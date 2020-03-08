@@ -1,0 +1,46 @@
+ROGER BOWLEY: The number is
+1,729, which is known as aHardy-Ramanujan number.JAMES GRIME: In mathematical
+circles,this is a famous number.So there was a famous
+mathematician, an Indianmathematician called
+Ramanujan.Now, he started life
+quite humbly.He was a clerk in India, and he
+had no formal training inmathematics.However, he worked as
+a mathematicianin his spare time.He had proven some things.He sent these proofs
+to Cambridge.A lot of the Cambridge
+mathematicians just ignoredit, but one Cambridge
+mathematician, Geoffrey Hardy,recognized something in this.Now, the proofs that he did were
+actually things that werealready well known.But he invited Ramanujan over
+to England and startedto work with him.And Ramanujan is now famous
+for being one of the greatnumber theorists.Unfortunately, the English
+weather and the English fooddid not agree with Ramanujan.This is round about the
+First World War.England is on rationing,
+it's cold, it's wet.He got quite ill.Geoffrey Hardy visited Ramanujan
+in hospital.To make small talk, he said, the
+taxi number that broughtme here was quite
+a boring number.It's 1,729.ROGER BOWLEY: He couldn't think
+of anything to say aboutthis number.And he apologized to Ramanujan,
+saying I can't--this is not a very interesting
+number.I'm sorry about this number.It might be an ill portent.JAMES GRIME: There's nothing
+interesting about that.Ramanujan said no, there is.ROGER BOWLEY: It's the smallest
+number that can berepresented as a sum of two
+cubes in two different ways.JAMES GRIME: 1,729--it is 12 cubed plus 1 cubed.ROGER BOWLEY: Or you could write
+it as 10 cubed plus 9cubed equals 1,729.JAMES GRIME: Now, these sort
+of numbers are now known astaxicab numbers for
+this reason.ROGER BOWLEY: Now, there was one
+thing in the story whichis slightly wrong.He should've said the sum of two
+cubes of positive numbers,positive integers.Because you can find another
+solution to this if you allownegative numbers in there.JAMES GRIME: So Geoffrey
+Hardy told this story.And I think people tell this
+story to show how brilliantRamanujan was.He could just come up with that
+off the top of his head.I think the point Geoffrey Hardy
+was trying to make isno, he wasn't a genius.Ramanujan had come up with
+this fact already in hisprevious research.This is something he'd studied,
+something he knew.So he wasn't a genius.He hadn't just come
+up with that.And I think that's the point
+he was trying to make.ROGER BOWLEY: If you allow
+negative numbers, then I couldwrite down 6 cubed plus minus 5
+cubed is the same as 4 cubedplus 3 cubed, which is 91.So this is the smallest number
+which is the sum of two cubesin two different ways, if you
+allow negative numbers.And Ramanujan thought it was
+that because he only allowedfor positive numbers.And you'll forgive him, because
+he was at death's doorat the time.

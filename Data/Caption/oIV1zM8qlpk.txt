@@ -1,0 +1,58 @@
+What I want to do
+in this video isprove that the opposite
+angles of a parallelogramare congruent.So for example, we want to prove
+that CAB is congruent to BDC,so that that angle is
+equal to that angle,and that ABD, which
+is this angle,is congruent to DCA, which
+is this angle over here.And to do that, we
+just have to realizethat we have some
+parallel lines,and we have some transversals.And the parallel lines
+and the transversalsactually switch roles.So let's just continue these
+so it looks a little bit morelike transversals
+intersecting parallel lines.And really, you could
+just pause it for yourselfand try to prove it, because
+it really just comes outof alternate interior angles
+and corresponding anglesof transversals
+intersecting parallel lines.So let's say that this
+angle right over here--let me do it in a new
+color since I've alreadyused that yellow.So let's start right
+here with angle BDC.And I'm just going
+to mark this up here.Angle BDC, right over here-- it
+is an alternate interior anglewith this angle right over here.And actually, we could
+extend this point over here.I could call this
+point E, if I want.So I could say angle CDB
+is congruent to angleEBD by alternate
+interior angles.This is a transversal.These two lines are parallel.AB or AE is parallel to CD.Fair enough.Now, if we kind of change
+our thinking a little bitand instead, we now view BD
+and AC as the parallel linesand now view AB as
+the transversal,then we see that
+angle EBD is goingto be congruent to
+angle BAC, because theyare corresponding angles.So angle EBD is going to
+be congruent to angle BAC,or I could say CAB.They are corresponding angles.And so if this angle is
+congruent to that angleand that angle is
+congruent to that angle,then they are congruent
+to each other.So angle-- let me make sure
+I get this right-- CDB,or we could say BDC, is
+congruent to angle CAB.So we've proven this first
+part right over here.And then to prove that
+these two are congruent,we use the exact same logic.So first of all, we view
+this as a transversal.We view AC as a
+transversal of AB and CD.And let me go here and let
+me create another point here.Let me call this point
+F right over here.So we know that
+angle ACD is goingto be congruent to
+angle FAC because theyare alternate interior angles.And then we change our
+thinking a little bit.And we view AC and BD
+as the parallel linesand AB as a transversal.And then angle FAC is going
+to be congruent to angle ABD,because they're
+corresponding angles.Angle F to angle ABD, and
+they are corresponding angles.So in the first time, we viewed
+this as the transversal, ACas a transversal of AB and
+CD, which are parallel lines.Now AB is the transversal and BD
+and AC are the parallel lines.And obviously, if this
+is congruent to that,and that is congruent
+to that, then these twohave to be congruent
+to each other.So we see that if we have
+opposite angles are congruent--or if we have a
+parallelogram, thenthe opposite angles are
+going to be congruent.

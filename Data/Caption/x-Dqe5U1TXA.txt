@@ -1,0 +1,41 @@
+What is the place value
+of 3 in 654.213?So let's think about
+that a little bit.And to do that, let me rewrite
+the number, and I'll writeeach digit in a different
+color.So we have 654 point-- we get
+the decimal point-- 213.Now we're pretty familiar, I
+think, with what goes on tothe left of the decimal point.We know that this right here--
+let me do this in a neutralcolor-- is the hundreds place,
+or we could view that as 10 tothe second.Let me write that a little
+bit bigger down here.So this right here that is the
+hundreds place, or you couldview that as the 10 to the
+second's place, which is thesame thing as hundred.This right here is the tens
+place, which is the same thingas 10 to the first. This right
+here is the ones place, whichis the same thing as
+10 to the zero.Then if you go one place to
+the right of the decimalpoint, this represents tenths.This represents tenths, or we
+could view it as 10 to thenegative one.Then, if we go to this magenta,
+if we go two placesto the right, this represents
+hundredths, or 10 to thenegative two.And then finally, this 3
+represents thousandths.This represents thousandths, or
+10 to the negative three.Now, just to answer the question
+what is the placevalue of 3 in 654.213?The place value is
+thousandths.That would essentially answer
+their question.But to make sure that we really
+understand what thismeans, I'm going to rewrite
+this number.We can rewrite this
+number as 600.We have 6 hundreds plus 5 tens,
+or you could say plus 50plus 4 ones plus 2/10, plus
+1/100, plus 3/1,000.Or we could write this, just
+to really make sure weunderstand what we're talking
+about when we mean placevalue, we can rewrite this
+number as 6 times 100, plus 5times 10, plus 4 times 1-- I
+keep doing that in the wrongcolor-- plus 2 times 1/10, plus
+1 times 1/100, and thenfinally, plus 3 times 1/1,000.So hopefully, when you write it
+out like this, it gives youa sense of what it means
+we say place value.The 6, three digits to the left
+of the decimal, is in thehundreds place, so it represents
+6 hundreds.This represents 5 tens because
+it's in the tens place.This represents 4 ones.You go to the thousandths
+place, this 3 literallyrepresents three
+one-thousandths.

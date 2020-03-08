@@ -1,0 +1,48 @@
+A thermometer in a science
+lab displays the temperaturein both Celsius and Fahrenheit.If the mercury in
+the thermometerrises to 56 degrees
+Fahrenheit-- they'regiving us the
+Fahrenheit temperature--what is the corresponding
+Celsius temperature?And then they give
+us the two formulas,that if we know the
+Celsius temperature,how do we figure out the
+Fahrenheit temperature,or if we know the
+Fahrenheit temperature,how do we figure out
+the Celsius temperature.And these are actually
+derived from each other,and you'll learn more about
+that when you do algebra.And we also-- maybe
+in another video--will explain how
+to derive these.It's actually kind
+of interesting,involves a little
+bit of algebra.But they gave us the formula.So they really just want us to
+apply it, and maybe make surewe understand which
+one we should apply.Well, they're giving us
+the Fahrenheit temperatureright here, so F is
+going to be equal to 56.And they're asking us for
+the Celsius temperature,so we need to figure out what
+the Celsius temperature is.Well, in this one over here,
+if you know the Fahrenheittemperature, then you can solve
+for the Celsius temperature.So let's use this
+right over here.So our Celsius
+temperature is goingto be 5/9 times the Fahrenheit
+temperature-- the Fahrenheittemperature is 56 degrees
+Fahrenheit-- minus 32.Well, 56 minus 32 is 24.So this is going to be
+equal to 5/9 times 24.And this is the same thing
+as 5 times 24, over 9.And before I even
+multiply out 5 times 24,we can divide the numerator
+and the denominator by 3.So let's do that.If we divide the numerator
+by 3 and the denominator,we're not changing the value.24 divided by 3 is 8.9 divided by 3 is 3.So it becomes 5 times 8,
+which is 40, over 3 degrees.And if we want to write
+this as a number thatmakes a little bit more sense
+in terms of temperature,let's divide 3 into 40 to get
+the number of degrees we have.3 goes into 4 one time.1 times 3 is 3.Subtract.4 minus 3 is 1.Bring down the 0.3 goes into 10 three times.3 times 3 is 9.Subtract.Get a 1.And then you could
+bring down another 0.We now have a decimal
+point over here.You're going to get a 0 here.3 goes into, once
+again, 10 three times.And this 3 is going
+to repeat forever.So you could view this--
+this is equal to 13.333--it'll just keep repeating.This little line on top means
+repeating-- degrees Celsius.Or you could say that, look,
+3 goes into 40 13 timeswith a remainder of 1.So you could say that this is
+also equal to 13, remainder 1.So 13 and 1/3 degrees Celsius.Either way, it works.But that's our
+Celsius temperaturewhen our Fahrenheit
+temperature is 56 degrees.

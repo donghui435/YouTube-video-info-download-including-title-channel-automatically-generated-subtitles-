@@ -1,0 +1,44 @@
+JAMES GRIME: OK, so,
+the superflip--so let me write down the
+superflip for you.Rubik's cube fans have a
+notation, and they call thisthe up, they call this the
+down, they call this theright-hand side--for obvious reasons-- the
+left-hand side, the front,which is facing me--and the back, which is facing
+away from me there.So it's got up, down, left,
+right, front, and back.I can write down the superflip
+using this idea.It's going to take 20 moves.I'm going to write down what the
+20 moves are, then we'lltry it out.Looks like this--up.So I'm going to turn
+the up once.Now, this means right-hand
+side twice--once, twice.Front--that's towards me--once.Back-- that's over here.That's the back--right.Right-hand side again.Back twice.Look at it there.Oh, one, two that one too.Right.Up twice--one, two.Left--back twice--one, two.Right--"U" dash-- that means the
+opposite direction--anticlockwise.Down--anticlockwise.Right-hand side twice.Front.Right-hand side backwards.Left.Bottom twice--once, twice.Up twice--once, twice.And then do the front twice,
+so once, twice.Look at that.So there are 20 moves
+there, and this wassuperflip, the cube.From the solved state, you get
+this really pretty combinationthere, and this is the furthest
+away from beingsolved that you can get.Now, if you look at it, what's
+happened is all the cornersare perfectly fine.You see, this is the
+orange face.All the orange corners and
+the center are just fine.This is the orange face.Look at the edge pieces.This is the orange-white edge,
+and it's flipped over.Turn it 'round.This is the orange-blue edge,
+and it's flipped over.This is the orange-yellow edge,
+which is flipped over.And that's the orange-green
+edge, and that's flipped over.So all the edge pieces
+flip over.All the corners are absolutely
+fine, and the centers arealways fine.They don't move at all.There's a couple of cool things
+about this superflipthat I haven't told you yet.So if I do the superflip
+twice--so the superflip was 20 moves.If I do it twice, I will get
+back to where I started.In mathematics, we say
+it has order 2.You do it twice, and you'll get
+back to where you started.So that's pretty cool.The other cool thing about the
+superflip is that if I do abunch of moves, and then I do
+the superflip, you'll get thesame answer as if you do the
+superflip first, and then youdo that bunch of moves.So you'll get the same answer.So if you do superflip first,
+and stuff, or if you do stufffirst, and superflip, you'll get
+the exact same position.In fact, superflip is the only
+move that isn't just doingnothing at all.It's the only move that
+has that property.MALE SPEAKER: Because I would
+have thought that would betrue for everything,
+but it's not.JAMES GRIME: It's not
+true for everything.Now, that's really important.So if I do a move followed
+by anothermove, the order matters.The order matters.You get a different answer if
+you do it in a differentorder, if you swap those over,
+except for the superflip.Only the superflip--this works.The order doesn't matter.MALE SPEAKER: Oh, whoa--lock up.No!Wha--oh, man.

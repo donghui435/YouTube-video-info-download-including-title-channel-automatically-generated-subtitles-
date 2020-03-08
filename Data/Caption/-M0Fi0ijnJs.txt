@@ -1,0 +1,164 @@
+The owner of a restaurant
+wants to find out more aboutwhere his patrons
+are coming from.One day, he decided
+to gather dataabout the distance
+in miles that peoplecommuted to get
+to his restaurant.People reported the
+following distances traveled.So this is our data
+right over here.He wants to create a graph
+that helps them understandthe spread of the distances
+and the median distancethat people travel.What kind of a graph
+should he create?And you can plot this data in
+many different types of graphs,but they tend to depict
+things in different ways.For example, a line graph
+shows a trend over time.He's not interested
+in a trend over time,so a line graph
+doesn't make sense.Or a line graph could be a trend
+of one variable with respectto another variable.It doesn't just have to be time.But he doesn't want
+to see a trend here.A bar graph is good
+when you're tryingto bucket things, put
+things into bucketsand see how those
+buckets are performing.Once again, that's not
+exactly what he wants to see.A pie graph, if you
+want to see kindof how things make up a whole.That's not what he wants
+to see right over here.A stem and leaf plot does
+help with distributionsa little bit, but
+it really doesn'ttackle the median distance and
+the spread really, really well.So the one that
+does, and especiallywhen people talk about
+medians and spread,is a box and whiskers plot.And I'll show you how
+to do it right now.Box and whiskers.And what a box and whisker
+plot literally doesis it shows the
+spread of the data.It splits it into quartiles.And I'll talk about
+that in a second.And it also tells you where the
+median of the data actually is.And that's one of the
+things that the ownerof the restaurant cares about.So whenever you're
+dealing with medians--and box and whisker plots deal
+with medians-- the first thingyou want to do is
+order all the numbersbecause the median is really
+the middle number whenyou order them all up.So let's order this.So let's write it in order.So first we have 1.So we get rid of that 1.Then we have one
+2 right over here.And then we have another
+2 right over there.That's all of our 2's.Then we have this 3, that
+3, and then we have that 3.So those are two people
+who have to travel3 miles to the restaurant.Then let's see, do
+we have any 4's?We have one 4 right over there.And then we have another
+4 right over there.Then, let's see,
+do we have any 5's?Actually, I just realized
+that I skipped one of the 1's.We have another 1
+right over there.So let's write that
+1 right over there.We actually had two 1's.And then let's see.Do we have any 5's?We do not have
+any 5's over here.Do we have any 6's?We have one 6 right over here.And then we have no more 6's.Do we have any 7's?We have one 7 right over there.8's.We have an 8 right over there
+and that's the only one.Let's see.Do we have any 9's?No 9's.Any 10's?Yes, we have a 10.Do we have an 11?Yep.11.Do we have any 12's?No 12's, no 13's.14?14.And we have a 15.People must like
+this restaurant.They're traveling a good bit.Then we have a 20 and
+then we have a 22.So I've ordered all the numbers.Let me make sure I
+haven't skipped or gottensome duplicates.So 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 16,17 people were surveyed, 17
+patrons of the restaurant.And we have 1, 2, 3, 4, 5, 6,
+7, 8, 9, 10, 11, 12, 13, 14, 15,16, 17.All right.Seems like I've got all of
+them and I've ordered them now.Now the median is
+the middle number.We just said that we
+had 17 of these numbers.So we want the
+number-- and since it'san odd number of numbers,
+the median actuallywill be one of these numbers.It's actually the middle number.It'll be the number
+where eight are largerand eight are smaller.So 1, 2, 3, 4, 5, 6, 7, 8.So it looks like
+this is our median.It will be the ninth number.And then you have 1, 2, 3, 4,
+5, 6, 7, 8 that are larger.So eight are smaller than
+6, eight are larger than 6.So 6 is the middle number.If we had an even
+number of numbers here,if we had two middle
+numbers, then wewould take the average of them.When you have an odd
+number of data points,then you can just
+take the middle one.So this one right over
+here is our median.And then when you do a box
+plot, what you want to dois you want to find the
+median of the set of numbersthat are smaller
+than the median.And you also want to find the
+median of the set of numbersthat are larger than the median.These are called
+the first quartileand the second quartile.Because when you do
+that, you split your datainto four sections,
+or quartiles."Quar," you'd normally
+associate with four.So let's look at the set
+that's smaller than 6.So we have 1, 2, 3,
+4, 5, 6, 7, 8 numbers.So it's an eight.If you have eight
+data points, you'regoing to actually have
+two middle numbers.So for example, you have
+these two right over hereare the two middle numbers--
+three less, three more.You can't just pick the
+2 because if you justpicked the 2, you'd have
+three less and four more.And you can't just pick
+the 3 because then youwould have three
+more and four less.So these are our
+middle two numbers.So the median of this group
+right over here is 2.5.I averaged these
+middle two numbers.And then let's do it over
+here with this group.I'll do it in blue.So once again, we
+have eight numbers.You're going to
+have two middles.And so it's going to be the
+third and the fourth number,which is 11 and 14.And if you average 11
+and 14-- let's see.11 plus 14 is 25, divided
+by 2 is 12.5, is 12.5.So this essentially divides
+the data into four sections.You have everything up
+to this first quartile.So you have this first
+section right over here,this first median of the
+lower half of the data is 2.5.Then you have everything between
+2.5 and 6, then 6 to 12.5,and then everything
+more than 12.5.And so what a box
+and whisker plotis essentially a
+graphical depictionof this right over here.So let's do that.I'm going to set
+up a number line.So let me draw a number line
+as straight as possible.So let's say that
+is my number line.And let's say that this is 0.And let's say that this
+is-- I want to make it.So let's say that this is 10.And then this would be 20.And then this would be 5.This would be-- let me do it a
+little bit cleaner than that.This would be 15.25 would be right around there.So first thing on the
+box and whiskers plot,you want to show the
+entire range of data.So our smallest data
+point starts at 1.So 1 is right about here.So if I do-- so this is 2.5.So 1 is right about here.And then our largest
+data point is 22.22 would sit right about there.And I'll even label
+it, although you oftenwon't see it labeled like that.That's 1.And then that is 22.And then the middle half of
+the data, we do with a box.So the middle half
+is this quartileand this quartile
+right over there.So the second quartile
+starts at 2.5.So 2.5 is right there.So this is where we
+start our box, 2.5.And then our third
+quartile starts at 12.5.So 12.5 is right over there.12.5 is right over there.And then we can draw a box.I'll draw the box
+in a neutral color.I'll do it actually
+in that yellow color.So let me draw the box here.So the box shows where the
+middle half of our data is.And now I can draw
+these two arrows, these.So that's the box part.And then these two
+arrows are whatyou would call the whiskers.And that shows where
+all the other data is.So it's really showing
+the spread of the data.And then the last thing we need
+to show is the actual median.And the median-- I'll do it in
+purple-- we already figured outis 6.So the median sits right
+about-- see, this is 5.This would 7.5.6 would be right over there.So with this one
+diagram, you've actuallydepicted all of this
+information in termsof where is the median.The median is at 6.That is 6 right over there.Where is the middle
+half of the data?Well, it's between 2.5 and
+12.5, between 2.5 and 12.5.And all of the data, the entire
+spread for all of the customerssits between-- and this is
+what the whiskers do for us.It sits between 1 and
+it sits between 22.And if you wanted to color
+code it a little bit better--let me do that just
+because it's fun.So this data right
+over here-- and really,if you think about it, it's
+including this data too.That's what this
+whisker is depicting.This data right over-- Let me
+do that in a different color.This data right
+over here is kindof the first half of the box.That data right over here.Then you have your
+median in magenta.Then this data right over here
+is the second part of the box.So it's all of this
+stuff right over here.And then finally, let
+me pick a new colorthat I haven't used yet.This data is kind of
+represented by this part,by this whisker right over here.Now there's one thing
+I want to leave youwith is that I used a method for
+this box and whisker diagram.I found the median.I use a method where the two
+halves, I got rid of the medianand I found the
+median of this part,and I found the
+median of that part.And that's the
+more typical methodfor box and whisker plots.Sometimes when you find
+the median of the lowerhalf and the upper
+half, some peoplewill include this median in both
+sets when they calculate it.But I just want to let
+you know that's out there.But the way that I
+did it is actuallythe more mainstream way.That's the way most
+calculators, I believe,actually will do a
+box and whisker plot.

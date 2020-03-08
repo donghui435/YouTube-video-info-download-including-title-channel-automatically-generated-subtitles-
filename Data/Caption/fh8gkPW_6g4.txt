@@ -1,0 +1,25 @@
+Round 423,275 to the
+nearest thousand.So let me rewrite it: 423,275.And so the thousands place is
+the 3 right here, and so if wewere round it up to the nearest
+thousand, we would goto 420-- let me write it so we
+just focus on the 3-- we wouldgo up to 424,000 if we wanted
+to round up, 424,000, and ifwe wanted to round down,
+we would go to 423,000.We would get rid of the 275.423,000.So this is our choice.Round up to 424,000 or round
+down to 423,000.And to figure it out, we just
+look at the digit one place tothe right of the 3, so we look
+at the 2 right there.If that digit is 5 or greater,
+you round up.So this is 5.So if this is greater than
+or equal to 5, 5 orgreater, you round up.If it's less than 5,
+you round down.2 is definitely less than 5, so
+we just round down, so itis 423,000.Now just to visualize what
+this means to the nearestthousand, if I were to do a
+number line-- and you don'thave to do this.We've gotten the answer, but
+just to have a little bitbetter visualization of it,
+if I were to increment bythousands, you might have
+422,000, 423,000.You have 424,000, and then
+maybe over here, you have425,000, and you could
+keep going.Now 423,275 is going to be
+someplace right around here.And so when we round to the
+nearest thousand, we have topick between that and that.We see that it much closer to
+423,000 than to 424,000, so weround it right there.But you just use the rules we
+just came up with, and werounded down to 423,000.

@@ -1,0 +1,96 @@
+A recipe for oatmeal cookies
+calls for 2 cups of flourfor every 3 cups of oatmeal.How much flour is
+needed for a big batchof cookies that uses
+9 cups of oatmeal?So let's think about
+what they're saying.They're saying 2 cups of flour.So 2 cups of flour for
+every 3 cups of oatmeal.And so they're
+saying, how much flouris needed for a big
+batch of cookiesthat uses 9 cups of oatmeal?Now we're going to
+go to a situationwhere we are using
+9 cups of oatmeal.Let me write it this
+way-- 9 cups of oatmeal.And I'll show you a
+couple of different waysto think about it.And whatever works
+for you, that works.So one way to think about
+it, so we're wondering.We're going to
+say, look, we knowif we have 3 cups of oatmeal,
+we should use 2 cups of flour.But what we don't know is if
+we have 9 cups of oatmeal,how many cups of
+flour do we use?That's what they're asking us.But if we're going
+from 3 cups of oatmealto 9 cups of oatmeal, how much
+more oatmeal are we using?Well, we're using three
+times more oatmeal, Right?We're multiplying by 3.3 cups of oatmeal and
+9 cups of oatmeal,we're using 3 times the oatmeal.Well, if we want to use
+flour in the same proportion,we have to use 3
+times the flour.So then we're also going to
+multiply the flour times 3.We're going to multiply
+the flour times 3,so we're going to have
+to use 6 cups of flour.Ignore that question mark.And that answers the question.That's how much flour we need
+for a big batch of cookiesthat uses 9 cups of oatmeal.The other thing is you
+could set up a proportion.You could say 2 cups of
+flour over 3 cups of oatmealis equal to question mark.And instead of
+writing question mark,I'll put a variable in there.Actually, let me put
+a question mark therejust so you really
+understand it isequal to a question
+mark in a box numbercups of flour over
+9 cups of oatmeal.And so I like this
+first way we did itbecause it's really
+just common sense.If we're tripling the
+oatmeal, then we'regoing to have to
+triple the flourto make the recipe in
+the same proportion.Another way, once you set
+up an equation like this,is actually to do a
+little bit of algebra.Some people might call
+it cross-multiplying,but that
+cross-multiplying is stillusing a little bit of algebra.And I'll show you why they're
+really the same thing.In cross-multiplication,
+wheneveryou have a proportion
+set up like this,people will multiply
+the diagonals.So when you use
+cross-multiplication,you'll say that 2 times 9
+must be equal to question marktimes 3, must be equal to
+whatever is in this questionmark, the number of
+cups of flour times 3.Or we get 18 is
+equal to whateverour question mark was times 3.So the number of cups of
+flour we need to use times 3needs to be equal to 18.What times 3 is equal 18?You might be able to
+do that in your head.That is 6.Or you could divide both sides
+by 3, and you will get 6.So we get question
+mark in a box needsto be equal to 6 cups of flour.Same answer we got through
+kind of common sense.Now, you might be
+wondering, hey,this cross-multiplying doesn't
+make any intuitive sense.Why does that work?If I have something set up
+like this proportion set up,why does it work that if I
+take the denominator hereand multiply it by the
+numerator there that thatneeds to be equal
+to the numeratorhere times the
+denominator there?And that comes from
+straight up algebra.And to do that, I'm just going
+to rewrite this part as x justto simplify the
+writing a little bit.So we have 2/3 is equal to--
+instead of that question mark,I'll write x over 9.And in algebra,
+all you're sayingis that this
+quantity over here isequal to this
+quantity over here.So if you do anything
+to what's on the left,if you want it to
+still be equal,if the thing on the right
+still needs to be equal,you have to do the
+same thing to it.Now, what we want to do is we
+want to simplify this so allwe have on the
+right-hand side is an x.So what can we
+multiply this by sothat we're just left with an x?So that we've solved for x?Well, if we multiply
+this times 9,the 9's are going to cancel out.So let's multiply
+the right by 9.But of course, if we
+multiply the right by 9,we have to still
+multiply the left by 9.Otherwise they still
+wouldn't be equal.If they were equal before
+being multiplied by 9, for themto still be equal, you have to
+multiply 9 times both sides.On the right-hand side,
+the 9's cancel out,so you're just left with an x.On the left-hand side, you have
+9 times 2/3, or 9/1 times 2/3.Or this is equal to 18/3.And we know that 18/3
+is the same thing as 6.So these are all
+legitimate ways to do it.I wanted you to understand
+that what I'm doing right hereis algebra.That's actually the reasoning
+why cross-multiplication works.But for a really simple
+problem like this,you could really just
+use common sense.If you're increasing the cups
+of oatmeal by a factor of 3,then increase the cups of
+flour by a factor of 3.

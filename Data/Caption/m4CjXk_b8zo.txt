@@ -1,0 +1,44 @@
+Pure mathematics, that is, math for its own
+sake,has produced fascinating patterns, such as
+eriestrange attractors, or tables of knots.Applied mathematics
+has been used in many areas, such as heatflow or turbulence.There's one problem, however, which leaves
+mathematicians utterly defeated.And it only involves simple arithmetic that
+a seven-year-old can follow.This is definitely the simplest impossible
+problem.Starting with a positive whole number n, let's
+produce a new numberaccording to the following rule: if n is even,
+divide it by 2.If it's odd,
+multiply by 3, then add 1.For example, let's start with 10.Since 10 is even, divide it by 2 to get 5.5 is odd, so multiply it by 3 and add 1 to
+get 16.Keep going to produce 8, 4, 2, 1, 4, 2, 1,
+etc.This pattern of 4,2,1 repeats forever.Well, this isn't hard.So what's the problem?Try other starting numbers, like 11, 23, or
+29.They all eventually reach one.This is the challenge; show that no matter
+whichstarting number you choose, the numbers will
+always reach one.This problem drives mathematicians crazy because
+there don'tseem to be any clear patterns.Sure, some special numbers, such as 8192,
+which is a power of 2, collapse down to 1pretty quickly; it takes
+only 13 steps to get there.However, if you start with 27,
+it takes 110 steps to reach the number 1.A graph of the points
+when we start at 27 shows the erratic natureof these numbers.The graph reaches its peak at 9232.Of course researchers have used computers
+to help out.You can click on this box to enter your own
+starting numberand explore what happens.To date, all starting numbers less than 5x2^60
+have been checkedand they all eventually reach one.Of course this doesn't
+prove the conjecture for larger starting numbers,but it does mean
+that working by hand is not a good idea.This impossible problem is usually called
+the 3x+1 problem, but it'salso known as the Collatz Conjecture, named
+after LotharCollatz who invented the problem
+back in the 1930s.Other mathematicians who were intrigued by
+the problemmentioned it in their lectures, so this conjecture
+also became known asHasse's problem, Kakutani¡¯s Problem, and
+Ulam's problem.With all this interest, it was joked in 1960
+that the 3x+1 problemwas part of a conspiracy to slow down mathematical
+research in the U.S.But getting back to the problem, what could
+happen ifa starting number doesn't reach the cycle
+{4,2,1}?One possiblity is that it approaches some
+other cycle.Advanced theory shows that any cycle
+besides {4,2,1} must have at least 10 billionnumbers.The only other possibility is that the numbers
+would get arbitrarilylarge and approach infinity.But both of these scenarios are highly unlikely.Over time, mathematicians have built complex
+theoriesto try to understand the 3x+1 problem, but
+they've made little progress.Even the 20th century genius Paul Erdos said
+about thischallenge, "Mathematics is not yet ready for
+such problems".But hey, but don't let me or Paul discourage
+you.What can
+you see in this problem?

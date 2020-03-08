@@ -1,0 +1,71 @@
+Measurement of Angles Level 1
+In the following series of videos we willlearn how to measure angles, classify angles
+by size, name the parts of a degree and recognizecongruent angles.In this video we will review how to name angles,
+we will then go over how to measure angles.In the previous videos we define an angle
+as a figure formed by two line segments orrays meeting at a common point called the
+vertex the plural would be vertices.The segments or rays that form the angle are
+called the sides of the angle.Angles are named by using the angle symbol.You can name an angle in a couple of ways
+we can use a vertex, we can use a point locatedon each ray or line segment and the vertex,
+or we can also use a single number.Another common way to name angles is by using
+Greek letters such as theta, alpha, or betainstead of numbers.For example the following angle can be denoted
+as angle SRT, or angle TRS or angle R or angle1 or theta.The set of all points between the sides of
+the angle is the interior of the angle.Here the word interior is Latin for ¡°inner¡±.The interior of an angle is the area between
+the two rays or line segments that defineit, the sides of the angle form ¡°jaws¡±
+that extend out to infinity.The exterior of an angle is the set of all
+points outside the angle, in other words theregion on the plane that is not the interior.Now that we have reviewed the basics of angles,
+let¡¯s talk about how we measure them.Just like a ruler is used to measure a line
+segment a protractor is an instrument thatis commonly used to measure angles.Angles are usually measured in terms of degrees,
+radians, grads, or nautical angles.In this course we will be using degrees as
+the unit for measuring angles.You can think of the measure, or size, of
+an angle as the amount of turning you woulddo if you were at the vertex, looking along
+one side of the angle, and then turned tolook along the other side of the angle.If you turned all the way around to face your
+starting direction you would turn 360 degrees,meaning that you turned around in a complete
+circle.We will cover the properties of circles in
+greater detail in a much later video, fornow we will use a circle to visually represent
+the idea of turning around, this is why weuse a circle as a symbol to denote angles.We denote angles by using the degree symbol
+which is represented by a small raised circlethat floats above the right side of the number
+just like an exponent.Now that we know that if we turn around in
+a complete circle we would turn 360 degrees,the next thing to understand is the size of
+a single degree.To get a sense of the size of a single degree,
+let¡¯s take a circle and slice it into 360equal pieces by using straight cuts that go
+through the center of the circle, by doingthis we end up with 360 individual angles
+and each angle or slice would measure 1 degree.So a degree is equivalent to 1/360 of a complete
+revolution around the circle.So a protractor is nothing more than half
+a circle broken up into 180 equal slices.A typical protractor will have two set of
+numbers, the inner numbers start at 0 degreeswhich is located at the lower right edge of
+the protractor and increase as you move counterclockwisearound the protractor, the outer numbers start
+at 0 degrees which is located at the lowerleft edge of the protractor and increase as
+you move clockwise around the protractor.We measure angles by placing the center mark
+of the protractor on the vertex of the angleand we align one ray (or segment) of the angle
+with the 0 degree mark at either side, thenthe measure of the angle is given by the number
+that falls on the other ray (or segment).We usually use the inner numbers on the protractor
+for angles measured counterclockwise, andwe use the outer numbers for angles measured
+clockwise.For example the measure of angle R is 30 degrees,
+similar to the measurement of a line segment;the measurement of an angle is denoted in
+a distinct manner.In order to denote the measurement of an angle
+we first write a lower case m followed bythe name of the angle, this is read as ¡°the
+measurement of angle R is 30 degrees¡±.At times when the context is clear we can
+go ahead and denote the measurement withoutwriting the lower case m, this is rarely done
+in most geometry textbooks.In these videos we will be using the lower
+case m to denote the measurement of an angle.If we have multiple angles that share the
+same vertex like the following figure we needto use 3 letters to denote each of the angles.In this example angle ABC measures 60 degrees,
+this angle measure is equivalent to 1/6 ofa revolution around a circle, angle ABD measures
+90 degrees and this is equivalent to 1/4 ofa revolution around a circle, angle ABE measures
+120 degrees and is equivalent to 1/3 of arevolution around a circle, angle ABF measures
+180 degrees and it is equivalent to 1/2 arevolution around a circle.Some math courses deal with negative angles,
+zero angles, and angles greater than 180 degrees.In this course we will be working with angles
+that are greater than 0 degrees and less thanor equal to 180 degrees.When using a protractor it is not necessary
+to always align one of the sides of the anglewith the 0 degree mark to measure the angle
+between 2 rays or 2 segments.Similar to the way we measured a line segment
+by using the coordinates of the endpoints,the measure of an angle is the absolute value
+of the difference of the degree measurementthat the rays or segments correspond with
+on the protractor.For example the measurement of angle EBC can
+be found by taking the absolute value of thedifference between 120 degrees and 60 degrees
+or the absolute value of the difference between60 degrees and 120 degrees.In this case the measurement of angle EBC
+is 60 degrees.In general the measure of an angle is the
+absolute difference of the real numbers thatthe rays or segments correspond with on the
+protractor.For example if ray BA corresponds with the
+real number A and ray BC corresponds withthe real number C then the measurement of
+angle ABC would be equal to the absolute differenceof A minus C or the absolute difference of
+C minus A.Alright in our next video we will learn how
+to classify angles by sizes.

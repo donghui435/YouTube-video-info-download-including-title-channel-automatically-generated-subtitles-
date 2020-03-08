@@ -1,0 +1,62 @@
+Construct a regular hexagon
+inscribed inside the circle.So what I'm going
+to do, first, I'mgoing to draw a
+diameter of the circle.And actually, I'm going
+to go beyond the diameterof the circle.I'm just going to
+draw a line thatgoes through the center of the
+circle and just keeps on going.And I'm going to make it flat,
+so it goes directly through,so this one right over
+here, goes directlythrough the center.And now, what I'm
+going to do is I'mgoing to construct
+a circle that'sthe exact same dimensions of
+this circle that's alreadybeen drawn.So let me put this
+one right over here.And let me make it
+the same dimensions.And now, what I'm going to do
+is I'm going to move it over,so that this new
+circle intersectsthe center of the old circle.And these circles
+are the same size.So notice, this center
+intersects the old circle.And the new circle
+itself intersectsthe center of the old circle.Now, the reason why
+this is interesting,we already know that this
+distance, the distancebetween these two centers,
+this is equal to a radius.We also know-- we have a
+straight edge-- we alsoknow that this distance right
+over here is equal to a radius.It's equal to the radius of
+our new circle right over here.We also know that this
+distance right over hereis equal to a radius
+of our old circle.And that they both
+have the same radius.So this is a radius
+between these two points.Between these two
+points is a radius.And then, in between these
+two points is a radius.So now, I have constructed
+an equilateral triangle.And essentially, you have
+to just do this six times.And then I'm going to
+have a hexagon inscribedinside the circle.Let me do it again.So we'll go from here to here.This is a radius of
+my new circle, whichis the same as the
+radius of the old circle.And I could go
+from here to here.That's the radius
+of my old circle.So I have another
+equilateral triangle.Radius, radius, radius.Another equilateral triangle.I've just got to do this, I
+have to do this four more times.So let me go to my original.Let's see, let me make
+sure I can-- well,it's actually going to be
+hard for me to-- let me justadd another circle here,
+to do it on the other side.So if I put the
+center of it right-- Iwant to move it a
+little bit, right over--I want to make it the same size.So oh, that's close enough.And let's see, that
+looks pretty close.That's the same size.Now, let me move it over here.Now, I want this center to be
+on the circle, right like that.And now, I'm ready to draw some
+more equilateral triangles.And really, I don't have to
+even draw the inside of it.Now, I see my six
+vertices for my hexagon,here, here, here,
+here, here, here.And I think you're satisfied
+now that you could break this upinto six equilateral triangles.So let's do that.So this would be the base of one
+of those equilateral triangles.And actually, let me move these.Let me move this
+one out of the way.I can move this one
+right over here.Because I really just care
+about the hexagon itself.And I can move this
+right over here.But we know that these are
+all the lengths of the radiusanyway.Actually, I'm not even having
+to change the length there.Then, I have to just connect
+one more right down here.So let me add another straight
+edge, connect those two points.And I would have done it.I would have constructed my
+regular hexagon inscribedin the circle.

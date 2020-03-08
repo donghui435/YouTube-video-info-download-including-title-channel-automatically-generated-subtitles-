@@ -1,0 +1,100 @@
+It never hurts to get a lot of
+practice, so in this video I'mjust going to do a bunch more
+of essentially, what we calllong division problems.And so if you have
+4 goes into 2,292.And I don't know exactly why
+they call it long division,and we saw this in the
+last video a little bit.I didn't call it long division
+then, but I think the reasonwhy is it takes you a long
+time or it takes a longpiece of your paper.As you go along, you kind of
+have this thing, this long tailthat develops on the problem.So all of those are, at least,
+reasons in my head whyit's called long division.But we saw in the last video
+there's a way to tackle anydivision problem while just
+knowing your multiplicationtables up to maybe 10
+times 10 or 12 times 12.But just as a bit of review,
+this is the same thingas 2,292 divided by 4.And it's actually the same
+thing, and you probably haven'tseen this notation before,
+as 2,292 divided by 4.This, this, and this are
+all equivalent statementson some level.And you could say, hey Sal,
+that looks like a fractionin case you have seen
+fractions already.And that is exactly what it is.It is a fraction.But anyway, I'll just focus on
+this format and in futurevideos we'll think about other
+ways to represent division.So let's do this problem.So 4 goes into 2
+how many times?It goes into 2 no times,
+so let's move on to-- letme just switch colors.So let's move on to the 22.4 goes into 22 how many times?Let's see.4 times 5 is equal to 20.4 times 6 is equal to 24.So 6 is too much.So 4 goes into 22 five times.5 times 4 is 20.There's going to be a
+little bit of a leftover.And then we subtract
+22 minus 20.Well that's just 2.And then you bring down this 9.And you saw in the last video
+exactly what this means.When you wrote this 5 up
+here-- notice we wrotein the 100's place.So this is really a 500.But in this video I'm just
+going to focus more on theprocess, and you can think more
+about what it actually meansin terms of where I'm
+writing the numbers.But I think the process
+is going to be crystalclear hopefully, by
+the end of this video.So we brought down the 9.4 goes into 29 how many times?It goes into at
+least six times.What's 4 times 7?4 times 7 is 28.So it goes into it at
+least seven times.What's 4 times 8?4 times 8 is 32, so it can't go
+into it eight times so it'sgoing to go into it seven.4 goes into 29
+nine seven times.7 times 4 is 28.29 minus 28 to get our
+remainder for this stepin the problem is 1.And now we're going to
+bring down this 2.We're going to bring it
+down and you get a 12.4 goes into 12?That's easy.4 times 3 is 12.4 goes into 12 three times.3 times 4 is 12.12 minus 12 is 0.We have no remainder.So 4 goes into 2,292
+exactly 573 times.So this 2,292 divided by 4
+we can say is equal to 573.Or we could say that this thing
+right here is equal to 573.Let's do a couple of more.Let's do a few more problems.So I'll do that red color.Let's say we had 7
+going into 6,475.Maybe it's called long division
+because you write it nice andlong up here and you
+have this line.I don't know.There's multiple reasons why it
+could be called long division.So you say 7 goes
+into 6 zero times.So we need to keep
+moving forward.So then we go to 64.7 goes into 64 how many times?Let's see.7 times 7 is?Well, that's way too small.Let me think about
+it a little bit.Well 7 times 9 is 63.That's pretty close.And then 6 times 10 is
+going to be too big.7 times 10 is 70.So that's too big.So 7 goes into 64 nine times.9 times 7 is 63.64 minus 63 to get our
+remainder of this stage 1.Bring down the 7.7 goes into 17 how many times?Well, 7 times 2 is 14.And then 7 times 3 is 21.So 3 is too big.So 7 goes into 17 two times.2 times 7 is 14.17 minus 14 is 3.And now we bring down the 5.And 7 goes into 35?That's in our 7 multiplication
+tables, five times.5 times 7 is 35.And there you go.So the remainder is zero.So all the examples I did
+so far had no remainders.Let's do one that maybe
+might have a remainder.And to ensure it has a
+remainder I'll justmake up the problem.It's much easier to make
+problems that have remaindersthan the ones that
+don't have remainders.So let's say I want to divide 3
+into-- I'm going to divide itinto, let's say 1,735,092.This will be a nice,
+beastly problem.So if we can do this we
+can handle everything.So it's 1,735,092.That's what we're
+dividing 3 into.And actually, I'm not sure if
+this will have a remainder.In the future video I'll show
+you how to figure out whethersomething is divisible by 3.Actually, we can
+do it right now.We can just add up
+all these digits.1 plus 7 is 8.8 plus 3 is 11.11 5 five is 16.16 plus 9 is 25.25 plus 2 is 27.So actually, this number
+is divisible by 3.So if you add up all of
+the digits, you get 27.And then you can add up those
+digits-- 2 plus 7 is 9.So that is divisible by 9.That's a trick that
+only works for 3.So this number actually
+is divisible by 3.So let me change it a
+little bit, so it'snot divisible by 3.Let me make this into a 1.Now this number will
+not be divisible by 3.I definitely want a
+number where I'll endup with a remainder.Just so you see what
+it looks like.So let's do this one.3 goes into 1 zero times.So we can just move forward.You could write a 0 here and
+multiply that out, but thatjust makes it a little
+bit messy in my head.So we just move
+one to the right.3 goes into 17 how many times?Well, 3 times 5 is equal to 15.And 3 times 6 is equal to
+18 and that's too big.So 3 goes into 17 right
+here five times.5 times 3 is 15.And we subtract.17 minus 15 is 2.And now we bring down this 3.3 goes into 23 how many times?Well, 3 times 7 is equal to 21.And 3 times 8 is too big.That's equal to 24.So 3 goes into 23 seven times.7 times 3 is 21.Then we subtract.23 minus 21 is 2.Now we bring down
+the next number.We bring down the 5.I think you can appreciate why
+it's called long division now.We bring down this 5.3 goes into 25 how many times?Well, 3 times 8 gets you pretty
+close and 3 times 9 is too big.So it goes into it eight times.8 times 3 is 24.I'm going to run out of space.You subtract, you get 1.25 minus 24 is 1.Now we can bring down this 0.And you get 3 goes into
+10 how many times?That's easy.It goes into it three times.3 times 3 is 9.That's about as close
+to 10 as we can get.3 times 3 is 9.10 minus 9, I'm going to
+have to scroll up anddown here a little bit.10 minus 9 is 1, and then we
+can bring down the next number.I'm running out of colors.I can bring down that 9.3 goes into 19 how many times?Well, 6 is about as
+close as we can get.That gets us to 18.3 goes into 19 six times.6 times 3-- let me scroll down.6 times 3 is 18.19 minus 18-- we subtract
+it up here too.19 minus 18 is 1 and
+then we're almost done.I can revert back to the pink.We bring down this
+1 right there.3 goes into 11 how many times?Well, that's three times
+because 3 times 4 is too big.3 times 4 is 12, so
+that's too big.So it goes into it three times.So 3 goes into 11 three times.3 times 3 is 9.And then we subtract
+and we get a 2.And there's nothing
+left to bring down.When we look up here there's
+nothing left to bringdown, so we're done.So we're left with the
+remainder of 2 after doingthis entire problem.So the answer, 3 goes into
+1,735,091-- it goes intoit 578,363 remainder 2.And that remainder 2 was what
+we got all the way down there.So hopefully you now appreciate
+and you can tackle prettymuch any division problem.And you also, through this
+exercise, can appreciate whyit's called long division.

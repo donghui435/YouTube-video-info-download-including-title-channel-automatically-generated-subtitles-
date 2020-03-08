@@ -1,0 +1,28 @@
+Draw a circle and label the
+radius, diameter, center,and the circumference.Let me draw a circle.And it won't be that
+well drawn of a circle,but I think you get the idea.So that is my circle.I'm going to label
+the center over here.I'll do the center.I'll call it c.So that is my center.And I'll draw an arrow there.That is the center
+of the circle.And actually, the
+circle itself is the setof all points that are a fixed
+distance away from that center.And that fixed distance
+away that they'reall from that center,
+that is the radius.So let me draw the radius.So this distance right
+over here is the radius.That is the radius.And that's going to be the
+same as this distance, whichis the same as that distance.I can draw multiple radii.All of these are radii, the
+distance between the centerand any point on the circle.Now, a diameter just goes
+straight across the circle,going through the center.From one side of the
+circle to the other side,I'm going through the center.It's essentially two
+radii put together.So for example, this
+would be a diameter.You have one radii, than
+another radii, all one line,going from one side of
+the circle to the other,going through the center.So that is a diameter.And I could have
+drawn it other ways.I could've drawn it like this.That would be another diameter.But they're going to have
+the exact same length.And finally, we have to think
+about the circumference.And the circumference
+is really just how faryou have to go to go
+around the circle.Or if you put a
+string on this circle,how long will that
+string have to be?So what I'm tracing
+out in blue right now,the length of what I'm tracing
+out, is the circumference.So right over here, that
+is the circumference.And we're done.

@@ -1,0 +1,85 @@
+I want to do a quick
+argument, or proof,as to why the diagonals of
+a rhombus are perpendicular.So remember, a rhombus
+is just a parallelogramwhere all four sides are equal.In fact, if all four
+sides are equal,it has to be a parallelogram.And just to make things
+clear, some rhombusesare squares, but
+not all of them.Because you could have
+a rhombus like thisthat comes in where the
+angles aren't 90 degrees.But all squares are rhombuses,
+because all squares,they have 90-degree angles here.That's not what makes them a
+rhombus, but all of the sidesare equal.So all squares are rhombuses,
+but not all rhombusesare squares.Now with that said, let's
+think about the diagonalsof a rhombus.And to think about that
+a little bit clearer,I'm going to draw the rhombus
+really as kind of-- I'mgonna rotate a little
+bit, so it looksa little bit like
+a diamond shape.So notice I'm not
+really changingany of the properties
+of the rhombus.I'm just drawing it,
+I'm just changingits orientation a little bit.I'm just changing
+its orientation.So a rhombus by
+definition, the four sidesare going to be equal.Now, let me draw one
+of its diagonals.And the way I drew it right
+here is kind of a diamond.One of its diagonals will be
+right along the horizontal,right like that.Now, this triangle on
+the top and the triangleon the bottom both share
+this side, so that sideis obviously going to be
+the same length for bothof these triangles.And then the other two
+sides of the trianglesare also the same thing.They're sides of
+the actual rhombus.So all three sides
+of this top triangleand this bottom
+triangle are the same.So this top triangle and this
+bottom triangle are congruent.They are congruent triangles.If you go back to your
+ninth grade geometry,you'd use the side-side-side
+theorem to prove that.Three sides are congruent,
+then the triangles themselvesare congruent.But that also means that all
+the angles in the triangleare congruent.So the angle that is opposite
+this side, this shared sideright over here
+will be congruentto the corresponding angle in
+the other triangle, the angleopposite this side.So it would be the
+same thing as that.Now, both of these triangles
+are also isosceles triangles,so their base angles are
+going to be the same.So that's one base angle, that's
+the other base angle, right?This is an upside down
+isosceles triangle,this is a right side up one.And so if these
+two are the same,then these are also
+going to be the same.They're going to be
+the same to each other,because this is an
+isosceles triangle.And they're also going to be
+the same as these other twocharacters down here, because
+these are congruent triangles.Now, if we take an altitude,
+and actually, I didn't evenhave to talk about
+that, since actually,I don't think that'll be
+relevant when we actuallywant to prove what
+we want to prove.If we take an altitude
+from each of thesevertices down to this
+side right over here.So an altitude by
+definition is goingto be perpendicular down here.Now, an isosceles triangle
+is perfectly symmetrical.If you drop an
+altitude from the-- Iguess you could call it the
+top, or the unique angle,or the unique vertex in
+an isosceles triangle--you will split it into two
+symmetric right triangles.Two right triangles
+that are essentially themirror images of each other.You will also bisect
+the opposite side.This altitude is, in fact,
+a median of the triangle.Now we could do it
+on the other side.The same exact thing
+is going to happen.We are bisecting
+this side over here.This is a right angle.And so essentially
+the combinationof these two altitudes
+is really just a diagonalof this rhombus.And it's at a right angle to the
+other diagonal of the rhombus.And it bisects that other
+diagonal of the rhombus.And we could make the exact
+same argument over here.You could think of an
+isosceles triangle over here.This is an altitude of it.It splits it into two
+symmetric right triangles.It bisects the opposite side.It's essentially a
+median of that triangle.Any isosceles triangle.Any isosceles triangle, if
+that side's equal to that side,if you drop an altitude,
+these two trianglesare going to be
+symmetric, and youwill have bisected
+the opposite side.So by the same argument, that
+side's equal to that side,so the two diagonals
+of any rhombusare perpendicular to each other
+and they bisect each other.Anyway, hopefully you
+found that useful.

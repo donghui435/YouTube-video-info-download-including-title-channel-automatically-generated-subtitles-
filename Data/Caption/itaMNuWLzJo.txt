@@ -1,0 +1,96 @@
+When we observe
+the physical world,we find a random
+fluctuations everywhere.We can generate
+truly random numbersby measuring random
+fluctuations known as noise.When we measure this
+noise, known a sampling,we can obtain numbers.For example, if we measure
+the electric currentof TV static over time, we
+will generate a truly randomsequence.We can visualize
+this random sequenceby drawing a path
+that changes directionaccording to each number,
+known as a random walk.Notice the lack of
+pattern at all scales.At each point in the
+sequence, the next moveis always unpredictable.Random processes are said
+to be non-deterministic,since they're impossible
+to determine in advance.Machines on the other
+hand, are deterministic.Their operation
+predictable and repeatable.In 1946, John von
+Neumann was involvedin running computations for the
+military, specifically involvedin the design of
+the hydrogen bomb.Using a computer
+called the ENIAC,he planned to
+repeatedly calculateapproximations of the processes
+involved in nuclear fission.However, this required
+quick access to randomlygenerated numbers that
+could be repeated if needed.However, the ENIAC had very
+limited internal memory.Storing long random
+sequences was not possible.So Neumann developed
+an algorithmto mechanically simulate the
+scrambling aspect of randomnessas follows.First, select a truly random
+number, called the seed.This number comes from
+the measurement of noise,or the current time
+in milliseconds.Next, this seed is provided as
+input to a simple calculation.Multiply this seed by itself.And then output the
+middle of this result.Then you use this
+output as the next seedand repeat the process
+as many times as needed.This is known as the
+middle-squares method,and is just the first in a long
+line of pseudo random numbergenerators.The randomness of
+the sequence isdependent on the randomness
+of the initial seed only.Same seed, same sequence.So what are the differences
+between a randomly generatedversus pseudorandomly
+generated sequence?Let's represent each
+sequence as a random walk.They seem similar until
+we speed things up.The pseudorandom sequence
+must eventually repeat.This occurs when the
+algorithm reachesa seed it has previously
+used, and the cycle repeats.The lengths, before a
+pseudorandom sequence repeats,is called the period.The period is strictly
+limited by the lengthof the initial seed.For example, if we
+use a two digit seed,then an algorithm can
+produce at most 100 numbersbefore reusing a seed
+and repeating the cycle.A three digit seed can
+expand past 1,000 numbersbefore repeating its cycle.And a four digit seed can
+expand past 10,000 numbersbefore repeating.Though if we use a
+seed large enough,the sequence can expand
+into trillions and trillionsof digits before repeating,
+though the key differenceis important.When you generate
+numbers pseudorandomly,there are many sequences,
+which cannot occur.For example, Alice generates
+a truly random sequenceof 20 shifts.It's equivalent to
+a uniform selectionfrom the stack of all
+possible sequences of shifts.This stack contains
+26 to the power20 pages, which is
+astronomical in size.If we stood at the bottom
+and shined a light upwards,a person at the
+top would not seethe light for around
+200 million years.Compare this to Alice generating
+a 20 digit pseudorandomsequence using a four
+digit random seed.Now this is equivalent
+to a uniform selectionfrom 10,000 possible
+initial seeds.Meaning, she can only generate
+10,000 different sequences,which is a vanishingly
+small fractionof all possible sequences.When we move from random
+to pseudorandom shifts,we shrink the key space into a
+much, much smaller seed space.So for a pseudorandom
+sequence to beindistinguishable from a
+randomly generated sequence,it must be impractical for
+a computer to try all seedsand look for a match.This leads to an important
+distinction in computer sciencebetween what is
+possible, versus whatis possible in a
+reasonable amount of time.We use the same logic
+when we buy a bike lock.We know that anybody can simply
+try all possible combinationsuntil they find a
+match and it opens.But it would take
+them days to do so.So for eight hours.We assume it's practically safe.With pseudorandom
+generators, the securityincreases as the length
+of the seed increases.If the most powerful computer
+would take hundreds of yearsto run through all
+seeds, then we safelycan assume it's practically
+secure, instead of perfectlysecure.As computers get
+faster, the seed sizemust increase accordingly.Pseudorandomness
+frees Alice and Bobfrom having to share
+their entire random shiftsequence in advance.Instead, they share a
+relatively short random seed,and expand it into the same
+random looking sequencewhen needed.But what happens
+if they can nevermeet to share this random seed?

@@ -1,0 +1,91 @@
+Abby and Ben did household
+chores last weekend.Together they earned $50.That looks like an interesting
+statement.Let me underline that.Together they earned $50 and
+Abby earned $10 more than Ben.So they also tell us--let me
+underline that-- Abby earned$10 more than Ben.How much did each earn?So that's the first question
+that we have to answer.Then they say, if you were to
+use the graph above, and I putit on the side here, which
+strategy is most useful inhelping you find the answer
+to the problem?So there's kind of a meta-level
+question of how dowe answer that first question.Find the equation for
+the blue line?Red's y-intercept?Find the points of
+intersection?Fair enough.So let's just think about that
+first question and then we cananswer this later, depending
+on how weanswered that first question.So that first statement,
+together they earned $50.What does that tell us?Well, if we say that Abby's
+earnings are represented by a,and Ben's earnings are
+represented by b, that tellsus that a plus b must be $50.So a plus b have to
+be equal to $50.Abby's earnings plus Ben's
+earnings are $50.Together they earned $50.That's all that statement
+is telling us.And if we see how they graphed
+things here, on the verticalaxis, what we normally associate
+with the y-axis,they graphed Abby's earnings.This is Abby's earnings
+right there.So we could say this
+is the a-axis.And then on the horizontal
+axis, what we normallyassociate with the x-axis,
+they've charted Ben'searnings, so we could say
+that this is the b-axis.So if we were to just map this
+into the traditionalslope-intercept form, we don't
+have x's and y's here.We have b's and a's.So we just want to express a
+in terms of b, the verticalvariable in terms of the
+horizontal variable.That's just like the y equals
+mx plus b form.And the easiest way to do that
+is just subtract b from bothsides of this equation.And we get a is equal to
+negative b plus 50.So in this situation, you have
+a slope of negative 1.Let me write this down.Slope of negative 1, that's
+what's multiplying theindependent variable, and then
+you have a y-intercept of 50,or maybe we should say
+an a-intercept.But I'll write y-intercept
+because that's what we'refamiliar with.You can view this as also like
+the y or the vertical axis.y-intercept of 50.And you can see they
+graphed that.You have an a-intercept or
+y-intercept of 50, and theslope is negative 1.If we move 20 in the positive
+x-direction, we are movingdown 20, or we're going 20
+in the negative verticaldirection, or in the negative
+a-direction.If we go 50 in the positive-- I
+shouldn't say x-direction--the positive b-direction, we go
+down 50 in the a-direction,so the slope is negative 1.So this red line right here is
+the graph that depicts thisfirst constraint.It's important to realize that,
+look, all this graphshows is all the different
+possible combinations ofAbby's and Ben's earnings
+given only this firstconstraint.Maybe Abby made $50
+and Ben earned $0.Maybe Ben earned $50
+and Abby earned $0.Maybe they both earned $25.Everything on this line would
+be a valid combination ofAbby's and Ben's earnings given
+the constraint that theyearned $50 combined.Now, the second statement.Abby earned $10 more than Ben.So if we were to write that,
+that's saying that Abby isequal to Ben's earnings
+plus $10.Abby earned $10 more than Ben.And here the slope is 1, you
+see that right there.There's an implicit 1
+multiplying times this b.And then the y-intercept
+is 10.And they graphed that here.The y-intercept is 10
+and the slope is 1.You move 10 in the positive
+b-direction, you move up 10 inthe positive a-direction.So this blue line represents
+all of the possiblecombinations of Abby and Ben's
+earnings if you only had thisconstraint that Abby earned
+$10 more than Ben.If Ben earns $0,
+Abby earns $10.If Ben earns $10,
+Abby earns $20.If Ben earns $60,
+Abby earns $70.Now, we aren't dealing with only
+the blue constraint oronly the red constraint.We're dealing with
+both of them.We know that both of
+them are true.So whatever earnings Abby and
+Ben made, they have to satisfyboth constraints or they have to
+sit on both of these lines.Now, what is the only point
+that is sitting on both ofthese lines?Well, the only point that sits
+on both lines is theintersection of those lines.That point right there is a
+valid combination from thepoint of view of the blue
+constraint that Abby earned$10 more than Ben.And it's also a valid point or
+a valid combination from thepoint of view of the red
+constraint that Abby and Benearned $50.So that point represents Abby's
+and Ben's earnings thatsatisfy both constraints.And we can eyeball
+it right here.It looks like Abby earned
+$30 and Ben earned $20.And that makes sense.Combined, $20 plus $30 or $30
+plus $20 is $50, so we meetour first constraint.And we see that Abby, $30, made
+$10 more than Ben, whoonly made $20.So if you look at the point of
+intersection, you will havesolved the problem.Abby made $30, Ben earned $20.So answering this second-- so
+we know the answer-- so Abbyearned $30 and Ben earned $20.Now, answering the second-level,
+meta-levelquestion, which is the
+best strategy?We see, well, we had to find the
+points of intersection, sothat is choice C.We had to find the lines'
+point of intersection.Finding these other things
+really wouldn't have helped ussolve the problem.

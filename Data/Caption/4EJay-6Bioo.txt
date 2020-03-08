@@ -1,0 +1,63 @@
+- [Voiceover] We're all
+familiar with the base 10number system, were
+often called the decimalnumber system, where we have 10 digitsZero, one, two, three, four,
+five, six, seven, eight, nine.Now, we started to see that we canhave alternate number system.We can have a base two number system,or it's the binary number system,where instead of 10 digits
+you only have two digits.Each place, instead of being a powerof ten is going to be a power of two.Now you can imagine that
+we can keep extending this.We can extend to base three,
+four, five, six, seven,eight, nine, or we could even go above 10.What I want to show you
+in this video is a fairly,heavily used number system
+that is larger than,or that has more digits than
+base 10, and that base is 16.Base 16, often called the hexadecimal.Hexadecimal number system.As you can imagine, instead of onlyhaving 10 digits, it is going to have 16.What are those digits going to be?As we'll see, instead of
+the place is being powersof two or powers of ten,
+there will be powers of 16.Let's see, we can reuse
+the existing 10 digitsfrom the decimal number system.We can reuse zero, one, two, three,four, five, six, seven, eight, nine,but then we're going to need
+to have six more digits.The convention is to use
+the first six letters.A, B, C, D, E, and F.You might say this is crazy.These are letters, not numbers,
+but remember these are justarbitrary squiggles of
+ink on a piece of paper.These are just arbitrary symbolsthat we're grown to associate with things.You're grown to associate
+this symbol right over herewith eight thing, with
+the word eight which youassociate with when you
+see that many objects.If you're thinking in hexadecimal,
+this isn't the letter Athat makes you want to
+say "ah", or the letter Bthat makes you want to say "bababababa".This is, literally, this representsif you had 10 things laying around.You would say, "I have
+A things over there."If you have 11, you'd say,
+"I have B things over there."12, C things.13, instead of saying,
+"I have 13 things there","I have D things there."Instead of saying, "I have 14",you could say, "I can
+have E things there."Instead of saying, "I have 15",you could say, "I have F things there."Now, how does that help?Well, let's see if we can representthe same number 231, or 231 in decimal.If we can represent that
+same number in hexadecimal.What I'll do is I'll give
+you what the number is,and then I'll show you how we convert it.I'll show you the place value,and I'll show you how we convert it.231 in hexadecimal.231 in hexadecimal is the number E seven.E seven.Once again, you're
+like, "This looks crazy."This is like I'm playing
+like battleship or something."What's E seven?This is a number and I would say yes.This is a number.Now remember, base 16.What are these place values represent?This first place represents
+16 to the zero poweror still represents the ones place.This is the ones place.This is seven ones.Now, what is this place here represents?Well, in base 10, that
+was 10 to the first power.In base two, that was
+two to the first power.On base 16, this is going to be,I'll leave those there,in base 16, this is going
+to be 16 to the first power.This is literally, well let me write outthe word, this is literally sixteens.This is E sixteens plus seven ones.Let me write that down.This is E sixteens plus seven ones.That's what this number represents.Now, if we want to start rewriting thisor re-conceptualizing it in our decimalnumber system, what is E sixteens?Well, the E if we think
+in decimal, E is 14.E is 14.This is really, we can
+really think of thisif you want to think them decimals.This is 14 sixteens.It's 14 sixteens.Well, that's just the
+same thing as 14 times 16.14 times 16 is equal to 224.Maybe I should do that in same color.This thing right over
+here is going to be 224.14 sixteens, 14 times 16
+is 224 plus seven ones.Well, 224 plus 7 is
+going to be give you 231.Hopefully, you can appreciate it.You can represent the same quantityin any of these different number systems.In any number that you
+can represent in decimal,you can also represent
+that number in binary,or in hexadecimal, or in
+base three, or in base 60,or in base 31, whatever you want to do.You might have noticed the pattern.The more symbols that we have,so in base 16, you have 16 symbols,the less place values we needto represent the same quantity.One way to think about it is eachof the places are
+containing more information.This is one of 16 characters.While this over here is
+only one of two characters.This is one of ten characters.The more symbols that
+you have, the more digitsthat you could put in each
+place, the less placesthat you need to represent
+a given quantity.Another way to think about it
+is when you have a high base,like base 16, as you take
+powers of 16, the nextplace right over here would be 16 squared,which, of course, is two
+hundred and, wait a minute, 256.You're clearly going to be able
+to represent bigger numbersfaster, I guess you could
+say, or with less digits.It's just an interesting thing to observe.But hopefully, you're
+going to kick out of,as much of a kick out of base 16as I do, and it's actually useful.This actually is used if
+you look at most web pages.If you look at the actual code for there,or I guess you could say the
+formatting line, the HTMLfor the webpage, when they specify colors,they tend to specify in hexadecimal.That's because they're specifying
+the colors, the intensityof the red, the green, or the
+blue, between zero and 255.Two digits of hexadecimal
+are perfect for that,because if you think
+about it, what is F F?What would this be if you
+rewrite it in the decimal numbersystem, and I encourage you
+after this video is done,I encourage you to do that to
+figure that out on your own.If you really want to do something fun,let me give you another one.Try to figure out what A F three is.Again, this isn't very specialized.I just wanted to give you anotherinteresting thing to work on.

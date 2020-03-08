@@ -1,0 +1,57 @@
+Voiceover:The previous video we exploredhow the cosine and sines of angles relate.We essentially take the
+terminal ray of the angle andwe reflect it about the X
+or the Y axis, or both axes.What I want to do in this
+video is think a little bitabout the tangent of
+these different angles.So just as a little bit of a reminder,we know that the tangent
+of theta is equal tothe sine of an angle over
+the cosine of an angle,and by the Unit Circle Definition,it's essentially saying,
+"What is the slope"of the terminal ray right over here?"We remind ourselves
+slope is rise over run.It is our change in the vertical axisover our change in the horizontal axis.If we're starting at the
+origin, what is our changein the vertical axis if we
+go from zero to sine theta?Well, our change in the
+vertical axis is sine theta.What is our change in the horizontal axis?It's cosine of theta.So this is change in Y overchange in X for the terminal ray.So the tangent of theta
+is the sine of thetaover cosine of theta, or you could view itas the slope of this ray right over here.Lets think about what other angles aregoing to have the exact
+same tangent of theta?This ray is collinear with
+this ray right over here.In fact if you put them
+together you get a line.So the tangent of this
+angle right over here,this pink angle going all the way around,the tangent of pi plus theta,or the tangent of theta plus pi,obviously you could write thetaplus pi instead of pi plus theta.This should be, just based
+on this slope argument,this should be equal to
+the tangent of theta.Lets see if this actually is the case.So these two things should be equalif we agree that the
+tangent of an angle isequal to the slope of the terminal ray.Of course the other side of the angle isgoing to be the positive X axis basedon the conventions that we've set up.Lets think about what it
+is when the tangent oftheta plus pi is in
+terms of sine and cosine.Let me write this down in the pink color.The tangent.That's not pink.The tangent of pi plus theta,
+that's going to be equal to,put the parentheses to avoid ambiguity,that's equal to the sine of pi plus theta,or theta plus pi, over the
+cosine of theta plus pi.And in the previous video we establishedthat the sine of theta plus pi,that's the same thing
+as negative sine theta.So this is equal to negative sine theta.And the cosine of theta plus pi,we already established that's thesame thing as negative cosine of theta.We have a negative divided by a negativethat you could say the
+negatives cancel out,and we're left with sine
+theta over cosine theta,which is indeed tangent of theta,so we can feel pretty good about that.Now what about the points, or theterminal rays right over here?Lets think about this point.What is the tangent of
+negative theta going to be?We know that the tangent of negative thetais the same thing as the
+sine of negative thetaover the cosine of negative theta,and we already established
+the sine of negative theta,that's negative sine theta.We see that right over here,sine of negative theta.That's the negative, that's the opposite,of the sine of theta,
+so we have that there,but the cosine of negative theta isthe same thing as the cosine of theta,so these things are the same.So we're left with
+negative sine theta overcosine of theta, which is the same thing,equal to, negative tangent theta.So we see here if you take
+the negative of the angle,you're going to get the
+negative of the tangent,and that's because the
+sine, the numerator,in our definition of tangent,changes signs, but the
+denominator does not.So the tangent of negative theta isthe same thing as
+negative tangent of theta.Now, what about this
+point right over here?Well over here, relative to theta,when we're looking at pi minus theta,so when we're looking at
+tangent of pi minus theta,that's sine of pi minus theta
+over cosine of pi minus theta.and we already established
+in the previous video,that sine of pi minus theta
+is equal to sine of theta,and we see that right over here,they have the exact same sines,so this is equal to sine of theta,while cosine of pi minus theta,well, it's the opposite
+of cosine of theta,it's the negative of cosine of theta.And so this once again is goingto be equal to the
+negative sine over cosine,or the negative tangent of
+theta, which makes sense.This ray should have the same slopeas this ray right over here.And we see that slope, we could viewthis as negative tangent of theta.And we see just looking at these two,if you combine the rays, that these twointersecting lines have the negative slopeof each other, they're mirror
+images across the X axis.And so, we've just seen,
+if you take an angleand you add pi to the
+angle, you're tangentwon't change because you're going toessentially be sitting on the same line.pi, everything in degrees,
+you're going 180 degrees around.You're going the opposite direction butthe slope of your ray has not changed.So tangent of theta is the same thingas the tangent of theta plus pi,but if you take the
+negative of your angle,then you're going to get
+the negative of your tangentor, if you were to go
+over here, and if you wereto take pi minus your
+angle, then you're alsogoing to get the negative of your tangent.Hopefully this makes you a little bit,this is very useful when you're tryingto work though trigonometric problemsor try to find relationships
+or even when we'retrying to use our identities
+or prove our identities,and essentially what we've done here iswe have proven some identities,but it's really helpful
+to think about thesesymmetrys that we have
+within the unit circle.

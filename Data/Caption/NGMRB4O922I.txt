@@ -1,0 +1,85 @@
+HOLLY KRIEGER: So, today I want to talk about the Mandelbrot set. But I want to— so, there's so many videos and websites and Java applets and all of these things where you can see the beauty of the Mandelbrot set. And this really nice fractal picture, and you can zoom in and see all of the interesting things. What I want to talk about is: What is this object?
+So, what is the picture a picture of? Why do we care about this picture other than just its intrinsic, sort of, appeal? And, so… just to generally talk about the way maybe the mathematicians would look at the Mandelbrot set. The first thing we need to understand is
+that this entire thing is happening in the world of complex numbers, okay? So, if you remember, complex numbers— the complex plane, the way that we view this
+is that we have two axes and we plot on this plane numbers of
+the form, say a + bi, and here these two things are
+real numbers and 'i' is a symbol that means that i² = -1, okay? So most people are familiar with this
+but just a reminder. It's a convenience in some sense but there's also a lot of useful information in this representation. So for example, one thing that's very natural to look at
+is if I plot some complex number, say a + bi, okay? Maybe this is something like you know
+3 + 2i, something like that, then one sort of natural quantity
+associated with this thing is the distance from this point to the
+centre point of the plane. And so this distance, which we call the
+magnitude of the complex number, it really has some inherent mathematical
+properties that we really care about and so the fact that this is so easy
+to visualize in the complex plane and you can also visualize addition of
+complex numbers and subtraction, and so on in this plane in a very geometric way
+is really helpful. So how do we get to the Mandelbrot set from here? So here's sort of just the naive definition.
+Let's take a complex number c and let's associate to this complex number
+the following function: so this is a function which takes as an input
+some complex number z and outputs z² + c So I'm thinking of this complex number
+as being associated to this function, and we— what we're interested in
+is the behavior of 0 under iteration. So, by iteration of f_c, I mean what happens when I take 0
+and I plug it into this function, and then I keep doing that to the result. So, for example, if we're looking at f₁(z) Well, f₁(0) = 0 + 1, which is 1 f₁(1), so now I apply it to the answer that I got, right? This is 1 + 1 which is 2. f₁ of the previous thing which was 2
+is 2² + 1 which is 5 f₁(5) is 5² +1 which is 26, and so on. So that's what I mean about the behavior of 0
+under iteration for a particular value of c. Now, what the Mandelbrot set is concerned with is what happens to the
+size of these numbers and by size, I mean exactly what we were
+talking about before about the distance from the number in the complex
+plane to this point, 0, okay? So it turns out there are two options for a function f_c(z), defined to be z² + c: The first option is that the distance from 0 of the sequence we get,
+gets arbitrarily large. BRADY: That means it blows up.
+DR. KRIEGER: It means it blows up. It gets as large as you want it to be, okay?
+So, this is what people mean when they say that the iterates go to infinity, okay?
+They mean not necessarily that, okay, they look like real numbers or
+integers or something like this, but that the "size" of the number,
+in this sense, goes to infinity. The other thing that can happen
+is that the distance is bounded. The size is bounded. So, and in fact you can
+say that it never gets larger than 2. So you have this sort of dichotomy
+where only one of two things can happen: If you give me a complex number c and I start iterating zero under that function z² + c either the distance of the iterates
+to 0 in this complex plane gets really large for all of them, so you
+can bounce back and forth, right? It gets really large for all of them. Or, it stays close to 0, within
+a distance of 2 from 0. So, for example, to illustrate these two cases,
+we already wrote down a few iterates under z² + 1 of 0, and as you can see
+their size is growing and in particular we've got some things that are
+further from 0 than 2 is, and so this c = 1 is case 1. But there's another possibility so let's look at,
+well, a good contrast maybe would be z² - 1. although this might be a little misleading
+[evil giggle] so if we look at, say 0, and
+we start applying this function well, f_-1(0), that's 0 - 1 which is -1. If we plug in -1 into that function we
+have (-1)² which is 1, which is 0. Oh, wait, okay, but we know
+what happens to 0, right? It goes back to -1. So these iterates just alternate
+between -1 and 0. And so in particular they never get large, right? So that's an example of case 2. So, the definition of the Mandelbrot set, then,
+one definition of the Mandelbrot set, which we usually call M, is the set of C,
+complex numbers C, for which case 2 holds. And I'm kind of all over the place here
+so let's be clear, Case 2 So, in other words, if I look at the
+function represented by this complex number, if I look at z² + c and I start iterating 0
+under that function, everything remains bounded. BRADY: It's the guys that don't blow up
+rather than the ones that do. DR. KRIEGER: That's right, it's the ones that
+don't blow up instead of the ones that do. And this is also in case you're curious
+how these pictures are always generated. So if you wanna figure out to draw a picture
+whether c is in the Mandelbrot set or not, Well, you just start iterating
+0 under z² + c And if it takes a long time to get big
+then you can give it one color If it gets big really quickly you can give it a different
+color and that's how you get these shadings. I'll point out here that everything
+that's in the Mandelbrot set has to be within distance 2 of the centre, right? Because of exactly this case 2 thing that I said that once your iterate is larger than
+2, you're out of the picture. So the inside of this thing, let's fill this in here, this is what's known as the Mandelbrot set So let's look at our examples, right? So we had two examples,
+we had c = 1, and we had c = -1. So -1, is right here, is indeed
+inside the Mandelbrot set. 1 is right here, and it's outside. Let me take the easiest example inside
+of there, so we look at 0, right? c = 0, And we start iterating, well, what is
+the function associated to c = 0? f₀(z) is z² okay, so, let's start iterating 0, well, 0² = 0 So no matter how many times we apply
+the function we just stay at 0. BRADY: So you're in the club.
+DR. KRIEGER: So you're in the club, that's right. But if we take, say, some small number here It's a little hard to compute without taking
+a real number, so I apologize, but if we we take something like 1/8,
+something like that if we start iterating so the first iterate is 1/8
+and then you start adding things under iteration but but it's never enough to get you outside
+of that disc of radius 2. BRADY: These guys are blowing up.
+DR. KRIEGER: That's right. BRADY: These ones are not blowing up.
+DR. KRIEGER: That's right. BRADY: What's happening at the edges, then?
+Is that where things are interesting? DR. KRIEGER: That's where things are interesting, right?
+Where you go from blowing up to not blowing up, is dynamically interesting and just sort
+of, loosely speaking, the reason why is that you can't predict what's going to
+happen if you change c a little bit, right? So if I have some c on the boundary here,
+so it so happens that 1/4 is on the boundary, if I move that c around by a little bit,
+anything can happen, right? You might have your orbit blow up,
+you might have it not blow up. And so you can't predict what happens
+when you move your c around a little bit And that's why it's interesting. [fading in] And all of these separate disconnected pieces and so it turns out that another way you
+could define the Mandelbrot set is by which of these two behaviors you get. When you draw the filled Julia set, for z² + c,
+do you get kind of one piece, one blob? Or do you get a bunch of disconnected pieces? So if you get one piece, one blob,
+you're in the Mandelbrot set.

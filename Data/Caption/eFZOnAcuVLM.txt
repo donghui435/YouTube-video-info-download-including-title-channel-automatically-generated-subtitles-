@@ -1,0 +1,132 @@
+HELLO Mr. Tarrou. Today we are going to be
+talking parabolas. And I will see if i canget this video done if fifteen minutes and
+if can't this will be two parts. Lets talkabout transformations. We learned about those
+not very long ago. I am just going to putup here a very basic parabola. This is y equals
+x squared. Now do you remember the transformationswere like? Say if I wanted to take this parabola
+and shift it right two and down three unitsand reflect the parabola like this. Remember
+what made those parabolas and the other sevenparent functions that we studied move around
+like that? Right, down, reflect, horizontalflips and all that other good stuff. Well
+if you do, great and if you don't let me helpyou out. This is going to be f of x or y.
+Now I moved this parabola to the right anddown. Do you remember how left and right movement
+showed up? That was when we had a plus orminus inside the function itself. So our function
+is a power of two. We are going to have forthis movement to the right x minus two inside
+my function. What else did I do to the parentfunction? I moved it down three. Where do
+we find vertical shifts at?  That is the constantat the end of your equation (usually), so
+minus three. This will take this parabolaand move it down three places. Now what caused
+the refection over the x axis when we studiedtransformations of functions? That was when
+you equation started off with a negative value.So this red equation now is the equation from
+the parent function which has been moved tothe right two and down three. The was the
+reflection about the x axis, the minus twois the movement to the right, and the negative
+three at the end is our shift down. Well thetransformations chapter of our book... Of
+if you want to go back and watch another video...if you are not in my class, helps us understand
+what the standard form of a parabola comesfrom. The standard form for parabolas is f
+of x equals plus or minus a... That is possiblea reflection about the x axis. If a is larger
+than one, the graph is going to get pulledvertically and will appear to be skinnier
+though it really is not. If a is less thanone and greater than zero, the graph has been
+compressed... from your transformations section.x minus h squared plus k. This is the standard
+form of a parabola, which is one of the conicsections that we are going to learn about
+today. When you look at this standard form,you can tell a lot about the graph. You can
+tell where the vertex is. This vertex of theparabola is at (2, -3). You can see that right
+here. It is two, we want to change that signwhen we take it out of parenthesis, negative
+three. Or, in standard form the vertex is(h,k) So, hopefully that looks familiar now
+to the standard form getting tied into thetransformations section we covered a few weeks
+ago. What else is in here? All parabolas havean axis of symmetry. A line that you can put
+down the middle of the parabola. We are onlygoing to do vertical parabolas today so that
+is going to be when x is squared. If y issquared the parabolas are horizontal. We will
+study those later in the year. So if you havean x squared term, you have a vertical line
+which is an axis of symmetry. Vertical lineshave an equation in the form of x equals a
+number. What is the x value that the axisof symmetry is going to go through? It is
+going to go through the vertex, so it is goingto be x equals h. Or x equals whatever the
+x component is of your vertex. In this case,this will be x equals positive two for the
+axis of symmetry. Um, there are other thingswe can find that we are going to do in minute
+like x and y intercepts and also a parabola...A graph has a relative maximum when it has
+a peak and then it falls on both sides. Thisred parabola will also have a relative maximum,
+actually absolute maximum. The maximum willbe at two...negative three. We have been talking
+about domain and range as well this year.The domain, what x values does this graph
+include? All of them from negative infinityto positive infinity. What is the range? The
+range is negative three all the way down tonegative infinity. In case you need some help
+with that. Domain are you x's. And in someclass you may say all real numbers. In Precalc
+we would say the domain is negative infinityto positive infinity... or in calculus. The
+range in our particular example, the red parabola...well that is the y values and the largest
+y value is negative three and it goes downfrom there. Thus the range is y is less than
+or equal to negative three. Interval notationthat my kids are using starts with the smallest
+y value which is negative infinity. The smallesty value is negative infinity going up to a
+y value of negative three. The square bracketindicates the value of negative three is actually
+used. There we go. A little tie in betweenour old chapter about transformations... left,
+right horizontal movement, up and down movements,vertical flips and how that shows you we get
+the standard form of a parabola. Now mostof our work today from here on out is going
+to be about working with the general formof a parabola. So lets do that. We are going
+to do one example. Graph it and find solutionsand do a nice graph, not just a sketch like
+I have been doing with my students lately.la la la...la la la... Ok. Now that is clean
+enough. Let take a look at this example ofa parabola. We got y equals negative two x
+plus three x squared minus four. Ok now thisparabola is not in what we would call general
+form. Because in general form you want yourexponents to count down as you go to the right.
+Mine don't. I have an exponent of one andthen I have a two. So I am going to rewrite
+this as y equals three x squared minus twox minus four. And go into.... Let me use function
+notation. The general form of a parabola isax squared plus bx plus c. And we are going
+to graph this parabola in general form. Lateron this year we will be studying conic sections
+a lot and we will be using completing thesquare process to put this general form into
+standard form. But, we are not doing completingthe square today and putting these into standard
+form. So what if you are given a parabolaand you are asked to graph the parabola in
+this form? Well step one is to find the xof the vertex. That is found by doing negative
+b over 2a. Which is negative negative twobecause it is a, b, and c. Here is a, b, and
+c. Over two a which is three. And this isgoing to come out to be two over six or one
+third. Ok great! I am starting to understandwhere the vertex is at. Now the y part of
+the vertex is found by taking this x valueand plugging it back into the function. So
+that is going to be three times one thirdsquared minus two times one third minus four.
+That is going to be three times one ninthminus two thirds minus four. That little fraction
+work today is going to be one third minustwo thirds minus... Now I want to put all
+three of these numbers together and my fourhas a denominator of one. So I am going to
+multiply the top and bottom by three so wehave a common denominator. That will be negative
+three, oops no it won't, it will be negativetwelve...yes minus twelve over three. So one
+minus two is negative one, negative one minustwelve is negative thirteen over three. And
+this parabola has a vertex which is at onethird negative thirteen over three. Good.
+Now here is what I have got so far. I am goingto have to erase this by the way because I
+don't think I will fit all this on my board.But uh... 1,2,3, 1,2,3 1,2,3 1,2,3,4 Lets
+see if this is enough to make our sketch.Our vertex is at one third comma negative
+thirteen over three. How many threes are inthirteen? Four leaving a remainder of one,
+so that is going to be negative four and onethird. A little less than negative four. We
+need to make another tick mark. One thirdand a little bit past negative four. About
+right there is the vertex. Now, do you seethis leading coefficient? When the leading
+coefficient is positive our parabola is goingto open up. If this three was negative the
+parabola would open down. So I know that myparabola is going to open up from here. What
+other points could we easily find to helpus graph this parabola and not just make a
+sketch. Lets take a look at the y intercept.For a y intercept you want to let x equal
+zero. When you cross the y axis, what is x?There is no horizontal movement so x will
+be zero. Now that will be fairly easy to do.F of zero... I am switching to function notation...
+is going to be three times zero squared minustwo times zero minus four. So F of zero, my
+y intercept, is going to be negative four.SO, I have another point right here. Shall
+I color code that? My y intercept is righthere. Ok...Good. Now I am going to need to
+erase some of this work to help us find thex intercept because that is going to involve
+factoring or the quadratic formula. Now Ihave shown you a little bit of factoring recently
+so I am going to remind you of how to do thequadratic formula again. Which actually I
+have done that recently as well. But thatis what we are doing. Anyway our y intercept
+is when we let x equal zero. We are goingto find our x intercepts by letting y equal
+zero. ohhh... almost erased my problem. So.I want to find the x intercepts of this. That
+means let y equal zero. So what I want todo is solve for again the x intercept. Solve
+this equation. Three x squared minus two xminus four equals zero. Alright! Lets see
+what this looks like. With the quadratic formula...in case you don't remember what that is. The
+quadratic formula is x equals negative b plusor minus the square root of b squared minus
+four a c all over two a. You will with me?Alright! So if we are going to apply this
+quadratic formula to the quadratic equationthat is in general form. That means this is
+a which is three, b is going to be negativetwo, and c is negative four. So that is going
+to be x equals negative b, watch the parenthesiswhen you are plugging in these numbers...
+it helps, plus and minus the square root ofb squared minus four a, c, all over two a.
+That is going to be two plus or minus thesquare root of four plus that is four and
+twelve is forty eight over six. That is goingto be two plus or minus the square root of
+fifty two over six. Now if you want to reducethis and have your answer in exact form, fifty
+two is .... the square root of four timesthe square root of thirteen over six. So this
+in exact form is two plus or minus two squareroot of thirteen over six. haha....do you
+know where this is on the x axis? I don'teither! So if you type this into your calculator,
+or this into your calculator, you are goingto get your decimal approximation. I am going
+to cheat with my notes. It is negative pointeight seven and one point five. So this how
+you solve a quadratic equation using the quadraticformula. I am pretty sure this could not have
+been done with factoring as well. Now... thatmeans that I have an x intercept of negative
+point eight seven. So at negative eight pointseven and at positive one point five... and
+voila we have our parabola. Now lets see hereDomain before I run out of time. The x's from
+negative infinity to positive infinity becausethat parabola will open up forever. The range
+is going to be for my y values. My smallesty value is negative four point... I erased
+it OH NO!!!... negative four point three threeto infinity. The axis of symmetry is a vertical
+line with an equation of x equals, I erasedeverything too fast. Well whatever that x
+value was of the vertex, that is the axisof symmetry. WOOO Go Do Your Homework. Thank
+you!!!

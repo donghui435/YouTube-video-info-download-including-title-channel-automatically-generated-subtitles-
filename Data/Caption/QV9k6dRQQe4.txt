@@ -1,0 +1,161 @@
+MATT PARKER: See, most people
+forgot about the Rubik's Cubeback in the '80s, so it had
+its heyday and thendisappeared.But mathematicians remain
+obsessed with it.KATIE STECKLES: I mean, people
+probably are aware that thereis some math involved
+in Rubik's Cube.JAMES GRIME: The reason I not
+interested in the Rubik's Cubewas I wanted to use as
+a teaching tool.In my day job I study something
+called group theory.KATIE STECKLES: If you go to
+any kind of Wikipedia pageabout anything to do with group
+theory, there will be,in the top corner, a picture
+of a Rubik's Cube.And the reason for that is that
+it has got quite a niceexample of a group associated
+with it.And the group is the number of
+different combinations thatthere are on the Rubik's Cube.It's all the different
+ways that you canscramble up a cube.JAMES GRIME: So for example,
+if you had a square, and Iturn it a quarter turn, you
+still get a square, don't you?And even if I take a square, and
+I flip it over, you stillget square, right?So it has that symmetry.Now, this is what I study.So I started to learn how the
+Rubik's Cube worked, becausethe mathematics is the same.So if I turn this here, the
+right hand side a quarterturn, I can do that.I do it twice, you get a half
+turn. you do it get threetimes, that's equal to
+a quarter turn inthe opposite direction.If you do it four times, you get
+back to where you started.LUCAS GARRON: Hey,
+Numberphile.My name is Lucas, and
+I'm a speed cuber.That was about 9.6 seconds,
+although I gota little bit lucky.MATT PARKER: Other things
+do have permutations andsymmetry, but there's just
+something nice and tactile,and you can grab it,
+and you can seeeverything as it happens.So there are a lot of other
+things with symmetric, butnothing quite as tangible
+as a Rubik's Cube.JAMES GRIME: The mathematics
+of the Rubik's Cube is rockhard, but we'll try and do
+a few things about it.We'll talk about the
+combinations, first of all.How many ways can you mix
+up the Rubik's Cube?Let's do that.ANKUR SADHOO: This is my Rubik's
+Cube [INAUDIBLE] forNumberphile.Here goes.MATT PARKER: I'm adequate at the
+Rubik's cube, so I solveit on average, about a
+minute and a half.On a good day, if you give me a
+mixed a Rubik's Cube, I cando it in a minute.I will almost always get
+it done in two minutes.Personally, my goal, I like to
+be able to solve it talking toother people.So it's my goal to solve the
+Rubik's Cube while having aconversation, and I can do that
+between two and threeminutes, give or take.BRADY HARAN: You've set
+yourself up, you know?You know what I'm going to do.Give it here.I'm going to mix it up.JAMES GRIME: So imagine I can
+take these cubes off, theselittle sub cubes here.These, what are they called?Cubelettes?Cubits?We can take those off, and just
+arrange them all on thetable, and we'll put it
+back together again.And we'll do the corners first,
+let's say, for thefirst corner I'll eight choices
+of corner cubes.I'll have eight corner
+cubes to put there.For the second corner, I'll have
+seven corner cubes left.For the next one, I'll have
+six corner cubes left.Then five, then four, then
+three, then two, then one.Now, you multiply
+that together.8 times 7 times 6 times
+5 times 4 times 3times 2 times 1.That's called 8 factorial,
+which is an 8 with anexclamation mark after it.BRADY HARAN: So I've mixed
+up this cube for Matt.He told me that he can solve it
+while talking, so I'm goingto give it to him while I talk
+to him about the Rubik's Cube.There you go.MATT PARKER: Right.So I mean, me and
+my big mouth.I did admit that I can
+solve it whiletalking to someone else.So I believe, Brady, you're
+going to attempt to engage mein conversation.JAMES GRIME: We can do the
+edges in the same way.There are 12 edges.We're going to put the edges in,
+and there are 12 factorialways to arrange the edges.So we've got 8 factorial
+and 12 factorial.Now for each corner, there are
+three ways to orientate it.So there are three colors there
+on each corner, and youcan, you know, if you have
+free choice, youcan move them around.There are three ways to
+do that for each one.Three choices for that, three
+choices for that, threechoices for that, three choices
+for that, threechoices for that, three choices
+for that, threechoices for that, three choices
+for that, and youtimes them.What I've done is that's
+3 to the power 8.Times 3 times 3 times
+3 times--MATT PARKER: When you are mixing
+this up, there's anumber of different ways you
+could have mixed this upbefore you give it to me when
+I start solving it.So there's only one arrangement
+of all thesepieces which counts as a
+solved Rubik's Cube.JAMES GRIME: And now finally,
+let's look at the edges.And each one has two
+ways to arrange it.And so there's two ways,
+and two ways, and twoways, and two ways.And you times them together.And because there's 12 edges
+altogether, there are 2to the power 12.ADAM HADASH: 3, 2, 1.MATT PARKER: These two corners
+are where I want them, butthese two are the wrong
+way around.And so I know if I do that,
+that, that, that, that, that,and then double twist,
+that will haveswapped those two pieces.This is the total number of
+ways if I could take thepieces off and then put
+them back on again.Now, how many ways is
+that all together?It's a very large number,
+so we work it out.3 to the power 5.Well, 5.2 times 10 to the 20.It has 20 zeroes after it.But this is not the
+right answer yet.BRADY HARAN: Matt, are you doing
+maths here, or are youjust kind of, like a monkey
+having learnedsomething by rote?MATT PARKER: A combination
+of the two.I've memorized, oh, yes, it's
+solved, by the way.I've memorized a lot of
+combinations of twists.That's pure rote.And then what I'm doing is I've
+just got to spot what Ineed to do, and then do
+it at the same time.And so my method is very lazy.I'm spotting one bit I want to
+do at a time and doing it.The more advanced people will
+spot two different things theywant to do the same time and
+then do those together.ED BANKS: I love Numberphile,
+it's great.And I saw the post about you're
+making a video onRubik's Cubes, so I'm just
+going to mess this upand then solve it.JAMES GRIME: Not all
+permutations are possible.I can't reach every combination
+by these twists.In fact, if I take one of those
+edges off and turn itaround, and then start twisting
+it, I get a whole newset of combinations that you
+won't usually get to on aRubik's Cube.It's called an orbit.A whole new orbit.A whole new universe
+of combinations.So if I do that with one
+of the edges, you getthis whole new set.If I do that with the corner,
+there are three ways to turnthe corner.And again, for each one of
+those, you get a whole newuniverse of combinations.And finally, if I take
+two pieces, like twoedges or two corners.If I took them off and swapped
+them over, you again get awhole new universe that you
+can't really reach on astandard Rubik's Cube.Now, because of these
+universes,there's 12 of these universes.12 of these orbits.So I'm going to divide
+that number by 12.4.3 times 10 to the 19.Some people call that 43
+quintillion, but I don't likethings like that.4.3 times 10 to the 19.It's a massive number, though.It's a massive number
+of combinations.MATT PARKER: If you want the
+exact number of different waysyou can mix up a cube, it's
+43,252,003,274,489,856,000.The number of possible ways.And to get a sense of how big
+that number is, there's notenough raw material in
+the UK to make 43.25billion billion cubes.So you couldn't make enough
+to put one in every singlepossible arrangement.In fact, there's not enough of
+the UK to make enough Rubik'sCubes to have one in every
+single arrangement.If you started just breaking
+off anything around you, sojust grab anything and break
+it off into a 57 millimetercube, the exact size
+of a Rubik's Cube.And then if you panted those,
+all the different possiblecombinations, by the time you
+had made all 43.25 billionbillion, you would have
+a UK-shaped holeover 20 miles deep.It's just, it's a mind numbing
+number of possiblearrangements.LEONARD KOCH: And there we go.Brady, this is your solved
+Rubik's Cube.JAMES GRIME: So this was a
+big crazy in the 1980s.Big craze.In the 1880s, exactly 100 years
+earlier, there was asimilar puzzle that was
+also a big craze.It was this.This is called the 15 puzzle.It's got the numbers 1-15,
+and it's like theRubik's Cube, though.You just move the
+pieces around.The Rubik's Cube is
+essentially a3D version of this.Now, there was an American
+puzzle expert called Sam Loyd.He would sell this puzzle.But he would set
+it very meanly.He would set it with the 14
+and the 15 swapped over.This was how he would sell it.And he would say, can
+you solve it?And he offered a price of $1,000
+to anyone who couldsolve this puzzle.What he knew, though, was that
+it was like the Rubik's Cube.If you take one of those pieces
+off and turn it around,you get a whole new universe.You can't get back to
+the solved Rubik'sCube if you do that.And that's what Sam
+Loyd was doing.But that is essentially a
+simpler version of this craze100 years later.BRADY HARAN: Can I just say, for
+the record, Matt actuallywrote the number on
+the board there.But you do that without--MATT PARKER: I did it without,
+yeah, yeah, yeah.BRADY HARAN: Let the
+record show, he didthat without looking.MATT PARKER: Just knowing
+it was on the boardwas enough for me.KATIE STECKLES: I guess
+it comes in theofficial Rubik's packaging.And you know, this is the
+original design that they hadwhen they invented it in--

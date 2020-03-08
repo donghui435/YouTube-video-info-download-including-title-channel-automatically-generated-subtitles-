@@ -1,0 +1,107 @@
+>> PROFESSOR SÉQUIN: This really is the
+galactic concentrator, OK.  If you hold that in the right spot it will take the power that
+comes from the black hole at the centre of the galaxy and you focus upon you and it gives
+you eternal beauty and intelligence and all the good stuff. But don't tell that to anybody
+else. Hi, were going to talk about the topology
+of twisted toroids. Now that sounds a little frightening, does it? >> BRADY: It does. >> PROFESSOR SÉQUIN: Right, it is going
+to be simple. I'm Carlo Séquin and this is a bagel and if you're familiar with bagels
+you know we don't just eat a bagel dry. What you do is you basically slice it, right? You
+kind of cut it open and then you put cream cheese on it. For a mathematician, this is
+a torus. Anything that has a smooth shape with just one hole, that's called a torus.
+To a mathematician you can smoothly deform that in to any other shapes. Interestingly
+enough if you take you coffee cup with a handle like that, and even though it has this big
+void and all of that, topologically it is still a torus. So to mathematicians, you know,
+shape is not important, it's just the connectivity. And something that has one tunnel here or
+one handle, that essentially is a genus one surface and they call that a torus. Now, if we cut this bagel, what do we get?
+We're basically getting two tori, each one individually even though the shape is different,
+you know, still has essentially one ring, one handle and one hole through it so it's
+still a torus. But now, what if we're kind of crazy and
+rather than slicing this in one nice plane, we essentially start stabbing through the
+torus like that and then as we go around the perimeter we rotate our knife around. And
+if I'm doing that very carefully and kind of cutting through and I'm rotating my knife all the way around and then doing it on the other side, the doughnut will still fall apart in
+to two individual pieces. >> BRADY: Is that two pieces professor? >> PROFESSOR SÉQUIN: It's two separate
+pieces but they're now linked. Individually, both of them are still tori. They're still
+essentially rings with one handle, but now I can hold one and the other one will not
+fall on the floor, which is a great advantage if you're eating those on the train and it's
+kind of shaking. And there's another benefit. If you compare
+that surface in here, compared to the surface we had before, this surface here is actually bigger.
+That means we can put more cream cheese in to this bagel and then when we've put it
+back together it'll make a much juicer bagel. To a topological oriented mathematician they're
+just two tori because in topology we're actually allowed to have sliding surfaces through one
+another. Now, if you're a knot theoretician and you're talking about knot and links then
+this is different because these two rings are linked, whereas the other two were not
+linked. You can separate them, you can move them apart but you cannot separate those two things. Now, this geometry is not my invention. This
+geometry is actually due to Keizo Ushio. He is a well-known stone sculptor in Japan, well
+known over there, not so well known in this particular country. I first met him in 1999.
+It was at a conference on art and mathematics in San Sebastián, Spain, and before the
+conference he had carved a really large, about three foot diameter, granite torus in a perfect
+shape like that. And then, during the conference he was drilling a sequence of a couple of
+a hundred holes in this spiral fashion through this granite doughnut, just like I have sliced
+through the bagel before. Now, in this case we have a nice hole and
+that diameter of that hole is just about the same diameter as the diameter of the rim.
+So now, when I take these two apart, they come apart much more nicely and they rattle,
+and not only that but I can put them into this configuration which you can see is locking
+up very nicely. And he then rearranged those two rings and then essentially left a sculpture
+there that looks something like that. And yeah, I wanted to better understand that
+because I saw it and I understood it but I felt until I have one in my hand that I can
+manipulate I really don't know. So, I went home and within one month I made this object on our own fused deposition modelling machine which is, you know, a very sturdy rapid prototyping machine. Built it a little bit apart so, just, it wouldn't touch, just so in this particular
+shape. And there's kind of a filler material that would be in the gap when you build it,
+but the filler material can easily be then scratched out and you can wrench these things apart and then clean out the surface, all the filler material. So, I get the really
+perfect replica of this object and now I finally understand what is going on. So, we have two of these interlinked. Could
+I somehow get three of them interlinked? And so, I had to think about it for a while,
+but then it suddenly became obvious. Well, if you take a different kind of knife, not
+kind of like, you know, the straight knife that we sort of rotate around the middle of
+the blade as we go around the torus. But we instead take a knife like that, so now we
+have essentially three sort of half blades coming together in the middle and I slowly
+rotate that knife as I push it forward along the rim of the torus, and going once around
+the torus I will make sure this rotates exactly 360 degrees. It's kind of important to do it that way and then you get this, and you can see those spiral cuts and you don't know
+what to expect until you kind of shake it loose. >> BRADY: That's brilliant. >> PROFESSOR SÉQUIN: And now, we can see we have three of those pieces all inter linked. Of course, we can do it with three blades,
+what about if you used four blades? I could put them at 90 degree and add a fourth one.
+It's the same as basically using two cuts with a knife, one going around that way, the
+other one going around that way. But in either case we would still turn the whole contraption
+through a full 360 degrees so every piece of material winds around the torus and connects back to itself. Well, what would you get? Probably something that has four rings and
+in order to make it more visible I gave this one, not a round doughnut shape cross-section, but I basically made a square cross section. It's topologically still a torus, just the
+fact that it is rigid and has flat faces doesn't matter, and now after the cut, yes indeed,
+you get something that has four intertwined rings. You immediately ask, what about five,
+what about 6? Well, six is a nice one because now we can start out with a hexagon cross-section, a perfectly regular hexagon, and we cut the hexagon we say on three diameters. Then each one of the pieces is itself a small triangle and these triangles are perfectly equilateral,
+so we can see a perfectly equilateral cross-section and then six of those essentially form the
+hexagon that makes this shape and by cutting it apart, yeah, you of get now, six rings.
+And that makes an even more intriguing kind of potential sculptures that we might have
+and that it makes an even harder puzzle. That's where I stopped, so now I tried to build one of these, OK, like we've seen before, rotating the knife a full 360 degrees as we go around
+the doughnut. Well, if you do it wrong and you rotate your knife only 180 degrees, and
+what does that do? Well, somehow this doesn't want to come apart here. If you look at that
+then, it still hangs together. It seems to be like one band, actually it's a band that
+goes around the loop twice and seems to be somewhat intertwined. And- >> BRADY: Is that one continuous piece of
+bread then? >> PROFESSOR SÉQUIN: It's one continuous
+piece of bread, so it's a little harder to, you know, cram the cream cheese in there.
+And again, we can look to some sculptures of Keizo Ushio who has made this kind of shape
+but much more beautiful and much more regular. I've exaggerated what he has done in some
+of his sculptures and you can see, it's basically a doughnut and you get this one groove that
+spirals around, it goes to the inside. Now, I really would like to make a really giant
+sculpture of this. It would be awesome to have a sculpture like that where you could
+step inside and see yourself reflected again and again in all the different parts of this
+inner space. So, let's focus on that inner space. What have we taken away from the torus?
+We have cut something out and that thing that we have cut out is actually a Möbius band. >> BRADY:  Aaah. PROFESSOR SÉQUIN: Ah, what's a Möbius band? Oh, let's see. If you take off your belt here, right, and you
+wrap your belt around, you know, that, in the ordinary way you close your belt is just
+a cylinder. But, if we give that belt a 180 degree twist so the dull side gets to the
+shiny side and connect it in that way, now we have a Möbius band. And what's special
+about the Möbius band is that if we start hiking on the shiny side and we go around,
+we go around, we go around, we go around, and suddenly oops! We're ending up on the
+other side. So we have stepped from one side of the band to the other without going over
+the edge, by just going once around the loop. So that's a Möbius span and that's of course
+a very famous structure. But before, I already mentioned that we might want to rotate the
+knife at different rates, so what happens if you rotate it three times as fast? So as
+it goes around it swings through three times 180 degrees? And you get this. >> BRADY: Wow. >> PROFESSOR SÉQUIN: But now we've taken
+out a Möbius space that makes three flips. I call it the Tripley-twist-it Möbius space
+and I certainly sent pictures of that to Keizo Ushio and asked him whether he would carve
+one of those, and so far he hasn't done it yet but I think one of these days he might
+come up and create a big stone sculpture that has this particular shape. >> BRADY: That looks like kind of a propeller
+or something, the one on this side, it looks like that should be on the front
+of a plane or something. >> PROFESSOR SÉQUIN: Yeah, or it could be
+the head of a tunnel boring machine going [imitates machinery noise] or, but you don't
+know, this really is the galactic concentrator, OK If you hold that in the right spot it
+will take the power that comes from the black hole at the centre of the galaxy and you focus
+upon you and it gives you eternal beauty and intelligence and all the good stuff. But don't
+tell that to anybody else. [Both laugh] >> PROFESSOR SÉQUIN: Yeah, you're not the first one that thinks I'm crazy. Now, you were asking is this any good? And you know, some
+architects were fascinated by the concept of Möbius something, so obviously its 'can
+you build a Möbius house?'

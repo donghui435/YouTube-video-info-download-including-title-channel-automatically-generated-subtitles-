@@ -1,0 +1,110 @@
+BAM!!! Mr. Tarrou We are starting one of my favorite topics which is trigonometry. Thestudy of triangles and their rotations around
+a circle. This is used in engineering, measurementsof real life items that are too big to do
+with a ruler and a straight edge and stufflike that. It has to do a lot with mathematics
+of rotation and spheres. We live on a globe.A lot of mechanical items have tons of spinning
+items in them, just think of an engine witha spinning crank shaft. So trig is very important
+in later studies of mathematics and engineering.Let's get started with a very basic idea and
+some definitions. We are going to introducestandard position angles and try to in probably
+a two part video explain what radian measuresare...that is another way of measuring rotation
+besides degrees. A standard position anglehas a vertex on the origin and it's initial
+side on the positive side of the x axis. Soif I wanted to start drawing a standard position
+angle, I would start off by putting the vertexon the origin and initial side on the positive
+x axis. Now the terminal side is the onlypart that is allowed to move in a standard
+position angle. So if you wanted to draw a45 degree angle...BAM!! This is the terminal
+side. Well that is fine but that is an incompletepicture. This is because one of the other
+definitions I have to talk about is coterminalangles. Those are angles that have a measurement,
+two angles that have measurements that areseparated by a full rotation of either 360
+degrees or 2pi radians. You might not knowwhat that means yet (radians), but hopefully
+by the end of this video you will. Ok, sowe have an initial side, a terminal side,
+now I need to add an extra part to this diagramto indicate what direction the rotation is
+and how much rotation there is. So I am goingto draw a little arc that is going to indicate
+counter clockwise rotation and i did say thatwe were drawing a 45 degree angle. Well what
+if I wanted to draw a negative 45 degree angle?What would that negative rotation look like?
+So I am going to draw another angle on thisexact same picture. Well all angles in standard
+position have their vertex on the origin,they all share the same initial side, so there
+that is the first part of my new angle I amdrawing. But, now I want to rotate negative
+45 degrees. Well positive rotation is counterclockwise from the positive side of the x
+axis, the initial side, and so I think youmight guess what negative 45 degrees is...that
+is clockwise rotation. Again from the positiveside of the x axis, so something like that.
+So there we have an initial and terminal side.We have another initial and terminal side
+of the negative 45 degree angle. Ok, so thereyou go! All drawings of standard position
+angles have a vertex on the origin, positiveside of the x axis, rotate counter clockwise
+for positive rotation and clockwise for negativerotation. Now later on in this textbook and
+in your class you are probably studying bearingquestions. You know how to read a compass?
+Compass rotations, bearings, are going tobased off of due North so that might be a
+little bit confusing for some of you whenwe get to those questions about bearing. But,
+a standard position angle, all of those rotationsdo start off the positive side of the x axis.
+These are not like navigation angles. Nowyou see I have got I, II, III, and IV up here.
+This is just the coordinate plane. This isquadrant 1, this is quadrant ii, quadrant
+iii, and quadrant IV. So our 45 degrees isin quadrant I and negative 45 degrees is in
+quadrant IV. Now let's talk about this ideaof coterminal angles having angles separated
+by full rotations of 360 degrees. I want todraw an angle that is coterminal to 45 degrees.
+What is that going to look like? It is goingto be in standard position so it is going
+to share the same initial side that ALL standardposition angles share the same initial side.
+ALL of them have their vertex on the origin.So you know this does not say co-initial angle,
+it says coterminal angle. Co-habitate, coexist,cooperate...work together or share...they
+are sharing the same terminal side. That isthe big deal, that is the side that moves.
+They ALL share the initial side in standardposition. So, an angle that is coterminal
+to 45 degrees is going to look like a 45 degreeangle but that is not a complete picture.
+Is that a 45 degree angle or is that an anglethat is coterminal to a 45 degree angle? We
+don't know that without these little arcsto indicate direction of rotation and how
+much. I need to rotate and additional fullrotation of 360 and I am going to show that
+by doing this. Start at the positive sideof the x axis, rotate positively because I
+want to do...I just decided to do a positiverotation, and I am going to rotate all the
+way around until I get back to that same terminalside. Now how many degrees have I graphed
+here? I have graphed a full 360 degrees plusan additional 45 degrees to make an angle
+that is 360 plus 45 is 405 degrees. Now wecould also rotate in the opposite direction
+as well. We could instead of adding 360 likeI have done, we could subtract 360 and that
+will show an angle of rotation instead ofgoing counter clockwise, we would go clockwise.
+But if I do any more arcs on this you willnot be able to read anything. We could do
+45 minus 360 and get a negative, what wouldthat be negative 315 degrees. You can add
+or subtract a full rotation and get a coterminalangle. I have one more definition up here
+for you. It is a quadrantal angle. I havedrawn an angle in quadrant 1 and I have drawn
+an angle in quadrant 4 with the negative rotation.If I draw an angle such as let's say 90 degrees,
+if I rotate exactly 90 degrees I am landingthe terminal side on an axis line. I am not
+actually in quadrant 2 and I am not in quadrant1, I am exactly in between, this angle is
+not in a quadrant it is a quadrantal angle.Any angle with a measurement of 90 or an integer
+multiple of 90 is going to be considered aquadrantal angle. It's terminal side is not
+going to be in a quadrant at all. Ok, let'serase all of this and get on to the next topic
+which is how to measure rotation with radiansand not degrees. We care about another way
+measuring rotation because in certain areasof mathematics, where we are doing mathematics
+where things are spinning a lot like engineering,if we are doing navigation around a globe
+a round sphere, some mathematics can be doneeasier with radian measures instead of degrees.
+Now let's talk about a full rotation of 360degrees. That is not too bad. We have a radius.
+So we have a circle, I have rotated 360 degrees.Thus I have got a bottom heavy circle here.
+So let's talk about a measure of rotationthat we are comfortable with which is degrees
+and see if we can't convert it into the ideaof radians. For radians I want to talk about
+this idea of pi. Every time you see the letterpi which stands for approximately 3.14, that
+does not mean that automatically you havea radian measure. But pi of 3.14 does have
+a lot to do with radians. Do you know where3.14 comes from? A lot of my students do not.
+Well, if you take a circle such as we havehere only maybe yours is actually round:)
+I am going to have this length of r and Iam going to try my best to estimate this length
+and wrap it around my not so perfect circle.So maybe somewhere around here and that is
+one length of the radius. And so we have onelength of that radius. Let's estimate that
+the best we can again and say it is probablysomewhere around there and lay down another
+length of the radius of this circle. Now weare at 2 radiuses. And then finally let's
+do another length of the radius which is probablyabout there. Now we are at 3 radiuses. Where
+are we on the circle? We are almost to theother side of the circle. So in a measure
+of rotation that we are comfortable with whichis degrees, I have just about gotten to the
+side of the circle...I have just about rotatedto 180 degrees. Now I am counting off the
+radiuses and I am almost at that 180 degrees.What do you think is left in that little bit
+of a gap? What value do you think is in thatlittle piece right there? That little piece
+is approximately equal to .14 radiuses. So3.14 is the number of radiuses, or radii,
+to get half way around a circle. Now you canalso say that pi 3.14 is the ratio of the
+entire circumference with the diameter. 3.14diameters gets you all the way around the
+circle, but all of our formulas are goingto be based off the radius and not the diameter.
+So, I am going to say, and it is true, that3.14 is the number of radii to get you half
+way around the circle. Half way around thecircle is 180 degrees, so 180 degrees is equal
+to pi radians. Now where do think they gotthis idea, this name of radians from? Well
+because it is measured and based of the radiuses.So radian is based off of the measure of the
+radius of the circle, and so radians is foundby doing s over r. S stands for arc length
+and dividing that by the length of the radius.So regardless of how big the circle is, there
+is only one shape that is a perfect circle,so regardless of the size of that circle 3.14
+radiuses is what it takes to get you halfway around the circle. Pi radians equals 180
+degrees. Nice:D Ok, you also might note that1 radian gets you somewhere near the end of
+quadrant 1. 2 radians gets you into quadrant2. 3 radians is still going to be in quadrant
+2, almost getting you to 180 degrees. I amgetting close to running out of time so in
+the next lesson we are going to look at convertingfrom degrees to radians and building up all
+the angles around what you will know eventually...notin this video...but what you will know eventually
+as the unit circle. That is hugely importantfor you to memorize in the rest of your studies
+of Trig. I am Mr. Tarrou. I will be rightback:)

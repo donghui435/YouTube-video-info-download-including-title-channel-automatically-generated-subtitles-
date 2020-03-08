@@ -1,0 +1,45 @@
+BAM!Mr. Tarrou.We are going to find the area of a triangle
+without having to know its base and withoutknowing its height.And we are going to do that with this triangle
+here that we just used in my Law of Cosinevideo.So why don't we want to just do 1/2 base times
+height to find the area of this triangle?Well we don't know the base and we don't know
+the height.Now you could argue that I could take this
+triangle and rotate it and make 7 the base.But, and we could find the height, but it
+would still involve some form of a trig functionlike sine or cosine.So PreCalculus and Trig is already a lot of
+work.Let's not add to it if we don't need to.That is why we have some other versions of
+finding area and they involve, at least withthis first choice here, a trig function.But, it is going to quicken the pace of finding
+the area of triangles when we are not givensome convenient information.This looks like three formulas but they are
+all the same thing.They are just rewriting based on the information
+given to you.If you have two sides and an included angle...See how these are different letters...When you have two sides and an included angle,
+this formula... and whatever you like to lookat which is convenient...Or just understand one and understand it...These are included sides making this angle.Then, you have a nice quick easy formula for
+finding area.We do have two sides and we do have an included
+angle.That would be the SAS pattern.So let's go ahead and find the area of this
+triangle.Area is equal to one-half... and if you wanted
+to since I have it up here, let's just usethe one that fits our variables... we have
+angle C. So 1/2 'a' which is 6... times 'b'which is 7...Just the two, you are just using the two sides
+that are making the angle that you have.The included angle in this case is 'C' and
+that is the Sine of 49 degrees.So, when you type this into your calculator...
+as long as it is degree mode and not radianmode...1/2 times 6 times 7 times the sine of 49 comes
+out to be 15.85 square units.Don't forget that area is two dimensional,
+length and width.So it is unit squared for area.Now, lets say that we did not know that this
+was 49 degrees.With that amount of information given, it
+might be kind of difficult, or impossibleto find the third side.But, actually there is no real reason for
+me to erase that.But in the previous video for Law of Cosine
+with that angle measure in there that I justerased, I am going to put that back in, this
+side over here was 5.5 units.There is no reason not to look at that 49
+degrees.So, if you are given all three sides of a
+triangle...7, 6, and 5.5 and you don't know that angle,
+you could find it using Law of Cosine.But, this formula here is going to allow you
+to quickly find the area of that trianglewithout having to do too much extra work.Or, if you want to say any extra work at all.And how you work out this little process here,
+is you do this little equation down here firstto find 's'.That is simply half of the perimeter.Then you plug all your values, your 'a', 'b',
+and 'c', your three sides of your trianglealong with 's' which is one-half of your perimeter
+into that formula and....BOOM.Here comes your answer.We have step one, find out what s is.It is equal to 1/2 of the perimeter.It is one-half 7 plus 6 plus 5.5.That comes out to be, um... well, I did not
+round my answers off so much when I did myscratch work.So let's just do this, 5.5+7+6 divided by
+2, and we get 9.25.Ok, so now we know whaDt half of the perimeter
+is.We can apply it into this square root formula
+and out comes the ares.So area is equal to the square root of s which
+is 9.25 times... s-a, so 9.25 minus side 'a'which is 6... times 9.25 minus b which is
+going to be 7... times s 9.25 minus c whichis 5.5.That comes out to be... drum roll please...15.93.Now you might say why didn't you just copy
+down the answer you had a second ago?They are slightly different again due to round
+off error.And you know...Did you type it all in at once into your calculator.Do you work it out in little pieces?But they are going to be, if done really really
+exactly with hardly any round off at all,they will give you the same answer.So that is how you find the area of an oblique
+triangle.I am Mr. Tarrou.BAM!Go do your homework:)

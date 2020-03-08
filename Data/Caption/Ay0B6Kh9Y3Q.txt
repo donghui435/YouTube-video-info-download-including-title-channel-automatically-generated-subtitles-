@@ -1,0 +1,86 @@
+We're asked to simplify
+9p to the 2/3, all of thatover the square
+root of 4p cubed.So let's just do
+this step by step.The first thing we
+can do is say, well,if it's 9p to the 2/3, that's
+the same thing as 9 to the 2/3,9 to the 2/3 times p to the 2/3.That's what this top part
+can be simplified to.Now the bottom part, we
+can rewrite the bottom partright here.The square root of
+4p to the third.And this is the exact
+same thing as 4pto the third to
+the one half power.This is the same thing.The square root
+of 4p to the thirdis the same thing as 4p to
+the third to the 1/2 power.So given that, we can do
+the same thing that wedid on the numerator,
+we can say,well, this is the same
+thing as 4 to the 1/2.4 to the 1/2 times p to
+the third to the 1/2 timesp to the third to the 1/2 power.Let's see if we can
+simplify this even more.So this is going to
+be equal to-- let'sdo the denominator first here.So what's 4 to the 1/2 power?What's the principal root of 4?Well, 2 squared is 4.So it's 2.The positive root is 2, and then
+p to the third, and then thatto the 1/2.That's the same thing as p to
+3 times 1/2, or p to the 3/2.p to the 3 over 2.9 to the 2/3.See, the cube root of
+9 isn't anything easy.Well, actually, you could
+think about it this way.You could say it's 9 squared.So we can view nine to 2/3.Let me do it this way.This is the best way
+to think about it.This is 9 to the 2/3.One could write it.I'm kind of making
+it unsimplified.But it will help us calculate
+what it actually means.9 to the 2/3, the
+same thing as 9squared, 9 squared
+to the 1/3 power,right, because 2 times
+1/3 third is 2/3.And you have that, of
+course, times p to the 2/3.And this is going to be
+equal to 9 squared is 81.So it's 81 to the 1/3
+power times p to the 2/3.Times p to the 2/3.Now instead of writing this
+2 and this p to the 3/2down here, Let me just write
+it as negative exponents.Or even, let's try to
+just write it like this.But 2 in the denominator
+is the same thing as 1to the negative 1, or 1/2.So this right here,
+if I want to writenumerator, same thing as 1/2.That and that are
+the same thing.And p to the 3/2
+in the denominatoris the same thing as
+p to the negative,p to the negative 3/2.So this whole
+expression so far hasbeen simplified to
+this right over here.And let copy and paste.I'll work on the next line now.So let me copy it, and paste.Bring it down right over there.Let's see if we can
+simplify this even more.So let's think about 81.Let's see if we can write
+it as-- we're essentially,when we take
+something to cubed, wetake the cube root
+of something, we'retaking something
+to the 1/3 power.Taking the cube root of it.So we have to find some numbers,
+or maybe we could factor itinto things that
+do have cube roots,and other things that don't.So 81 is divisible by 3.It's 3 times 27, which is 3
+times 9, which is 3 times 3.So 81 is 3 to the fourth power,
+or 3 multiplied by itselfthree times.So we could rewrite
+this 81 to the 1/3.we could rewrite it as 3
+times 3 times 3 to the-- well,I'll write it like this.Times 3 to the 1/3.That's the same thing as 81.And then let's think
+about this these p's.And I'm doing more steps than
+I would do if I were doing iton a piece of paper, because I
+really want y'all to understandkind of what's going on here.So we have a p to the 2/3,
+times p to the negative 3/2.So that's going to be times p
+to the 2/3, 2/3 minus 3/2 power.And then so we did
+the p's, and thenwe just have the times 1/2.Times 1/2.Now this right over here,
+this is the same thing.This is the same thing
+as, we could justdo this as 3 times
+3 times 3, times 3.So it's the same thing as 3
+times 3 times 3 to the 1/3,times 3 to the 1/3.We've done this multiple times.Times the 2/3 minus 3/2.Let's just work that out.Actually, three halves
+is a larger number,so let's just say it's the
+negative of 3/2 minus 2/3,which is equal to the
+negative if we use 6as a common denominator.If we use 6 as a
+common denominator,3/2 with 6 in the
+denominator, is 9/6 6 minus 4over six that's what
+2/3 is equal to.So 9 minus 4 is 5/6, but then
+we have this negative value.So it equals negative 5/6.So times p to the
+negative 5/6 power,times 1/2 times that
+last 1/2 over here.Now 3 times 3 times 3, or 27 to
+the 1/3, the cube root of 27,is 3.So this right here
+simplifies to three.And then 3 to the 1/3,
+that's the cube root of 3.So we could say, 3
+and then this righthere is the cube root of 3.The cube root of 3.So we get 3 times
+the cube root of 3,times p to the negative 5/6.So sometimes you might want
+to write the p out herein front of the radical.That tends to be a simpler way.Actually, let me do that.So I'll write the p
+to the negative 5/6, pto the negative 5/6, then
+I'll write the radical.So times the cube root of 3.And then all that times 1/2.or we could say all of
+that multiplying by 1/2,or just divide it by two.And we've simplified it
+about as far as you can go.You could view it as 3/2.You could say 3/2 is 1.5p to
+the negative 5/6 times the cuberoot of 3.If you wanted to, you could
+calculate the cube root of 3,multiply that times 1/2, give
+you some decimal number timesp to the negative 5/6.And that's about as simplified
+as this thing I can get.

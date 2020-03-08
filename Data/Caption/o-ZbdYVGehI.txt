@@ -1,0 +1,31 @@
+We need to factor 25x to
+the fourth minus 30xsquared plus 9.And this looks really daunting
+because we have something tothe fourth power here.And then the middle term
+is to the second power.But there's something
+about this thatmight pop out at you.And the thing that pops out at
+me at least is that 25 is aperfect square, x to the fourth
+is a perfect square, so25x to the fourth is
+a perfect square.And 9 is also perfect square, so
+maybe this is the square ofsome binomial.And to confirm it, this center
+term has to be two times theproduct of the terms that you're
+squaring on either end.Let me explain that a
+little bit betterSo, 25x to the fourth, that is
+the same thing as 5x squaredsquared, right?So it's a perfect square.9 is the exact same thing as,
+well, it could be plus orminus 3 squared.It could be either one.Now, what is 30x squared?What happens if we take 5
+times plus or minus 3?So remember, this needs to be
+two times the product ofwhat's inside the square, or
+the square root of this andthe square root of that.Given that there's a negative
+sign here and 5 is positive,we want to take the
+negative 3, right?That's the only way we're going
+to get a negative overthere, so let's just try
+it with negative 3.So what is what is 2 times 5x
+squared times negative 3?What is this?Well, 2 times 5x squared is 10x
+squared times negative 3.It is equal to negative
+30x squared.We know that this is
+a perfect square.So we can just rewrite this as
+this is equal to 5x squared--let me do it in the
+same color.5x squared minus 3 times
+5x squared minus 3.And we saw in the last
+video why this works.And if you want to verify
+it for yourself,multiply this out.You will get 25x to the fourth
+minus 30x squared plus 9.

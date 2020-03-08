@@ -1,0 +1,151 @@
+Let's say I have
+something movingwith a constant velocity
+of five meters per second.And we're just assuming
+it's moving to the right,just to give us a direction,
+because this is a vectorquantity, so it's moving in
+that direction right over there.And let me plot its
+velocity against time.So this is my velocity.So I'm actually
+going to only plotthe magnitude of the
+velocity, and youcan specify that like this.So this is the magnitude
+of the velocity.And then on this axis
+I'm going to plot time.So we have a constant velocity
+of five meters per second.So its magnitude is
+five meters per second.And it's constant.It's not changing.As the seconds tick away the
+velocity does not change.So it's just moving
+five meters per second.Now, my question to you
+is how far does this thingtravel after five seconds?So after five seconds-- so
+this is one second, two second,three seconds, four seconds,
+five seconds, right over here.So how far did this thing
+travel after five seconds?Well, we could think
+about it two ways.One, we know that velocity
+is equal to displacement overchange in time.And displacement is
+just change in positionover change in time.Or another way to
+think about it--If you multiply
+both sides by changein time-- you get velocity
+times change in time,is equal to displacement.So what was of the
+displacement over here?Well, I know what
+the velocity is--it's five meters per second.That's the velocity,
+let me color-code this.That is the velocity.And we know what the change in
+time is, it is five seconds.And so you get the seconds
+cancel out the seconds,you get five times five-- 25
+meters-- is equal to 25 meters.And that's pretty
+straightforward.But the slightly more
+interesting thingis that's exactly the area under
+this rectangle right over here.What I'm going to show
+you in this video,that is in general,
+if you plot velocity,the magnitude of velocity.So you could say
+speed to versus time.Or let me just stay
+with the magnitudeof the velocity versus time.The area under
+that curve is goingto be the distance traveled,
+because, or the displacement.Because displacement is
+just the velocity timesthe change in time.So if you just take out a
+rectangle right over there.So let me draw a
+slightly different onewhere the velocity is changing.So let me draw a situation
+where you have a constantacceleration .The acceleration
+over here is goingto be one meter per
+second, per second.So one meter per
+second, squared.And let me draw the
+same type of graph,although this is going to
+look a little different now.So this is my velocity axis.I'll give myself a
+little bit more space.So this is my velocity axis.I'm just going to draw the
+magnitude of the velocity,and this right over
+here is my time axis.So this is time.And let me mark
+some stuff off here.So one, two, three, four, five,
+six, seven, eight, nine, ten.And one, two, three, four, five,
+six, seven, eight, nine, ten.And the magnitude
+of velocity is goingto be measured in
+meters per second.And the time is going to
+be measured in seconds.So my initial
+velocity, or I couldsay the magnitude of
+my initial velocity--so just my initial
+speed, you could say,this is just a
+fancy way of sayingmy initial speed is zero.So my initial speed is zero.So after one second
+what's going to happen?After one second I'm going
+one meter per second faster.So now I'm going one
+meter per second.After two seconds,
+whats happened?Well now I'm going another meter
+per second faster than that.After another second--
+if I go forward in time,if change in time is
+one second, then I'mgoing a second faster than that.And if you remember the idea of
+the slope from your algebra oneclass, that's exactly
+what the accelerationis in this diagram
+right over here.The acceleration, we
+know that accelerationis equal to change in
+velocity over change in time.Over here change in time
+is along the x-axis.So this right over here
+is a change in time.And this right over here
+is a change in velocity.When we plot velocity or
+the magnitude of velocityrelative to time, the slope of
+that line is the acceleration.And since we're assuming the
+acceleration is constant,we have a constant slope.So we have just a line here.We don't have a curve.Now what I want to do is
+think about a situation.Let's say that we accelerate it
+one meter per second squared.And we do it for--
+so the change in timeis going to be five seconds.And my question to you is
+how far have we traveled?Which is a slightly more
+interesting questionthan what we've
+been asking so far.So we start off with an
+initial velocity of zero.And then for five
+seconds we accelerateit one meter per second squared.So one, two, three, four, five.So this is where we go.This is where we are.So after five seconds,
+we know our velocity.Our velocity is now
+five meters per second.But how far have we traveled?So we could think about
+it a little bit visually.We could say, look, we could try
+to draw rectangles over here.Maybe right over here,
+we have the velocityof one meter per second.So if I say one meter per
+second times the second,that'll give me a
+little bit of distance.And then the next one I have
+a little bit more of distance,calculated the same way.I could keep drawing
+these rectangles here,but then you're like, wait,
+those rectangles are missing,because I wasn't for
+the whole second,I wasn't only going
+one meter per second.I kept accelerating.So I actually, I should maybe
+split up the rectangles.I could split up the
+rectangles even more.So maybe I go every half second.So on this half-second I
+was going at this velocity.And I go that velocity
+for a half-second.Velocity times the time would
+give me the displacement.And I do it for the
+next half second.Same exact idea here.Gives me the displacement.So on and so forth.But I think what you see as
+you're getting-- is the moreaccurate-- the smaller
+the rectangles,you try to make here, the closer
+you're going to get to the areaunder this curve.And just like the
+situation here.This area under
+the curve is goingto be the distance traveled.And lucky for us, this is
+just going to be a triangle,and we know how to figure
+out the area for triangle.So the area of a triangle
+is equal to one halftimes base times height.Which hopefully
+makes sense to you,because if you just
+multiply base times height,you get the area for
+the entire rectangle,and the triangle is
+exactly half of that.So the distance traveled
+in this situation,or I should say
+the displacement,just because we want to make
+sure we're focused on vectors.The displacement
+here is going to be--or I should say the magnitude
+of the displacement,maybe, which is the same
+thing as the distance,is going to be one
+half times the base,which is five seconds,
+times the height,which is five meters per second.Times five meters.Let me do that in another color.Five meters per second.The seconds cancel
+out with the seconds.And we're left with one half
+times five times five meters.So it's one half times 25,
+which is equal to 12.5 meters.And so there's an interesting
+thing here, well one,there's a couple of
+interesting things.Hopefully you'll realize that
+if you're plotting velocityversus time, the
+area under the curve,given a certain amount
+of time, tells youhow far you have traveled.The other interesting thing
+is that the slope of the curvetells you your acceleration.What's the slope over here?Well, It's completely flat.And that's because the
+velocity isn't changing.So in this situation, we
+have a constant acceleration.The magnitude of that
+acceleration is exactly zero.Our velocity is not changing.Here we have an acceleration of
+one meter per second squared,and that's why the slope of this
+line right over here is one.The other interesting
+thing, is, if evenif you have constant
+acceleration,you could still figure
+out the distanceby just taking the area
+under the curve like this.We were able to
+figure out there wewere able to get 12.5 meters.The last thing I want to
+introduce you to-- actually,let me just do it
+until next video,and I'll introduce you to
+the idea of average velocity.Now that we feel
+comfortable with the idea,that the distance
+you traveled isthe area under the
+velocity versus time curve.

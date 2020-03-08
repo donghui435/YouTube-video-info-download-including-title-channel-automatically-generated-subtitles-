@@ -1,0 +1,94 @@
+So in my sphere flakes video, I
+joked about folding and cuttingspace time, but then I
+thought, hey, why not?So, how do you do that?Well, when we wanted to
+fold and cut only space,we chose a medium that
+takes place in space.That is, static paper cut
+outs, or sphere sculpture.But to fold and
+cut time, we needa medium that happens over time.I choose music.Music has two easily
+recognizable dimensions.One is time, and the
+other is pitch space.Not quite the same
+as space-space,but it's one dimensional,
+which makes things easier.But let's not be confused
+with the notation.There's a few things to
+notice about written music.Firstly, that it's not music.You can't listen to this.Or, well, you can,
+but it'll be like--[PAPER RUSTLING]It's not music,
+it's music notation.And you can only interpret
+it into the beautiful musicit represents.Kind of like how a book
+is squiggles on a pagethat your brain interprets
+into a meaningful story.And maybe you don't
+understand it at all,or understand just a literal
+surface meaning of the action.Or maybe you can read
+deep and criticallyinto a story that's
+simple on the surface,and get more from it than
+even the author intended.Math is like this, too.Secondly, written
+music representsa two-dimensional space
+of pitch and time,but only represents it.Like, there's the suggestion
+that this is the time axis,but it's not.This is exactly
+the same as this.Even though you're changing
+the values on the x-axis.At least, in standard
+music notation.Some more modern composers do
+make use of spatial notation,just like some poets
+do intentionallystretch out words or
+play with formatting.But in standard notation,
+a stretched out word onlymeans your text editor is
+terrible at justified margins,and has nothing to do
+with the word itself.Pitch also doesn't
+entirely dependon the notes placed
+on the y-axis.So I'm going to use something
+a little closer to reality.I've got this music box
+that plays a paper tape.As you put the strip
+through the box,it plays the punched holes.Hold on, it's too quiet.This is why music boxes usually
+come attached to wooden boxes.I don't have a wooden box,
+maybe this nice wooden bowl.Um.Ah, there we go.Music bowl.Anyway, here distance
+along the stripdoes translate directly to time,
+assuming constant crank speed.[MUSIC PLAYING]The box also has a set C
+major scale on one staff,so pitch space is
+represented pretty directly.You don't have to worry about
+sharps and flats, or the spacebetween staves, or the
+infinite possibilitieson a continuous logarithmic
+frequency scale.The box magically ignores
+all notational elements,except for where and
+when the holes are.Each hole, each note, is a point
+on this strip of space time.So now, let's fold and cut it.It's easy to fold time so
+that it goes both forwardsand backwards simultaneously.Then we can punch in some
+notes, and unfold it,into a symmetric melody that
+goes first forwards, and thenbackwards.Or first backwards
+and then forwards.Point is, it's reversible.It sounds the same whether
+I play it like this--[MUSIC PLAYING]--or like this.[MUSIC PLAYING]But maybe you want to fold
+time into one finite chunk.Then you could put
+two mirror lines,which reflect themselves.Which means folding
+time back and forthinfinitely, to get a little
+time chunk to cut up.And sometimes cutting
+through infinitelyfolded space time requires
+the use of power tools.But then you can
+unfold a repeating,back and forth musicy thing.[MUSIC PLAYING]Or you could leave time
+alone and fold space,if that's what you're into.And that sounds like this.[MUSIC PLAYING]Or you could do both.[MUSIC PLAYING]Maybe you could try
+folding at other angles,but now you're mixing up
+the space and time axes.And mixing up space
+and time is hazardous.Though you could flip
+both space and time, whichis like rotating the
+music 180 degrees.This one is especially
+fun, because youcan rotate any piece
+of sheet music,and try playing it upside down.And it's not just upside down,
+but backwards in time, too.[MUSIC PLAYING]Anyway, maybe you want patterns
+that aren't all mirror lines.Like, what about a
+simple repeating melody?Can we fold and cut that?Yes.Loop up the paper,
+cut, then unfold.Or, if you're feeling
+snazzy, do the melody once,then loop the paper
+through the box.[MUSIC PLAYING]This is probably the part
+where seasoned viewers willbe yelling something
+about Mobius strips.In the first snowflakes video,
+I did fold up of a Mobius stripand cut it.OK, here's what happens.The strip unravels to
+give you your shapes.And then they repeat,
+but upside down.And then they repeat,
+but flipped again.It's a glide reflection.And an example of how
+glide reflections reallyare their own special
+sort of symmetry,different from just a
+combination of reflections.Which look like this.And translation,
+which looks like this.And which together,
+give you this.So if you fold space
+time into a Mobius strip,you get your melody,
+and then the inversion,the melody played upside down.And then right side up again.And so on.Or, rather than folding and
+cutting all of space time,just cut and tape a
+little loop of space timeinto a Mobius strip to
+be played over and over.[MUSIC PLAYING]

@@ -1,0 +1,57 @@
+In the last video we saw
+that a geometric progression,or a geometric sequence,
+is just a sequence whereeach successive term is the
+previous term multipliedby a fixed value.And we call that fixed
+value the common ratio.So, for example, in this
+sequence right over here,each term is the previous
+term multiplied by 2.So 2 is our common ratio.And any non-zero value
+can be our common ratio.It can even be a negative value.So, for example, you could
+have a geometric sequencethat looks like this.Maybe start at one, and
+maybe our common ratio,let's say it's negative 3.So 1 times negative
+3 is negative 3.Negative 3 times
+negative 3 is positive 9.Positive 9 times negative
+3 is negative 27.And then negative 27 times
+negative 3 is positive 81.And you could keep
+going on and on and on.What I now want to
+focus on in this videois the sum of a
+geometric progressionor a geometric sequence,
+and we would call thata geometric series.Let's scroll down a little bit.So now we're going to talk
+about geometric series, whichis really just the sum
+of a geometric sequence.So, for example,
+a geometric serieswould just be a sum
+of this sequence.So if we just said
+1 plus negative 3,plus 9, plus
+negative 27, plus 81,and we were to go
+on, and on, and on,this would be a
+geometric series.And we could do it
+with this one up herejust to really make it
+clear of what we're doing.So if we said 3 plus 6,
+plus 12, plus 24, plus 48,this once again is a
+geometric series, justthe sum of a geometric sequence
+or a geometric progression.So how would we represent this
+in general terms and maybeusing sigma notation?Well, we'll start with
+whatever our first term is.And over here if we want
+to speak in general termswe could call that
+a, our first term.So we'll start with our
+first term, a, and theneach successive term
+that we're going to addis going to be a times
+our common ratio.And we'll call that
+common ratio r.So the second term is a times r.Then the third term,
+we're just goingto multiply this one times r.So it's going to be
+a times r squared.And then we can keep going, plus
+a times r to the third power.And let's say we're going to
+do a finite geometric series.So we're not going to just
+keep on going forever.Let's say we keep
+going all the wayuntil we get to some
+a times r to the n.a times r to the n-th power.So how can we represent
+this with sigma notation?And I encourage you to pause the
+video and try it on your own.Well, we could think
+about it this way.And I'll give you a little hint.You could view this term
+right over here as a times rto the 0.And let me write it down.This is a times r to the 0.This is a times r to
+the first, r squared,r third, and now the pattern
+might be emerging for you.So we can write this as
+the sum, so capital sigmaright over here.We can start our index at 0.So we could say from k
+equals 0 all the way to kequals n of a times
+r to the k-th power.And so this is,
+using sigma notation,a general way to represent
+a geometric series wherer is some non-zero common ratio.It can even be a negative value.

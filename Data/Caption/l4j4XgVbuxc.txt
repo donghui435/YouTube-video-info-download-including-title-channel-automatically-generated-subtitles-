@@ -1,0 +1,68 @@
+Hello. I'm Professor Von Schmohawk
+and welcome to Why U. In this lecture, we will introduce an important
+set operation called the "Cartesian product". This operation creates the framework on which
+the Cartesian coordinate system is based allowing us to visualize mathematical relationships
+in two or more dimensions. So far we have studied several set operations including forming the union the intersection the relative complement and the symmetric difference of sets. Each of these operations creates a new set containing some selection of elements
+from the operand sets. However, the Cartesian product is different. It doesn't take its elements
+from the operand sets. Instead, it combines elements from the
+operand sets to produce new elements. The Cartesian product of two sets
+creates elements called "ordered pairs". Forming the Cartesian product
+of two sets A and B involves creating ordered pairs as follows: We select an element from A
+and pair it with an element from B. The elements are enclosed in parentheses
+separated by a comma. This pair of elements forms an ordered pair a single element, created from the pair
+of operand elements. The order in which the elements of
+an ordered pair are listed is important. Unless two elements are the same,
+switching their order creates a different ordered pair. This is why the pair of elements
+is called "ordered". To form the Cartesian product of two sets
+A and B we create every possible ordered pair whose first element is from A and second element from B. Notice that each element of A is paired with
+every possible element of B. For example, the blue square from A forms ordered pairs
+with each of the triangles from B. The same is true for the green square and red square. Likewise, each element of B is paired
+with every possible element of A. The blue triangle from B forms ordered pairs
+with each of the squares from A. The same is true for the green triangle and red triangle. These nine ordered pairs form a new set the Cartesian product of A and B. This set contains every possible ordered pair whose first element is from set A
+and second element from set B. The Cartesian product is denoted using a symbol
+which looks like a multiplication symbol. We can display the ordered pairs of this
+Cartesian product in a 2-dimensional grid where all the first elements are the same
+within any particular column and all the second elements are the same
+within any particular row. This grid of ordered pairs is a simple
+2-dimensional coordinate system. A horizontal position in the grid can be chosen
+by specifying the color of square and a vertical position by the color of triangle. So by specifying the colors
+of square and triangle we can locate any position
+within this 2-dimensional grid. Cartesian products can also be formed
+from more than two operand sets. For example, we can form the Cartesian product
+of three sets A, B, and C by repeatedly selecting one element
+from each set to form "ordered triples". To create every possible ordered triple
+from three sets we can start by forming the Cartesian product
+of sets A and B as we did before and then choose one element from set C
+as a third element of the ordered triple. We then repeat this, each time choosing a
+different element from C. When we have done this
+for every element of C every possible ordered triple
+will have been formed whose first element is from set A second element from set B and third element from set C. These ordered triples form the Cartesian product
+of A, B, and C. The ordered triples
+from the Cartesian product of three sets can be arranged in a 3-dimensional grid. We can arrange the blocks so that all the first elements are the same
+in the left plane of blocks the middle plane of blocks and the right plane of blocks. For example, all the first elements in
+the left plane of blocks are blue squares the middle plane are green squares and the right plane are red squares. Likewise, the second elements are the same
+in each of the three horizontal planes. The second elements in the bottom plane
+are blue triangles the middle plane are green triangles and the top plane are red triangles. This also applies to the third elements
+of the back, middle, and front planes. The third elements of the back plane
+are blue stars the middle plane are green stars and the front plane are red stars. This grid of ordered triples is a simple
+3-dimensional coordinate system. A left-to-right position in the grid
+can be specified by the color of square a bottom-to-top position by the color of triangle and a back-to-front position
+by the color of star. So by specifying the colors of
+square, triangle, and star we can locate any position within
+this 3-dimensional grid. We have seen that we can form
+the Cartesian product of two sets to create elements called ordered pairs and we can form
+the Cartesian product of three sets to create elements called ordered triples. In fact, Cartesian products can be created
+from any number of sets. In general, the elements of a Cartesian product
+formed from n sets are referred to as "n-tuples". Not only can Cartesian products be formed
+from any number of sets but each operand set can contain
+any number of elements. The number of elements in the Cartesian product is equal to the number of elements
+in each operand set multiplied together. In the first example, we formed
+the Cartesian product of two sets each containing three elements. The resulting Cartesian product
+fit into a three by three grid containing nine elements. When we formed
+the Cartesian product of three sets each containing three elements the resulting Cartesian product
+fit into a three by three by three grid containing twenty-seven elements. If sets A, B, and C had contained
+three, four, and five elements then the number of elements in their Cartesian
+product would be three times four times five or sixty elements. The Cartesian product is named after the French
+mathematician and philosopher René Descartes. In the next lecture we will see how Descartes' ideas led to the
+creation of the Cartesian coordinate system uniting the subjects of algebra and geometry and creating a revolutionary new way
+to visualize mathematics.

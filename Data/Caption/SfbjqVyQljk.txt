@@ -1,0 +1,16 @@
+We're asked to add the
+complex number 5 plus 2ito the other complex
+number 3 minus 7i.And as we'll see, when we're
+adding complex numbers,you can only add the
+real parts to each otherand you can only add the
+imaginary parts to each other.So let's add the real parts.So we have a 5 plus a 3.And then the imaginary
+parts-- we have a 2i.So plus 2i.And then we have a negative
+7i, or we're subtracting 7i.So minus 7i right over here.And 5 plus 3-- that's
+pretty straightforward.That's just going to be 8.And then if I have
+two of somethingand from that I subtract
+seven of that something--and in this case,
+the something isthe imaginary
+unit, the number i.If I have two i's and I take
+away seven i's, then I havenegative five i's.2 minus 7 is negative 5.So then I have negative 5i.So when you add these
+two complex numbers,you get 8 minus 5i.You get another complex number.It has a real part
+and an imaginary part.

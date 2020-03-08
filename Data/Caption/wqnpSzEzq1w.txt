@@ -1,0 +1,111 @@
+What I want to do is
+another "proofy-like"thing to think about the sum of
+an infinite geometric series.And we'll use a
+very similar ideato what we used to find the sum
+of a finite geometric series.So let's say I have a geometric
+series, an infinite geometricseries.So we're going to
+start at k equals 0,and we're never going to stop.We're it's going all
+the way to infinity.So we're never going to
+stop adding terms here.And it's going to be our first
+term times our common ratio.Our common ratio
+to the kth power.Actually let me do
+k and that color. kequals 0 all the
+way to infinity.And so let's just call
+this thing right over here,let's call this s sub infinity.We're going all the way to
+infinity right over here.And so this, if we
+were to expand it outis going to be equal to a
+times r to the 0-- actuallylet me just write it out
+like that which is just a.a times r to the 0 power plus
+a times r to the 1st power.r to the 1st power.Plus a times r to the 2nd power.r to the 2nd power.Plus-- and we could just
+keep going on and on and on.I think you get
+the general idea.Now just like when
+we tried to derivea formula for the sum of
+a finite geometric serieswe just said, well what
+happens if you take the sumand if you were to
+multiply every termby your common ratio.Every term by r.So let's do that.Let's imagine this sum.And we're going to
+multiply every term by r.And the reason
+why I said this is"proofy" is this is not always
+clear-- It's a little bit,when you're multiplying
+something times infinite termsor an infinite sum, at
+least this will be at leastgive you the general idea.Or when you start thinking
+about and infinity,sometimes I just think about
+things a little bit deeper.So r times this infinite sum?Well that's going to
+be equal to-- We'rejust going to multiply
+every term here times r.So a r to the 0'th power times
+r is going to be a times r.a times r to the 1st power.Multiply this one times r?You're going to get a
+times r to the 2nd power.a times r to the 2nd power.I think you see
+where this is going.Multiply this one times r?You're going to get plus a
+times r to the 3rd power.And we would just keep on going.We'd just keep on going.So let me just show that.So plus dot dot dot.Now what happens if
+we were to subtractthis sum from this top sum?So on the left
+hand side, we couldexpress that as our sum s sub
+infinity minus our common ratiotimes s sub infinity.Is going to be equal to--So when you subtract you're
+going to have a times rto the 0'th power, which is
+really just the same thingas a.That's just going to be
+a. a times r to the 0is just a times 1 which is a.We'll write in that same color.Is equal to a.But every other
+term, you're goingto have a times r to
+the 1st, but you'regonna subtract a
+times r to the 1st.You have a times r to
+the 2nd, but you'regoing to subtract a
+times r to the 2nd.So every other term is
+going to be subtracted away.And this happens all
+the way to infinity.It never, never ends.So the only term
+that you're leftwith is just that
+first one, is just a.And so now we can actually
+try to solve for our sum.If you factor out
+the s sub infinity,you are left with 1 minus r.1 minus r.s times s, our sum, times
+1 minus r is equal to a.Divide both sides
+by 1 minus r, and weget that our sum, the
+thing that we cared about--And once again, this is
+kind of an amazing result.That we're taking the sum of
+an infinite number of termsand under the
+proper constraints,we are going to
+get a finite value.So this is going to be
+equal to a over 1 minus r.So once again,
+it's kind of neat.If let's say I had the sum,
+let's say we started with 5,and then each time we
+were to multiply by 3/5.So 5 plus 3/5 times 5 is 3,
+times 3/5 is going to be 9/5.9/5, or I'll multiply by 9/5
+again-- Oh, sorry not 9/5.My brain isn't working right!5 times 3/5 is going
+to be 3 times 3/5.Is going to be-- 3
+times this is goingto be 9/5-- actually
+that was right.My brain is working right.Times 3/5 is going
+to be 27 over 25.Times 3/5 is going to be 81/125.And we keep on going on
+and on and on forever.And notice these
+terms are startingto get smaller and
+smaller and smaller.Well actually all
+of them are gettingsmaller and smaller and smaller.We're multiplying
+by 3/5 every time.We now know what the
+sum is going to be.It's going to be our
+first term-- it'sgoing to be 5-- over 1
+minus our common ratio.And our common ratio
+in this case is 3/5.So this is going to be
+equal to 5 over 2/5,which is the same
+thing as 5 times 5/2which is 25/2 which is equal
+to 12 and 1/2, or 12.5.Once again, amazing result.I'm taking a sum of
+infinite terms here,and I was able to
+get a finite result.And once again, when
+does this happen?Well, if our common ratio--
+if the absolute valueof our common ratio--
+is less than 1,then these terms
+are going to getsmaller and smaller and smaller.And you'll even see here it
+even works out mathematicallyin this denominator
+that you are goingto get a reasonable answer.And it makes sense
+because these termsare getting smaller
+and smaller and smallerthat this thing will converge.Even if r is 0.If r is 0, we're still
+not dealing strictlywith a geometric series anymore,
+but obviously if r was 0,then you're really only going
+to have this-- well, eventhis first term is
+kind of under debatedepending on how you
+define what 0 to 0 is.But if your first term
+you just said would be a,then clearly you'd just be left
+with a is the sum, and a over 1minus 0 is still a.So this formula that we just
+derived does hold up for that.It does start to break down if
+r is equal to 1 or negative 1.If r is equal to 1 then
+as you imagine here,you just have a plus
+a plus a plus a,going on and on forever.If r is equal to negative 1
+you just keep oscillating.a, minus a, plus a, minus a.And so the sum's value keeps
+oscillating between two values.So in general this
+infinite geometric seriesis going to converge
+if the absolute valueof your common ratio
+is less than 1.Or another way of saying
+that, if your common ratio isbetween 1 and negative 1.

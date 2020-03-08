@@ -1,0 +1,33 @@
+Find the probability
+of getting exactly twoheads when flipping three coins.So let's think about
+the sample space.Let's think about all of
+the possible outcomes.So I could get all heads.So on flip one I get a
+head, flip two I get a head,flip three I get a head.I could get two heads
+and then a tail.I could get heads,
+tails, heads, or Icould get heads, tails, tails.I could get tails, heads, heads.I could get tails, heads, tails.I could get tails, tails, heads.Or I could get tails,
+tails, and tails.These are all of
+the different waysthat I could flip three coins.And you can maybe
+say that this isthe first flip, the second
+flip, and the third flip.Now, so this right over
+here is the sample space.There's eight possible outcomes.Let me write this, the
+probability of exactly twoheads, I'll say H's
+there for short.The probability of
+exactly two heads, wellwhat is the size of
+our sample space?I have eight possible outcomes.So eight, this is
+possible outcomes,or the size of our sample
+space, possible outcomes.And how many of those
+possible outcomesare associated with this event?You could call this
+a compound event,because there's more
+than one outcome that'sassociated with this.Let's think about
+exactly two heads.This is three heads, so
+it's not exactly two heads.This is exactly two
+heads right over here.This is exactly two
+heads right over here.There's only one head.This is exactly two heads.This is only one head,
+only one head, no heads.So you have one, two, three
+of the possible outcomesare associated with this event.So you have three
+possible outcomes.Three outcomes
+associated with event.Three outcomes
+satisfy this event,are associated with this event.So the probability of
+getting exactly two headswhen flipping three
+coins is three outcomessatisfying this event over
+eight possible outcomes.So it is 3/8.

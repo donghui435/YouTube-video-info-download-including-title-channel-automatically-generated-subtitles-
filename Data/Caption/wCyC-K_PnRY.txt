@@ -1,0 +1,118 @@
+ROB EASTAWAY: "Jurassic Park,"
+we've all seen the film, butvery few people have read
+the book, including me.I've not actually read the book,
+but I have looked at thepictures because there's
+something in there that isjust kind of really weird, a
+little pattern, a beautifulpattern that's very
+little known.So I just wanted to
+share it with you.So we're going to get
+to it just by--I've just got a random
+piece of paper here.It happens to be brown.We're just going to fold this
+bit of paper in half.So I fold it like this, crease
+it, and you've kind of got aseagull there.And if it forms a
+V, of course.I mean, nothing surprising
+so far.I'm going to be consistent
+here.So I'm folding that which is
+your left over right, and I'mgoing to do it again.So fold it again, left over
+right, and crease it.And if I sort of pull it apart
+now, OK, so we've got, readingleft to right, can you see
+there's a sort of peak, thenthere's a valley, then
+there's a valley.So we'll call this peak,
+valley, valley, OK?Or and remember this for later,
+if I sort of close itup a bit, it's a sauce
+spoon, OK?So I fold it over once,
+and I fold it twice,and I fold over again.Now, can you predict what the
+pattern is going to be ofvalleys and peaks?Now, you'd probably think that
+something as repetitive asthis is going to be some really
+obvious pattern, andit's either going to alternate,
+maybe valley-peak,valley-peak.Or you might think--I to know-- it's going
+to create a little--obvious little zigzaggy
+kind of pattern.But that's not the case.If I pull it out, it goes
+peak-peak; valley-valley;peak; valley-valley.So what's the pattern here?And indeed, can you predict
+what's going to happen when Ifold it for a fourth time?So we do one, and two, and
+three, and fold it a fourthtime, and unfurl it.Well, it's kind of good to try
+and predict before you see it,but here we go.And now we've got peak-peak;
+valley; peak-peak;valley-valley-valley; peak-peak;
+valley-valley;peak; valley-valley.It's kind of--if not random, it's certainly
+not a reallyobvious and easy pattern.And if just start closing this
+up, and you turn these intoright angles, you can see that
+what's emerging is something--well, something that's clearly
+not trivial, but it'scertainly not clear
+what's going on.And this is where we turn
+to the book, OK?Could you get yourself your nice
+cheap copy or brand newcopy of "Jurassic Park,"
+and you turn topage whatever it is.And you have this page which
+says "first iteration," andyou've got this pattern.So this is actually what you get
+when you fold our strip ofpaper four times.So if you call a fold an
+iteration, really you shouldbe calling this the
+fourth iteration.I don't know why it's
+the first iterationin here, but anyway.The second question, of course,
+is what is it doing in"Jurassic Park?" And there's a
+little cryptic reference atthe bottom of the page by
+Ian Malcolm who's themathematician who features
+in this story."At the earliest drawings of the
+fractal curve, few cluesto the underlying mathematical
+structure will be seen."So he talked about a fractal.So this is going to turn into
+a fractal of some kind.Can you picture what that
+fractal will be?I certainly can't, not without
+having seen it first.If we keep folding our paper,
+which we're not going to dobecause there's a limit to how
+many times even with a longstrip of paper you
+can fold it.Another fold, what's called
+a second iteration here,produces this pattern,
+which is--I guess that what's kind of
+interesting is, withoutcrossing over itself, it joins
+and forms this little block,this little rectangle and
+another square there.I think the reason why there are
+fractals appearing in hereis that there's a sort
+of theme about theunpredictability of systems and
+chaos, and the fact thatwe've set up Jurassic Park, and
+all these creatures aregoing to behave in
+a certain way.And here's this doom-monger
+saying it could all gohorribly wrong because what we
+think is predictable couldturn out to be chaotic
+and so on.So that's the metaphor, I think,
+that's being used.So if I keep folding
+the paper, Iget the third iteration.It's getting a bit more
+involved, but it's still hardto see any pattern emerging
+from this.And we go quite a lot of pages
+further before we get towhat's called the fourth
+iteration.Actually, there's been a few
+more folds here, so thenumbers at the top are kind
+of going out the window.But now we've got this big block
+just from folding thepaper right over left,
+and we zip aheadto the fifth iteration.Well, now you've got these kind
+of blocks appearing, andthey're a bit like lizards.I don't think that's a
+deliberate reference toJurassic Park or anything, but
+there's some things which arealmost animal-like
+about this thing.And you keep going to what's
+called the sixth iteration.There are lots--way more than you can
+fold a bit of paper.You get this rather stunning
+pattern emerging.And in fact, what you'll find
+is that each of these, themain shape in the center, has
+been then rotated and rotated.And typically, they're being
+rotated by 45 degrees, and thedimensions are being reduced
+by the squareroot of 2 each time.Why folding a piece of paper
+could lead to something asstunning as this is just--you know, it's mind blowing.We've all seen fractals.There's lots of fractals
+that are famous.This one, which is so easy
+to produce, is actuallyremarkably little known despite
+featuring in "JurassicPark."And we go all the way to the
+end, an infinite number offolds of paper.We get what's called here the
+seventh iteration, thisbeautiful solid block.And even more stunning is the
+fact you can picture stickinganother of these curves in.They would sort of fit together
+like jigsaw pieces.You can see another dragon
+curve outlined here.So if you imagine you've got a
+black one and a blue one and ayellow one, you could actually
+stick them together to make areally cool kitchen
+floor tiling.It would be a bit hard to do.But to produce something like
+this, I don't think anyonewould predict that.BRADY HARAN: That's
+pretty cool.ROB EASTAWAY: Mm.I love it.And I love the fact that the
+whole world knows aboutfractals, but whenever I show
+a group of people the dragoncurve, they say I've never
+seen this before.And who would have thought
+that you couldget to it so simply.[DINOSAUR ROARS]ROB EASTAWAY: I think
+he likes it.BRADY HARAN: If there are many
+sides, then the angles becometoo shallow so that the
+next one would onlyhave a little bit.I'm going to put in another
+polygon out here and matchthat one there.I'd end up with only a little
+sliver under there.

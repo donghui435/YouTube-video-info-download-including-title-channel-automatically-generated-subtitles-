@@ -1,0 +1,66 @@
+To win a particular lottery
+game, a player chooses 4numbers from 1 to 60.Each number can only
+be chosen once.If all 4 numbers match the 4
+winning numbers, regardless oforder, the player wins.What is the probability that the
+winning numbers are 3, 15,46, and 49?So the way to think about this
+problem, they say that we'regoing to choose four
+numbers from 60.So one way to think about it
+is, how many differentoutcomes are there if we choose
+four numbers out of 60?Now this is equivalent to
+saying, how many combinationsare there if we have 60 items?In this case we have 60 numbers,
+and we are going tochoose four.And we don't care
+about the order.That's why we're dealing
+with combinations, notpermutations.We don't care about the order.So how many different groups of
+four can we pick out of 60?And we don't care what order
+we picked them in.And we've seen in previous
+videos that there is a formulahere, but it's important to
+understand the reasoningbehind the formula.I'll write the formula here,
+but we'll think about whatit's actually saying.So this is 60 factorial over 60
+minus 4 factorial, dividedalso by 4 factorial,
+or the denominatormultiplied by 4 factorial.So this is the formula
+right here.But what this is really saying,
+this part right here,60 factorial divided by 60 minus
+4 factorial, that's just60 times 59, times
+58, times 57.That's what this expression
+right here is.And if you think about it, the
+first number you pick--there's 1 of 60 numbers, but
+then that number is kind ofout of the game.Then you can pick from 1 of
+59, then from 1 of 58,then of 1 of 57.So if you cared about order,
+this is the number ofpermutations.You could pick four items out of
+60 without replacing them.Now, this is when you cared
+about order, but you'reovercounting because it's
+counting differentpermutations that are
+essentially the samecombination, essentially the
+same set of four numbers.And that's why we're dividing
+by 4 factorial here.Because 4 factorial is
+essentially the number of waysthat four numbers can be
+arranged in four places.Right?The first number can be in one
+of four slots, the second inone of three, then
+two, then one.That's why you're dividing
+by 4 factorial.But anyway, let's just
+evaluate this.This'll tell us how many
+possible outcomes are therefor the lottery game.So this is equal to-- we already
+said the blue part isequivalent to 60 times 59,
+times 58, times 57.So that's literally 60
+factorial divided byessentially 56 factorial.And then you have your 4
+factorial over here, which is4 times 3, times 2, times 1.And we could simplify it a
+little bit just before webreak out the calculator.60 divided by 4 is 15.And then let's see, 15
+divided by 3 is 5.And let's see, we have a
+58 divided by 2 is 29.So our answer is going to be 5
+times 59, times 29, times 57.Now this isn't going
+to be our answer.This is going to be the number
+of combinations we can get ifwe choose four numbers
+out of 60 and wedon't care about order.So let's take the calculator
+out now.So we have 5 times 59,
+times 29, times 57.It's equal to 487,635.So let me write that down.That is 487,635 combinations.If you're picking four numbers,
+you're choosing fournumbers out of 60, or
+60 choose four.Now, the question they say is,
+what is the probability thatthe winning numbers are
+3, 15, 46, and 49?Well, this is just one
+particular of thecombinations.This is just one of the 487,635
+possible outcomes.So the probability of 3, 15, 46,
+49 winning is just equalto-- well, this is just one of
+the outcomes out of 487,635.So that right there is your
+probability of winning.This is one outcome out of all
+the potential outcomes orcombinations when you take 60
+and you choose four from that.

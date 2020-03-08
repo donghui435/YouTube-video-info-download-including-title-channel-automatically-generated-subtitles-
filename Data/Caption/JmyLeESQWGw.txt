@@ -1,0 +1,59 @@
+SIMON PAMPENA: I want to take
+a little bit of a departurefrom looking at specific numbers
+and ask the question,how do you measure numbers?This was one of the most
+challenging things I cameacross studying maths at uni,
+was this notion of how tomeasure, mathematically
+measure.So this is what I'm
+going to do.I'm going to show you the
+real number line.Yeah, you're familiar
+with that right?So think about this.This is the real number line.It's there in your head.So here's my question.What's the distance
+between 3 and 4?What's the measure?How long is that section?BRADY HARAN: 1.SIMON PAMPENA: 1.How did you get that?BRADY HARAN: Because I know the
+number that I need to addto 3 to get to 4 is 1.SIMON PAMPENA: OK,
+that's good.So you know the number.So you know the answer,
+basically, you're saying?BRADY HARAN: Yeah.SIMON PAMPENA: OK,
+well, imagine youdidn't know the answer.So imagine this is the first
+time you've ever tried tomeasure the distance
+between 3 and 4.What would you do?BRADY HARAN: I'd make a piece
+of wood the distancebetween 0 and 1.And then I would take it to 3
+and 4 and see how many of themdo I have to put on there.SIMON PAMPENA: OK,
+that's good.That's good.I like that.It's actually good that you
+brought in reality.Because that's going
+to really bite you.It's going to really bite you.But that's cool.That's cool.I like the fact you said that.So basically you said, OK, well,
+I'm going to look at abit of a number line which
+I know what the length isbecause it starts at 0.And you're going to go
+and drag it overuntil you measure it.But another way you could do
+it is you could say, thisnumber, take that number.So you're comfortable
+with that.You know that that distance
+there is 4 take 3.Now this is what's
+called naive.And that's not a putdown.It's naive.It's a naive way of
+measuring numbers.I'm hopefully going to take you
+down the rabbit hole now.3.5 is a point right there.I'm going to put a little
+kind of, little bit ofchoke wire around it.3.5 is a point.Do you agree that it exists?3 and 1/2?BRADY HARAN: I'm happy
+with that.SIMON PAMPENA: You're
+happy with that, OK.What's the length
+of 3 and 1/2?BRADY HARAN: What's
+the length of it?Well, to give you a length,
+I need a startpoint and an end point.SIMON PAMPENA: No, I'm just
+talking about the point, justthe point, one point.So what's the length
+of a point?BRADY HARAN: Points
+don't have length.SIMON PAMPENA: What's another
+way of saying that?3.5 take 3.5 is 0.We use exactly the same logic
+that we used here for thesegment of line.We're going to use the same
+logic for the point.Now, this sounds like I'm beingtrivial, maybe even annoying.But I am getting somewhere.I'm making a point
+about points.Because what now is the
+length of 3 to 4 if weremove the point 3.5?What is the length of
+that line segment?BRADY HARAN: The length
+is still 1.SIMON PAMPENA: Why?BRADY HARAN: Because the thing
+you removed took up no space.SIMON PAMPENA: That's right.So this idea is that we've got
+a line segment, 3 to 4, whichis made up of a continuous
+set of points.There's only points
+between 3 and 4.But if we remove 3.5, we
+haven't changed it.We haven't changed it at all.And part of the reason behind
+that is because the realnumber line has this property
+that there is no next number.What's the number after 3.5?BRADY HARAN: 3.50000000000000--SIMON PAMPENA: Yeah, exactly.But you're not even saying
+that correctly.Because the way that we describe
+numbers doesn'tcontain the awesomeness of
+what's going on here.Why is this a problem?Because we are using stuff
+that we haven't proved.We're using naive notions
+of measure.That's why that's a problem.We're making assumptions.This almost broke maths where
+I'm going with this.It almost broke maths.

@@ -1,0 +1,168 @@
+You are by now probably
+used to the ideaof measuring angles in degrees.We use it in everyday language.We've done some examples
+on this playlist whereif you had an angle
+like that, youmight call that a
+30-degree angle.If you have an
+angle like this, youcould call that a
+90-degree angle.And we'd often use this
+symbol, just like that.If you were to go
+180 degrees, you'dessentially form
+a straight line.Let me make these proper angles.If you go 360 degrees,
+you have essentiallydone one full rotation.And if you watch figure
+skating on the Olympics,and someone does a
+rotation, they'llsay, oh, they did a 360.Or especially in some
+skateboarding competitions,and things like that.But the one thing to realize--
+and it might not be obviousright from the get-go-- but
+this whole notion of degrees,this is a
+human-constructed system.This is not the only way
+that you can measure angles.And if you think
+about it, you'llsay, well, why do we call a
+full rotation 360 degrees?And there's some
+possible theories.And I encourage you
+to think about them.Why does 360 degrees show up in
+our culture as a full rotation?Well, there's a couple
+of theories there.One is ancient calendars.And even our calendar
+is close to this,but ancient calendars were
+based on 360 days in a year.Some ancient
+astronomers observedthat things seemed to move
+1/360 of the sky per day.Another theory is the
+ancient Babyloniansliked equilateral
+triangles a lot.And they had a base
+60 number system.So they had 60 symbols.We only have 10.We have a base 10.They had 60.So in our system, we like
+to divide things into 10.They probably liked to
+divide things into 60.So if you had a circle,
+and you divided itinto 6 equilateral
+triangles, and eachof those equilateral triangles
+you divided into 60 sections,because you have a
+base 60 number system,then you might end
+up with 360 degrees.What I want to think
+about in this videois an alternate way
+of measuring angles.And that alternate way--
+even though it might notseem as intuitive to you from
+the get-go-- in some waysis much more mathematically
+pure than degrees.It's not based on these cultural
+artifacts of base 60 numbersystems or
+astronomical patterns.To some degree, an
+alien on another planetwould not use degrees,
+especially if the degrees aremotivated by these
+astronomical phenomena.But they might use what we're
+going to define as a radian.There's a certain degree
+of purity here-- radians.So let's just cut to the chase
+and define what a radian is.So let me draw a
+circle here, my bestattempt at drawing a circle.Not bad.And let me draw the
+center of the circle.And now let me draw this radius.And let's say that this
+radius-- and you might alreadynotice the word radius is very
+close to the word radians.And that's not a coincidence.So let's say that this circle
+has a radius of length r.Now let's construct an angle.I'll call that angle theta.So let's construct
+an angle theta.So let's call this angle
+right over here theta.And let's just say, for
+the sake of argument,that this angle is just
+the exact right measureso that if you look at the
+arc that subtends this angle--and that seems like
+a very fancy word.But let me draw the angle.So if you were to draw
+the angle-- so if youlook at the arc that subtends
+the angle, that's a fancy word.That's really just
+talking about the arcalong the circle that intersects
+the two sides of the angles.So this arc right over here
+subtends the angle theta.So let me write that down.Subtends this arc,
+subtends angle theta.Let's say theta is the exact
+right size so that this arc isalso the same length as
+the radius of the circle.So this arc is also of length r.So given that, if you were
+defining a new type of anglemeasurement, and you
+wanted to call ita radian, which is very close
+to a radius, how many radianswould you define
+this angle to be?Well, the most obvious
+one, if you kind of viewa radian as another
+way of sayingradiuses, or I guess radii.Well, you say, look,
+this is subtendedby an arc of one radius.So why don't we call this right
+over here one radian, whichis exactly how a
+radian is defined.When you have a circle, and you
+have an angle of one radian,the arc that subtends it
+is exactly one radius long.Which you can imagine might
+be a little bit usefulas we start to interpret more
+and more types of circles.When you give a
+degrees, you reallyhave to do a little
+bit of math and thinkabout the circumference
+and all of thatto think about how many radiuses
+are subtending that angle.Here, the angle in radians
+tells you exactly the arc lengththat is subtending the angles.So let's do a couple of
+thought experiments here.So given that, what would
+be the angle in radiansif we were to go-- so let
+me draw another circle here.So that's the center, and
+we'll start right over there.So what would happen if I
+had an angle-- if I wantedto measure in radians, what
+angle would this be in radians?And you could almost
+think of it as radiuses.So what would that angle be?Going one full
+revolution in degrees,that would be 360 degrees.Based on this definition,
+what would this be in radians?Well, let's think about the
+arc that subtends this angle.The arc that subtends this angle
+is the entire circumferenceof this circle.Well, what's the
+circumference of a circlein terms of radiuses?So if this has length r,
+if the radius is length r,what's the circumference of
+the circle in terms of r?Well, we know that.That's going to be 2 pi r.So going back to this
+angle, the lengthof the arc that subtends this
+angle is how many radiuses?Well, it's 2 pi radiuses.It's 2 pi times r.So this angle right
+over here, I'llcall this a different-- well,
+let's call this angle x.x in this case is going
+to be 2 pi radians.And it is subtended by an
+arc length of 2 pi radiuses.If the radius was
+one unit, then thiswould be 2 pi times
+1, 2 pi radiuses.So given that,
+let's start to thinkabout how we can convert
+between radians and degrees,and vice versa.If I were to have-- and we
+can just follow up over here.If we do one full
+revolution-- that is,2 pi radians-- how many degrees
+is this going to be equal to?Well, we already know this.A full revolution in
+degrees is 360 degrees.Well, I could either write
+out the word degrees,or I can use this little
+degree notation there.Actually, let me write
+out the word degrees.It might make things a
+little bit clearer that we'rekind of using units
+in both cases.Now, if we wanted to
+simplify this a little bit,we could divide both sides by 2.In which case, on
+the left-hand side,we would get pi radians would
+be equal to how many degrees?Well, it would be
+equal to 180 degrees.And I could write it that way,
+or I could write it that way.And you see over here,
+this is 180 degrees.And you also see if you were
+to draw a circle around here,we've gone halfway
+around the circle.So the arc length, or the
+arc that subtends the angle,is half the circumference.Half the circumference
+is pi radiuses.So we call this pi radians.Pi radians is 180 degrees.And from this, we can
+come up with conversions.So one radian would
+be how many degrees?Well, to do that,
+we would just haveto divide both sides by pi.And on the left-hand
+side, you'd beleft with 1-- I'll just
+write it singular now.1 radian is equal to-- I'm
+just dividing both sides.Let me make it clear what I'm
+doing here, just to show youthis isn't some voodoo.So I'm just dividing
+both sides by pi here.On the left-hand side,
+you're left with 1.And on the right-hand
+side, you'releft with 180/pi degrees.So 1 radian is equal to
+180/pi degrees, whichis starting to make
+it an interesting wayto convert them.Let's think about
+it the other way.If I were to have 1 degree,
+how many radians is that?Well, let's start
+off with-- let merewrite this thing over here.We said pi radians is
+equal to 180 degrees.So now we want to
+think about 1 degree.So let's solve for 1 degree.1 degree, we can divide
+both sides by 180.We are left with pi/180
+radians is equal to 1 degree.So pi/180 radians is
+equal to 1 degree.This might seem
+confusing and daunting.And it was for me
+the first time Iwas exposed to this,
+especially because we're notexposed to this in
+our everyday life.But what we're going to see
+over the next few examplesis that as long as we keep
+in mind this whole ideathat 2 pi radians is
+equal to 360 degrees,or that pi radians is equal to
+180 degrees, which is the twothings that I do
+keep in my mind.We can always re-derive
+these two things.You might say, hey,
+how do I rememberif it's pi/180 or 180/pi
+to convert the two things?Well, just remember, which
+is hopefully intuitive,that 2 pi radians is
+equal to 360 degrees.And we'll work through a bunch
+of examples in the next video,to just make sure
+that we're usedto converting one
+way or the other.

@@ -1,0 +1,259 @@
+[PIANO ARPEGGIOS]When things move, they
+tend to hit other things.And then those things move, too.When I pluck this string,
+it's shoving back and forthagainst the air
+molecules around itand they push against
+other air moleculesthat they're not literally
+hitting so much as gettingtoo close for comfort
+until they get to the airmolecules in our
+ears, which pushagainst some stuff in our ear.And then that sends signals
+to our brain to say,Hey, I am getting
+pushed around here.Let's experience this as sound.This string is pretty
+special, because itlikes to vibrate in a certain
+way and at a certain speed.When you're putting your
+little sister on a swing,you have to get
+your timing right.It takes her a certain amount
+of time to complete a swingand it's the same
+every time, basically.If you time your pushes to
+be the same length of time,then even general pushes make
+your swing higher and higher.That's amplification.If you try to push
+more frequently,you'll just end up pushing her
+when she's swinging backwardsand instead of going higher,
+you'll dampen the vibration.It's the same thing
+with this string.It wants to swing at a
+certain speed, frequency.If I were to sing
+that same pitch,the sound waves I'm singing
+will push against the stringat the right speed to amplify
+the vibrations so that thatstring vibrates while
+the other strings don't.It's called a
+sympathy vibration.Here's how our ears work.Firstly, we've got this ear
+drum that gets pushed aroundby the sound waves.And then that pushes
+against some ear bonesthat push against the cochlea,
+which has fluid in it.And now it's sending waves of
+fluid instead of waves of air.But what follows is the same
+concept as the swing thing.The fluid goes down
+this long tunnel,which has a membrane called
+the basilar membrane.Now, when we have a viola
+string, the tighter and stifferit is, the higher the pitch,
+which means a faster frequency.The basilar membrane is stiffer
+at the beginning of the tunneland gradually gets
+looser so that itvibrates at high frequencies
+at the beginning of the cochleaand goes through the whole
+spectrum down to low notesat the other end.So when this fluid starts
+getting pushed aroundat a certain frequency,
+such as middle C,there's a certain part of the
+ear that vibrates in sympathy.The part that's
+vibrating a lot isgoing to push against
+another kind of fluidin the other half
+of the cochlea.And this fluid has hairs in
+it which get pushed aroundby the fluid, and then they're
+like, Hey, I'm middle Cand I'm getting pushed
+around quite a bit!Also in humans, at least,
+it's not a straight tube.The cochlea is
+awesomely spiraled up.OK, that's cool.But here are some questions.You can make the note
+C on any instrument.And the ear will
+be like, Hey, a C.But that C sounds very
+different dependingon whether I sing it
+or play it on viola.Why?And then there's
+some technicalitiesin the mathematics
+of swing pushing.It's not exactly true that
+pushing with the same frequencythat the swing is
+swinging is the only wayto get this swing to swing.You could push on just
+every other swing.And though the swing
+wouldn't go quite as highas if you pushed every time, it
+would still swing pretty well.In fact, instead of pushing
+every time or half the time,you could push once every three
+swings or four, and so on.There's a whole series
+of timings that work,though the height of the swing,
+the amplitude, gets smaller.So in the cochlea, when
+one frequency goes in,shouldn't it be that part
+of it vibrates a lot,but there's another part that
+likes to vibrate twice as fast,and the waves push
+it every other timeand make it vibrate, too.And then there's
+another part thatlikes to vibrate three times
+as fast and four times.And this whole series is all
+sending signals to the brainthat we somehow perceive
+it as a single note?Would that makes sense?Let's also say we played
+the frequency that'stwice as fast as this
+one at the same time.It would vibrate places
+that the first note alreadyvibrated, though
+maybe more strongly.This overlap, you'd
+think, would makeour brains perceive these two
+different frequencies as beingalmost the same, even though
+they're very far away.Keep that in mind while
+we go back to Pythagoras.You probably know him from
+the whole Pythagorean theoremthing, but he's also
+famous for doing this.He took a string that
+played some note, let'scall it C. Then,
+since Pythagoras likedsimple proportions,
+he wanted to seewhat note the string would play
+if you made it 1/2 the length.So he played 1/2
+the length and foundthe note was an octave higher.He thought that was pretty neat.So then he tried the
+next simplest ratioand played 1/3 of the string.If the full length
+was C, then 1/3the length would give the note
+G, an octave and a fifth above.The next ratio to try
+was 1/4 of the string,but we can already figure
+out what note that would be.In 1/2 the string was C an
+octave up, then 1/2 of thatwould be C another octave up.And 1/2 of that would be
+another octave higher,and so on and so forth.And then 1/5 of the string
+would make the note E. But wait.Let's play that again.It's a C Major chord.OK.So what about 1/6?We can figure that one out, too,
+using ratios we already know.1/6 is the same as 1/2 of 1/3.And 1/3 third was this G. So
+1/6 is the G an octave up.Check it out.1/7 will be a new note,
+because 7 is prime.And Pythagoras found
+that it was this B-flat.Then 8 is 2 times 2 times 2.So 1/8 gives us C
+three octaves up.And 1/9 is 1/3 of 1/3.So we go an octave and a fifth
+above this octave and a fifth.And the notes get
+closer and closeruntil we have all the notes
+in the chromatic scale.And then they go into
+semi-tones, et cetera.But let's make one thing clear.This is not some
+magic relationshipbetween mathematical ratios
+and consonant intervals.It's that these notes
+sound good to our earbecause our ears
+hear them togetherin every vibration that
+reaches the cochlea.Every single note has the
+major chord secretly containedwithin it.So that's why certain intervals
+sound consonant and othersdissonant and why
+tonality is like it isand why cultures that
+developed music independentlyof each other still created
+similar scales, chords,and tonality.This is called the overtone
+series, by the way.And, because of physics,
+but I don't reallyknow why, a string
+1/2 the lengthvibrates twice as
+fast, which, hey,makes this series the
+same as that series.If this were A440,
+meaning that thisis a swing that likes to
+swing 440 times a second,Here's A an octave up,
+twice the frequency 880.And here's E at three times
+the original frequency, 1320.The thing about
+this series, whatwith making the string
+vibrate with different lengthsat different frequencies, is
+that the string is actuallyvibrating in all of
+these different wayseven when you don't hold
+it down and producingall of these frequencies.You don't notice the
+higher ones, usually,because the lowest pitch is
+loudest and subsumes them.But say I were to
+put my finger rightin the middle of the string so
+that it can't vibrate there,but didn't actually hold
+the string down there.Then the string would
+be free to vibratein any way that doesn't
+move at that point,while those other
+frequencies couldn't vibrate.And if I were to touch
+it at the 1/3 point,you'd expect all the
+overtones not divisible by 3to get dampened.And so we'd hear this
+and all of its overtones.The cool part is that
+the string is pushing itaround the air at all these
+different frequencies.And so the air is
+pushing around your earat all these
+different frequencies.And then the basilar membrane
+is vibrating in sympathywith all these frequencies.And your ear puts it
+together and understands itas one sound.It says, Hey, we've got some
+big vibrations here and prettystrong ones here, and some
+here and there and there.And that pattern is
+what a viola makes.It's the difference in the
+loudness of the overtonesthat gives the same
+note a different timbre.And simple sine wave
+with a single frequencywith no overtones makes an
+ooh sound, like a flute.While reedy nasal
+sounding instrumentshave more power in
+the higher overtones.When we make different
+vowel sounds,we're using our mouth to
+shape the overtones comingfrom our vocal cords, dampening
+some while amplifying others.To demonstrate,
+I recorded myselfsaying ooh, ah, ay, at A440.Now I'm going to put it through
+a low-pass filter, whichlets through the
+frequencies less than A441,but dampens all the overtones.Check it out.[PLAYS BACK THROUGH FILTER]OK.Let's make ourselves
+an overtone series.I'm going to have Audacity
+create a sine wave, A220.Now I'll make another at
+twice the frequency, 440,which is A an octave above.Here it is alone.[PLAYS BACK PITCH]If we play the two
+at once, do youthink we'll hear the
+two separate pitches?Or will our brain say,
+Hey, two pure frequenciesan octave apart?The higher one must be an
+overtone of the lower one.So we're really
+hearing one note.Here it is.[PLAYS BACK PITCH]Let's add the next overtime.3 times 220 gives us 660.Here they are all at once.[PLAYS BACK PITCHES]It sounds like a
+different instrumentfor the fundamental sine
+wave but the same pitch.Let's add 880 and now 1000.That sounds wrong.All right.880 plus 220 is 1100.There, that's better.We can keep going and now we
+have all these happy overtones.Zooming in to see the
+individual sine waves,I can highlight one
+little bump hereand see how the first overtone
+perfectly fits two bumps.And the next has three,
+then four, and so on.By the way, knowing
+that the speed of soundis about 340 meters
+per second, and seeingthat this wave takes about
+0.0009 seconds to play,I can multiply those out to find
+that the distance between hereand here is about 0.3
+meters, or one foot.So now all these waves are
+shown at actual length.So C-sharp, 1100 is
+about a foot long.And each octave down is 1/2 the
+frequency or twice the length.That means the lowest
+C on a piano, whichis five octaves lower than
+this C, has a sound wave1 foot times 2 to the
+5, or 32 feet long.OK, now I can play with
+the timbre of the soundby changing how loud
+the overtones arerelative to each other.What your ears are doing right
+now is pretty complicated.All these sound waves get added
+up together into a single wave.And if I export this file, we
+can see what it looks like.Or I suppose you could graph it.Anyway, your speakers
+or headphoneshave this little
+diaphragm in themthat pushes the air
+to make sound waves.To make this shape, it pushes
+forward fast here, thendoes this wiggly thing, and
+then another big push forwards.The speak, remember, is
+not pushing air from itselfto your ears.It bumps against the air,
+which bumps against more air,and so on, until some air
+bumps into your ear drum, whichmoves in the same way that the
+diaphragm in the speaker did.And that pushes the
+little bones thatpush the cochlea, which pushes
+the fluid, which, dependingon the stiffness of the
+basilar membrane at each point,is either going to push the
+basilar membrane in sucha way that makes it vibrate a
+lot and push the little hairs,or it pushes with
+the wrong timing,just like someone
+bad at playgrounds.This sound wave will
+push in a way thatmakes the A220 part
+of your ear send offa signal, which is
+pretty easy to see.Some frequencies get pushed
+the wrong direction sometimes,but the pushes in
+the right directionmore than make up for it.So now all these
+different frequenciesthat we added
+together and playedare now separated out again.And in the meantime,
+many other signalsare being sent out
+from other noise,like the sound of my voice and
+the sound of rain and trafficand noisy neighbors and
+air conditioner and so on.But then our brain is
+like, Yo, look at these!I found a pattern!And all these frequencies
+fit together into a seriesstarting at this pitch.So I will think of
+them as one thing.And it is a different thing
+than these frequencies, whichfit the patterns of Vi's voice.And oh boy, that's a car horn.Somehow this all works.And we're still pretty
+far from developingtechnology that can
+listen to lots of soundand separate it out into
+things anywhere nearas well as our ears
+and brains can.Our brains are so good
+at finding these patternsthat sometimes it finds
+them when they're not there,especially if it's
+subconsciously looking outfor it and you're in
+a noisy situation.In fact, if the pattern
+is mostly there,your brain will
+fill in the blanksand make you hear a tone
+that does not exist.Here I've got A220
+and his overtones.[PLAYS PITCH]Now I'm going to mute A220.That frequency is
+not playing at all.But you hear the pitches
+A220 below this A400,even though A440 is the
+lowest frequency playing.Your brain is like, Well,
+we've got all these overtones,so close enough.Let me mute the highest
+overtones one by one.It changes the timbre
+but not the pitch,until we leave only one left.Somehow by removing
+a higher note,you make the apparent
+pitch jump up.And just for good measure.[PLAYS SEQUENCE OF PITCHES]But you should try it yourself.So there you have it.These notes.These notes given to us by
+simple ratios of strings,by the laws of physics
+and how frequenciesvibrate in sympathy
+with each other.By the mathematics of
+how sine waves add up.These notes are hidden in
+every spoken word, tucked awayin every song.We hear them in
+birdsong, bees buzzing,car horns, crickets,
+cries of infants.And most of the time, you don't
+even realize they're there.There is a symphony
+contained in the screechingof a halting train, if only we
+are open to listening to it.Your ears, perfected over
+hundreds of millions of years,capture these frequencies
+in such exquisite detailthat it's a wonder that we
+can make sense of it all.But we do.Picking out the patterns
+that mathematics dictates.Finding order.Finding beauty.

@@ -1,0 +1,74 @@
+Is 3 comma negative 4 a
+solution to the equation5x plus 2y is equal to 7?So there's two ways
+to think about it.One, you could just
+substitute this x and y valueinto this equation to see if
+it satisfies-- and then we'lldo that way first--
+and the other wayis if you had a graph
+of this equation,you could see if this point sits
+on that graph, which would alsomean that it is a
+solution to this equation.So let's do it the first way.So we have 5x plus 2y is equal
+to 7, so let's substitute.Instead of x, let
+us put in 3 for x.So 5 times 3 plus 2 times
+y-- so y is negative 4--plus 2 times negative 4
+needs to be equal to 7.I'll put a question mark
+here, because we're not sureyet if it does.So 5 times 3 is 15, and then 2
+times negative 4 is negative 8.So the left hand side, it
+simplifies to 15 minus 8,and this needs to be equal to 7.And of course, 15 minus 8 does
+equal 7, so this all works out.This is a solution, so
+we've answered the question.But I also want to show
+you, this way we justdid it by substitution.If we had the graph
+of this equation,we could also do it graphically.So let's give ourselves
+the graph of this equation,and I'll do that by
+setting up a table.There's multiple
+ways to graph this.You could put it in a
+slope-intercept form and allof the rest, but I'll just set
+up a table of x and y values.And I'll graph it, and
+then given the graph,I want to see if this
+actually sits on it.And obviously it will,
+because we've alreadyshown that this works.In fact, we could try
+the point 3, negative 4,and that actually
+is on the graph.We could do it on our table,
+but I won't do that just yet.I'm just going to do this
+to give ourselves a graph.So let's try it when
+x is equal to 0.We have 5 times 0 plus
+2 times y is equal to 7.So when x is equal
+to 0, y is goingto be-- so you're going to
+have 0 plus 2y is equal to 7.y is going to be equal to 3.5.When x is equal to 1, you
+have 5 plus 2y is equal to 7.If you subtract 5
+from both sides,you get 2y is equal to 2.You get y is equal to 1.So when x is 1, y is 1,
+and when x is-- well let'stry-- well that's actually
+enough for us to graph.We could keep doing more points.We could even put the
+point 3, negative 4 there,but let's just try to graph
+it in this very rough senseright here.So let me draw my x-axis,
+and then this right over hereis my y-axis.And let me draw
+some points here.So let's say that this
+is y is 1, 2, 3, 4.This is negative 1, negative
+2, negative 3, negative 4.I could keep going
+down in that direction.This is 1.Let me do it a little
+bit-- 1, 2, 3, 4, and Icould just keep going on and
+on in the positive x direction.So let's plot these points.I have 0, 3.5.When x is 0, y is 1, 2, 3.5.When x is 1, y is 1.And so if we were to draw
+this line-- I'll do itas a dotted line, just
+so that I can make sureI connect the dots.I can do a better
+job than that though.So it will look
+something like that.And so if someone
+gave you this line,you'd say oh, well it's 3,
+negative 4 on this line,and let's assume that
+we drew it really nicelyand this was all to scale.Let me try one
+last attempt at it.So it's going to look
+something like that.And If someone asked
+is 3, negative 4 on it,you could visually do
+it, but it's always hardwhen you actually
+don't substitute it,because you don't know.Maybe you're a little bit off.But if you look at
+it over here, yousay when x is equal
+to 3, what is y?Well, you go down
+here, and it lookslike y is equal to negative 4.So this is a point
+3 comma negative 4.Obviously, in general,
+you don't wantto just rely off of
+inspecting graphs.Maybe this was 3,
+negative 3.9999,and you just couldn't
+tell looking at the graph.That's why you always want
+to just the substituteand make sure that
+it really does equal,that this equality really
+does hold true at that point,not just looking at the graph.But it's important to
+realize that the graph reallyis another representation
+to all of the solutionsof this equation.

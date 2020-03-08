@@ -1,0 +1,56 @@
+Find the mean, median,
+and mode of the followingsets of numbers.And they give us the
+numbers right over here.So if someone just
+says the mean,they're really
+referring to what wetypically, in everyday
+language, call the average.Sometimes it's
+called the arithmeticmean because you'll
+learn that there'sother ways of actually
+calculating a mean.But it's really you just
+sum up all the numbersand you divide by the
+numbers there are.And so it's one way of
+measuring the central tendency.The average, I
+guess, we could say.So this is our mean.We want to average
+23 plus 29-- or we'regoing to sum 23 plus 29 plus
+20 plus 32 plus 23 plus 21plus 33 plus 25, and then divide
+that by the number of numbers.So we have 1, 2, 3,
+4, 5, 6, 7, 8 numbers.So you want to divide that by 8.So let's figure out
+what that actually is.Actually, I'll just get the
+calculator out for this part.I could do it by hand, but
+we'll save some time over here.So we have 23 plus 29 plus
+20 plus 32 plus 23 plus 21plus 33 plus 25.So the sum of all
+the numbers is 206.And then we want
+to divide 206 by 8.So if I say 206 divided
+by 8 gets us 25.75.So the mean is equal to 25.75.So this is one way
+to kind of measurethe center, the
+central tendency.Another way is with the median.And this is to pick out the
+middle number, the median.And to figure out the
+median, what we want to dois order these numbers
+from least to greatest.So it looks like the
+smallest number here is 20.Then, the next one is 21.There's no 22 here.Let's see, there's two 23's.23 and a 23.So 23 and a 23.And no 24's.There's a 25.25.There's no 26, 27, 28.There is a 29.29.Then you have your 32.32.And then you have your 33.33.So what's the middle number
+now that we've ordered it?So we have 1, 2, 3,
+4, 5, 6, 7, 8 numbers.We already knew that.And so there's actually
+going to be two middles.If you have an even
+number, there'sactually two numbers
+that qualify for closeto the middle.And to actually get the median,
+we're going to average them.So 23 will be one of them.That, by itself,
+can't be the medianbecause there's
+three less than itand there's four
+greater than it.And 25 by itself
+can't be the medianbecause there's three larger
+than it and four less than it.So what we do is we take the
+mean of these two numbersand we pick that as the median.So if you take 23 plus 25
+divided by 2, that's 48 over 2,which is equal to 24.So even though 24 isn't
+one of these numbers,the median is 24.So this is the middle number.So once again, this
+is one way of thinkingabout central tendency.If you wanted a number
+that could somehowrepresent the middle.And I want to be clear,
+there's no one way of doing it.This is one way of
+measuring the middle.Let me put that in quotes.The middle.If you had to represent
+this data with one number.And this is another way of
+representing the middle.Then finally, we can
+think about the mode.And the mode is
+just the number thatshows up the most
+in this data set.And all of these numbers show
+up once, except we have the 23,it shows up twice.And since because 23 shows up
+the most, it shows up twice.Every other number shows
+up once, 23 is our mode.

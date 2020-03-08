@@ -1,0 +1,145 @@
+JAMES CLEWETT: What we've done
+is I've got a radiation sourcewhich is emitting a constant
+stream of electrons.As neutrons are decaying into
+protons, out pops an electron,and I'm counting not how many
+it's giving out, but how manyof them are going into
+the Geiger counter.That's a slightly different
+number.MALE SPEAKER: And what kind
+of ballpark figures are wetalking here?JAMES CLEWETT: Well--MALE SPEAKER: You must know
+because [INAUDIBLE].JAMES CLEWETT: Yes.So it's about 20 per second
+going into the Geiger counter.And then I'm feeding that into
+this little box, which is justturning that number
+into a voltage.So these two wires are
+collecting that voltage, andthey're passing them into the
+oscilloscope, where we can seethe pulses as they go by.Each pulse represents
+one electron.And electrons are all the same,
+so those pulses are allthe same height.And so as those pulses flash
+by, I'm counting them, thecomputer is counting them.So the wire comes out of the
+oscilloscope, it goes throughthis little breakout box and
+into the back of the computer.You can buy one of these
+things for about 200quid, by the way.They're worth having.Into the back of the computer,
+and then I've written a littlecomputer program.And all the computer program
+does is sit there for 10seconds and count pulses.That's it.It's really simple.It's all graphs today.Here's time along here, and the
+stream of electrons lookssomething like this as they're
+coming out, and they'rerandomly distributed, which my
+stream of electrons absolutelyisn't there.It's getting less random
+by the second.And all I'm doing
+is I'm counting.So I start with a value of 0,
+and then I get to this time,and I'm adding 1.I get here, 2, 3, 4, 5,
+6, 7, 8, 9, and so on.And this is where the
+probability bit comes inbecause the chances are
+that over 10 seconds--remember this graph?So the most likely number that
+we're going to get here--I measured this this morning--is 216.MALE SPEAKER: Over 10 seconds?JAMES CLEWETT: Over
+10 seconds.And that's just an empirical
+measurement.So I'm taking the number that
+I've counted up, and I'm goingto subtract off 216.What we've just seen, and
+whether the answer was 13,then obviously either
+I've come in here--and I'm going to get
+this right--I've had 229, or it could
+equally be that I've been hereand had 203.Both of those are going to
+give the answer of 13.So the reason that's happened
+is I wasn't interested inshowing you a negative
+random number.I wanted to show you an integer
+value, a positiveinteger value.So I just wrote a piece
+of software whereI squared it up.I took the square root.The square root's inevitably
+positive, and so my softwareis always going to give
+a positive answer.I cheated.OK, I admit it.I cheated.But the answer is 13.So you want some more
+numbers, right?OK, well I'll generate
+a few more.MALE SPEAKER: Let's do 10
+and write them downas they come out.JAMES CLEWETT: All right.Yeah, good idea.MALE SPEAKER: Oh, a big one.Or is that big?We don't know yet?JAMES CLEWETT: We
+don't know yet.So should we start with the 0
+and the 13, or do you want tojust start with the 13?MALE SPEAKER: No, put them.So we've got a 0, a 13.JAMES CLEWETT: So we have
+had 0, we've had 13.Now, we have 27, 5.MALE SPEAKER: They should do
+the lottery like this.JAMES CLEWETT: They really
+should use radiation sourcesfor the lottery.Nobody would be cheating,
+for sure.It doesn't quite have the
+razzmatazz of the lottery.44, last seen three
+weeks ago today.MALE SPEAKER: Hang
+on a second.This would be a bad way to do
+the lottery because somenumbers here are more likely
+than other ones.JAMES CLEWETT: Right.That's a really good point
+that you've made.There's some maths which I left
+out of this video becauseI thought it was going too
+far, where you can turn aGaussian distribution into
+a uniform distribution.So you can take your Gaussian
+distribution of randomnumbers, and you can flip it
+around and give them all auniform probability.Now, I don't want to do the
+maths for you because thatwould be painful for everybody,
+but it works.And so you can, then, generate a
+uniform probability sequenceof numbers.MALE SPEAKER: But we
+haven't done that.JAMES CLEWETT: That's
+absolutelynot what we've done.What we've done is we've taken
+a Gaussian distribution, andso some numbers--0, basically-- are going to be
+more likely than others.I'm really quite
+enjoying this.It's very satisfying.3.I'll run another one.We'll count up.So the computer, again, is
+counting 200ish electrons, andthis is the deviation.6 is the deviation
+from the mean.And because it's got a Gaussian
+distribution, thesmaller numbers are
+more probable.So if we keep doing this, what
+we're going to end up with isvery heavily weighted to
+the small numbers.It's actually quite surprising
+to me that we haven'tseen 0 again yet.I should say this morning--9, excellent.This morning before you arrived,
+I ran thousands ofthese just to check that it was
+Gaussian, not that naturewas suddenly going to do
+something different.So the computer is counting the
+number of electrons thatstrontium's putting out, and in
+this case, it's either putout 20 more than the average
+number of electrons, or it'sput out 20 less.I can't tell because I've
+hidden that in my code.But it's 20 away from
+the average.So in the science of statistics,
+this is--10, excellent.In the science of statistics--sorry.MALE SPEAKER: That's
+all right.Can you have George [INAUDIBLE]
+something?JAMES CLEWETT: On your
+head be it, George.Thank you.19.So that's 19 more or less
+electrons than the averagevalue that the strontium's
+putting out.So in this case, it's been quite
+an active 10 seconds forthe strontium.OK, 13.MALE SPEAKER: We've
+got 13 again.We haven't got a 0 again.JAMES CLEWETT: No,
+it's surprising.Anyway, so this is
+the proof of it.It could well be that I got the
+mean in the wrong place.That would explain it.And eventually, that
+would show up.So there's one last thing I'd
+like to show you, and that isessentially--well, let me just show you, and
+then I can talk about it.I'm going to run the experiment
+1,000 times over,and let me make that
+nice and big.So each one of these pulses that
+you can see appearing,that's one number that
+we've generated.And as you can see, we're
+generating more and morenumbers, and each time, I'm
+adding 1 to this pulse.And so the most likely number
+at the moment is 20.MALE SPEAKER: It's not 0.What does this tell us?JAMES CLEWETT: This tells us
+that I got the mean wrong.So if I had got the mean
+right, then thisvalue would be 0.What this means is that I got
+the mean wrong probablyby 20, which is--MALE SPEAKER: The
+mean being what?JAMES CLEWETT: What this means
+is that I've got the meannumber of electrons that this
+thing's giving out in 10seconds, I got that completely
+wrong, which is a bitembarrassing.But you can see now that
+it's starting to takethis Gaussian form.So it started off just as a
+couple of pulses, and you'dnever have known that
+there was a Gaussiandistribution to that.But over time, it grows into
+a really nice, bell-shapedgraph, and we can see that the
+most likely number that we'regoing to generate has moved
+up a bit from 20now, it's about 22.MALE SPEAKER: That also means
+when we ran the experimentearlier, and we got 0 as our
+first result, that wasactually quite an
+unlikely result.JAMES CLEWETT: Yeah,
+absolutely.So that would mean that
+effectively, 0 was more like a20 result, and all of the 20s
+and 19s that we got and the 27that we got before, these
+were much more likely.So it wasn't perfect, but it
+was all right, I think.And I think that we got a nice
+random number from it, so I'mpretty pleased.MALE SPEAKER: So that
+was still random.This doesn't effect the
+randomness of the numbers.JAMES CLEWETT: No.Again, this goes back to
+the semantics of it.It's random, yes, but it has
+a particular probabilityassociated with choosing
+that number.So at the moment, the
+probability of choosingsomething less than about 8 is
+0, and the probability ofchoosing something more
+than 38 is 0.If we go for a very, very long
+time, an infinitely long time,then these numbers will become
+nonzero, but they're going tobe very close to 0.MALE SPEAKER: We've got a little
+outlier there down near40, don't we?JAMES CLEWETT: It's quite
+satisfying just watching thisgraph draw itself over time.The question is, how much
+time do you have?

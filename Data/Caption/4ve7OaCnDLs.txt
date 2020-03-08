@@ -1,0 +1,35 @@
+Find the product 4 times
+negative 5 times negative 7.5.So we're just multiplying
+three numbers right here,some are positive,
+some are negative.We could actually do
+this in any order,but let's just go left to right.So let's start with the
+4 times the negative 5.And then we'll multiply
+whatever we get theretimes negative 7.5.So let's just
+rewrite the problems.We have 4 times negative
+5, times negative 7.5.I really don't have to
+write that dot there.If you just have 4 and then
+in parentheses a negative 5,that means 4 times negative 5.Now, the first thing
+you need to realizeis that a positive
+times a positiveis obviously a positive.A positive times a negative,
+or a negative times a positive,when you have
+different signs, you'regoing to end up with a negative.If you have same signs, even
+if you have a negative timesa negative, you're going
+to have a positive as well.So let's just work that
+out in this problem.So you have 4 times negative 5.4 times 5 would be 20.Let me do this in
+a different color.So 4 times 5 would be 20.But we have a positive
+times a negative,so it's going to be a negative.Different signs mean we're
+going to have a negative.So it becomes negative
+20 times negative 7.5.So let's figure
+out what that is.We have to multiply
+20 times 7.5.We could do that out here.So 7.5 times 20.0 times 5 is 0.0 times 7 is 0.Put a 0 here, because
+we're obviouslynot going to multiply by 2.We're actually
+multiplying by 20.So 2 times 5 is 10.2 times 7 is 14, plus 1 is 15.And we get a 0, we
+get a 0, we get a 5.I'm just adding here.You get a 1.And then you count
+the numbers youhave behind the decimal point.We only have one digit
+behind the decimal pointin both numbers.So you only go one digit
+behind the decimal pointin our product.So the answer here is 150.So this is equal to 150.And now we just have
+to think about isit going to be
+positive or negative.We have a negative
+times a negative.They are the same sign.So it's going to result
+in a positive number.So our final answer is 150.And if we actually wanted
+to keep the precision here,we could write 150.0.

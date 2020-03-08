@@ -1,0 +1,123 @@
+I want to make a
+quick clarificationand then add more tools in
+our complex number toolkit.In the first video, I said that
+if I had a complex number z,and it's equal to a
+plus bi, I used a word.And I have to be
+careful about that word,because I used in
+the everyday sense.But it also has a
+formal reality to it.So clearly, the real part
+of this complex number is a.Clearly, that is the real part.And clearly, this
+complex number is made upof a real number plus
+an imaginary number.So just kind of talking
+in everyday terms,I called this the
+imaginary part.I called this imaginary
+number the imaginary part.But I want to just
+be careful there.I did make it clear
+that if you wereto see the function
+the real part of z,this would spit out the a.And the function the
+imaginary part of z,this would spit
+out-- and we talkedabout this in the first
+video-- it would spit outthe number that's scaling the i.So it would spit out the b.So if someone is talking
+in the formal senseabout the imaginary
+part, they'rereally talking about the
+number that is scaling the i.But in my brain, when I
+think of a complex number,I think of it having a real
+number and an imaginary number.And if someone were to say,
+well, what part of thatis the imaginary number?I would have given
+this whole thing.But if someone says just
+what's the imaginary part,where they give you this
+function, just give them the b.Hopefully, that
+clarifies things.Frankly, I think the word
+"imaginary part" is badlynamed because clearly,
+this whole thing isan imaginary number.This right here is not
+an imaginary number.It's just a real number.It's the real number
+scaling the i.So they should call
+this the number scalingthe imaginary part of z.Anyway, with that
+said, what I wantto introduce you to is the
+idea of a complex number'sconjugate.So if this is z, the
+conjugate of z-- it'dbe denoted with z
+with a bar over it.Sometimes it's z with a little
+asterisk right over there.That would just be
+equal to a minus bi.So let's see how they
+look on an Argand diagram.So that's my real axis.And then that is
+my imaginary axis.And then if I have
+z-- this is z overhere-- this height
+over here is b.This base, or this
+length, right here is a.That's z.The conjugate of
+z is a minus bi.So it comes out a
+on the real axis,but it has minus b as
+its imaginary part,so just like this.So this is the conjugate of z.So just to visualize it, a
+conjugate of a complex numberis really the mirror image of
+that complex number reflectedover the x-axis.You can imagine if this
+was a pool of water,we're seeing its
+reflection over here.And so we can
+actually look at thisto visually add the complex
+number and its conjugate.So we said these are just
+like position vectors.So if we were to add
+z and its conjugate,we could essentially
+just take this vector,shift it up here,
+do heads to tails.So this right here, we are
+adding z to its conjugate.And so this point right
+here, or the vectorthat specifies that point,
+is z plus z's conjugate.And you can see right
+here, just visually, thisis going to be 2a.And to do that algebraically.If we were to add z--
+that's a plus bi--and add that to its
+conjugate, so plus a minus bi,what are we going to get?These two guys cancel out.We're just going to have 2a.Or another way to
+think about it--and really, we're just
+playing around with math--if I take any complex number,
+and to it I add its conjugate,I'm going to get 2
+times the real partof the complex number.Oh, and this is also going
+to be 2 times the real partof the conjugate because they
+have the exact same real part.Now with that said,
+let's think about wherethe conjugate could be useful.So let's say I had
+something like 1plus 2i divided by 4 minus 5i.So it's no real obvious way
+to simplify this expression.Maybe I don't like having
+this i in the denominator.Maybe I just want to write
+this as one complex number.If I divide one complex
+number by another,I should get another
+complex number.But how do I do that?Well, one thing to
+do is to multiplythe numerator and
+the denominatorby the conjugate
+of the denominator,so 4 plus 5i over 4 plus 5i.And clearly, I'm just
+multiplying by 1,because this is the same
+number over the same number.But the reason why
+this is valuableis if I multiply a number
+times its conjugate,I'm going to get a real number.So let me just
+show you that here.So let's just multiply this out.So we're going to get 1
+times 4 plus 5i is 4 plus 5i.And then 2i times 4 is plus 8i.And then 2i times
+5i-- that wouldbe 10i squared, or negative 10.And then that will
+be over-- now,this has the form a
+minus b times a plus b.Well, a plus b times a minus b
+is a squared minus b squared.So it's going to be equal
+to 4 squared, which is 16,minus 4 squared-- oh, why
+did I have 4 plus 4i here?This should be 4 plus 5i.What am I doing?4 plus 5i, the same number
+over the same number.This was a 10 right over there.This is the conjugate.I don't know.My brain must have
+been thinking in 4's.So obviously, I don't want
+to change the number--4 plus 5i over 4 plus 5i.So let's multiply it.This is a minus b times
+a plus b, so 4 times 4.So this is going to be 4
+squared minus 5i squared.And so this is going to
+be equal to 4 minus 10.Let's add the real parts.4 minus 10 is negative 6.5i plus 8i is 13i.Add the imaginary parts.And then you have
+16 minus 5i squared.Well, 5i squared-- i
+squared is negative 1.5 squared's just going
+to be negative 25.The negative and the
+negative cancel out,so you have 16 plus 25.So that is 41.So we can write this
+as a complex number.This is negative
+6/41 plus 13/41 i.We were able to divide
+these two complex numbers.So the useful thing
+here is the propertythat if I take any
+complex number,and I multiply it
+by its conjugate--and obviously, the
+conjugate of the conjugateis the original number.But I would take
+any complex numberand I multiply it
+by its conjugate,so this would be a plus
+bi times a minus bi.I'm going to get a real number.It's going to be a squared
+minus bi squared, differenceof squares, which is
+equal to a squared-- now,this is going to be
+negative b squared.But we have a negative
+sign out here,so they cancel out-- a
+squared plus b squared.And just out of curiosity,
+this is the same thingas the magnitude of our
+complex number squared.So this is a neat property.This is what makes
+conjugates really useful,especially when you
+want to simplifydivision of complex numbers.Anyway, hopefully,
+you found that useful.

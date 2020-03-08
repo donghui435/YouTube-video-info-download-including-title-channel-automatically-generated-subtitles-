@@ -1,0 +1,146 @@
+Everything we've done up to now
+has dealt with Cartesiancoordinates, even though you
+might have not realizedthat they were Cartesian
+coordinates, because I nevercalled it that before just now.So what is a Cartesian
+coordinate?Let me draw the axis
+that you're hopefullyfamiliar with by now.If you're not, review
+those videos.Let me just draw the
+y-axis and the x-axis.And so, Cartesian coordinates--
+and actually, they can apply tomore than just 2 dimensions.But 2 dimensions is what
+we tend to deal with.Then if I want to specify any
+point in 2 dimensional space, Ijust tell you how far in the x
+direction I have to go, andhow far in the y direction.And I can specify that point.Like, let's see, if I said,
+well, let me give the Cartesiancoordinates for that
+point right there.And I might say, well, to get
+to that point right there, Ihave to go to the
+right 3 steps.So this is 3, right here.And then I have to
+go up 4 steps.1, 2, 3, 4.And you end up there.And by convention, we call this
+the x-coordinate, and we callthis the y-coordinate, and
+we call this 3 comma 4.And this is just a convention
+where we say the firstcoordinate is how far in the x
+direction we go, and the secondcoordinate is how far in the up
+and down, or the ydirection, we go.So this is 3 comma 4.And we could have gone 3 to the
+right and 4 up, or we couldhave gone 4 up and
+3 to the right.And we'd have gotten to
+the exact same point.This is just one way to
+really specify a pointin 2 dimensions.Another option, and you might
+have done this in everydaylife, is to say, hey, let me
+just point you in a direction,and then you go a certain
+distance in that direction.So I could have said,
+you know what?Let me just point you
+in this direction.Let me just point you in
+that direction, and youneed to go this far.You need to go this far
+in that direction.That would also get you
+to the same point.So how do I specify
+the direction?Well, how about I
+call this 0 degrees?How about I call
+this the x-axis?How about I call
+that 0 degrees?And we'll deal with degrees.But hopefully, you know
+how to convert betweendegrees and radians.So you could just as easily
+convert to radians.But you could specify the
+direction if you call this 0,saying, ok, this is theta
+degrees, and I want you-- I'mgoing to point you in a degree
+in-- you know, you couldalways imagine someone
+who's blindfolded.You point them in this
+direction and yousay, walk r units.And then they'll end up
+at that same point.And so you could also specify
+this point-- instead ofspecifying, this is the
+Cartesian coordinates, this isx comma y-- you could also
+specify it-- maybe, if we canfigure out a way to do it.And I'll do it in magenta.You can also specify
+it as r comma theta.Which essentially says,
+you know, walk r unitsin the theta direction.Well, let's figure
+out what that is.Because I think it's kind of
+abstract now, and might be alittle difficult to understand.So we're going to break out
+a little trigonometry andactually just a little
+Pythagorean theorem.Can we figure out r and theta?Well, r, hopefully, is
+the easier one here.Because if you think about it,
+this is a right triangle.This is a right triangle.That has distance 3.This is distance 4.This is a right triangle.So what is r here?Pythagorean Theorem.3 squared plus 4 squared is
+equal to the hypotenusesquared, or r squared.So we could say, 3 squared
+plus 4 squared isequal to r squared.That's 9 plus 16 is
+equal to r squared.25 is equal to r squared.We don't want to deal with
+negative distances, so 5 isequal to r, r is equal to 5.Fair enough.So we already figured out
+that r is equal to 5.How do we figure out theta?So what do we know here?We know-- well, we're trying
+to figure out theta.And we know it's
+opposite side, right?This is just going
+back to SOHCAHTOA.Let me write down SOHCAHTOA.If this is completely
+unfamiliar to you, you mightwant to watch the basic
+trigonometry video.So we know the opposite
+side of theta, right?That's 4.And we also know
+the adjacent side.That's 3.So which of the trig
+functions uses theopposite and the adjacent?Well, the TOA.Opposite and adjacent.So tangent.So tangent of theta is equal to
+the opposite-- which is reallythe y-coordinate, which is
+equal to 4-- over the adjacent.Which is the x-coordinate,
+which is 3.So tangent of theta
+is equal to 4/3.And to solve this, you
+essentially just takethe inverse tangent of
+both sides of this.So this is the same thing.And depending on your
+calculator, or the conventionyou use, you might write this.When you take the inverse
+tangent of both sides,you get-- well, I'll
+just write it out.You could write it as the
+arctan of the tangent of thetais equal to the arctan of 4/3.And this, of course-- the
+arctan of the tangent.This is the same thing
+as the inverse tan ofthe tangent of theta.This is just equal to theta.That just simplifies to theta.Is equal to arctan of 4/3.And then another way to write
+arctan is often-- they'll oftenwrite it-- I'll write it.So the same exact statement
+could be written as tan inverseto the negative 1 power.They sometimes say it.Although it's a little
+misleading sometimes, whenthey write it like this.Because you don't know.Oh, am I taking the whole
+tangent of theta to thenegative power or something?But sometimes I'll write arctan
+as 10 to the negative 1 power.But either way.So we can figure out theta by
+taking the arctangent of 4/3.And most people do not have the
+arctangent of 4/3 memorized.And I don't know an easy way
+to figure it out, withoutgetting my TI-85 out.So let's get it out.All right.So how do we know the arctan--
+so we want to do this inverse--let me get the calculator up a
+little higher, so you can see.We want to get this
+inverse tan right here.So you press second inverse
+tangent of 4 divided by 3.And I already set my
+calculator to degree mode.It gives you 53.13 degrees.So theta is equal
+to 53.13 degrees.So there you have it.We already knew that we could
+specify this point in the 2dimensional plane by the point
+x is equal to 3,y is equal to 4.We can also specify it by r
+is equal to 5, and thetais equal to 53 degrees.So I'll write that.And polar coordinates, it can
+be specified as r is equal to5, and theta is 53.13 degrees.So all that says is, OK, orient
+yourself 53.13 degreescounterclockwise from the
+x-axis, and then walk 5 units.And you'll get to the
+exact same point.And that's all polar
+coordinates are telling you.Let's do another one.Actually, before that, let's
+see if we can come up withsomething general here.Because once you have the
+general, then you can alwayssolve for the particular.So let me just write
+an arbitrary point.Last time I gave a
+specific point.The point-- was it 3 comma 4?I think it was.So let's say I have
+the point x comma y.It's right there.So its x-coordinate is there,
+its y-coordinate is there.So how do we convert this to
+r, to polar coordinates?r, theta.Well, let's do the same thing
+we did in the last video.If this length is r, and
+this angle is theta.So just going into what we
+did in the last video.We use Pythagorean Theorem.We say that x squared plus--
+because this distancehere is also y, right?This distance here is x.Pythagorean Theorem, you get
+x squared plus y squaredis equal to r squared.That's just the
+Pythagorean Theorem.And then you have the
+tangent of theta.The tangent of this angle.SOHCAHTOA.TOA.Opposite over adjacent.Tangent of theta is equal to
+the opposite-- which is y--over the adjacent-- which is x.And this is really
+all you need.And if you wanted to go one
+step further, and this isactually something you
+should write at theside of your paper.How can we express y as
+a function if we wantedto go the other way?If we were given r and
+theta, how could we get y?Well, let's think about it.y-- if we want to know-- let's
+see, if we are given r and yand we want to figure out
+theta-- what deals with the rand the y, with respect to
+theta? r is the hypotenuseand y is the opposite.Let me write SOHCAHTOA down.So what deals with the
+opposite and the hypotenuse?Sine.So the sine of theta is equal
+to the opposite-- which is they side, which is equal to y--
+over the hypotenuse,which is r.Equal to r.And so if you multiply both
+sides by r, you get rsine theta is equal to y.And then let's do
+it the other way.What if we wanted to have an
+equation for theta, r, and x?x is adjacent to the angle.r is still the hypotenuse.So what deals with
+adjacent and hypotenuse?Well, that's CAH.Cosine.So we have the cosine of theta
+is equal to the adjacent,is equal to x, over the
+hypotenuse, which is r.Multiply both sides by r
+and you get x is equalto r cosine theta.And really, when you're
+equipped with this formula--which really just comes from
+our trig identities-- thisformula, which you know, is
+similar, just comesfrom SOHCAHTOA.This, which comes from
+SOHCAHTOA-- and reallyis, you know-- if you're
+given these first.If you're given these two, you
+can easily derive that one.And this one, which is just
+the Pythagorean Theorem,you're actually ready.You're fully equipped to
+convert between polar andrectangular coordinates.And we'll do that in the
+next video, because I justrealized I'm out of time.

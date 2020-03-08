@@ -1,0 +1,24 @@
+I want to show you a cool way to multiply
+two numbers.Start with the parabola y=x^2.Now choose two positive
+numbers, say 11 and 7.From the origin, go 11 units to the left and
+7 units to the right.Go up from each point to the curve,
+then form the straight line joining thesetwo points.The
+place where the line crosses the y-axis is77, the product of
+11 and 7.This is no coincidence.To multiply a and b, go
+a units to the left and b units to the right,take each point
+up to the curve, draw the line connectingthem, and
+interesect the y-axis at the value a timesb.You can try
+this yourself by printing out a copy of thegraph found on the
+webpage given in the video description.Try different
+starting numbers and see that it really works!I first heard of this some years ago when
+I visited the Mathematikum,a fantastic mathematics museum in Giessen,
+Germany.Besides
+having puzzles with shapes and celebratingnumbers,
+they exhibit a parabolic calculator.By using pegs to mark the two points on the
+curve, a string withweights on the ends forms the straight line.Why does the parabolic calculator work?The slope of the line
+segment joining these two points simplifiesto b-a, while the slope
+of the segment joining these other two pointsis the same.This means that the point (0,ab) is on the
+line joining the outertwo points, and we've completed the proof.This parabolic technique shows that multiplication
+isconnected to squaring numbers, a fact seen
+by thisformula.Let me leave you with this simple question:
+how can you use the parabola to multiply 7and -4?Think about it.
