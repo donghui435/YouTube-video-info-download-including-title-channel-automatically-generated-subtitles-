@@ -30,4 +30,5 @@ Each txt file will be a text string and they are stored at Data/Caption
 ## Video info part
 This code is using the same dataset as the subtitle using, and output is a json file with all the information for each video, all the output is stored at Data/video_info
 
-
+## Data cleaning
+In the downloaded subtitle files, there are some words connected to each other without space. Therefore, spell checking will apply and two connected words should be splitted. Stopword is also applied during cleaning process. The code file is Data cleaning.py and the output result is under Data/Caption after clean
