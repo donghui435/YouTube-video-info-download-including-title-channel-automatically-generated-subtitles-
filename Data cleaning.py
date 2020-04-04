@@ -35,7 +35,7 @@ for i in filelist:
     
     ### Spelling checking and dividing two connected words
     list1 = []
-    for word in textString_token:
+    for word in textString_stop:
         if word in My_dict:
             list1.append(word)
         else:
