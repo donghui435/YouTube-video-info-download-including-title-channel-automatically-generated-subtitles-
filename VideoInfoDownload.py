@@ -10,6 +10,7 @@ import os.path
 import requests
 import json
 import pickle
+from urllib.request import urlopen 
 
 
 ### Key.txt includes my YouTube API key
@@ -36,3 +37,22 @@ for ID in ID_list:
     with open(filename,'a',encoding='utf-8') as outfile:
         json.dump(data,outfile,ensure_ascii=False)
         outfile.write('\n')
+        
+### require video views and likes for one video
+SpecificVideoID = 'mLeNaZcy-hE' ###this is a random video ID
+SpecificVideoUrl = 'https://www.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id='+SpecificVideoID+'&key='+DEVELOPER_KEY
+response = urlopen(SpecificVideoUrl) #makes the call to a specific YouTube
+videos = json.load(response) #decodes the response so we can work with it
+videoMetadata = [] #declaring our list
+for video in videos['items']: 
+    if video['kind'] == 'youtube#video':
+        print("Upload date:        "+video['snippet']['publishedAt'])    # Here the upload date of the specific video is listed
+        print("Number of views:    "+video['statistics']['viewCount']) # Here the number of views of the specific video is listed
+        print( "Number of likes:    "+video['statistics']['likeCount'])  # etc
+        print ("Number of dislikes: "+video['statistics']['dislikeCount'])
+        print ("Number of favorites:"+video['statistics']['favoriteCount'])
+        print ("Number of comments: "+video['statistics']['commentCount'])
+        print ("\n")
+
+
+
