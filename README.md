@@ -1,6 +1,6 @@
 # YouTube video info download (including title/channel/autogmatically generated subtitles)
 
-This repository demonstrates how to downnload YouTube video's subtitle and information using video ID. It also includes some subtitle cleaning process and NLP analysis.
+This repository demonstrates how to download YouTube video's subtitle and information using video ID. It also includes some subtitle cleaning process and NLP analysis.
 
 ## Video ID dataset
 The data this project using is from One On Epsilon. This is the data file URL which is in a json format:
