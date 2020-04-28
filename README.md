@@ -32,3 +32,8 @@ This code is using the same dataset as the subtitle using, and output is a json 
 
 ## Data cleaning
 In the downloaded subtitle files, there are some words connected to each other without space. Therefore, spell checking will apply and two connected words should be splitted. Stopword is also applied during cleaning process. The code file is Data cleaning.py and the output result is under Data/Caption after clean
+
+## Proportion Index
+The idea of creating an index is finding out the correlation between the index and the number of views. The index is calculated based on the video title and the captions, this index will represent how much proportion of the title concept is mentioned in the video.
+
+
